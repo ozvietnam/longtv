@@ -1,106 +1,244 @@
 import Link from "next/link";
+import { DEPARTMENTS } from "@/lib/departments";
 import { getAllDocs } from "@/lib/docs";
+import { getAllDepartmentTasks } from "@/lib/tasks";
+
+const HUB_LINKS = [
+  {
+    href: "/docs/06-phases/00-1-feasibility-plan",
+    title: "Giai đoạn 00-1",
+    subtitle: "Đánh giá tiềm năng",
+    desc: "Thị trường · catalog FDI · Go/No-Go",
+    accent: true,
+    icon: "01",
+  },
+  {
+    href: "/services",
+    title: "Dịch vụ công ty",
+    subtitle: "2 mảng + Hub",
+    desc: "Chính sách TN/HP · Logistics miền Bắc",
+    icon: "02",
+  },
+  {
+    href: "/operations",
+    title: "Bảng vận hành",
+    subtitle: "5 phòng ban",
+    desc: "TODO P0/P1 · assignee · tiến độ",
+    icon: "03",
+  },
+  {
+    href: "/docs/04-research/2026-07/00-index",
+    title: "Nghiên cứu",
+    subtitle: "Tháng 7/2026",
+    desc: "Đối thủ · FDI · Thái Nguyên · vốn",
+    icon: "04",
+  },
+];
+
+const INSIGHTS = [
+  { label: "FDI mới 6T/2026", value: "34,65 tỷ USD", note: "Toàn quốc, +61% y/y" },
+  { label: "Thái Nguyên", value: "#1", note: "~5,7 tỷ USD FDI mới" },
+  { label: "Trung Quốc", value: "#2", note: "21% vốn FDI mới 2025" },
+  { label: "Phân khúc LONGTV", value: "Tier 2-3", note: "Supply chain NM TQ" },
+];
 
 export default function Home() {
   const docs = getAllDocs();
-  const featured = docs.slice(0, 6);
+  const deptTasks = getAllDepartmentTasks();
+  const allP0 = deptTasks.flatMap((d) => d.tasks.filter((t) => t.priority === "P0"));
+  const p0Done = allP0.filter((t) => t.status === "done").length;
+  const p0Total = allP0.length;
+  const p0Pct = p0Total > 0 ? Math.round((p0Done / p0Total) * 100) : 0;
 
-  return (
-    <div className="max-w-6xl mx-auto px-6 py-12">
-      {/* Hero */}
-      <section className="py-12 md:py-20 border-b border-[var(--border)]">
-        <div className="max-w-3xl">
-          <div className="inline-block text-xs font-semibold tracking-wider uppercase text-[var(--accent)] mb-4">
-            Dự án · Khởi động 2026-07-08 · Giai đoạn 00-1
-          </div>
-          <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-[1.05] mb-6">
-            Trung tâm kết nối đầu tư <span className="text-[var(--accent)]">TQ ↔ VN</span>
-          </h1>
-          <p className="text-lg md:text-xl text-[var(--muted)] leading-relaxed mb-8">
-            CTCP có tập đoàn Trung Quốc đồng hành — <strong>chính sách & chính quyền</strong> tại Thái Nguyên, Hải Phòng;
-            <strong> logistics & hải quan</strong> toàn miền Bắc; <strong>pháp lý & kế toán</strong> cho nhà đầu tư nước ngoài.
-          </p>
-          <div className="flex gap-3 flex-wrap">
-            <Link
-              href="/docs/06-phases/00-1-feasibility-plan"
-              className="inline-flex items-center px-5 h-11 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
-            >
-              Giai đoạn 00-1
-            </Link>
-            <Link
-              href="/services"
-              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
-            >
-              Dịch vụ công ty
-            </Link>
-            <Link
-              href="/operations"
-              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
-            >
-              Bảng vận hành
-            </Link>
-            <Link
-              href="/roadmap"
-              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
-            >
-              Lộ trình tháng 7
-            </Link>
-          </div>
-        </div>
-      </section>
+  const research = docs.filter((d) => d.meta.slug.join("/").startsWith("04-research/")).slice(0, 4);
 
-      {/* Stats */}
-      <section className="py-10 border-b border-[var(--border)]">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-          <Stat label="Giai đoạn" value="00-1" suffix="Tiềm năng" />
-          <Stat label="Phòng ban" value="5" suffix="phòng" />
-          <Stat label="Sales (đề xuất)" value="2" suffix="người" />
-          <Stat label="Tỉnh trọng tâm" value="2" suffix="tỉnh" />
-        </div>
-      </section>
-
-      {/* Latest articles */}
-      <section className="py-12">
-        <div className="flex items-baseline justify-between mb-8">
-          <h2 className="text-2xl md:text-3xl font-bold tracking-tight">Tài liệu mới nhất</h2>
-          <Link href="/docs" className="text-sm text-[var(--accent)] hover:underline">
-            Tất cả →
-          </Link>
-        </div>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {featured.map((doc) => (
-            <Link
-              key={doc.meta.slug.join("/")}
-              href={`/docs/${doc.meta.slug.join("/")}`}
-              className="group block p-6 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] transition"
-            >
-              <div className="text-xs uppercase tracking-wider text-[var(--muted)] mb-2">
-                {doc.meta.category}
-              </div>
-              <h3 className="text-lg font-semibold mb-2 group-hover:text-[var(--accent)]">
-                {doc.meta.title}
-              </h3>
-              {doc.meta.description && (
-                <p className="text-sm text-[var(--muted)] line-clamp-3">{doc.meta.description}</p>
-              )}
-              <div className="text-xs text-[var(--muted)] mt-4 font-mono">
-                /{doc.meta.slug.join("/")}
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-    </div>
-  );
-}
-
-function Stat({ label, value, suffix }: { label: string; value: string; suffix: string }) {
   return (
     <div>
-      <div className="text-3xl md:text-4xl font-bold tracking-tight">
-        {value} <span className="text-base font-normal text-[var(--muted)]">{suffix}</span>
+      {/* Phase banner */}
+      <section className="bg-[var(--accent)] text-white">
+        <div className="max-w-6xl mx-auto px-6 py-8 md:py-10">
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+            <div>
+              <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wider bg-white/15 px-3 py-1 rounded-full mb-3">
+                <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
+                Đang chạy · Giai đoạn 00-1
+              </div>
+              <h1 className="text-2xl md:text-3xl font-bold tracking-tight mb-2">
+                Đánh giá tiềm năng LONGTV
+              </h1>
+              <p className="text-white/85 max-w-xl text-sm md:text-base leading-relaxed">
+                CTCP tư vấn FDI TQ→VN — Thái Nguyên & Hải Phòng · Logistics miền Bắc.
+                Mục tiêu: chứng minh thị trường có tiềm năng trước khi scale.
+              </p>
+            </div>
+            <div className="flex flex-col sm:flex-row gap-3 shrink-0">
+              <Link
+                href="/docs/06-phases/00-1-feasibility-plan"
+                className="inline-flex items-center justify-center px-5 h-11 rounded-full bg-white text-[var(--accent)] font-semibold text-sm hover:bg-white/90"
+              >
+                Xem kế hoạch 00-1 →
+              </Link>
+              <Link
+                href="/operations"
+                className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
+              >
+                Bảng vận hành
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div className="max-w-6xl mx-auto px-6 py-10 md:py-14 space-y-14">
+        {/* Progress + insights */}
+        <section className="grid lg:grid-cols-3 gap-6">
+          <div className="lg:col-span-1 p-6 rounded-2xl border-2 border-[var(--accent)] bg-white shadow-sm">
+            <div className="text-xs uppercase tracking-wider text-[var(--muted)] font-semibold mb-2">
+              Tiến độ P0 tháng 7
+            </div>
+            <div className="text-4xl font-bold mb-1">
+              {p0Done}/{p0Total}
+              <span className="text-lg font-normal text-[var(--muted)] ml-2">task</span>
+            </div>
+            <div className="h-2 rounded-full bg-gray-100 mt-4 mb-2 overflow-hidden">
+              <div
+                className="h-full rounded-full bg-[var(--accent)] transition-all"
+                style={{ width: `${p0Pct}%` }}
+              />
+            </div>
+            <div className="text-sm text-[var(--muted)]">{p0Pct}% hoàn thành · 5 phòng ban</div>
+          </div>
+
+          <div className="lg:col-span-2 grid sm:grid-cols-2 gap-4">
+            {INSIGHTS.map((item) => (
+              <div key={item.label} className="p-5 rounded-xl border border-[var(--border)] bg-white">
+                <div className="text-xs text-[var(--muted)] uppercase tracking-wider mb-1">{item.label}</div>
+                <div className="text-2xl font-bold text-[var(--accent)]">{item.value}</div>
+                <div className="text-sm text-[var(--muted)] mt-1">{item.note}</div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Hub navigation */}
+        <section>
+          <h2 className="text-xl font-bold mb-6">Truy cập nhanh</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {HUB_LINKS.map((card) => (
+              <Link
+                key={card.href}
+                href={card.href}
+                className={`group block p-6 rounded-2xl border transition hover:shadow-md ${
+                  card.accent
+                    ? "border-[var(--accent)] bg-[var(--accent-soft)] hover:bg-white"
+                    : "border-[var(--border)] bg-white hover:border-[var(--accent)]"
+                }`}
+              >
+                <div className="text-xs font-mono text-[var(--muted)] mb-3">{card.icon}</div>
+                <h3 className="font-bold text-lg mb-0.5 group-hover:text-[var(--accent)]">{card.title}</h3>
+                <div className="text-xs font-semibold text-[var(--accent)] mb-2">{card.subtitle}</div>
+                <p className="text-sm text-[var(--muted)] leading-relaxed">{card.desc}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+
+        {/* Department progress */}
+        <section>
+          <div className="flex items-baseline justify-between mb-6 flex-wrap gap-2">
+            <h2 className="text-xl font-bold">Tiến độ theo phòng ban</h2>
+            <Link href="/operations" className="text-sm text-[var(--accent)] hover:underline">
+              Chi tiết bảng vận hành →
+            </Link>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-3">
+            {deptTasks.map((dept) => {
+              const meta = DEPARTMENTS.find((d) => d.id === dept.deptId);
+              const p0 = dept.tasks.filter((t) => t.priority === "P0");
+              const done = p0.filter((t) => t.status === "done").length;
+              const pct = p0.length > 0 ? Math.round((done / p0.length) * 100) : 0;
+
+              return (
+                <Link
+                  key={dept.deptId}
+                  href={`/operations#${dept.deptId}`}
+                  className={`p-4 rounded-xl border bg-white hover:shadow-sm transition ${meta?.color || "border-[var(--border)]"}`}
+                >
+                  <div className="text-xs text-[var(--muted)] mb-1">{meta?.vLayer}</div>
+                  <div className="font-semibold text-sm leading-tight mb-3 min-h-[2.5rem]">{dept.deptName}</div>
+                  <div className="text-lg font-bold">
+                    {done}/{p0.length}
+                    <span className="text-xs font-normal text-[var(--muted)] ml-1">P0</span>
+                  </div>
+                  <div className="h-1.5 rounded-full bg-gray-100 mt-2 overflow-hidden">
+                    <div className="h-full bg-[var(--accent)] rounded-full" style={{ width: `${pct}%` }} />
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* Service tiers summary */}
+        <section className="p-6 md:p-8 rounded-2xl border border-[var(--border)] bg-white">
+          <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-6">
+            <div>
+              <h2 className="text-xl font-bold mb-2">Mô hình dịch vụ</h2>
+              <p className="text-sm text-[var(--muted)] max-w-xl">
+                3 tầng phục vụ nhà máy Trung Quốc dịch chuyển về Việt Nam — catalog v0.2
+              </p>
+            </div>
+            <Link
+              href="/services"
+              className="shrink-0 text-sm px-4 py-2 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
+            >
+              Xem catalog đầy đủ
+            </Link>
+          </div>
+          <div className="grid md:grid-cols-3 gap-4">
+            {[
+              { tier: "Hub", scope: "Toàn VN", items: "Pháp lý · Kế toán · Kết nối" },
+              { tier: "Mảng A", scope: "TN + Hải Phòng", items: "Khảo sát · Xin chính sách · Thiết lập NM" },
+              { tier: "Mảng B", scope: "Miền Bắc", items: "Hải quan · Logistics · Retainer XNK-SX" },
+            ].map((t) => (
+              <div key={t.tier} className="p-5 rounded-xl bg-[var(--accent-soft)] border border-red-100">
+                <div className="font-bold text-[var(--accent)]">{t.tier}</div>
+                <div className="text-xs text-[var(--muted)] mb-2">{t.scope}</div>
+                <div className="text-sm">{t.items}</div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Latest research */}
+        <section>
+          <div className="flex items-baseline justify-between mb-6">
+            <h2 className="text-xl font-bold">Nghiên cứu mới nhất</h2>
+            <Link href="/docs/04-research/2026-07/00-index" className="text-sm text-[var(--accent)] hover:underline">
+              Tất cả →
+            </Link>
+          </div>
+          <div className="grid md:grid-cols-2 gap-4">
+            {research.map((doc) => (
+              <Link
+                key={doc.meta.slug.join("/")}
+                href={`/docs/${doc.meta.slug.join("/")}`}
+                className="group flex gap-4 p-5 rounded-xl border border-[var(--border)] bg-white hover:border-[var(--accent)] transition"
+              >
+                <div className="w-10 h-10 rounded-lg bg-[var(--accent-soft)] text-[var(--accent)] flex items-center justify-center font-bold text-sm shrink-0">
+                  R
+                </div>
+                <div className="min-w-0">
+                  <h3 className="font-semibold group-hover:text-[var(--accent)] line-clamp-1">{doc.meta.title}</h3>
+                  {doc.meta.description && (
+                    <p className="text-sm text-[var(--muted)] line-clamp-2 mt-1">{doc.meta.description}</p>
+                  )}
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
       </div>
-      <div className="text-sm text-[var(--muted)] mt-1">{label}</div>
     </div>
   );
 }

@@ -16,7 +16,20 @@ Chi tiết: [decisions/004-content-pipeline.md](decisions/004-content-pipeline.m
 
 ### Đọc trên web
 
-Web deploy trên Vercel (Next.js). Sau mỗi lần push lên `main`, web tự cập nhật.
+## Deploy Vercel
+
+**Quan trọng:** Trong Vercel Project Settings → Build & Deployment:
+
+| Setting | Giá trị |
+|---------|---------|
+| **Root Directory** | `web` *(khuyến nghị)* hoặc để trống + dùng `vercel.json` ở repo root |
+| **Framework** | Next.js |
+| **Build Command** | `npm run build` *(nếu root=web)* hoặc auto từ `vercel.json` |
+
+Sau mỗi push `main`, Vercel tự build. `prebuild` chạy `sync-content` trước khi build.
+
+Live: https://web-plum-nu-91.vercel.app
+
 
 ```bash
 cd web
