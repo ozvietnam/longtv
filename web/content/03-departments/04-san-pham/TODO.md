@@ -20,6 +20,17 @@ author: "Sếp Thắng"
 | P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
 | P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
 
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] SP-001: Catalog v0.2 (2 mảng + Hub)
+- [x] SP-002: Bảng tự làm vs đối tác
+- [x] Map hành trình FDI 6 giai đoạn — [fdi-journey-service-map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
+- [ ] SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)
+- [ ] SP-003: 3–5 sản phẩm đi kèm (checklist, HS code, logistics intro)
+- [ ] Chốt gap list: hạng mục ⬜ trong journey map → tự làm / đối tác / bỏ
+- [ ] Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝
+- [ ] Điền điểm scorecard #6
+
 ## Hướng dẫn thực hiện
 
 ### SP-001 — Service catalog v0.1

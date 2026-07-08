@@ -19,3 +19,7 @@ author: "Hermes"
 | CL-004 | fdi-data | #5 | Chưa bắt đầu |
 | PL-004 | provincial-incentives | #7 | Chưa bắt đầu |
 | KD-004 | pricing-research | #8 | Chưa bắt đầu |
+
+## Giai đoạn 00-1
+
+Nghiên cứu phục vụ [đánh giá tiềm năng](/docs/06-phases/00-1-feasibility-plan) — ưu tiên CL-002, CL-004, PL-004/005, KD-004.
