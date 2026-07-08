@@ -40,6 +40,13 @@ function findRepoRoot() {
     __dirname,
   ];
   for (const c of candidates) {
+    console.log(`[sync-content]   checking candidate: ${c}`);
+    try {
+      const e = fs.readdirSync(c);
+      console.log(`[sync-content]     entries: ${e.join(', ')}`);
+    } catch (err) {
+      console.log(`[sync-content]     error: ${err.message}`);
+    }
     if (isRepoRoot(c)) return c;
   }
   // Walk up from __dirname as fallback
