@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+*.swp
+
+# Node / Next
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/.turbo/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.local
