@@ -3,9 +3,28 @@ import { getAllDocs, getDocsByCategory } from "@/lib/docs";
 
 export const metadata = { title: "Tài liệu · LongTV" };
 
+const CATEGORY_LABELS: Record<string, string> = {
+  repo: "📁 Kho tài liệu chính thức",
+  desktop: "🗂️ Kho longtv trên máy",
+  principles: "⚙️ Nguyên tắc làm việc",
+  methodology: "📐 Phương pháp",
+  roadmap: "📅 Lộ trình tháng",
+  research: "🔬 Nghiên cứu",
+  decisions: "✅ Quyết định",
+};
+
+function categoryLabel(category: string): string {
+  return CATEGORY_LABELS[category] || category;
+}
+
 export default function DocsIndex() {
   const docs = getAllDocs();
   const grouped = getDocsByCategory();
+
+  const sortedCategories = Object.keys(grouped).sort((a, b) => {
+    const order = ["principles", "methodology", "roadmap", "departments", "research", "decisions", "repo", "desktop"];
+    return (order.indexOf(a) === -1 ? 99 : order.indexOf(a)) - (order.indexOf(b) === -1 ? 99 : order.indexOf(b));
+  });
 
   return (
     <div className="max-w-6xl mx-auto px-6 py-12">
@@ -17,10 +36,12 @@ export default function DocsIndex() {
         </p>
       </header>
 
-      {Object.entries(grouped).map(([category, items]) => (
+      {sortedCategories.map((category) => {
+        const items = grouped[category];
+        return (
         <section key={category} className="mb-12">
           <h2 className="text-xs uppercase tracking-wider font-semibold text-[var(--muted)] mb-4 pb-2 border-b border-[var(--border)]">
-            {category === "repo" ? "📁 Web — Content chính thức" : category === "desktop" ? "🗂️ Kho longtv trên máy" : category}
+            {categoryLabel(category)}
             <span className="ml-2 text-[var(--foreground)]">({items.length})</span>
           </h2>
           <div className="grid md:grid-cols-2 gap-4">
@@ -41,7 +62,8 @@ export default function DocsIndex() {
             ))}
           </div>
         </section>
-      ))}
+      );
+      })}
     </div>
   );
 }
