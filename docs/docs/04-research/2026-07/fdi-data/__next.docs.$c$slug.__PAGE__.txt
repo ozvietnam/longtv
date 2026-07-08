@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T150d,<h1>CL-004 — Số liệu FDI TQ→VN &#x26; 2 tỉnh trọng tâm</h1>
+<blockquote>
+<p><strong>Task ID:</strong> CL-004 · <strong>V-layer:</strong> V1.3 · <strong>Giai đoạn:</strong> 00-1 tuần 1
+<strong>Refs:</strong> Issue #5</p>
+</blockquote>
+<hr>
+<h2>1. Toàn quốc — FDI 2025 &#x26; đầu 2026</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Ghi chú</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tổng vốn FDI đăng ký 2025</td>
+<td><strong>38,42 tỷ USD</strong></td>
+<td>+0,5% y/y</td>
+<td><a href="https://www.nso.gov.vn/en/data-and-statistics/2026/01/socio-economic-situation-in-the-fourth-quarter-and-2025/">NSO</a></td>
+</tr>
+<tr>
+<td>Vốn FDI giải ngân 2025</td>
+<td><strong>27,62 tỷ USD</strong></td>
+<td>+9% y/y, cao nhất 5 năm</td>
+<td>NSO</td>
+</tr>
+<tr>
+<td>Dự án cấp mới 2025</td>
+<td>4.054 dự án</td>
+<td>+20,1% số dự án</td>
+<td><a href="https://en.vietnamplus.vn/fdi-inflows-into-vietnam-exceed-38-billion-usd-in-2025-post335419.vnp">VietnamPlus</a></td>
+</tr>
+<tr>
+<td>SX chế biến — vốn mới 2025</td>
+<td><strong>9,8 tỷ USD</strong></td>
+<td>~56,5% tổng vốn mới</td>
+<td>VietnamPlus</td>
+</tr>
+<tr>
+<td>FDI đăng ký 6T/2026</td>
+<td><strong>34,65 tỷ USD</strong></td>
+<td>+61% y/y (kỷ lục)</td>
+<td><a href="https://www.vietnam.vn/en/lo-dien-dia-phuong-hut-von-fdi-dang-ky-moi-nhieu-nhat-ca-nuoc-nua-dau-nam">Vietnam.vn</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Top quốc gia/ vùng — vốn đăng ký mới 2025</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng</th>
+<th>Quốc gia/vùng</th>
+<th>Vốn mới (USD)</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Singapore</td>
+<td>4,84 tỷ</td>
+<td>27,9%</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Trung Quốc</strong></td>
+<td><strong>3,64 tỷ</strong></td>
+<td><strong>21%</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Hồng Kông</td>
+<td>1,73 tỷ</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Nhật Bản</td>
+<td>1,62 tỷ</td>
+<td>9,4%</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Đài Loan</td>
+<td>966 triệu</td>
+<td>5,6%</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Hàn Quốc</td>
+<td>896 triệu</td>
+<td>5,2%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nhận xét 00-1:</strong> TQ là <strong>#2</strong> nguồn vốn FDI mới 2025 — thị trường có quy mô. LONGTV nhắm NM TQ dịch chuyển + supply chain Tier 2-3.</p>
+<hr>
+<h2>2. Địa phương — vốn FDI mới đầu 2026</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng</th>
+<th>Tỉnh/TP</th>
+<th>Vốn FDI mới (ước)</th>
+<th>Ghi chú LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Thái Nguyên</strong></td>
+<td><strong>>5,7 tỷ USD</strong> (6T/2026)</td>
+<td>Trọng tâm Mảng A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nghệ An</td>
+<td>>2,2 tỷ USD</td>
+<td>Ngoài phạm vi</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Hải Phòng</strong></td>
+<td><strong>>1,7 tỷ USD</strong></td>
+<td>Trọng tâm Mảng A</td>
+</tr>
+<tr>
+<td>4</td>
+<td>TP.HCM</td>
+<td>>1,4 tỷ USD</td>
+<td>Nam</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bắc Ninh</td>
+<td>>794 triệu USD</td>
+<td>Đối thủ so sánh</td>
+</tr>
+</tbody>
+</table>
+<p>Nguồn: Vietnam.vn, VnExpress — cần đối chiếu số liệu chính thức Cục Đầu tư nước ngoài khi có.</p>
+<hr>
+<h2>3. Thái Nguyên (chi tiết)</h2>
+<p>Xem báo cáo đầy đủ: <a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">thai-nguyen-fdi-policy</a></p>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dự án FDI hiệu lực</td>
+<td>234–246 dự án</td>
+</tr>
+<tr>
+<td>Tổng vốn đăng ký</td>
+<td>>19 tỷ USD (Q1/2026)</td>
+</tr>
+<tr>
+<td>Tỷ lệ lấp đầy KCN</td>
+<td>~72%</td>
+</tr>
+<tr>
+<td>Insight</td>
+<td>FDI lớn = Hàn/Đài/Nhật; <strong>NM TQ Tier 2-3</strong> là phân khúc LONGTV</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Hải Phòng (sơ bộ — cần bổ sung)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn FDI mới 6T/2026</td>
+<td>>1,7 tỷ USD</td>
+<td>Vietnam.vn</td>
+</tr>
+<tr>
+<td>Điểm mạnh</td>
+<td>Cảng biển, KCN Nam Đình Vũ, Deep C</td>
+<td>Desk research</td>
+</tr>
+<tr>
+<td>Cần làm</td>
+<td>Issue tương tự CL-002 cho Sở KH&#x26;ĐT HP</td>
+<td>Tuần 2</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Kết luận sơ bộ cho Scorecard 00-1</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí scorecard</th>
+<th>Đánh giá sơ bộ</th>
+<th>Điểm đề xuất</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#1 Quy mô thị trường FDI TQ→VN</td>
+<td>TQ #2 nguồn vốn; 38B+ USD/năm</td>
+<td><strong>4/5</strong></td>
+</tr>
+<tr>
+<td>#2 Nhu cầu TN + HP</td>
+<td>TN #1, HP #3 đầu 2026</td>
+<td><strong>4/5</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em>Chưa chốt — chờ verify Sở + phỏng vấn khách.</em></p>
+<hr>
+<h2>6. Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Hermes: bổ sung số liệu FDI <strong>theo quốc gia</strong> tại TN &#x26; HP (nếu Sở công bố)</li>
+<li class="task-list-item"><input type="checkbox" disabled> So sánh Bắc Ninh, Hưng Yên (CL-005)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật scorecard trong <a href="/docs/06-phases/00-1-feasibility-plan">00-1 plan</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-data"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"CL-004 — Số liệu FDI TQ→VN & 2 tỉnh trọng tâm"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp số liệu FDI Việt Nam 2024–2026, vốn TQ, phân bổ miền Bắc — Thái Nguyên & Hải Phòng."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/thai-nguyen-fdi-policy","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-002 — Chính sách FDI Thái Nguyên & đối tác Sở KH&ĐT"}]]}],["$","$L2",null,{"href":"/docs/decisions/003-strategy-july-2026","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #003 — Chiến lược cốt lõi tháng 7/2026"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

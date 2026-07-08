@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T14db,<h1>CL-001 — Bảng đối thủ cạnh tranh</h1>
+<blockquote>
+<p><strong>Khe hở LONGTV (QĐ #003):</strong> <strong>CTCP + tập đoàn TQ</strong> · Chính sách sâu <strong>2 tỉnh</strong> · <strong>Logistics/hải quan toàn miền Bắc</strong> (SX-XNK) · <strong>Hub</strong> pháp lý + kế toán + thông tin.</p>
+</blockquote>
+<h2>Bảng 10 đối thủ</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Đối thủ</th>
+<th>Website</th>
+<th>Dịch vụ chính</th>
+<th>Khách mục tiêu</th>
+<th>Giá (ước lượng)</th>
+<th>Điểm mạnh</th>
+<th>Điểm yếu / khe hở</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>VNF (Vietnam Factory)</strong></td>
+<td>vnfactory.vn</td>
+<td>BĐS CN, site selection, pháp lý, supply chain</td>
+<td>NM TQ/FDI</td>
+<td>Retainer + commission đất</td>
+<td>Mạnh TQ, kinh nghiệm CNCTech</td>
+<td>Tập trung BĐS, ít tư vấn chiến lược</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>GTI Partner</strong></td>
+<td>gtipartner.com</td>
+<td>FDI consulting, IRC/ERC, supplier vetting</td>
+<td>SME nước ngoài</td>
+<td>$800–5.000+/dự án</td>
+<td>Execution on-ground</td>
+<td>Không chuyên 2 tỉnh</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Vanzbon</strong></td>
+<td>vanzbon.com</td>
+<td>Đăng ký DN, KCN Bắc Ninh/BD, logistics</td>
+<td>NM Trung Quốc</td>
+<td>Gói $3.500–20.000</td>
+<td>Mạnh manufacturing zones</td>
+<td>Ít focus Thái Nguyên/HP</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>FDI Vietnam Consulting</strong></td>
+<td>LinkedIn</td>
+<td>M&#x26;A, deal advisory, market entry</td>
+<td>Quỹ, DN lớn</td>
+<td>Cao (deal-based)</td>
+<td>Mạng quốc tế, đa ngôn ngữ</td>
+<td>Không phục vụ NM vừa/nhỏ</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>VPL (Văn Phúc Law)</strong></td>
+<td>vanphuclawfirm.com</td>
+<td>Pháp lý đầu tư, đổi địa điểm dự án</td>
+<td>NM đã vào VN</td>
+<td>Theo giờ / dự án</td>
+<td>Chuyên sâu pháp lý</td>
+<td>Không làm khảo sát/GTM</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Emerhub</strong></td>
+<td>emerhub.com</td>
+<td>Full-service FDI, đăng ký công ty</td>
+<td>Startup FDI</td>
+<td>$1.500–8.000 setup</td>
+<td>Platform + nhiều quốc gia</td>
+<td>Template, ít local depth</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Cekindo / InCorp</strong></td>
+<td>cekindo.com</td>
+<td>Đăng ký công ty, kế toán, visa</td>
+<td>Đa quốc gia</td>
+<td>$1.200–5.000</td>
+<td>One-stop compliance</td>
+<td>Không chuyên TQ→miền Bắc</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Viet An Law</strong></td>
+<td>vietanlaw.com</td>
+<td>Luật FDI, so sánh cấu trúc DN</td>
+<td>NĐT nước ngoài</td>
+<td>Luật sư theo giờ</td>
+<td>Uy tín pháp lý</td>
+<td>Không có GTM/site selection</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Sở KH&#x26;ĐT / Ban QLKCN tỉnh</strong></td>
+<td>—</td>
+<td>Giới thiệu đất, MOU đầu tư</td>
+<td>Mọi NĐT</td>
+<td>Miễn phí (chính quyền)</td>
+<td>Quyền lực địa phương</td>
+<td>Không tư vấn end-to-end, ngôn ngữ TQ</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>Big4 (Deloitte, PwC, EY, KPMG)</strong></td>
+<td>big4.vn</td>
+<td>Restructuring, supply chain, tax</td>
+<td>Tập đoàn lớn</td>
+<td>$50.000+</td>
+<td>Brand, network global</td>
+<td>Quá đắt cho NM TQ 50–200 CN</td>
+</tr>
+</tbody>
+</table>
+<h2>Phân nhóm cạnh tranh</h2>
+<pre><code class="language-mermaid">quadrantChart
+    title Vi tri doi thu LONGTV
+    x-axis Gia thap --> Gia cao
+    y-axis Chung chung --> Chuyen sau 2 tinh
+    quadrant-1 Premium niche
+    quadrant-2 Overkill
+    quadrant-3 Commodity
+    quadrant-4 Sweet spot LONGTV
+    VNF: [0.55, 0.65]
+    GTI: [0.45, 0.35]
+    Vanzbon: [0.6, 0.4]
+    Emerhub: [0.4, 0.2]
+    Big4: [0.9, 0.3]
+    LONGTV: [0.35, 0.85]
+</code></pre>
+<h2>Định vị LONGTV đề xuất</h2>
+<table>
+<thead>
+<tr>
+<th>Chiều</th>
+<th>LONGTV</th>
+<th>Đối thủ điển hình</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Địa lý</td>
+<td><strong>Chỉ Thái Nguyên + Hải Phòng</strong></td>
+<td>Cả VN hoặc chỉ HCM/HN</td>
+</tr>
+<tr>
+<td>Khách</td>
+<td><strong>Chủ NM TQ 50–500 CN</strong></td>
+<td>Tập đoàn hoặc chỉ BĐS</td>
+</tr>
+<tr>
+<td>Ngôn ngữ</td>
+<td><strong>Việt + Trung + Anh</strong></td>
+<td>Thường chỉ Anh/Việt</td>
+</tr>
+<tr>
+<td>Differentiator</td>
+<td><strong>Customs/HS code (Oz)</strong></td>
+<td>Không có</td>
+</tr>
+<tr>
+<td>Gói đầu</td>
+<td><strong>Khảo sát</strong> (phương án B)</td>
+<td>Full-service đắt</td>
+</tr>
+</tbody>
+</table>
+<h2>Hành động tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> CL-002: Liên hệ Sở KH&#x26;ĐT Thái Nguyên — xác nhận đối tác tư vấn họ đang dùng</li>
+<li class="task-list-item"><input type="checkbox" disabled> KD-004: Research giá gói Khảo sát (3 đối thủ gần nhất: VNF, GTI, Vanzbon)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Leader chốt định vị trên</li>
+</ul>
+<h2>Nguồn</h2>
+<ul>
+<li><a href="https://vnfactory.vn/en/">VNF</a>, <a href="https://gtipartner.com/vietnam-fdi-consulting/">GTI Partner</a>, <a href="https://www.vanzbon.com/int/vietnam/">Vanzbon</a></li>
+<li><a href="https://vanphuclawfirm.com/en/project-relocation-services/">VPL Relocation</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"competitors"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"10 đối thủ tư vấn FDI TQ→VN"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"CL-001 — Bảng so sánh đối thủ cạnh tranh LONGTV tại Thái Nguyên & Hải Phòng."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/startup-budget","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Ước vốn khởi điểm 6 tháng — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/05-clarifications/00-team-input-requirements","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Yêu cầu làm rõ từ team"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

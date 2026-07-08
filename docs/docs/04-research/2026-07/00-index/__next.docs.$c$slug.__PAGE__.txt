@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+4:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T474,<h1>Nghiên cứu tháng 7/2026</h1>
+<table>
+<thead>
+<tr>
+<th>Task ID</th>
+<th>File</th>
+<th>Issue</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PL-001</td>
+<td><a href="legal-entity-comparison">legal-entity-comparison</a></td>
+<td>#6</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>VT-001</td>
+<td><a href="startup-budget">startup-budget</a></td>
+<td>#9</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>CL-001</td>
+<td><a href="competitors">competitors</a></td>
+<td>#3</td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>CL-002</td>
+<td><a href="thai-nguyen-fdi-policy">thai-nguyen-fdi-policy</a></td>
+<td>#4</td>
+<td>🔄 Desk done · chờ gọi Sở</td>
+</tr>
+<tr>
+<td>CL-004</td>
+<td><a href="fdi-data">fdi-data</a></td>
+<td>#5</td>
+<td>🔄 Draft</td>
+</tr>
+<tr>
+<td>PL-004</td>
+<td>provincial-incentives</td>
+<td>#7</td>
+<td>Chưa bắt đầu</td>
+</tr>
+<tr>
+<td>KD-004</td>
+<td>pricing-research</td>
+<td>#8</td>
+<td>Chưa bắt đầu</td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1</h2>
+<p>Nghiên cứu phục vụ <a href="/docs/06-phases/00-1-feasibility-plan">đánh giá tiềm năng</a> — ưu tiên CL-002, CL-004, PL-004/005, KD-004.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nghiên cứu tháng 7/2026"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kho báo cáo nghiên cứu — thị trường, pháp lý, đối thủ, tài chính."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Vận hành & Tài chính"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/legal-entity-comparison","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"So sánh pháp nhân: TNHH vs Cổ phần cho LONGTV"}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+6:null

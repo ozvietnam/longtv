@@ -16,22 +16,18 @@ Chi tiết: [decisions/004-content-pipeline.md](decisions/004-content-pipeline.m
 
 ### Đọc trên web
 
-## Deploy Vercel
+**Live (sau khi bật Pages 1 lần — xem [DEPLOY.md](DEPLOY.md)):**
 
-**Quan trọng:** Trong Vercel Project Settings → Build & Deployment:
+**https://ozvietnam.github.io/longtv/**
 
-| Setting | Giá trị |
-|---------|---------|
-| **Root Directory** | `web` *(khuyến nghị)* hoặc để trống + dùng `vercel.json` ở repo root |
-| **Framework** | Next.js |
-| **Build Command** | `npm run build` *(nếu root=web)* hoặc auto từ `vercel.json` |
+| Trang | Link |
+|-------|------|
+| Dashboard | https://ozvietnam.github.io/longtv/ |
+| Giai đoạn 00-1 | https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/ |
+| Dịch vụ | https://ozvietnam.github.io/longtv/services/ |
+| Vận hành | https://ozvietnam.github.io/longtv/operations/ |
 
-Sau mỗi push `main`, Vercel tự build. `prebuild` chạy `sync-content` trước khi build.
-
-Live (sau khi GitHub Actions chạy xong):
-
-- **GitHub Pages:** https://ozvietnam.github.io/longtv/
-- **Vercel** *(cần Root Directory = `web` trong dashboard):* https://web-plum-nu-91.vercel.app
+> Link 404? → [DEPLOY.md](DEPLOY.md) — bật GitHub Pages: Settings → Pages → `main` / `/docs`
 
 
 ```bash
