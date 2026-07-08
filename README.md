@@ -28,6 +28,7 @@ longtv/
 ├── 02-monthly-roadmap/         ← Khai vấn & định hướng từng tháng
 ├── 03-departments/             ← 5 phòng ban + TODO ưu tiên
 ├── decisions/                  ← Log quyết định
+├── 05-clarifications/          ← Thông tin team cần làm rõ / điền đầu vào
 └── web/                        ← Next.js app (giao diện web)
 ```
 
@@ -103,5 +104,6 @@ author: "Tên"
 
 - [Nguyên tắc làm việc](00-WORKING_PRINCIPLES.md)
 - [Lộ trình tháng 7/2026](02-monthly-roadmap/2026-07.md)
+- [Yêu cầu làm rõ từ team](05-clarifications/00-team-input-requirements.md)
 - [Cây vấn đề V1–V7](01-project-structure/00-MACRO_PROBLEMS.md)
 - [GitHub](https://github.com/ozvietnam/longtv)

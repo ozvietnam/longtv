@@ -10,7 +10,7 @@ author: "Cursor"
 
 # PL-003 — Timeline thành lập CTCP
 
-> Theo [QĐ #003](/docs/decisions/003-strategy-july-2026): CTCP, vốn 2 tỷ, cổ đông VN + tập đoàn TQ.
+> Theo [QĐ #003](/docs/decisions/003-strategy-july-2026): CTCP, vốn 2 tỷ, cổ đông VN + tập đoàn TQ, với nguyên tắc **phía Việt Nam nắm trên 51%**.
 
 ## Trước khi nộp hồ sơ (Tuần 1–2)
 
@@ -18,7 +18,7 @@ author: "Cursor"
 |---|------|-----------|--------|
 | 1 | Chốt tên công ty (VN + EN) | Leader | 3 tên dự phòng |
 | 2 | Ký MOU / thỏa thuận cổ đông với tập đoàn TQ | Leader | MOU signed |
-| 3 | Chốt tỷ lệ cổ phần (đề xuất: 40% TQ / 40% VN / 20% khác) | Leader | Bảng cổ đông |
+| 3 | Chốt tỷ lệ cổ phần theo nguyên tắc **VN > 51%** | Leader | Bảng cổ đông |
 | 4 | Soạn Điều lệ công ty CTCP | Luật sư + Cursor | Draft điều lệ |
 | 5 | Hợp pháp hóa hồ sơ TQ (dịch, công chứng, Lãnh sự) | Hermes + luật | Bộ hồ sơ TQ |
 
@@ -54,10 +54,11 @@ author: "Cursor"
 
 - Hồ sơ tập đoàn TQ chưa hợp pháp hóa → delay 2–4 tuần
 - Tên công ty trùng / ngành nghề cần điều kiện → đổi tên/ngành
-- Tỷ lệ sở hữu nước ngoài — kiểm tra cam kết WTO/FTA cho tư vấn
+- Tỷ lệ sở hữu nước ngoài — kiểm tra cam kết WTO/FTA cho tư vấn, nhưng phải giữ nguyên tắc **VN > 51%**
 
 ## Việc tiếp theo
 
-- [ ] Leader cung cấp tên tập đoàn TQ + % cổ phần
+- [ ] Leader cung cấp tên tập đoàn TQ + % cổ phần chi tiết theo nguyên tắc **VN > 51%**
 - [ ] Chọn luật sư FDI (đối tác từ build-vs-partner)
 - [ ] Hermes: research giấy phép con (PL-002)
+- [ ] Team điền [trang yêu cầu làm rõ](/docs/05-clarifications/00-team-input-requirements)
