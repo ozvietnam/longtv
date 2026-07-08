@@ -22,16 +22,22 @@ export default function Home() {
           </p>
           <div className="flex gap-3 flex-wrap">
             <Link
-              href="/docs"
+              href="/docs/00-WORKING_PRINCIPLES"
               className="inline-flex items-center px-5 h-11 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
             >
-              Đọc tài liệu dự án
+              Nguyên tắc làm việc
             </Link>
             <Link
-              href="/phases"
+              href="/roadmap"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
-              Xem các pha triển khai
+              Lộ trình tháng 7
+            </Link>
+            <Link
+              href="/departments"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Phòng ban & TODO
             </Link>
           </div>
         </div>
