@@ -18,24 +18,42 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// Locate the repo root by walking up until we find a .git directory.
-// This works locally (/Users/.../longtv/.git) and on Vercel
-// (/vercel/path0/.git — which is always present since Vercel pulls from git).
+// Repo root = directory containing both `web/` and `decisions/` (or `00-about.md`).
+// Search strategy:
+//  - cwd (when vercel project root = repo root, cwd = /vercel/path0/)
+//  - parent of cwd (when running from /web locally or via cd web && ...)
+//  - cwd/web (legacy)
+//  - walk up from __dirname as fallback
 function findRepoRoot() {
+  function isRepoRoot(p) {
+    try {
+      const entries = fs.readdirSync(p);
+      return entries.includes('web') && (entries.includes('decisions') || entries.includes('00-about.md'));
+    } catch (e) {
+      return false;
+    }
+  }
+  const candidates = [
+    process.cwd(),
+    path.resolve(process.cwd(), '..'),
+    path.join(process.cwd(), 'web'),
+    __dirname,
+  ];
+  for (const c of candidates) {
+    if (isRepoRoot(c)) return c;
+  }
+  // Walk up from __dirname as fallback
   let cur = __dirname;
   for (let i = 0; i < 8; i++) {
-    try {
-      if (fs.existsSync(path.join(cur, '.git'))) return cur;
-    } catch (e) {}
+    if (isRepoRoot(cur)) return cur;
     cur = path.resolve(cur, '..');
   }
-  // Fallback
-  return path.resolve(__dirname, '..', '..', '..');
+  throw new Error(`[sync-content] could not find repo root from cwd=${process.cwd()}, __dirname=${__dirname}`);
 }
 const REPO_ROOT = findRepoRoot();
-// WEB_DIR is /web under REPO_ROOT.
 const WEB_DIR = path.join(REPO_ROOT, 'web');
 const DEST = path.join(WEB_DIR, 'content');
+console.log(`[sync-content] cwd=${process.cwd()}`);
 console.log(`[sync-content] __dirname=${__dirname}`);
 console.log(`[sync-content] REPO_ROOT=${REPO_ROOT}`);
 console.log(`[sync-content] WEB_DIR=${WEB_DIR}`);
