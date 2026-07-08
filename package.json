@@ -1,0 +1,18 @@
+{
+  "name": "longtv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LONGTV investment consulting — planning docs site",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
