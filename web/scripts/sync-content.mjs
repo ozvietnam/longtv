@@ -18,20 +18,34 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// Vercel runs npm from /vercel/path0/ but our script lives in /vercel/path0/web/scripts/.
-// Walk up to find the repo root by looking for a sibling "web" folder.
-const WEB_DIR = path.resolve(__dirname, '..'); // .../web
-function findRepoRoot() {
-  // Start from WEB_DIR and walk up looking for a directory whose children include "web"
-  let cur = path.resolve(WEB_DIR, '..');
+// Vercel flattens the project root: scripts/ is at /vercel/path0/scripts/,
+// and the entire repo (including /web, /decisions, /00-about.md, etc.) is at
+// /vercel/path0/. So REPO_ROOT is the parent of WEB_DIR — but WEB_DIR on Vercel
+// equals /vercel/path0/ itself (the project root), not /vercel/path0/web/.
+//
+// We detect WEB_DIR dynamically: it's the closest ancestor of __dirname that
+// contains a package.json AND a sibling `web` folder.
+function findWebDir() {
+  let cur = __dirname;
   for (let i = 0; i < 6; i++) {
     try {
       const entries = fs.readdirSync(cur);
-      if (entries.includes('web')) return cur;
+      if (entries.includes('package.json') && entries.includes('web')) {
+        return cur;
+      }
     } catch (e) {}
     cur = path.resolve(cur, '..');
   }
-  // Fallback
+  return path.resolve(__dirname, '..');
+}
+const WEB_DIR = findWebDir();
+// On Vercel, REPO_ROOT === WEB_DIR because the project root is the repo root
+// from Vercel's perspective (only the /web subtree is shipped as the project).
+// Locally, REPO_ROOT is the parent of WEB_DIR.
+function findRepoRoot() {
+  // Vercel case: WEB_DIR already contains decisions/ etc.
+  if (fs.existsSync(path.join(WEB_DIR, 'decisions'))) return WEB_DIR;
+  // Local case: parent of WEB_DIR
   return path.resolve(WEB_DIR, '..');
 }
 const REPO_ROOT = findRepoRoot();
