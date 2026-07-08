@@ -19,20 +19,10 @@ export type Doc = {
   raw: string;
 };
 
-// Content lives directly inside /web/ (sibling of src/, package.json, etc.).
-// Markdown files: web/*.md, web/decisions/*.md, web/01-project-structure/*.md, etc.
-// Vercel ships all of these because project root = web.
-//
-// Rules:
-//  - Skip .next, node_modules, .git, src, public, .vercel
-//  - Skip files: AGENTS.md, CLAUDE.md, README.md (internal)
-const CONTENT_ROOT = process.cwd(); // we run from /web, so cwd = web root
-
-// Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
-const IS_PROD = process.env.NODE_ENV === 'production' || process.env.VERCEL === '1';
-const DESKTOP_CONTENT = IS_PROD
-  ? ''
-  : path.join(process.env.HOME || '', 'Desktop', 'longtv', 'web');
+// Canonical content is authored in the repository root.
+// Before dev/build, scripts/sync-content.mjs mirrors root markdown into /web/content.
+// The web app reads ONLY from that mirrored folder so local dev and Vercel behave identically.
+const CONTENT_ROOT = path.join(process.cwd(), 'content');
 
 const EXCLUDED_DIRS = new Set([
   'node_modules',
@@ -41,11 +31,10 @@ const EXCLUDED_DIRS = new Set([
   '.vercel',
   'out',
   '.turbo',
-  'web', // never treat the Next.js project as content (legacy if relocated)
+  'web',
   'src',
   'public',
   'scripts',
-  'content', // legacy mirror, skip
 ]);
 
 function safeReadDir(p: string): string[] {
@@ -103,25 +92,12 @@ function readDocFromFile(absPath: string, sourceRoot: string): Doc | null {
 
 export function getAllDocs(): Doc[] {
   const docs: Doc[] = [];
-  const sources: { root: string; label: string }[] = [
-    { root: CONTENT_ROOT, label: 'repo' },
-  ];
-  if (DESKTOP_CONTENT && fs.existsSync(DESKTOP_CONTENT)) {
-    sources.push({ root: DESKTOP_CONTENT, label: 'desktop' });
-  }
-  const seen = new Set<string>();
+  const files = walkMarkdown(CONTENT_ROOT);
 
-  for (const { root, label } of sources) {
-    const files = walkMarkdown(root);
-    for (const f of files) {
-      const doc = readDocFromFile(f, root);
-      if (!doc) continue;
-      const key = doc.meta.slug.join('/');
-      if (seen.has(key)) continue;
-      seen.add(key);
-      doc.meta.category = doc.meta.category || label;
-      docs.push(doc);
-    }
+  for (const f of files) {
+    const doc = readDocFromFile(f, CONTENT_ROOT);
+    if (!doc) continue;
+    docs.push(doc);
   }
 
   docs.sort((a, b) => {

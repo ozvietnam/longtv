@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync-content": "node scripts/sync-content.mjs",
+    "predev": "npm run sync-content",
+    "prebuild": "npm run sync-content",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"

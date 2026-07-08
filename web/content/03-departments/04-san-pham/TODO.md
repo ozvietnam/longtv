@@ -14,8 +14,8 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | SP-001 | Draft service catalog v0.1 — 3 gói: Khảo sát / Thiết lập / Vận hành (mô tả, deliverable, thời gian) | V4.1, V4.2 | — | todo | 2026-07-18 | |
-| P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | — | todo | 2026-07-21 | |
+| P0 | SP-001 | Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc) | V4.1, V4.2 | @cursor | done | 2026-07-18 | /docs/03-departments/04-san-pham/service-catalog-v0.2 |
+| P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | @cursor | done | 2026-07-21 | /docs/03-departments/04-san-pham/build-vs-partner |
 | P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
 | P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
 | P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |

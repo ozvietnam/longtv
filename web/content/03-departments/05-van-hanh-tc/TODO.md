@@ -14,7 +14,7 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | VT-001 | Ước tính vốn khởi điểm cần thiết cho 6 tháng đầu (thành lập, văn phòng, marketing, dự phòng) | V6.1 | — | todo | 2026-07-16 | |
+| P0 | VT-001 | Ước tính vốn khởi điểm cần thiết cho 6 tháng đầu (thành lập, văn phòng, marketing, dự phòng) | V6.1 | @hermes | done | 2026-07-16 | /docs/04-research/2026-07/startup-budget |
 | P0 | VT-002 | Tính burn rate hàng tháng (chi phí cố định + biến đổi) | V6.2 | — | todo | 2026-07-18 | |
 | P0 | VT-003 | So sánh và chọn mô hình văn phòng: virtual / co-working / thuê riêng | V5.2 | — | todo | 2026-07-21 | |
 | P1 | VT-004 | Draft cấu trúc team sơ bộ: vai trò cần tuyển tháng 1–6, full-time vs part-time | V5.1 | — | todo | 2026-07-25 | |

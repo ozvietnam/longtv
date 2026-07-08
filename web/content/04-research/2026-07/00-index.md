@@ -1,0 +1,21 @@
+---
+title: "Nghiên cứu tháng 7/2026"
+description: "Kho báo cáo nghiên cứu — thị trường, pháp lý, đối thủ, tài chính."
+date: 2026-07-08
+category: "research"
+order: 30
+tags: ["research", "2026-07"]
+author: "Hermes"
+---
+
+# Nghiên cứu tháng 7/2026
+
+| Task ID | File | Issue | Trạng thái |
+|---------|------|-------|------------|
+| PL-001 | [legal-entity-comparison](legal-entity-comparison) | #6 | ✅ Done |
+| VT-001 | [startup-budget](startup-budget) | #9 | ✅ Done |
+| CL-001 | [competitors](competitors) | #3 | ✅ Done |
+| CL-002 | thai-nguyen-fdi-policy | #4 | Chưa bắt đầu |
+| CL-004 | fdi-data | #5 | Chưa bắt đầu |
+| PL-004 | provincial-incentives | #7 | Chưa bắt đầu |
+| KD-004 | pricing-research | #8 | Chưa bắt đầu |
