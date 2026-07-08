@@ -18,8 +18,26 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const WEB_DIR = path.resolve(__dirname, '..');
-const REPO_ROOT = path.resolve(WEB_DIR, '..');
+// Vercel runs npm from /vercel/path0/ but our script lives in /vercel/path0/web/scripts/.
+// Walk up to find the repo root by looking for a sibling "web" folder.
+const WEB_DIR = path.resolve(__dirname, '..'); // .../web
+function findRepoRoot() {
+  // Start from WEB_DIR and walk up looking for a directory whose children include "web"
+  let cur = path.resolve(WEB_DIR, '..');
+  for (let i = 0; i < 6; i++) {
+    try {
+      const entries = fs.readdirSync(cur);
+      if (entries.includes('web')) return cur;
+    } catch (e) {}
+    cur = path.resolve(cur, '..');
+  }
+  // Fallback
+  return path.resolve(WEB_DIR, '..');
+}
+const REPO_ROOT = findRepoRoot();
+console.log(`[sync-content] __dirname=${__dirname}`);
+console.log(`[sync-content] WEB_DIR=${WEB_DIR}`);
+console.log(`[sync-content] REPO_ROOT=${REPO_ROOT}`);
 const DEST = path.join(WEB_DIR, 'content');
 
 const EXCLUDED_DIRS = new Set([
