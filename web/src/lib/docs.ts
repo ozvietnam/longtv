@@ -20,8 +20,9 @@ export type Doc = {
 };
 
 // Web lives at <repo>/web. Markdown content lives at <repo>/root (siblings of /web).
-// In Vercel build, process.cwd() is <repo>/web, so parent is the repo root.
-// In local dev (running npm run dev from <repo>/web), same setup.
+// Vercel sets process.cwd() to the project root (e.g. /vercel/path0/web in build),
+// so parent of cwd is the repo root on Vercel.
+// Locally (running npm run dev from <repo>/web), parent of cwd is also repo root.
 const REPO_ROOT = path.resolve(process.cwd(), '..');
 
 // Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
@@ -35,6 +36,7 @@ const EXCLUDED_DIRS = new Set([
   '.vercel',
   'out',
   '.turbo',
+  'web', // never treat the Next.js project as content
 ]);
 
 function safeReadDir(p: string): string[] {
@@ -45,13 +47,18 @@ function safeReadDir(p: string): string[] {
   }
 }
 
+const EXCLUDED_FILES = new Set([
+  'AGENTS.md',
+  'CLAUDE.md',
+  'README.md',
+]);
+
 function walkMarkdown(dir: string, base: string = dir): string[] {
   const out: string[] = [];
   if (!fs.existsSync(dir)) return out;
   for (const entry of safeReadDir(dir)) {
     if (EXCLUDED_DIRS.has(entry)) continue;
-    // Skip the web/ folder itself — we don't want web code as content
-    if (entry === 'web' && dir === REPO_ROOT) continue;
+    if (EXCLUDED_FILES.has(entry)) continue;
     const full = path.join(dir, entry);
     const stat = fs.statSync(full);
     if (stat.isDirectory()) {
