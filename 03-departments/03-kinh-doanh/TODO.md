@@ -14,10 +14,10 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | KD-001 | Xác định 1 persona khách hàng mục tiêu (ngành, quy mô, pain point, decision maker) | V3.1 | — | todo | 2026-07-16 | |
-| P0 | KD-002 | Liệt kê và đánh giá 5 kênh tiếp cận tiềm năng (WeChat, LinkedIn, KCN, sự kiện, đối tác) | V3.2 | — | todo | 2026-07-21 | |
-| P1 | KD-003 | Vẽ sơ đồ vòng đời khách hàng: Lead → Qualified → Proposal → Contract → Delivery → Referral | V3.3 | — | todo | 2026-07-25 | |
-| P1 | KD-004 | Research pricing 3 đối thủ + đề xuất khung giá sơ bộ cho gói Khảo sát | V3.4 | — | todo | 2026-07-28 | |
+| P0 | KD-001 | Xác định 1 persona khách hàng mục tiêu (ngành, quy mô, pain point, decision maker) | V3.1 | @thang | todo | 2026-07-16 | |
+| P0 | KD-002 | Liệt kê và đánh giá 5 kênh tiếp cận tiềm năng (WeChat, LinkedIn, KCN, sự kiện, đối tác) | V3.2 | @hermes | todo | 2026-07-21 | |
+| P1 | KD-003 | Vẽ sơ đồ vòng đời khách hàng: Lead → Qualified → Proposal → Contract → Delivery → Referral | V3.3 | @cursor | todo | 2026-07-25 | |
+| P1 | KD-004 | Research pricing 3 đối thủ + đề xuất khung giá sơ bộ cho gói Khảo sát | V3.4 | @hermes | todo | 2026-07-28 | Issue #8 |
 | P2 | KD-005 | Draft pitch deck 10 slide (tiếng Việt + tiếng Trung) | V3.2 | — | todo | 2026-07-31 | |
 
 ## Hướng dẫn thực hiện

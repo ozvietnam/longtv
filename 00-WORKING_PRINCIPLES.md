@@ -93,5 +93,7 @@ Khai vấn tháng mới (ngày 1–3)
 ## Tham chiếu
 
 - [Phương pháp Top-Down · Multi-Option](/docs/00-methodology)
+- [Quy trình Leader — Dev](/docs/00-team-workflow)
+- [Phân vai team (Quyết định #002)](/docs/decisions/002-team-roles)
 - [Lộ trình tháng 7/2026](/docs/02-monthly-roadmap/2026-07)
 - [Cây vấn đề V1–V7](/docs/01-project-structure/00-MACRO_PROBLEMS)
