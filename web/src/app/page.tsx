@@ -22,8 +22,14 @@ export default function Home() {
           </p>
           <div className="flex gap-3 flex-wrap">
             <Link
-              href="/docs/00-WORKING_PRINCIPLES"
+              href="/docs/06-phases/00-1-feasibility-plan"
               className="inline-flex items-center px-5 h-11 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
+            >
+              Giai đoạn 00-1
+            </Link>
+            <Link
+              href="/docs/00-WORKING_PRINCIPLES"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
               Nguyên tắc làm việc
             </Link>
@@ -46,8 +52,8 @@ export default function Home() {
       {/* Stats */}
       <section className="py-10 border-b border-[var(--border)]">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+          <Stat label="Giai đoạn" value="00-1" suffix="Tiềm năng" />
           <Stat label="Tỉnh trọng tâm" value="2" suffix="tỉnh" />
-          <Stat label="Vấn đề lớn (V)" value="7" suffix="tầng" />
           <Stat label="Tài liệu" value={docs.length.toString()} suffix="bài" />
           <Stat label="Trạng thái" value="P1" suffix="Xây dựng" />
         </div>

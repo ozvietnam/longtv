@@ -21,6 +21,18 @@ author: "Sếp Thắng"
 | P1 | PL-005 | Thu thập bảng ưu đãi đầu tư tỉnh Hải Phòng | V2.3 | — | todo | 2026-07-25 | |
 | P2 | PL-006 | Nghiên cứu trách nhiệm pháp lý nghề nghiệp khi tư vấn FDI (bảo hiểm, hợp đồng) | V2.5 | — | todo | 2026-07-31 | |
 
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] PL-001: Chốt hướng CTCP + tập đoàn TQ
+- [x] PL-003: Timeline thành lập CTCP
+- [x] PL-007: Trang làm rõ thông tin cổ đông
+- [ ] PL-004: Bảng ưu đãi Thái Nguyên
+- [ ] PL-005: Bảng ưu đãi Hải Phòng
+- [ ] PL-006: Rủi ro pháp lý nghề nghiệp tư vấn FDI
+- [ ] PL-002: Rà soát giấy phép kinh doanh tư vấn (7020)
+- [ ] Điền điểm scorecard #7
+- [ ] Xác nhận rào cản pháp lý có chặn mô hình không
+
 ## Hướng dẫn thực hiện
 
 ### PL-001 — Chọn pháp nhân

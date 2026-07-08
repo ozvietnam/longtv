@@ -21,6 +21,17 @@ author: "Sếp Thắng"
 | P1 | VT-005 | Viết kịch bản xấu: burn 6 tháng không có doanh thu — cần bao nhiêu tiền dự phòng? | V6.5 | — | todo | 2026-07-28 | |
 | P2 | VT-006 | Đề xuất KPI tháng cho 5 phòng ban (1–2 KPI/phòng) | V5.5 | — | todo | 2026-07-31 | |
 
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] VT-001: Ước tính vốn 6 tháng đầu
+- [ ] VT-002: Burn rate hàng tháng
+- [ ] VT-003: Chọn mô hình văn phòng (lean bootstrap)
+- [ ] VT-004: Cấu trúc team sơ bộ tháng 1–6
+- [ ] VT-005: Kịch bản xấu — 6 tháng không doanh thu
+- [ ] Hoàn thiện **Scorecard 10 tiêu chí** — [00-1 plan](/docs/06-phases/00-1-feasibility-plan)
+- [ ] Điền điểm #8, #10
+- [ ] Tổng hợp đề xuất Go / No-Go / Adjust cho Leader
+
 ## Hướng dẫn thực hiện
 
 ### VT-001 — Vốn khởi điểm

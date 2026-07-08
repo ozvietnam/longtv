@@ -21,6 +21,19 @@ author: "Sếp Thắng"
 | P1 | CL-005 | Viết memo tại sao chọn Thái Nguyên & Hải Phòng (so với Bắc Ninh, Hưng Yên) | V1.2 | — | todo | 2026-07-28 | |
 | P2 | CL-006 | Draft Plan B nếu không có khách trong 3 tháng đầu | V7.5 | — | todo | 2026-07-31 | |
 
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+> Tick dần — phục vụ [Kế hoạch 00-1](/docs/06-phases/00-1-feasibility-plan). Không cần xong hết tuần 1.
+
+- [x] CL-001: Bảng 10 đối thủ
+- [ ] CL-002: Gọi Sở KH&ĐT Thái Nguyên — ghi biên bản
+- [ ] CL-003: Tham quan / call 1 KCN (TN hoặc HP)
+- [ ] CL-004: Số liệu FDI TQ→VN + 2 tỉnh (2024–2026)
+- [ ] CL-005: Memo tại sao TN & HP (vs Bắc Ninh, Hưng Yên)
+- [ ] CL-006: Plan B nếu 3 tháng không có khách
+- [ ] Điền điểm scorecard #1, #2, #3, #10
+- [ ] Góp phần **Memo tiềm năng thị trường** (tuần 4)
+
 ## Hướng dẫn thực hiện
 
 ### CL-001 — Nghiên cứu đối thủ

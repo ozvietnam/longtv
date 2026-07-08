@@ -20,6 +20,16 @@ author: "Sếp Thắng"
 | P1 | KD-004 | Research pricing 3 đối thủ + đề xuất khung giá sơ bộ cho gói Khảo sát | V3.4 | — | todo | 2026-07-28 | |
 | P2 | KD-005 | Draft pitch deck 10 slide (tiếng Việt + tiếng Trung) | V3.2 | — | todo | 2026-07-31 | |
 
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [ ] KD-001: 1 persona chi tiết (ngành, quy mô, pain, decision maker)
+- [ ] KD-002: Đánh giá 5 kênh tiếp cận — chọn 2 ưu tiên
+- [ ] KD-004: Khung giá 3 gói (A1, B1, H3)
+- [ ] Phỏng vấn 1–2 nguồn: khách tiềm năng hoặc đối tác KCN
+- [ ] Xác nhận khách có **sẵn sàng trả** mức giá draft không
+- [ ] Điền điểm scorecard #4, #5
+- [ ] (Tùy chọn) 1 lead thử — offer gói A1 chưa cần CTCP
+
 ## Hướng dẫn thực hiện
 
 ### KD-001 — Persona
