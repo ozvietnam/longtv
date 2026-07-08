@@ -31,8 +31,10 @@ function Header() {
         <nav className="flex items-center gap-4 md:gap-6 text-sm flex-wrap justify-end">
           <Link href="/" className="hover:text-[var(--accent)]">Trang chủ</Link>
           <Link href="/docs/00-WORKING_PRINCIPLES" className="hover:text-[var(--accent)]">Nguyên tắc</Link>
+          <Link href="/services" className="hover:text-[var(--accent)]">Dịch vụ</Link>
           <Link href="/roadmap" className="hover:text-[var(--accent)]">Lộ trình</Link>
-          <Link href="/departments" className="hover:text-[var(--accent)]">Phòng ban</Link>
+          <Link href="/operations" className="hover:text-[var(--accent)]">Vận hành</Link>
+          <Link href="/departments" className="hover:text-[var(--accent)] hidden md:inline">Phòng ban</Link>
           <Link href="/docs" className="hover:text-[var(--accent)]">Tài liệu</Link>
           <Link href="/phases" className="hover:text-[var(--accent)] hidden sm:inline">Các pha</Link>
           <Link href="/decisions" className="hover:text-[var(--accent)] hidden sm:inline">Quyết định</Link>
