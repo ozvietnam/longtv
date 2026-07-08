@@ -18,41 +18,28 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// Vercel flattens the project root: scripts/ is at /vercel/path0/scripts/,
-// and the entire repo (including /web, /decisions, /00-about.md, etc.) is at
-// /vercel/path0/. So REPO_ROOT is the parent of WEB_DIR — but WEB_DIR on Vercel
-// equals /vercel/path0/ itself (the project root), not /vercel/path0/web/.
-//
-// We detect WEB_DIR dynamically: it's the closest ancestor of __dirname that
-// contains a package.json AND a sibling `web` folder.
-function findWebDir() {
+// Locate the repo root by walking up until we find a .git directory.
+// This works locally (/Users/.../longtv/.git) and on Vercel
+// (/vercel/path0/.git — which is always present since Vercel pulls from git).
+function findRepoRoot() {
   let cur = __dirname;
-  for (let i = 0; i < 6; i++) {
+  for (let i = 0; i < 8; i++) {
     try {
-      const entries = fs.readdirSync(cur);
-      if (entries.includes('package.json') && entries.includes('web')) {
-        return cur;
-      }
+      if (fs.existsSync(path.join(cur, '.git'))) return cur;
     } catch (e) {}
     cur = path.resolve(cur, '..');
   }
-  return path.resolve(__dirname, '..');
-}
-const WEB_DIR = findWebDir();
-// On Vercel, REPO_ROOT === WEB_DIR because the project root is the repo root
-// from Vercel's perspective (only the /web subtree is shipped as the project).
-// Locally, REPO_ROOT is the parent of WEB_DIR.
-function findRepoRoot() {
-  // Vercel case: WEB_DIR already contains decisions/ etc.
-  if (fs.existsSync(path.join(WEB_DIR, 'decisions'))) return WEB_DIR;
-  // Local case: parent of WEB_DIR
-  return path.resolve(WEB_DIR, '..');
+  // Fallback
+  return path.resolve(__dirname, '..', '..', '..');
 }
 const REPO_ROOT = findRepoRoot();
-console.log(`[sync-content] __dirname=${__dirname}`);
-console.log(`[sync-content] WEB_DIR=${WEB_DIR}`);
-console.log(`[sync-content] REPO_ROOT=${REPO_ROOT}`);
+// WEB_DIR is /web under REPO_ROOT.
+const WEB_DIR = path.join(REPO_ROOT, 'web');
 const DEST = path.join(WEB_DIR, 'content');
+console.log(`[sync-content] __dirname=${__dirname}`);
+console.log(`[sync-content] REPO_ROOT=${REPO_ROOT}`);
+console.log(`[sync-content] WEB_DIR=${WEB_DIR}`);
+console.log(`[sync-content] DEST=${DEST}`);
 
 const EXCLUDED_DIRS = new Set([
   'node_modules',
