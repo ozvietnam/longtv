@@ -20,10 +20,23 @@ export type Doc = {
 };
 
 // Web lives at <repo>/web. Markdown content lives at <repo>/root (siblings of /web).
-// Vercel sets process.cwd() to the project root (e.g. /vercel/path0/web in build),
-// so parent of cwd is the repo root on Vercel.
-// Locally (running npm run dev from <repo>/web), parent of cwd is also repo root.
-const REPO_ROOT = path.resolve(process.cwd(), '..');
+// On Vercel, the build context sets cwd to a workdir like /vercel/path0/web,
+// and markdown content from the repo root is mirrored next to it.
+// We try multiple candidate repo roots and pick the one that contains our expected
+// "decisions" folder.
+function findRepoRoot(): string {
+  const candidates = [
+    path.resolve(process.cwd(), '..'),     // parent of cwd
+    path.resolve(process.cwd(), '../..'),  // grandparent of cwd
+  ];
+  for (const c of candidates) {
+    if (fs.existsSync(path.join(c, 'decisions'))) return c;
+  }
+  // fallback to parent
+  return candidates[0];
+}
+
+const REPO_ROOT = findRepoRoot();
 
 // Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
 const IS_PROD = process.env.NODE_ENV === 'production' || process.env.VERCEL === '1';
