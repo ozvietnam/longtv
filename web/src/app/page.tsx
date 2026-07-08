@@ -11,7 +11,7 @@ export default function Home() {
       <section className="py-12 md:py-20 border-b border-[var(--border)]">
         <div className="max-w-3xl">
           <div className="inline-block text-xs font-semibold tracking-wider uppercase text-[var(--accent)] mb-4">
-            Dự án · Khởi động 2026-07-08
+            Dự án · Khởi động 2026-07-08 · Giai đoạn 00-1
           </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-[1.05] mb-6">
             Trung tâm kết nối đầu tư <span className="text-[var(--accent)]">TQ ↔ VN</span>
@@ -28,22 +28,22 @@ export default function Home() {
               Giai đoạn 00-1
             </Link>
             <Link
-              href="/docs/00-WORKING_PRINCIPLES"
+              href="/services"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
-              Nguyên tắc làm việc
+              Dịch vụ công ty
+            </Link>
+            <Link
+              href="/operations"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Bảng vận hành
             </Link>
             <Link
               href="/roadmap"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
               Lộ trình tháng 7
-            </Link>
-            <Link
-              href="/departments"
-              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
-            >
-              Phòng ban & TODO
             </Link>
           </div>
         </div>
@@ -53,9 +53,9 @@ export default function Home() {
       <section className="py-10 border-b border-[var(--border)]">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           <Stat label="Giai đoạn" value="00-1" suffix="Tiềm năng" />
+          <Stat label="Phòng ban" value="5" suffix="phòng" />
+          <Stat label="Sales (đề xuất)" value="2" suffix="người" />
           <Stat label="Tỉnh trọng tâm" value="2" suffix="tỉnh" />
-          <Stat label="Tài liệu" value={docs.length.toString()} suffix="bài" />
-          <Stat label="Trạng thái" value="P1" suffix="Xây dựng" />
         </div>
       </section>
 
