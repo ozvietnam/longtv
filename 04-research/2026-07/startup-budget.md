@@ -10,7 +10,7 @@ author: "Hermes"
 
 # VT-001 — Vốn khởi điểm & burn rate 6 tháng
 
-> **Tóm tắt:** Cần **~350–550 triệu VND** (~$14.000–22.000) cho 6 tháng bootstrap (không tính lương founder). Thêm dự phòng 3 tháng: **~500–750 triệu VND** tổng an toàn.
+> **Tóm tắt:** Leader chốt vốn điều lệ **2 tỷ VND** (QĐ #003). Chi phí vận hành 6 tháng bootstrap: **~270–425 triệu** (tách khỏi vốn điều lệ).
 
 ## Giả định mô hình bootstrap (tháng 7–12/2026)
 
@@ -56,9 +56,18 @@ author: "Hermes"
 
 | Hạng mục | Số tiền | Ghi chú |
 |----------|---------|---------|
-| Vốn điều lệ đăng ký | 1 tỷ VND | Nộp vào tài khoản đầu tư trong 90 ngày |
-| Chi phí vận hành 6 tháng (tách biệt) | 270–425 tr | Có thể từ vốn chủ hoặc vốn điều lệ sau khi thành lập |
-| **Khuyến nghị có mặt** | **1,3–1,5 tỷ VND** | 1 tỷ điều lệ + 300–500 tr vận hành |
+| **Vốn điều lệ (Leader chốt)** | **2 tỷ VND** | CTCP + cổ đông tập đoàn TQ |
+| Chi phí vận hành 6 tháng | 270–425 tr | Từ vốn điều lệ hoặc vốn chủ sau thành lập |
+| Dự phòng 3 tháng burn | ~150 tr | Nằm trong 2 tỷ nếu phân bổ hợp lý |
+
+### Phân bổ vốn 2 tỷ (đề xuất — chờ Leader chốt %)
+
+| Hạng mục | % | Số tiền |
+|----------|---|---------|
+| Vốn góp cổ đông (treo trong DN) | 50% | 1 tỷ |
+| Vận hành 6–9 tháng | 25% | 500 tr |
+| Marketing + GTM 2 mảng | 10% | 200 tr |
+| Dự phòng / pháp lý CTCP | 15% | 300 tr |
 
 ## Kịch bản xấu (V6.5)
 
