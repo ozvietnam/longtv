@@ -19,16 +19,14 @@ export type Doc = {
   raw: string;
 };
 
-// Web lives at <repo>/web. Markdown content lives at <repo>/root (siblings of /web).
-// A prebuild script copies content from repo root into web/content/ before each build,
-// so this code reads from ./content locally (Next.js server).
-// See web/scripts/sync-content.mjs
-const REPO_ROOT = path.resolve(process.cwd(), '..');
+// Content lives at <web>/content/ (sibling of src/). This folder is git-tracked
+// so Vercel ships it as part of the project. The prebuild hook (sync-content)
+// refreshes it from <repo>/root/*.md before each build.
 const REPO_CONTENT = path.join(process.cwd(), 'content');
 
 // Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
 const IS_PROD = process.env.NODE_ENV === 'production' || process.env.VERCEL === '1';
-const DESKTOP_CONTENT = IS_PROD ? '' : path.join(process.env.HOME || '', 'Desktop', 'longtv');
+const DESKTOP_CONTENT = IS_PROD ? '' : path.join(process.env.HOME || '', 'Desktop', 'longtv', 'web', 'content');
 
 const EXCLUDED_DIRS = new Set([
   'node_modules',
