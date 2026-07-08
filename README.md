@@ -28,7 +28,10 @@ Chi tiết: [decisions/004-content-pipeline.md](decisions/004-content-pipeline.m
 
 Sau mỗi push `main`, Vercel tự build. `prebuild` chạy `sync-content` trước khi build.
 
-Live: https://web-plum-nu-91.vercel.app
+Live (sau khi GitHub Actions chạy xong):
+
+- **GitHub Pages:** https://ozvietnam.github.io/longtv/
+- **Vercel** *(cần Root Directory = `web` trong dashboard):* https://web-plum-nu-91.vercel.app
 
 
 ```bash
