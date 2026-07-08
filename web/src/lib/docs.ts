@@ -20,23 +20,11 @@ export type Doc = {
 };
 
 // Web lives at <repo>/web. Markdown content lives at <repo>/root (siblings of /web).
-// On Vercel, the build context sets cwd to a workdir like /vercel/path0/web,
-// and markdown content from the repo root is mirrored next to it.
-// We try multiple candidate repo roots and pick the one that contains our expected
-// "decisions" folder.
-function findRepoRoot(): string {
-  const candidates = [
-    path.resolve(process.cwd(), '..'),     // parent of cwd
-    path.resolve(process.cwd(), '../..'),  // grandparent of cwd
-  ];
-  for (const c of candidates) {
-    if (fs.existsSync(path.join(c, 'decisions'))) return c;
-  }
-  // fallback to parent
-  return candidates[0];
-}
-
-const REPO_ROOT = findRepoRoot();
+// A prebuild script copies content from repo root into web/content/ before each build,
+// so this code reads from ./content locally (Next.js server).
+// See web/scripts/sync-content.mjs
+const REPO_ROOT = path.resolve(process.cwd(), '..');
+const REPO_CONTENT = path.join(process.cwd(), 'content');
 
 // Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
 const IS_PROD = process.env.NODE_ENV === 'production' || process.env.VERCEL === '1';
@@ -108,7 +96,7 @@ function readDocFromFile(absPath: string, sourceRoot: string): Doc | null {
 export function getAllDocs(): Doc[] {
   const docs: Doc[] = [];
   const sources: { root: string; label: string }[] = [
-    { root: REPO_ROOT, label: 'repo' },
+    { root: REPO_CONTENT, label: 'repo' },
   ];
   if (DESKTOP_CONTENT && fs.existsSync(DESKTOP_CONTENT)) {
     sources.push({ root: DESKTOP_CONTENT, label: 'desktop' });
