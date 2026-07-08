@@ -11,6 +11,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   roadmap: "📅 Lộ trình tháng",
   departments: "🏢 Phòng ban",
   decisions: "✅ Quyết định",
+  clarifications: "📝 Yêu cầu làm rõ",
 };
 
 function categoryLabel(category: string): string {
@@ -22,7 +23,7 @@ export default function DocsIndex() {
   const grouped = getDocsByCategory();
 
   const sortedCategories = Object.keys(grouped).sort((a, b) => {
-    const order = ["principles", "methodology", "roadmap", "departments", "decisions", "repo", "desktop"];
+    const order = ["principles", "methodology", "roadmap", "departments", "decisions", "clarifications", "repo", "desktop"];
     return (order.indexOf(a) === -1 ? 99 : order.indexOf(a)) - (order.indexOf(b) === -1 ? 99 : order.indexOf(b));
   });
 

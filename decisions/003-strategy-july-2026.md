@@ -21,7 +21,7 @@ author: "Sếp Thắng"
 | Hạng mục | Quyết định |
 |----------|------------|
 | **Loại pháp nhân** | **Công ty cổ phần (CTCP)** |
-| **Cổ đông** | Founder VN + **tập đoàn bên Trung Quốc** tham gia vốn |
+| **Cổ đông** | Nhóm Việt Nam giữ quyền chi phối + **tập đoàn bên Trung Quốc** tham gia vốn |
 | **Mục đích** | Tăng uy tín · Hỗ trợ **2 đầu** (TQ ↔ VN) · Dễ mở rộng cổ đông sau này |
 
 **Ghi chú thực thi (PL-003):**
@@ -36,7 +36,8 @@ author: "Sếp Thắng"
 | Hạng mục | Số tiền |
 |----------|---------|
 | **Vốn điều lệ tổng** | **~2 tỷ VND** |
-| Phân bổ đề xuất (chờ chốt chi tiết) | 40% TQ tập đoàn · 40% founder VN · 20% dự phòng/mở rộng |
+| Nguyên tắc sở hữu | **Phía Việt Nam phải nắm trên 51%** |
+| Phân bổ đề xuất (chờ chốt chi tiết) | **VN 51%+** · TQ dưới 49% · phần còn lại chia cho founder/cổ đông chiến lược |
 
 So với research VT-001 (~1–1,5 tỷ): Leader chốt **cao hơn** — phù hợp CTCP + 2 mảng dịch vụ + văn phòng/team sớm hơn.
 
@@ -123,7 +124,8 @@ flowchart TB
 
 ## 6. Việc tiếp theo (ưu tiên)
 
-1. **Pháp lý:** Xác định tên tập đoàn TQ, tỷ lệ cổ phần, điều lệ công ty
+1. **Pháp lý:** Xác định tên tập đoàn TQ, tỷ lệ cổ phần chi tiết theo nguyên tắc **VN > 51%**, điều lệ công ty
 2. **Sản phẩm:** Hoàn thiện [Service catalog v0.2](/docs/03-departments/04-san-pham/service-catalog-v0.2)
 3. **Hermes:** Issue #7 ưu đãi 2 tỉnh + research cơ chế cổ đông FDI
 4. **Cursor:** Cập nhật web/about + pitch framework 2 mảng
+5. **Leader/team:** Điền [Trang yêu cầu làm rõ](/docs/05-clarifications/00-team-input-requirements)

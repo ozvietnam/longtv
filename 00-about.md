@@ -14,7 +14,7 @@ author: "Sếp Thắng & Hermes"
 
 ## Chúng tôi là ai
 
-**LongTV** là công ty **cổ phần**, có sự tham gia của **tập đoàn Trung Quốc** — hỗ trợ 2 đầu TQ↔VN, tăng uy tín khi làm việc với chính quyền và đối tác.
+**LongTV** là công ty **cổ phần**, có sự tham gia của **tập đoàn Trung Quốc**, trong đó **phía Việt Nam giữ trên 51%** — vừa bảo đảm quyền chi phối trong nước, vừa tăng uy tín và hỗ trợ 2 đầu TQ↔VN.
 
 ### Hai mảng dịch vụ
 
