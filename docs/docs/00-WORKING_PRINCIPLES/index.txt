@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+10:I[68027,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","00-WORKING_PRINCIPLES",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","00-WORKING_PRINCIPLES","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/444ldcmxstgm0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$L6","$L7","$L8"]}]]}],"$L9"]}],"$La"]}]}]]}]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],"$Lf",false]],"m":"$undefined","G":["$10",["$L11"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3vDKTxeQbhu7SsJenGJya"}
+13:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+19:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}]
+7:["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}]
+8:["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]
+9:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+a:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-08"]}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
+16:[]
+e:"$W16"
+f:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:T16f6,<h1>LONGTV — Nguyên tắc làm việc</h1>
+<blockquote>
+<p><strong>File chung.</strong> Mọi phòng ban, kế hoạch tháng và nhân sự mới đều đọc file này trước khi bắt đầu.</p>
+</blockquote>
+<hr>
+<h2>3 nguyên tắc cốt lõi</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Nguyên tắc</th>
+<th>Ý nghĩa</th>
+<th>Output cụ thể</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Khai vấn định hướng từng tháng</strong></td>
+<td>Mỗi tháng chọn 1–2 mục tiêu chiến lược, khai vấn 3–4 phương án, chốt 1 hướng</td>
+<td><code>02-monthly-roadmap/YYYY-MM.md</code></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Chia thẳng cho phòng ban</strong></td>
+<td>Mục tiêu tháng được bóc thành việc cụ thể, gán ngay cho phòng — không để treo ở cấp founder</td>
+<td><code>03-departments/&#x3C;phong>/TODO.md</code></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Todo ưu tiên → lắp nhân sự → chạy</strong></td>
+<td>Mỗi phòng có bảng P0/P1/P2, cột assignee/status; khi có người, gán tên và bắt đầu — không cần viết lại quy trình</td>
+<td>Cùng file TODO + cập nhật trên web</td>
+</tr>
+</tbody>
+</table>
+<h3>Luồng vận hành</h3>
+<pre><code>Khai vấn tháng mới (ngày 1–3)
+  → Chốt 1–2 mục tiêu P0
+  → Bóc task → 5 phòng ban
+  → Ghi TODO.md mỗi phòng
+  → Lắp assignee
+  → Thực thi + cập nhật status trên web
+  → Review tháng (ngày 25–30)
+</code></pre>
+<p><strong>Web all-in:</strong> Vừa bàn định hướng, vừa xây kế hoạch, vừa thực thi — tất cả trên <a href="https://github.com/ozvietnam/longtv">kho tri thức LongTV</a>.</p>
+<hr>
+<h2>Nguyên tắc phụ (vận hành)</h2>
+<ul>
+<li><strong>Một nguồn sự thật:</strong> Git repo = kế hoạch + thực thi; web chỉ là giao diện đọc/cập nhật.</li>
+<li><strong>Content viết ở root repo:</strong> Research, decisions, roadmap, clarifications đều viết ở root; <code>web/content/</code> chỉ là bản mirror tự sync trước build.</li>
+<li><strong>Không làm việc ngoài khung V1–V7:</strong> Mọi việc phải map về 1 tầng V (tránh lan man). Xem <a href="/docs/01-project-structure/00-MACRO_PROBLEMS">Cây vấn đề lớn</a>.</li>
+<li><strong>Chốt trước, làm sau:</strong> Tháng mới bắt đầu bằng khai vấn (30–60 phút), không nhảy thẳng vào làm.</li>
+<li><strong>Done = có bằng chứng:</strong> Mỗi task <code>done</code> phải có link/file/kết quả đính kèm ở cột Evidence.</li>
+<li><strong>Plug-and-play nhân sự:</strong> Template task đủ rõ để người mới đọc → làm ngay, không cần briefing 2 giờ.</li>
+</ul>
+<hr>
+<h2>5 phòng ban thực thi</h2>
+<table>
+<thead>
+<tr>
+<th>Phòng ban</th>
+<th>Folder</th>
+<th>Map V-layer</th>
+<th>Trách nhiệm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Chiến lược &#x26; Rủi ro</strong></td>
+<td><code>03-departments/01-chien-luoc/</code></td>
+<td>V1, V7</td>
+<td>Định hướng tháng, thị trường, Plan B</td>
+</tr>
+<tr>
+<td><strong>Pháp lý &#x26; Chính sách</strong></td>
+<td><code>03-departments/02-phap-ly/</code></td>
+<td>V2</td>
+<td>Thành lập, giấy phép, ưu đãi 2 tỉnh</td>
+</tr>
+<tr>
+<td><strong>Kinh doanh &#x26; GTM</strong></td>
+<td><code>03-departments/03-kinh-doanh/</code></td>
+<td>V3</td>
+<td>Pipeline, kênh, pricing</td>
+</tr>
+<tr>
+<td><strong>Sản phẩm dịch vụ</strong></td>
+<td><code>03-departments/04-san-pham/</code></td>
+<td>V4</td>
+<td>Catalog, gói dịch vụ, đối tác</td>
+</tr>
+<tr>
+<td><strong>Vận hành &#x26; Tài chính</strong></td>
+<td><code>03-departments/05-van-hanh-tc/</code></td>
+<td>V5, V6</td>
+<td>HR, SOP, KPI, dòng tiền</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Template bảng TODO (dùng chung mọi phòng)</h2>
+<pre><code class="language-markdown">## Tháng YYYY-MM | Phòng: [Tên]
+
+| P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
+|---|-----|------|---------|----------|--------|----------|----------|
+| P0 | CL-001 | ... | V1.4 | @tên | todo | 2026-07-15 | |
+| P1 | CL-002 | ... | V7.5 | — | blocked | | |
+</code></pre>
+<h3>Định nghĩa cột</h3>
+<table>
+<thead>
+<tr>
+<th>Cột</th>
+<th>Quy tắc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P</strong></td>
+<td>P0 = bắt buộc xong trong tháng · P1 = nên xong · P2 = có thì tốt</td>
+</tr>
+<tr>
+<td><strong>ID</strong></td>
+<td>Mã phòng + số thứ tự (VD: <code>CL-001</code>, <code>PL-002</code>, <code>KD-003</code>)</td>
+</tr>
+<tr>
+<td><strong>V-layer</strong></td>
+<td>Map về 1 mục trong <a href="/docs/01-project-structure/00-MACRO_PROBLEMS">cây V1–V7</a></td>
+</tr>
+<tr>
+<td><strong>Assignee</strong></td>
+<td><code>@tên</code> khi đã gán · <code>—</code> khi chưa có người</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td><code>todo</code> → <code>doing</code> → <code>review</code> → <code>done</code> · hoặc <code>blocked</code></td>
+</tr>
+<tr>
+<td><strong>Evidence</strong></td>
+<td>Link file, screenshot, hoặc đường dẫn kết quả khi <code>done</code></td>
+</tr>
+</tbody>
+</table>
+<h3>Cách cập nhật</h3>
+<ol>
+<li>Sửa file <code>03-departments/&#x3C;phong>/TODO.md</code> trong repo</li>
+<li>Commit + push lên GitHub</li>
+<li>Web tự sync và hiển thị sau vài phút (Vercel auto-deploy)</li>
+</ol>
+<hr>
+<h2>Tham chiếu</h2>
+<ul>
+<li><a href="/docs/00-methodology">Phương pháp Top-Down · Multi-Option</a></li>
+<li><a href="/docs/02-monthly-roadmap/2026-07">Lộ trình tháng 7/2026</a></li>
+<li><a href="/docs/decisions/004-content-pipeline">QĐ #004 — Pipeline content</a></li>
+<li><a href="/docs/01-project-structure/00-MACRO_PROBLEMS">Cây vấn đề V1–V7</a></li>
+</ul>
+12:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-WORKING_PRINCIPLES"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"principles"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nguyên tắc làm việc"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"3 nguyên tắc cốt lõi + nguyên tắc phụ — file chung mọi phòng ban và kế hoạch tháng đều tham chiếu."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$1b"}}],"$L1c"]}]
+1c:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}]]}],["$","$L2",null,{"href":"/docs/decisions/001-platform","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #001 — Chọn Next.js + Vercel cho nền tảng nội bộ"}]]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+15:null
+1a:[["$","title","0",{"children":"Nguyên tắc làm việc · LongTV"}],["$","meta","1",{"name":"description","content":"3 nguyên tắc cốt lõi + nguyên tắc phụ — file chung mọi phòng ban và kế hoạch tháng đều tham chiếu."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","3",{}]]

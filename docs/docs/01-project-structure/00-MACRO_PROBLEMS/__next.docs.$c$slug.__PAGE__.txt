@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+7:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T954,<h1>LONGTV — CÂY VẤN ĐỀ LỚN (MACRO)</h1>
+<blockquote>
+<p>Phương pháp: <strong>TOP-DOWN</strong> — Vấn đề lớn → Chẻ nhỏ → Khai vấn đa phương án
+Ngày tạo: 2026-07-08
+Trạng thái: <strong>PHASE 1 — XÂY DỰNG DỰ ÁN</strong></p>
+</blockquote>
+<hr>
+<h2>🎯 TẦM NHÌN</h2>
+<p>Công ty dịch vụ tư vấn đầu tư — giúp nhà máy Trung Quốc dịch chuyển sản xuất về <strong>Thái Nguyên</strong> &#x26; <strong>Hải Phòng</strong>.</p>
+<h2>🌳 7 TẦNG VẤN ĐỀ LỚN</h2>
+<h3>V1. THỊ TRƯỜNG &#x26; CƠ HỘI</h3>
+<ul>
+<li>V1.1 Số lượng nhà máy TQ muốn rời TQ?</li>
+<li>V1.2 Tại sao Thái Nguyên &#x26; Hải Phòng?</li>
+<li>V1.3 Quy mô thị trường FDI TQ→VN</li>
+<li>V1.4 Đối thủ cạnh tranh</li>
+</ul>
+<h3>V2. PHÁP LÝ &#x26; CHÍNH SÁCH</h3>
+<ul>
+<li>V2.1 Loại pháp nhân</li>
+<li>V2.2 Giấy phép tư vấn đầu tư</li>
+<li>V2.3 Ưu đãi đầu tư 2 tỉnh</li>
+<li>V2.4 Thủ tục thành lập timeline</li>
+<li>V2.5 Trách nhiệm pháp lý nghề nghiệp</li>
+</ul>
+<h3>V3. KHÁCH HÀNG &#x26; GTM</h3>
+<ul>
+<li>V3.1 Decision maker</li>
+<li>V3.2 Kênh tiếp cận</li>
+<li>V3.3 Vòng đời khách</li>
+<li>V3.4 Định giá dịch vụ</li>
+</ul>
+<h3>V4. SẢN PHẨM DỊCH VỤ</h3>
+<ul>
+<li>V4.1 Service catalog</li>
+<li>V4.2 Gói dịch vụ</li>
+<li>V4.3 Sản phẩm đi kèm</li>
+<li>V4.4 Tự làm vs đối tác</li>
+</ul>
+<h3>V5. VẬN HÀNH &#x26; NHÂN SỰ</h3>
+<ul>
+<li>V5.1 Cấu trúc team</li>
+<li>V5.2 Văn phòng</li>
+<li>V5.3 Quy trình nội bộ</li>
+<li>V5.4 SOP</li>
+<li>V5.5 KPI</li>
+</ul>
+<h3>V6. TÀI CHÍNH &#x26; DÒNG TIỀN</h3>
+<ul>
+<li>V6.1 Vốn khởi điểm</li>
+<li>V6.2 Burn rate</li>
+<li>V6.3 Break-even</li>
+<li>V6.4 Nguồn doanh thu</li>
+<li>V6.5 Kịch bản xấu</li>
+</ul>
+<h3>V7. RỦI RO &#x26; PHÒNG HỜ</h3>
+<ul>
+<li>V7.1 Rủi ro pháp lý</li>
+<li>V7.2 Rủi ro thị trường</li>
+<li>V7.3 Rủi ro đối tác</li>
+<li>V7.4 Rủi ro nội bộ</li>
+<li>V7.5 Plan B</li>
+</ul>
+<hr>
+<h2>⏭️ BƯỚC TIẾP THEO (PHASE 2)</h2>
+<p>→ <strong>Khai vấn đa phương án</strong> cho từng bài toán nhỏ (micro).
+→ Em sẽ gửi câu hỏi coaching cho anh từng V (V1 → V7).
+→ Mỗi câu hỏi kèm <strong>3-4 phương án</strong> để anh chọn hoặc đề xuất phương án khác.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-project-structure"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-MACRO_PROBLEMS"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"00-MACRO_PROBLEMS"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/05-clarifications/00-team-input-requirements","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Yêu cầu làm rõ từ team"}]]}],["$","$L2",null,{"href":"/docs/DEPLOY","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}]
+5:["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"DEPLOY"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

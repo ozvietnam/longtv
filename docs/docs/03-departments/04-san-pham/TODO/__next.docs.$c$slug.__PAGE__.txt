@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Te19,<h1>TODO — Sản phẩm dịch vụ</h1>
+<h2>Tháng 2026-07 | Phòng: Sản phẩm dịch vụ</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Task</th>
+<th>V-layer</th>
+<th>Assignee</th>
+<th>Status</th>
+<th>Deadline</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>SP-001</td>
+<td>Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc)</td>
+<td>V4.1, V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-18</td>
+<td>/docs/03-departments/04-san-pham/service-catalog-v0.2</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-002</td>
+<td>Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ</td>
+<td>V4.4</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-21</td>
+<td>/docs/03-departments/04-san-pham/build-vs-partner</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>SP-003</td>
+<td>Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro)</td>
+<td>V4.3</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td></td>
+</tr>
+<tr>
+<td>P1</td>
+<td>SP-004</td>
+<td>Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?)</td>
+<td>V4.2</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td></td>
+</tr>
+<tr>
+<td>P2</td>
+<td>SP-005</td>
+<td>Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ</td>
+<td>V4.3</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-31</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1 — Checklist đánh giá tiềm năng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-001: Catalog v0.2 (2 mảng + Hub)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-002: Bảng tự làm vs đối tác</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Map hành trình FDI 6 giai đoạn — <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-service-map</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)</li>
+<li class="task-list-item"><input type="checkbox" disabled> SP-003: 3–5 sản phẩm đi kèm (checklist, HS code, logistics intro)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chốt gap list: hạng mục ⬜ trong journey map → tự làm / đối tác / bỏ</li>
+<li class="task-list-item"><input type="checkbox" disabled> Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền điểm scorecard #6</li>
+</ul>
+<h2>Hướng dẫn thực hiện</h2>
+<h3>SP-001 — Service catalog v0.1</h3>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>Mô tả ngắn</th>
+<th>Deliverable</th>
+<th>Thời gian ước tính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khảo sát</strong></td>
+<td>Đánh giá site, chính sách, chi phí 2 tỉnh</td>
+<td>Báo cáo 15–20 trang + bảng so sánh</td>
+<td>2–3 tuần</td>
+</tr>
+<tr>
+<td><strong>Thiết lập</strong></td>
+<td>Hỗ trợ IRC/ERC, giấy phép, thuê đất/KCN</td>
+<td>Công ty VN hoạt động được</td>
+<td>2–4 tháng</td>
+</tr>
+<tr>
+<td><strong>Vận hành</strong></td>
+<td>Hỗ trợ vận hành 6 tháng đầu (HR, logistics, customs)</td>
+<td>NM chạy ổn định</td>
+<td>6 tháng</td>
+</tr>
+</tbody>
+</table>
+<h3>SP-002 — Tự làm vs Đối tác</h3>
+<p>Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = đối tác luật · Customs = tự làm (có công cụ Oz) · Thuê đất = đối tác KCN.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Sản phẩm dịch vụ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Sản phẩm dịch vụ."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v0.2","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v0.2 — 2 mảng + Hub"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Vận hành & Tài chính"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

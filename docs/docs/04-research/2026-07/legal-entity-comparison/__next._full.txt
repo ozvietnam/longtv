@@ -1,0 +1,197 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","04-research","2026-07","legal-entity-comparison",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","04-research/2026-07/legal-entity-comparison","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/444ldcmxstgm0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],"$L6"]}],"$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3vDKTxeQbhu7SsJenGJya"}
+11:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-08"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T12c8,<h1>PL-001 — So sánh loại pháp nhân</h1>
+<blockquote>
+<p><strong>Đề xuất Hermes (PL-001):</strong> TNHH 2 thành viên<br>
+<strong>✅ Leader đã chốt (QĐ #003):</strong> <strong>Công ty cổ phần (CTCP)</strong> + <strong>tập đoàn Trung Quốc</strong> tham gia cổ đông — tăng uy tín, hỗ trợ 2 đầu TQ↔VN.</p>
+</blockquote>
+<h2>Bối cảnh LONGTV (cập nhật)</h2>
+<ul>
+<li>Ngành: <strong>Tư vấn quản lý / tư vấn đầu tư</strong> (mã 7020)</li>
+<li><strong>Cổ đông:</strong> Founder VN + tập đoàn TQ (tối thiểu 3 cổ đông cho CTCP)</li>
+<li><strong>Vốn điều lệ:</strong> <strong>~2 tỷ VND</strong> (Leader chốt)</li>
+<li>Mô hình kinh doanh: 2 mảng (chính sách 2 tỉnh + logistics miền Bắc) — xem <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a></li>
+</ul>
+<h2>Bảng so sánh</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>TNHH 1 TV</th>
+<th>TNHH 2+ TV</th>
+<th>Cổ phần (CTCP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Số chủ sở hữu tối thiểu</td>
+<td>1</td>
+<td>2–50 thành viên</td>
+<td>≥ 3 cổ đông</td>
+</tr>
+<tr>
+<td>Trách nhiệm</td>
+<td>Hữu hạn trong phạm vi vốn góp</td>
+<td>Hữu hạn</td>
+<td>Hữu hạn</td>
+</tr>
+<tr>
+<td>Quản trị</td>
+<td>Đơn giản (Chủ tịch + GĐ)</td>
+<td>HĐ thành viên + GĐ</td>
+<td>ĐHĐCĐ + HĐQT + GĐ</td>
+</tr>
+<tr>
+<td>Chuyển nhượng vốn</td>
+<td>Khó (phải chuyển thành TNHH 2+ TV)</td>
+<td>Cần đồng ý thành viên</td>
+<td>Linh hoạt (cổ phần)</td>
+</tr>
+<tr>
+<td>Gọi vốn</td>
+<td>Hạn chế</td>
+<td>Tăng vốn thành viên / phát hành trái phiếu</td>
+<td>Phát hành cổ phần, IPO</td>
+</tr>
+<tr>
+<td>Chi phí vận hành pháp lý</td>
+<td>Thấp</td>
+<td>Trung bình</td>
+<td>Cao (báo cáo, kiểm toán)</td>
+</tr>
+<tr>
+<td>Thời gian thành lập</td>
+<td>1,5–3 tháng</td>
+<td>1,5–3 tháng</td>
+<td>2–4 tháng</td>
+</tr>
+<tr>
+<td>Phù hợp LONGTV</td>
+<td>⭐⭐⭐</td>
+<td>⭐⭐⭐⭐</td>
+<td>⭐⭐⭐⭐⭐ <strong>ĐÃ CHỐT</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Chi phí thành lập ước tính (2026)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>TNHH</th>
+<th>CTCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phí nhà nước (IRC + ERC)</td>
+<td>~0–5 triệu VND (ERC online miễn phí từ 2025)</td>
+<td>Tương tự</td>
+</tr>
+<tr>
+<td>Dịch vụ luật trọn gói</td>
+<td>35–120 triệu VND (~$1.500–5.000)</td>
+<td>50–150 triệu VND</td>
+</tr>
+<tr>
+<td>Vốn điều lệ đề xuất</td>
+<td>500 triệu–2 tỷ VND (tư vấn nhỏ)</td>
+<td>2–5 tỷ VND+</td>
+</tr>
+</tbody>
+</table>
+<h2>Vốn điều lệ khuyến nghị</h2>
+<p>Luật không quy định tối thiểu cho tư vấn, nhưng cơ quan đăng ký đầu tư xem xét <strong>tính phù hợp với quy mô</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Mô hình</th>
+<th>Vốn điều lệ đề xuất</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bootstrap 1–3 người, virtual office</td>
+<td><strong>500 triệu – 1 tỷ VND</strong></td>
+</tr>
+<tr>
+<td>Co-working + 1 cộng tác viên TQ</td>
+<td><strong>1 – 2 tỷ VND</strong></td>
+</tr>
+<tr>
+<td>Văn phòng riêng + team 5 người</td>
+<td><strong>2 – 5 tỷ VND</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Đề xuất 3 phương án cho Leader</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Phương án</th>
+<th>Khi nào chọn</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>TNHH 2 TV</td>
+<td>Bootstrap nhỏ</td>
+<td>❌ Không chọn</td>
+</tr>
+<tr>
+<td>B</td>
+<td>TNHH 1 TV</td>
+<td>Founder 1 người</td>
+<td>❌ Không chọn</td>
+</tr>
+<tr>
+<td>C</td>
+<td><strong>CTCP + tập đoàn TQ</strong></td>
+<td>Uy tín 2 đầu, mở rộng cổ đông</td>
+<td><strong>✅ ĐÃ CHỐT</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Việc tiếp theo (PL-003 — Cursor)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Lập timeline thành lập <strong>CTCP</strong> theo Luật Đầu tư 2025</li>
+<li class="task-list-item"><input type="checkbox" disabled> Checklist: điều lệ, danh sách cổ đông, tỷ lệ vốn TQ/VN</li>
+<li class="task-list-item"><input type="checkbox" disabled> MOU với tập đoàn TQ trước nộp hồ sơ</li>
+</ul>
+<h2>Nguồn tham khảo</h2>
+<ul>
+<li><a href="https://vietanlaw.com/llc-vs-jsc-which-business-structure-is-best-for-startups/">Luật Doanh nghiệp 2020 (sửa 2025)</a></li>
+<li><a href="https://cnccounsel.com/insights/choosing-the-right-business-structure-in-vietnam">CNC Counsel — Business structures</a></li>
+<li><a href="https://www.aseanbriefing.com/news/llc-or-jsc-deciding-the-best-upgrade-from-a-vietnam-ro/">ASEAN Briefing — LLC vs JSC</a></li>
+</ul>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"legal-entity-comparison"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"So sánh pháp nhân: TNHH vs Cổ phần cho LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"PL-001 — Phân tích TNHH 1 TV, TNHH 2+ TV và CTCP cho công ty tư vấn đầu tư."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nghiên cứu tháng 7/2026"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/startup-budget","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Ước vốn khởi điểm 6 tháng — LONGTV"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"So sánh pháp nhân: TNHH vs Cổ phần cho LONGTV · LongTV"}],["$","meta","1",{"name":"description","content":"PL-001 — Phân tích TNHH 1 TV, TNHH 2+ TV và CTCP cho công ty tư vấn đầu tư."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]

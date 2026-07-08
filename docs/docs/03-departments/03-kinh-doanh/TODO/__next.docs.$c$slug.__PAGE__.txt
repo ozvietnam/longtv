@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tb68,<h1>TODO — Kinh doanh &#x26; GTM</h1>
+<h2>Tháng 2026-07 | Phòng: Kinh doanh &#x26; GTM</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Task</th>
+<th>V-layer</th>
+<th>Assignee</th>
+<th>Status</th>
+<th>Deadline</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>KD-001</td>
+<td>Xác định 1 persona khách hàng mục tiêu (ngành, quy mô, pain point, decision maker)</td>
+<td>V3.1</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-16</td>
+<td></td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KD-002</td>
+<td>Liệt kê và đánh giá 5 kênh tiếp cận tiềm năng (WeChat, LinkedIn, KCN, sự kiện, đối tác)</td>
+<td>V3.2</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-21</td>
+<td></td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KD-003</td>
+<td>Vẽ sơ đồ vòng đời khách hàng: Lead → Qualified → Proposal → Contract → Delivery → Referral</td>
+<td>V3.3</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td></td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KD-004</td>
+<td>Research pricing 3 đối thủ + đề xuất khung giá sơ bộ cho gói Khảo sát</td>
+<td>V3.4</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td></td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KD-005</td>
+<td>Draft pitch deck 10 slide (tiếng Việt + tiếng Trung)</td>
+<td>V3.2</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-07-31</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1 — Checklist đánh giá tiềm năng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> KD-001: 1 persona chi tiết (ngành, quy mô, pain, decision maker)</li>
+<li class="task-list-item"><input type="checkbox" disabled> KD-002: Đánh giá 5 kênh tiếp cận — chọn 2 ưu tiên</li>
+<li class="task-list-item"><input type="checkbox" disabled> KD-004: Khung giá 3 gói (A1, B1, H3)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Phỏng vấn 1–2 nguồn: khách tiềm năng hoặc đối tác KCN</li>
+<li class="task-list-item"><input type="checkbox" disabled> Xác nhận khách có <strong>sẵn sàng trả</strong> mức giá draft không</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền điểm scorecard #4, #5</li>
+<li class="task-list-item"><input type="checkbox" disabled> (Tùy chọn) 1 lead thử — offer gói A1 chưa cần CTCP</li>
+</ul>
+<h2>Hướng dẫn thực hiện</h2>
+<h3>KD-001 — Persona</h3>
+<p>Gợi ý persona tháng 7: <strong>Chủ/Director nhà máy TQ ngành điện tử hoặc linh kiện, 50–200 công nhân, đang tìm site tại miền Bắc VN, lo ngại thuế Mỹ và chi phí Trung Quốc tăng.</strong></p>
+<p>Ghi: tên giả định, tuổi, vai trò quyết định, ngân sách, timeline, nỗi đau, nơi tìm thông tin.</p>
+<h3>KD-002 — Kênh tiếp cận</h3>
+<p>Đánh giá mỗi kênh: chi phí, thời gian, chất lượng lead, khả năng scale. Chọn 2 kênh ưu tiên cho tháng 9.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Kinh doanh & GTM"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Kinh doanh & GTM."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/ctcp-timeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Timeline thành lập CTCP — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/fdi-journey-service-map","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Bản đồ hành trình FDI TQ→VN & checklist dịch vụ"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

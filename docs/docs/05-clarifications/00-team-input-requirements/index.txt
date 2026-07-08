@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","05-clarifications","00-team-input-requirements",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","05-clarifications/00-team-input-requirements","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/444ldcmxstgm0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],"$L6"]}],"$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3vDKTxeQbhu7SsJenGJya"}
+11:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-08"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T17f4,<h1>Yêu cầu làm rõ từ team</h1>
+<blockquote>
+<p>Trang này dùng để anh gửi cho team chuẩn bị thông tin đầu vào. Khi có dữ liệu, chỉ cần điền trực tiếp vào từng mục bên dưới rồi gửi lại.</p>
+</blockquote>
+<hr>
+<h2>1. Nguyên tắc đã chốt</h2>
+<table>
+<thead>
+<tr>
+<th>Nội dung</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Loại hình công ty</td>
+<td><strong>CTCP</strong></td>
+</tr>
+<tr>
+<td>Vốn điều lệ</td>
+<td><strong>2 tỷ VND</strong></td>
+</tr>
+<tr>
+<td>Cơ cấu sở hữu</td>
+<td><strong>Phía Việt Nam phải nắm trên 51%</strong></td>
+</tr>
+<tr>
+<td>Có tập đoàn TQ tham gia</td>
+<td><strong>Có</strong></td>
+</tr>
+<tr>
+<td>Định vị</td>
+<td>Chính sách 2 tỉnh + logistics miền Bắc + hub pháp lý/kế toán/thông tin</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Thông tin cần làm rõ ngay</h2>
+<h3>A. Tên công ty và chủ thể tham gia</h3>
+<table>
+<thead>
+<tr>
+<th>Mục cần team cung cấp</th>
+<th>Nội dung điền</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tên công ty dự kiến bằng tiếng Việt</td>
+<td></td>
+</tr>
+<tr>
+<td>Tên công ty dự kiến bằng tiếng Anh</td>
+<td></td>
+</tr>
+<tr>
+<td>Tên viết tắt (nếu có)</td>
+<td></td>
+</tr>
+<tr>
+<td>3 tên dự phòng nếu bị trùng</td>
+<td>1)  2)  3)</td>
+</tr>
+<tr>
+<td>Tên tập đoàn Trung Quốc tham gia</td>
+<td></td>
+</tr>
+<tr>
+<td>Tư cách pháp lý của tập đoàn TQ</td>
+<td>Công ty mẹ / công ty con / quỹ / cá nhân đại diện</td>
+</tr>
+<tr>
+<td>Người đại diện phía TQ</td>
+<td></td>
+</tr>
+<tr>
+<td>Người đại diện phía Việt Nam</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>B. Cơ cấu cổ đông</h3>
+<table>
+<thead>
+<tr>
+<th>Mục cần team cung cấp</th>
+<th>Nội dung điền</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Danh sách cổ đông phía Việt Nam</td>
+<td></td>
+</tr>
+<tr>
+<td>Danh sách cổ đông phía Trung Quốc</td>
+<td></td>
+</tr>
+<tr>
+<td>Tỷ lệ góp vốn từng bên</td>
+<td></td>
+</tr>
+<tr>
+<td>Xác nhận phía Việt Nam > 51%</td>
+<td></td>
+</tr>
+<tr>
+<td>Có cổ đông chiến lược thứ 3 không</td>
+<td>Có / Không</td>
+</tr>
+<tr>
+<td>Người sẽ đứng tên pháp luật ban đầu</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>C. Phạm vi hoạt động cần chốt</h3>
+<table>
+<thead>
+<tr>
+<th>Mảng</th>
+<th>Cần team làm rõ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Chính sách &#x26; chính quyền</strong></td>
+<td>Ưu tiên Thái Nguyên, Hải Phòng hay triển khai song song?</td>
+</tr>
+<tr>
+<td><strong>Logistics &#x26; hải quan</strong></td>
+<td>Chỉ khai báo + điều phối hay làm sâu đến vận tải/kho/bốc xếp?</td>
+</tr>
+<tr>
+<td><strong>Pháp lý kinh doanh</strong></td>
+<td>Tự tư vấn mức nào, phần nào bắt buộc qua luật sư đối tác?</td>
+</tr>
+<tr>
+<td><strong>Kế toán / kiểm toán</strong></td>
+<td>Làm tư vấn quy trình hay bán dịch vụ kế toán thuê ngoài luôn?</td>
+</tr>
+<tr>
+<td><strong>Hạch toán sản xuất</strong></td>
+<td>Chỉ tư vấn framework hay trực tiếp setup cost accounting cho nhà máy?</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Checklist hồ sơ phía Trung Quốc</h2>
+<p>Team phía TQ chuẩn bị trước:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Giấy đăng ký kinh doanh của tập đoàn</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điều lệ / tài liệu pháp lý doanh nghiệp</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thông tin người đại diện ký kết</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bản scan hộ chiếu/ID người đại diện</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hồ sơ hợp pháp hóa lãnh sự (nếu cần)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thư bày tỏ ý định hợp tác / MOU draft</li>
+</ul>
+<hr>
+<h2>4. Checklist hồ sơ phía Việt Nam</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> CCCD/hộ chiếu cổ đông Việt Nam</li>
+<li class="task-list-item"><input type="checkbox" disabled> Địa chỉ trụ sở dự kiến</li>
+<li class="task-list-item"><input type="checkbox" disabled> Số điện thoại / email công ty dự kiến</li>
+<li class="task-list-item"><input type="checkbox" disabled> Phương án tên công ty</li>
+<li class="task-list-item"><input type="checkbox" disabled> Phương án người đại diện pháp luật</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tỷ lệ góp vốn từng cổ đông Việt Nam</li>
+</ul>
+<hr>
+<h2>5. Câu hỏi anh gửi team</h2>
+<p>Team chỉ cần trả lời ngắn gọn theo mẫu:</p>
+<ol>
+<li><strong>Tên công ty muốn dùng là gì?</strong></li>
+<li><strong>Tên tập đoàn Trung Quốc tham gia là gì?</strong></li>
+<li><strong>Cơ cấu cổ đông cụ thể ra sao?</strong>
+<ul>
+<li>Việt Nam: ai, bao nhiêu %</li>
+<li>Trung Quốc: ai, bao nhiêu %</li>
+</ul>
+</li>
+<li><strong>Người đại diện pháp luật ban đầu là ai?</strong></li>
+<li><strong>Phạm vi hoạt động ưu tiên 6 tháng đầu là gì?</strong>
+<ul>
+<li>Chính sách 2 tỉnh</li>
+<li>Logistics miền Bắc</li>
+<li>Pháp lý</li>
+<li>Kế toán / kiểm toán</li>
+<li>Hạch toán sản xuất</li>
+</ul>
+</li>
+<li><strong>Có đối tác luật / kế toán / logistics nào đã quen biết sẵn chưa?</strong></li>
+</ol>
+<hr>
+<h2>6. Kết quả sau khi team trả lời</h2>
+<p>Sau khi anh gửi lại thông tin đã điền, em sẽ làm tiếp:</p>
+<ol>
+<li>Chốt <strong>cơ cấu cổ đông CTCP</strong></li>
+<li>Cập nhật <strong>điều lệ và timeline hồ sơ</strong></li>
+<li>Chốt <strong>service catalog bản bán hàng</strong></li>
+<li>Viết <strong>profile công ty chính thức</strong></li>
+<li>Tạo <strong>checklist làm việc với luật sư / Sở KH&#x26;ĐT</strong></li>
+</ol>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-team-input-requirements"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Yêu cầu làm rõ từ team"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Trang tổng hợp các thông tin LONGTV cần team chuẩn bị gửi lại trước khi chốt hồ sơ, cơ cấu cổ đông và phạm vi hoạt động."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/competitors","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"10 đối thủ tư vấn FDI TQ→VN"}]]}],["$","$L2",null,{"href":"/docs/01-project-structure/00-MACRO_PROBLEMS","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"00-MACRO_PROBLEMS"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"Yêu cầu làm rõ từ team · LongTV"}],["$","meta","1",{"name":"description","content":"Trang tổng hợp các thông tin LONGTV cần team chuẩn bị gửi lại trước khi chốt hồ sơ, cơ cấu cổ đông và phạm vi hoạt động."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]

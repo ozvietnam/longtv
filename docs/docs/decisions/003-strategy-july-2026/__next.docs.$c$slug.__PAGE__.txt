@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1844,<h1>Quyết định #003 — Chiến lược cốt lõi</h1>
+<p><strong>Ngày:</strong> 2026-07-08<br>
+<strong>Người quyết:</strong> Sếp Thắng (Leader)<br>
+<strong>Trạng thái:</strong> ✅ Đã chốt</p>
+<hr>
+<h2>1. Mô hình công ty — Cổ phần + tập đoàn Trung Quốc</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Quyết định</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Loại pháp nhân</strong></td>
+<td><strong>Công ty cổ phần (CTCP)</strong></td>
+</tr>
+<tr>
+<td><strong>Cổ đông</strong></td>
+<td>Nhóm Việt Nam giữ quyền chi phối + <strong>tập đoàn bên Trung Quốc</strong> tham gia vốn</td>
+</tr>
+<tr>
+<td><strong>Mục đích</strong></td>
+<td>Tăng uy tín · Hỗ trợ <strong>2 đầu</strong> (TQ ↔ VN) · Dễ mở rộng cổ đông sau này</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ghi chú thực thi (PL-003):</strong></p>
+<ul>
+<li>Tối thiểu 3 cổ đông — cần xác định tỷ lệ vốn: TQ tập đoàn / founder VN / cổ đông chiến lược (nếu có)</li>
+<li>Cần MOU hoặc thỏa thuận cổ đông trước khi nộp IRC/ERC</li>
+<li>Hermes research PL-001 đề xuất TNHH → <strong>Leader override</strong> sang CTCP (có lý do chiến lược)</li>
+</ul>
+<hr>
+<h2>2. Vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Số tiền</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vốn điều lệ tổng</strong></td>
+<td><strong>~2 tỷ VND</strong></td>
+</tr>
+<tr>
+<td>Nguyên tắc sở hữu</td>
+<td><strong>Phía Việt Nam phải nắm trên 51%</strong></td>
+</tr>
+<tr>
+<td>Phân bổ đề xuất (chờ chốt chi tiết)</td>
+<td><strong>VN 51%+</strong> · TQ dưới 49% · phần còn lại chia cho founder/cổ đông chiến lược</td>
+</tr>
+</tbody>
+</table>
+<p>So với research VT-001 (~1–1,5 tỷ): Leader chốt <strong>cao hơn</strong> — phù hợp CTCP + 2 mảng dịch vụ + văn phòng/team sớm hơn.</p>
+<hr>
+<h2>3. Định vị — 2 mảng + trung tâm kết nối</h2>
+<h3>Mảng A — Tư vấn chính sách &#x26; làm việc chính quyền (trọng tâm địa lý)</h3>
+<p><strong>Phạm vi:</strong> <strong>Thái Nguyên + Hải Phòng</strong> (giữ nguyên)</p>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tư vấn chính sách</td>
+<td>Phân tích ưu đãi, ngành nghề, điều kiện đầu tư</td>
+</tr>
+<tr>
+<td>Xin chính sách / incentive</td>
+<td>Hỗ trợ hồ sơ, làm việc Sở KH&#x26;ĐT, Ban QLKCN</td>
+</tr>
+<tr>
+<td>Làm việc chính quyền</td>
+<td>Đối thoại, MOU, giới thiệu dự án FDI TQ</td>
+</tr>
+<tr>
+<td>Dịch chuyển nhà máy TQ</td>
+<td>Khảo sát → thiết lập → vận hành tại 2 tỉnh</td>
+</tr>
+</tbody>
+</table>
+<h3>Mảng B — Logistics &#x26; hải quan (tầm nhìn rộng)</h3>
+<p><strong>Phạm vi:</strong> <strong>Toàn miền Bắc</strong> — nhà máy/xí nghiệp có nghiệp vụ <strong>xuất · nhập · sản xuất</strong>, trong và ngoài KCN</p>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khai báo hải quan</td>
+<td>HS code, tờ khai, thủ tục XNK (Oz tools)</td>
+</tr>
+<tr>
+<td>Logistics / vận chuyển</td>
+<td>Kết nối forwarder, TQ→VN, nội địa miền Bắc</td>
+</tr>
+<tr>
+<td>Hỗ trợ sản xuất-xuất nhập</td>
+<td>Chuỗi nguyên liệu → SX → xuất khẩu</td>
+</tr>
+</tbody>
+</table>
+<h3>Vai trò nền — Trung tâm kết nối thông tin</h3>
+<p>LONGTV không chỉ tư vấn 1 dự án — là <strong>hub</strong> cho nhà đầu tư nước ngoài tại VN:</p>
+<table>
+<thead>
+<tr>
+<th>Trụ cột</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Kết nối thông tin</strong></td>
+<td>Kho tri thức, cập nhật chính sách, mạng lưới đối tác</td>
+</tr>
+<tr>
+<td><strong>Tư vấn pháp lý kinh doanh</strong></td>
+<td>Đầu tư, hợp đồng, tuân thủ — phối hợp luật sư khi cần</td>
+</tr>
+<tr>
+<td><strong>Kế toán · kiểm toán · hạch toán SX</strong></td>
+<td>Phù hợp pháp luật VN — tự làm hoặc đối tác CPA</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Sơ đồ mô hình</h2>
+<pre><code class="language-mermaid">flowchart TB
+    subgraph hub [LONGTV Hub]
+        Info[Ket noi thong tin]
+        Legal[Tu van phap ly KD]
+        Acc[Ke toan kiem toan]
+    end
+
+    subgraph lineA [Mang A - 2 tinh]
+        Policy[Tu van chinh sach]
+        Gov[Lam viec chinh quyen]
+        FDI[Dich chuyen NM TQ]
+    end
+
+    subgraph lineB [Mang B - Mien Bac]
+        Customs[Hai quan XNK]
+        Logi[Logistics van chuyen]
+        Prod[Xuat nhap san xuat]
+    end
+
+  TQGroup[Tap doan TQ co dong] --> hub
+    hub --> lineA
+    hub --> lineB
+    lineA --> TN[Thai Nguyen]
+    lineA --> HP[Hai Phong]
+    lineB --> North[Mien Bac KCN va ngoai KCN]
+</code></pre>
+<hr>
+<h2>5. Ảnh hưởng tới kế hoạch</h2>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Thay đổi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PL-003</td>
+<td>Timeline thành lập <strong>CTCP</strong> + cơ cấu cổ đông TQ</td>
+</tr>
+<tr>
+<td>SP-001</td>
+<td>Service catalog v0.2 — 2 mảng + hub</td>
+</tr>
+<tr>
+<td>VT-001</td>
+<td>Cập nhật vốn điều lệ 2 tỷ</td>
+</tr>
+<tr>
+<td>KD-001</td>
+<td>Persona: NM TQ + xí nghiệp miền Bắc đã/cần SX-XNK</td>
+</tr>
+<tr>
+<td>CL-005</td>
+<td>Memo định vị cập nhật theo quyết định này</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Việc tiếp theo (ưu tiên)</h2>
+<ol>
+<li><strong>Pháp lý:</strong> Xác định tên tập đoàn TQ, tỷ lệ cổ phần chi tiết theo nguyên tắc <strong>VN > 51%</strong>, điều lệ công ty</li>
+<li><strong>Sản phẩm:</strong> Hoàn thiện <a href="/docs/03-departments/04-san-pham/service-catalog-v0.2">Service catalog v0.2</a></li>
+<li><strong>Hermes:</strong> Issue #7 ưu đãi 2 tỉnh + research cơ chế cổ đông FDI</li>
+<li><strong>Cursor:</strong> Cập nhật web/about + pitch framework 2 mảng</li>
+<li><strong>Leader/team:</strong> Điền <a href="/docs/05-clarifications/00-team-input-requirements">Trang yêu cầu làm rõ</a></li>
+</ol>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"decisions"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"003-strategy-july-2026"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"decisions"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Quyết định #003 — Chiến lược cốt lõi tháng 7/2026"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Leader chốt: CTCP + tập đoàn TQ, vốn 2 tỷ, định vị 2 mảng (chính sách 2 tỉnh + logistics miền Bắc) và trung tâm kết nối."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004 — Số liệu FDI TQ→VN & 2 tỉnh trọng tâm"}]]}],["$","$L2",null,{"href":"/docs/decisions/004-content-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #004 — Chuẩn hóa pipeline content → web → deploy"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

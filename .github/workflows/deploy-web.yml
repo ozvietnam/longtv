@@ -7,11 +7,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: deploy-web
   cancel-in-progress: true
 
 jobs:
@@ -19,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
@@ -26,18 +26,33 @@ jobs:
           cache: npm
           cache-dependency-path: web/package-lock.json
 
-      - name: Build static site
+      - name: Build static site (GitHub Pages)
         working-directory: web
         env:
           GITHUB_PAGES: "true"
         run: |
           npm ci
           npm run build
-          ls -la out | head -10
+          test -f out/index.html
 
-      - name: Deploy to GitHub Pages
+      - name: Prepare docs/ for GitHub Pages
+        run: |
+          rm -rf docs
+          cp -r web/out docs
+          touch docs/.nojekyll
+
+      - name: Push to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./web/out
-          cname: false
+          force_orphan: true
+
+      - name: Commit docs/ to main (Pages source: main /docs)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: deploy site → docs/ [skip ci]"
+          file_pattern: docs/**
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          skip_fetch: false

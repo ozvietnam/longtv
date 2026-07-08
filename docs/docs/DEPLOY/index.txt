@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+10:I[68027,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","DEPLOY",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","DEPLOY","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/444ldcmxstgm0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$L6","$L7","$L8"]}]]}],"$L9"]}],"$La"]}]}]]}]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],"$Lf",false]],"m":"$undefined","G":["$10",["$L11"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3vDKTxeQbhu7SsJenGJya"}
+13:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+19:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}]
+7:["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}]
+8:["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]
+9:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+a:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-08"]}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
+16:[]
+e:"$W16"
+f:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3kqyrfn1hjhdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:T972,<h1>Bật live web — 1 lần duy nhất</h1>
+<p>GitHub Pages <strong>chưa được bật</strong> trên repo nên link 404. Làm <strong>1 trong 2 cách</strong> (30 giây):</p>
+<h2>Cách 1 — Khuyến nghị (dễ nhất)</h2>
+<ol>
+<li>Mở: <strong><a href="https://github.com/ozvietnam/longtv/settings/pages">https://github.com/ozvietnam/longtv/settings/pages</a></strong></li>
+<li><strong>Build and deployment → Source:</strong> chọn <strong>Deploy from a branch</strong></li>
+<li><strong>Branch:</strong> <code>main</code> · <strong>Folder:</strong> <code>/docs</code> → <strong>Save</strong></li>
+<li>Đợi 1–2 phút → mở <strong><a href="https://ozvietnam.github.io/longtv/">https://ozvietnam.github.io/longtv/</a></strong></li>
+</ol>
+<h2>Cách 2 — Nhánh gh-pages</h2>
+<ol>
+<li>Cùng trang Settings → Pages</li>
+<li><strong>Branch:</strong> <code>gh-pages</code> · <strong>Folder:</strong> <code>/ (root)</code> → <strong>Save</strong></li>
+<li>Link: <strong><a href="https://ozvietnam.github.io/longtv/">https://ozvietnam.github.io/longtv/</a></strong></li>
+</ol>
+<hr>
+<h2>Sau khi bật</h2>
+<p>Mỗi push <code>main</code> → GitHub Actions tự build + cập nhật <code>docs/</code> và <code>gh-pages</code>.</p>
+<table>
+<thead>
+<tr>
+<th>Trang</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trang chủ</td>
+<td><a href="https://ozvietnam.github.io/longtv/">https://ozvietnam.github.io/longtv/</a></td>
+</tr>
+<tr>
+<td>Giai đoạn 00-1</td>
+<td><a href="https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/">https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/</a></td>
+</tr>
+<tr>
+<td>Dịch vụ</td>
+<td><a href="https://ozvietnam.github.io/longtv/services/">https://ozvietnam.github.io/longtv/services/</a></td>
+</tr>
+<tr>
+<td>Vận hành</td>
+<td><a href="https://ozvietnam.github.io/longtv/operations/">https://ozvietnam.github.io/longtv/operations/</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Vercel (tùy chọn)</h2>
+<p>URL cũ <a href="https://web-plum-nu-91.vercel.app">https://web-plum-nu-91.vercel.app</a> đang lag bản cũ — cần reconnect:</p>
+<ol>
+<li><a href="https://vercel.com/new">https://vercel.com/new</a> → Import <code>ozvietnam/longtv</code></li>
+<li><strong>Root Directory:</strong> <code>web</code></li>
+<li>Deploy</li>
+</ol>
+<p>Hoặc Project Settings → Root Directory = <code>web</code> → Redeploy.</p>
+12:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"DEPLOY"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"DEPLOY"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/01-project-structure/00-MACRO_PROBLEMS","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],"$L1c"]}],"$L1d"]}]]}]
+1c:["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"00-MACRO_PROBLEMS"}]
+1d:["$","div",null,{"className":"flex-1"}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+15:null
+1a:[["$","title","0",{"children":"DEPLOY · LongTV"}],["$","link","1",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1e","2",{}]]
