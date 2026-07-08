@@ -19,14 +19,20 @@ export type Doc = {
   raw: string;
 };
 
-// Content lives at <web>/content/ (sibling of src/). This folder is git-tracked
-// so Vercel ships it as part of the project. The prebuild hook (sync-content)
-// refreshes it from <repo>/root/*.md before each build.
-const REPO_CONTENT = path.join(process.cwd(), 'content');
+// Content lives directly inside /web/ (sibling of src/, package.json, etc.).
+// Markdown files: web/*.md, web/decisions/*.md, web/01-project-structure/*.md, etc.
+// Vercel ships all of these because project root = web.
+//
+// Rules:
+//  - Skip .next, node_modules, .git, src, public, .vercel
+//  - Skip files: AGENTS.md, CLAUDE.md, README.md (internal)
+const CONTENT_ROOT = process.cwd(); // we run from /web, so cwd = web root
 
 // Local working copy on user's Desktop (dev-only — Vercel can't access user's machine)
 const IS_PROD = process.env.NODE_ENV === 'production' || process.env.VERCEL === '1';
-const DESKTOP_CONTENT = IS_PROD ? '' : path.join(process.env.HOME || '', 'Desktop', 'longtv', 'web', 'content');
+const DESKTOP_CONTENT = IS_PROD
+  ? ''
+  : path.join(process.env.HOME || '', 'Desktop', 'longtv', 'web');
 
 const EXCLUDED_DIRS = new Set([
   'node_modules',
@@ -35,7 +41,11 @@ const EXCLUDED_DIRS = new Set([
   '.vercel',
   'out',
   '.turbo',
-  'web', // never treat the Next.js project as content
+  'web', // never treat the Next.js project as content (legacy if relocated)
+  'src',
+  'public',
+  'scripts',
+  'content', // legacy mirror, skip
 ]);
 
 function safeReadDir(p: string): string[] {
@@ -94,7 +104,7 @@ function readDocFromFile(absPath: string, sourceRoot: string): Doc | null {
 export function getAllDocs(): Doc[] {
   const docs: Doc[] = [];
   const sources: { root: string; label: string }[] = [
-    { root: REPO_CONTENT, label: 'repo' },
+    { root: CONTENT_ROOT, label: 'repo' },
   ];
   if (DESKTOP_CONTENT && fs.existsSync(DESKTOP_CONTENT)) {
     sources.push({ root: DESKTOP_CONTENT, label: 'desktop' });
