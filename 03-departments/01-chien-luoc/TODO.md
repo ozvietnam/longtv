@@ -14,7 +14,7 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | CL-001 | Nghiên cứu và lập bảng so sánh 10 đối thủ tư vấn FDI TQ→VN (tên, dịch vụ, giá, điểm mạnh/yếu) | V1.4 | — | todo | 2026-07-18 | |
+| P0 | CL-001 | Nghiên cứu và lập bảng so sánh 10 đối thủ tư vấn FDI TQ→VN (tên, dịch vụ, giá, điểm mạnh/yếu) | V1.4 | @hermes | done | 2026-07-18 | /docs/04-research/2026-07/competitors |
 | P0 | CL-002 | Liên hệ và lấy thông tin từ Sở KH&ĐT Thái Nguyên về chính sách thu hút FDI TQ | V1.2 | — | todo | 2026-07-21 | |
 | P0 | CL-003 | Phỏng vấn/tham quan ít nhất 1 KCN tại Thái Nguyên hoặc Hải Phòng | V1.2 | — | todo | 2026-07-25 | |
 | P1 | CL-004 | Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026) | V1.3 | — | todo | 2026-07-28 | |
