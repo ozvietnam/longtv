@@ -1,0 +1,35 @@
+---
+title: "TODO — Sản phẩm dịch vụ"
+description: "Bảng phân công công việc tháng 7/2026 — Phòng Sản phẩm dịch vụ."
+date: 2026-07-08
+category: "departments"
+order: 27
+tags: ["todo", "product", "2026-07"]
+author: "Sếp Thắng"
+---
+
+# TODO — Sản phẩm dịch vụ
+
+## Tháng 2026-07 | Phòng: Sản phẩm dịch vụ
+
+| P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
+|---|-----|------|---------|----------|--------|----------|----------|
+| P0 | SP-001 | Draft service catalog v0.1 — 3 gói: Khảo sát / Thiết lập / Vận hành (mô tả, deliverable, thời gian) | V4.1, V4.2 | — | todo | 2026-07-18 | |
+| P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | — | todo | 2026-07-21 | |
+| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
+| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
+| P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
+
+## Hướng dẫn thực hiện
+
+### SP-001 — Service catalog v0.1
+
+| Gói | Mô tả ngắn | Deliverable | Thời gian ước tính |
+|-----|------------|-------------|-------------------|
+| **Khảo sát** | Đánh giá site, chính sách, chi phí 2 tỉnh | Báo cáo 15–20 trang + bảng so sánh | 2–3 tuần |
+| **Thiết lập** | Hỗ trợ IRC/ERC, giấy phép, thuê đất/KCN | Công ty VN hoạt động được | 2–4 tháng |
+| **Vận hành** | Hỗ trợ vận hành 6 tháng đầu (HR, logistics, customs) | NM chạy ổn định | 6 tháng |
+
+### SP-002 — Tự làm vs Đối tác
+
+Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = đối tác luật · Customs = tự làm (có công cụ Oz) · Thuê đất = đối tác KCN.
