@@ -22,10 +22,16 @@ export default function Home() {
           </p>
           <div className="flex gap-3 flex-wrap">
             <Link
-              href="/docs/00-WORKING_PRINCIPLES"
+              href="/services"
               className="inline-flex items-center px-5 h-11 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
             >
-              Nguyên tắc làm việc
+              Dịch vụ công ty
+            </Link>
+            <Link
+              href="/operations"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Bảng vận hành
             </Link>
             <Link
               href="/roadmap"
@@ -34,10 +40,10 @@ export default function Home() {
               Lộ trình tháng 7
             </Link>
             <Link
-              href="/departments"
+              href="/docs/03-departments/00-org-model"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
-              Phòng ban & TODO
+              Mô hình tổ chức
             </Link>
           </div>
         </div>
@@ -46,10 +52,10 @@ export default function Home() {
       {/* Stats */}
       <section className="py-10 border-b border-[var(--border)]">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+          <Stat label="Phòng ban" value="5" suffix="phòng" />
+          <Stat label="Sales (đề xuất)" value="2" suffix="người" />
           <Stat label="Tỉnh trọng tâm" value="2" suffix="tỉnh" />
-          <Stat label="Vấn đề lớn (V)" value="7" suffix="tầng" />
           <Stat label="Tài liệu" value={docs.length.toString()} suffix="bài" />
-          <Stat label="Trạng thái" value="P1" suffix="Xây dựng" />
         </div>
       </section>
 
