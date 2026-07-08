@@ -126,7 +126,7 @@ Mỗi phòng có section **Giai đoạn 00-1** trong file TODO — tick dần, k
 | Sản phẩm dịch vụ | [TODO Sản phẩm](/docs/03-departments/04-san-pham/TODO) | Catalog đầy đủ, hành trình FDI, gap |
 | Vận hành & TC | [TODO Vận hành](/docs/03-departments/05-van-hanh-tc/TODO) | Vốn, burn, scorecard, kịch bản xấu |
 
-Theo dõi tổng: [Phòng ban & TODO](/departments) · [Lộ trình tháng 7](/roadmap).
+Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/roadmap).
 
 ---
 

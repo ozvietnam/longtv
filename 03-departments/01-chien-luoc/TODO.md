@@ -15,9 +15,9 @@ author: "Sếp Thắng"
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
 | P0 | CL-001 | Nghiên cứu và lập bảng so sánh 10 đối thủ tư vấn FDI TQ→VN (tên, dịch vụ, giá, điểm mạnh/yếu) | V1.4 | @hermes | done | 2026-07-18 | /docs/04-research/2026-07/competitors |
-| P0 | CL-002 | Liên hệ và lấy thông tin từ Sở KH&ĐT Thái Nguyên về chính sách thu hút FDI TQ | V1.2 | — | todo | 2026-07-21 | |
+| P0 | CL-002 | Liên hệ và lấy thông tin từ Sở KH&ĐT Thái Nguyên về chính sách thu hút FDI TQ | V1.2 | @hermes | doing | 2026-07-21 | /docs/04-research/2026-07/thai-nguyen-fdi-policy |
 | P0 | CL-003 | Phỏng vấn/tham quan ít nhất 1 KCN tại Thái Nguyên hoặc Hải Phòng | V1.2 | — | todo | 2026-07-25 | |
-| P1 | CL-004 | Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026) | V1.3 | — | todo | 2026-07-28 | |
+| P1 | CL-004 | Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026) | V1.3 | @cursor | doing | 2026-07-28 | /docs/04-research/2026-07/fdi-data |
 | P1 | CL-005 | Viết memo tại sao chọn Thái Nguyên & Hải Phòng (so với Bắc Ninh, Hưng Yên) | V1.2 | — | todo | 2026-07-28 | |
 | P2 | CL-006 | Draft Plan B nếu không có khách trong 3 tháng đầu | V7.5 | — | todo | 2026-07-31 | |
 
@@ -26,9 +26,9 @@ author: "Sếp Thắng"
 > Tick dần — phục vụ [Kế hoạch 00-1](/docs/06-phases/00-1-feasibility-plan). Không cần xong hết tuần 1.
 
 - [x] CL-001: Bảng 10 đối thủ
-- [ ] CL-002: Gọi Sở KH&ĐT Thái Nguyên — ghi biên bản
+- [x] CL-002: Desk research Thái Nguyên (chờ gọi Sở)
 - [ ] CL-003: Tham quan / call 1 KCN (TN hoặc HP)
-- [ ] CL-004: Số liệu FDI TQ→VN + 2 tỉnh (2024–2026)
+- [x] CL-004: Số liệu FDI sơ bộ (desk) — chờ verify Sở
 - [ ] CL-005: Memo tại sao TN & HP (vs Bắc Ninh, Hưng Yên)
 - [ ] CL-006: Plan B nếu 3 tháng không có khách
 - [ ] Điền điểm scorecard #1, #2, #3, #10
