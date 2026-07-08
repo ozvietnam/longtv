@@ -10,21 +10,19 @@ author: "Cursor"
 
 # SP-002 — Tự làm vs Đối tác
 
-> **Nguyên tắc:** Tháng 7–9 tự làm phần **khảo sát + kết nối**; ủy thác **pháp lý thành lập + thuê đất** cho đối tác có giấy phép.
+> **Nguyên tắc (QĐ #003):** Mảng A (chính sách 2 tỉnh) tự làm core · Mảng B (logistics miền Bắc) tự làm hải quan + điều phối · Hub kế toán/pháp lý qua đối tác có giấy phép.
 
-| Hạng mục dịch vụ | Tự làm | Đối tác | Lý do |
-|------------------|--------|---------|-------|
-| Khảo sát thị trường 2 tỉnh | ✅ | | Core competency LONGTV |
-| So sánh KCN / site selection | ✅ | Hỗ trợ | Có mạng lưới KCN; đối tác mở cửa |
-| Tư vấn chiến lược vào VN | ✅ | | Khai vấn là thế mạnh team |
-| Thành lập IRC/ERC | | ✅ Luật sư FDI | Cần giấy phép hành nghề |
-| Thuê đất / nhà xưởng KCN | | ✅ VNF / KCN | Commission model |
-| Visa / giấy phép lao độu | | ✅ HR agency | Pháp lý lao động |
-| Kế toán / thuế hàng năm | | ✅ Firm kế toán | Bắt buộc có CPA |
-| Customs / HS code / XNK | ✅ (Oz tools) | | **Differentiator** — hs-code-api, xnk-webapp |
-| Logistics thiết bị TQ→VN | | ✅ Forwarder | Quan hệ vận tải |
-| Dịch thuật hợp đồng | ✅ cơ bản | ✅ chuyên sâu | Song ngữ nội bộ + luật khi cần |
-| Pitch / GTM tiếng Trung | ✅ | | Hermes + founder |
+| Hạng mục | Mảng | Tự làm | Đối tác | Lý do |
+|----------|------|--------|---------|-------|
+| Tư vấn & xin chính sách 2 tỉnh | A | ✅ | Sở/KCN hỗ trợ | Core + uy tín CTCP/TQ |
+| Làm việc chính quyền | A | ✅ | | MOU, giới thiệu |
+| Khảo sát / dịch chuyển NM TQ | A | ✅ | Luật, đất | PM + đối tác |
+| Khai báo hải quan / HS code | B | ✅ Oz | | Differentiator |
+| Logistics TQ→VN, nội địa Bắc | B | Điều phối | ✅ Forwarder | Scale miền Bắc |
+| Chuỗi xuất-nhập-sản xuất | B | ✅ SOP | Forwarder, kho | Retainer |
+| Tư vấn pháp lý KD & đầu tư | Hub | ✅ cơ bản | ✅ Luật sư | Giấy phép hành nghề |
+| Kế toán · kiểm toán · hạch toán SX | Hub | PM | ✅ CPA | Bắt buộc CPA |
+| Kết nối thông tin / mạng lưới | Hub | ✅ | | Web + quan hệ |
 
 ## Đối tác ưu tiên liên hệ (tháng 8)
 
@@ -37,8 +35,11 @@ author: "Cursor"
 
 ## Ảnh hưởng tới gói dịch vụ
 
-| Gói | Tự làm | Qua đối tác |
-|-----|--------|-------------|
-| **Khảo sát** | 100% | — |
-| **Thiết lập** | 30% (PM, tư vấn) | 70% (luật, đất, visa) |
-| **Vận hành** | 50% (customs, SOP) | 50% (kế toán, HR) |
+| Gói | Mảng | Tự làm | Qua đối tác |
+|-----|------|--------|-------------|
+| **A1 Khảo sát** | Chính sách 2 tỉnh | 100% | — |
+| **A2 Xin chính sách** | Chính sách | 80% | 20% (luật) |
+| **A3 Thiết lập NM** | Chính sách | 30% PM | 70% |
+| **B1 Hải quan** | Logistics Bắc | 90% | 10% |
+| **B2/B3 Logistics** | Logistics Bắc | 40% | 60% |
+| **H3 Kế toán** | Hub | 20% PM | 80% CPA |

@@ -14,11 +14,11 @@ export default function Home() {
             Dự án · Khởi động 2026-07-08
           </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-[1.05] mb-6">
-            Công ty tư vấn đầu tư nhà máy <span className="text-[var(--accent)]">Trung Quốc</span> về Việt Nam
+            Trung tâm kết nối đầu tư <span className="text-[var(--accent)]">TQ ↔ VN</span>
           </h1>
           <p className="text-lg md:text-xl text-[var(--muted)] leading-relaxed mb-8">
-            Đồng hành cùng nhà đầu tư Trung Quốc xây dựng nhà máy tại <strong>Thái Nguyên</strong> và <strong>Hải Phòng</strong> —
-            từ khảo sát, pháp lý, đến vận hành.
+            CTCP có tập đoàn Trung Quốc đồng hành — <strong>chính sách & chính quyền</strong> tại Thái Nguyên, Hải Phòng;
+            <strong> logistics & hải quan</strong> toàn miền Bắc; <strong>pháp lý & kế toán</strong> cho nhà đầu tư nước ngoài.
           </p>
           <div className="flex gap-3 flex-wrap">
             <Link

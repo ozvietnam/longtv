@@ -10,7 +10,7 @@ author: "Hermes"
 
 # CL-001 — Bảng đối thủ cạnh tranh
 
-> **Khe hở LONGTV:** Chuyên sâu **TQ → 2 tỉnh** (Thái Nguyên + Hải Phòng) + công cụ **xuất nhập khẩu/customs** (hệ Oz) — đối thủ đa số làm rộng cả nước hoặc chỉ BĐS công nghiệp.
+> **Khe hở LONGTV (QĐ #003):** **CTCP + tập đoàn TQ** · Chính sách sâu **2 tỉnh** · **Logistics/hải quan toàn miền Bắc** (SX-XNK) · **Hub** pháp lý + kế toán + thông tin.
 
 ## Bảng 10 đối thủ
 
