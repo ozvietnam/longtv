@@ -14,7 +14,7 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | PL-001 | So sánh TNHH 1 thành viên vs TNHH 2+ thành viên vs Cổ phần — chốt loại pháp nhân | V2.1 | — | todo | 2026-07-14 | |
+| P0 | PL-001 | So sánh TNHH 1 thành viên vs TNHH 2+ thành viên vs Cổ phần — chốt loại pháp nhân | V2.1 | @hermes | done | 2026-07-14 | /docs/04-research/2026-07/legal-entity-comparison |
 | P0 | PL-002 | Liệt kê đầy đủ giấy phép/con giấy phép cần cho hoạt động tư vấn đầu tư | V2.2 | — | todo | 2026-07-18 | |
 | P0 | PL-003 | Lập timeline thành lập công ty (từng bước, thời gian, chi phí ước tính) | V2.4 | — | todo | 2026-07-21 | |
 | P1 | PL-004 | Thu thập bảng ưu đãi đầu tư tỉnh Thái Nguyên (thuế, đất, hỗ trợ hạ tầng) | V2.3 | — | todo | 2026-07-25 | |
