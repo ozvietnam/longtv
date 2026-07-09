@@ -80,7 +80,10 @@ function Footer() {
             <div className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">Truy cập</div>
             <div className="flex flex-col gap-2 text-sm">
               <Link href="/kim" className="hover:text-[var(--accent)] font-medium text-[var(--accent)]">
-                Thư ký Kim — việc cần người
+                Thư ký Kim — việc người thật (không AI)
+              </Link>
+              <Link href="/docs/05-clarifications/what-is-kim" className="hover:text-[var(--accent)] font-medium">
+                Kim là gì?
               </Link>
               <Link href="/cam-nang" className="hover:text-[var(--accent)] font-medium">
                 Cẩm nang tri thức

@@ -100,12 +100,28 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
           <span className="w-2 h-2 rounded-full bg-[var(--accent)] animate-pulse" />
           Cần người thật
         </div>
-        <h1 className="text-4xl font-bold tracking-tight mb-3">Giao Thư ký Kim</h1>
+        <h1 className="text-4xl font-bold tracking-tight mb-3">Thư ký Kim — việc cần người thật</h1>
         <p className="text-lg text-[var(--muted)] max-w-3xl leading-relaxed">
-          Hộp việc tập trung — mọi việc cần <strong>gọi điện, ký, gặp, nộp hồ sơ, chốt với khách</strong>.
-          Bot/AI không làm thay. <strong>Leader xử lý tại đây.</strong>
+          Mọi việc ở đây <strong>bắt buộc có người tự hoàn thiện và đi làm</strong>: gọi điện, ký, gặp, nộp hồ sơ,
+          chốt khách, field thật. <strong>AI không thay thế</strong> — không tick xong thay owner.
+        </p>
+        <p className="text-sm text-[var(--muted)] mt-3 max-w-3xl">
+          Leader, Hermes, Sales, Luật… mỗi người xem việc của mình. Desk research / build web →{" "}
+          <Link href="/operations" className="text-[var(--accent)] font-medium hover:underline">
+            Bảng vận hành
+          </Link>
+          , không phải Kim.{" "}
+          <Link href="/docs/05-clarifications/what-is-kim" className="text-[var(--accent)] font-medium hover:underline">
+            Định nghĩa Kim →
+          </Link>
         </p>
         <div className="flex flex-wrap gap-3 mt-6">
+          <Link
+            href="/docs/05-clarifications/what-is-kim"
+            className="inline-flex items-center px-4 h-10 rounded-full bg-[var(--accent)] text-white text-sm font-semibold hover:opacity-90"
+          >
+            Kim là gì? (cho cả team) →
+          </Link>
           <Link
             href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07"
             className="inline-flex items-center px-4 h-10 rounded-full bg-violet-600 text-white text-sm font-semibold hover:bg-violet-700"
@@ -202,14 +218,15 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
       )}
 
       <section className="p-6 rounded-xl border border-dashed border-[var(--border)] bg-amber-50/30">
-        <h2 className="font-semibold mb-2">Quy trình Thư ký Kim</h2>
+        <h2 className="font-semibold mb-2">Quy trình Kim (người thật)</h2>
         <ol className="text-sm text-[var(--muted)] space-y-2 list-decimal list-inside">
-          <li>Lãnh đạo mở trang này mỗi sáng — lọc <strong>ưu tiên cao (P0)</strong> hoặc <strong>Lãnh đạo</strong></li>
-          <li>Làm việc → mở link kịch bản / tài liệu bên cạnh</li>
-          <li>Xong → sửa trạng thái thành <code className="text-xs bg-white px-1 rounded">done</code> trong file markdown</li>
+          <li>Owner người mở trang — lọc việc của mình (Lãnh đạo / Nghiên cứu Hermes / ưu tiên cao)</li>
+          <li>Tự làm việc thật (gọi, ký, gặp…) — dùng kịch bản AI chuẩn bị sẵn nếu có</li>
           <li>
-            Kết quả khảo sát thực địa (số liệu Sở, giá khu công nghiệp) → cập nhật file nghiên cứu tương ứng
+            Xong → <strong>chính owner</strong> đổi trạng thái <code className="text-xs bg-white px-1 rounded">done</code>{" "}
+            (AI không tick thay)
           </li>
+          <li>Sau đó báo kết quả — Cursor cập nhật file nghiên cứu (việc desk không nằm trong Kim)</li>
         </ol>
       </section>
     </>
