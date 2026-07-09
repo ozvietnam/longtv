@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tce5,<h1>KD-GĐ2 — Sales pipeline &#x26; CRM (v1)</h1>
+<blockquote>
+<p><strong>Công cụ đề xuất:</strong> Google Sheet hoặc Notion (miễn phí) — không mua CRM giai đoạn đầu<br>
+<strong>Owner:</strong> Trưởng nhóm Kinh doanh</p>
+</blockquote>
+<hr>
+<h2>1. Các giai đoạn pipeline</h2>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Định nghĩa</th>
+<th>Hành động tiếp theo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Lead</strong></td>
+<td>Có contact, chưa qualify</td>
+<td>Gọi / WeChat trong 24h</td>
+</tr>
+<tr>
+<td><strong>Qualified</strong></td>
+<td>Có budget, timeline, ngành fit</td>
+<td>Gửi A0 checklist + book discovery</td>
+</tr>
+<tr>
+<td><strong>Proposal</strong></td>
+<td>Đã gửi báo giá A1/B1</td>
+<td>Follow-up 3 ngày</td>
+</tr>
+<tr>
+<td><strong>Negotiation</strong></td>
+<td>Đang thương lượng giá/phạm vi</td>
+<td>TGĐ vào nếu >5k USD</td>
+</tr>
+<tr>
+<td><strong>Won</strong></td>
+<td>Ký HĐ + deposit</td>
+<td>Kickoff SOP-A1</td>
+</tr>
+<tr>
+<td><strong>Lost</strong></td>
+<td>Từ chối / không phản hồi 30 ngày</td>
+<td>Ghi lý do, nurture 6 tháng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Cột CRM (Google Sheet)</h2>
+<table>
+<thead>
+<tr>
+<th>Cột</th>
+<th>Ví dụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ID</td>
+<td>L-2026-001</td>
+</tr>
+<tr>
+<td>Tên công ty</td>
+<td>某某制造有限公司</td>
+</tr>
+<tr>
+<td>Contact</td>
+<td>李总</td>
+</tr>
+<tr>
+<td>Kênh</td>
+<td>WeChat referral</td>
+</tr>
+<tr>
+<td>Ngành</td>
+<td>Linh kiện điện tử</td>
+</tr>
+<tr>
+<td>Tỉnh quan tâm</td>
+<td>TN</td>
+</tr>
+<tr>
+<td>Stage</td>
+<td>Proposal</td>
+</tr>
+<tr>
+<td>Giá trị (USD)</td>
+<td>3,500</td>
+</tr>
+<tr>
+<td>Xác suất %</td>
+<td>40%</td>
+</tr>
+<tr>
+<td>Owner</td>
+<td>Sales 1</td>
+</tr>
+<tr>
+<td>Ngày tạo</td>
+<td>2026-07-10</td>
+</tr>
+<tr>
+<td>Ngày follow-up</td>
+<td>2026-07-13</td>
+</tr>
+<tr>
+<td>Ghi chú</td>
+<td>Đã gửi proposal A1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Quy tắc vận hành</h2>
+<table>
+<thead>
+<tr>
+<th>Quy tắc</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Follow-up</td>
+<td>Mọi lead Qualified — tối thiểu 1 touch/tuần</td>
+</tr>
+<tr>
+<td>Handoff Won</td>
+<td>Sales → PM SP trong 24h (email kickoff)</td>
+</tr>
+<tr>
+<td>Lost reason</td>
+<td>Bắt buộc chọn: Giá / Timing / Đối thủ / Ngành không fit / Khác</td>
+</tr>
+<tr>
+<td>Báo cáo</td>
+<td>Thứ 6 hàng tuần — pipeline summary cho TGĐ</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Mục tiêu tháng 8–9 (pilot)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lead mới</td>
+<td>15/tháng</td>
+</tr>
+<tr>
+<td>Qualified</td>
+<td>5/tháng</td>
+</tr>
+<tr>
+<td>Proposal</td>
+<td>3/tháng</td>
+</tr>
+<tr>
+<td>Won (A1)</td>
+<td><strong>1</strong> trong 60 ngày</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Template báo cáo tuần (copy-paste)</h2>
+<pre><code>Pipeline tuần ___
+- Lead mới: __
+- Qualified: __
+- Proposal đang mở: __
+- Won tuần này: __
+- Lost: __ (lý do: ___)
+- Việc tuần tới: ___
+</code></pre>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="proposal-template-a1">Proposal A1</a></li>
+<li><a href="pitch-deck-v1">Pitch deck</a></li>
+<li><a href="/docs/07-operations/sop-a1-desk-research">SOP A1</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"sales-pipeline"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"sales-pipeline"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/provincial-incentives","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"provincial-incentives"}]]}],["$","$L2",null,{"href":"/docs/07-operations/sop-a1-desk-research","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sop-a1-desk-research"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

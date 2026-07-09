@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T1770,<h1>Tháng 7/2026 — Đặt nền móng &#x26; chốt hướng</h1>
+3:T1a02,<h1>Tháng 7/2026 — Đặt nền móng &#x26; chốt hướng</h1>
 <blockquote>
 <p><strong>Chủ đề tháng:</strong> LONGTV sẽ là ai trong 6 tháng tới?</p>
 <p><strong>Giai đoạn:</strong> <a href="/docs/06-phases/00-1-feasibility-plan">00-1 — Đánh giá tiềm năng</a> <em>(mục tiêu: có/không tiềm năng — chưa xây hệ thống chi tiết)</em></p>
@@ -197,15 +197,43 @@
 <hr>
 <h2>Tiêu chí hoàn thành tháng</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" disabled> 5 file TODO có ít nhất 3 task P0 mỗi phòng, status cập nhật</li>
-<li class="task-list-item"><input type="checkbox" disabled> Ít nhất 50% task P0 ở trạng thái <code>done</code> hoặc <code>doing</code></li>
-<li class="task-list-item"><input type="checkbox" disabled> File <code>2026-07.md</code> này có phương án đã chốt (B)</li>
-<li class="task-list-item"><input type="checkbox" disabled> Web hiển thị đầy đủ nguyên tắc + lộ trình + phòng ban</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> 5 file TODO có ít nhất 3 task P0 mỗi phòng, status cập nhật</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Ít nhất 50% task P0 ở trạng thái <code>done</code> hoặc <code>doing</code> — <strong>>80% done</strong></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> File <code>2026-07.md</code> này có phương án đã chốt (2 mảng + Hub)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Web hiển thị đầy đủ — <em>tạm hoãn theo Leader</em></li>
 </ul>
+<h2>Giai đoạn 00-1 — Hoàn thành</h2>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Memo tiềm năng</td>
+<td>✅ <a href="/docs/06-phases/00-1-market-memo">00-1-market-memo</a></td>
+</tr>
+<tr>
+<td>Catalog + journey map</td>
+<td>✅ ≥82% phủ</td>
+</tr>
+<tr>
+<td>Scorecard</td>
+<td>✅ 38/50</td>
+</tr>
+<tr>
+<td>Go/No-Go</td>
+<td>🔄 Draft <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tiếp theo:</strong> <a href="/docs/06-phases/02-giai-doan-2-overview">Giai đoạn 2</a></p>
 <hr>
 <h2>Xem trước tháng 8</h2>
 <p><strong>Chủ đề:</strong> Chốt sản phẩm &#x26; pháp nhân — Gói dịch vụ nào bán trước? (Retainer vs project fee vs success fee)</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-monthly-roadmap"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"roadmap"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Khai vấn định hướng tháng 7: LONGTV sẽ là ai trong 6 tháng tới? Mục tiêu P0 cho 5 phòng ban."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
-4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/00-org-model","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Chiến lược & Rủi ro"}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-monthly-roadmap"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"roadmap"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Khai vấn định hướng tháng 7: LONGTV sẽ là ai trong 6 tháng tới? Mục tiêu P0 cho 5 phòng ban."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/05-clarifications/kim-secretary-queue","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Hộp việc — Thư ký Kim"}]]}],["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-plan","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Kế hoạch triển khai chi tiết"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

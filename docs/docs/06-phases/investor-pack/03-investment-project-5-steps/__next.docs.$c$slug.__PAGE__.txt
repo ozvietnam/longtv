@@ -1,0 +1,507 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T2fd4,<h1>Lập dự án đầu tư — Quy trình 5 bước (UNIDO / World Bank)</h1>
+<blockquote>
+<p><strong>Dự án:</strong> Tổ hợp dịch vụ <strong>All-in-one</strong> (Tư vấn – Pháp lý – Logistics) phục vụ FDI Trung Quốc tại <strong>Hải Phòng</strong> &#x26; <strong>Thái Nguyên</strong><br>
+<strong>Chuẩn tham chiếu:</strong> UNIDO / World Bank — Investment Project Formulation<br>
+<strong>Thực địa:</strong> Pháp luật Việt Nam + điều kiện giấy phép chuyên ngành</p>
+</blockquote>
+<hr>
+<h2>Tổng quan 5 bước × LONGTV</h2>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Tên UNIDO</th>
+<th>LONGTV tương đương</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>Pre-Feasibility Study</td>
+<td>Giai đoạn 00-1 + All-in-one positioning</td>
+<td>✅ Desk</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>Technical &#x26; Operational Design</td>
+<td>Catalog G0–G8, SOP, org, đối tác</td>
+<td>✅ Desk / 🟡 MOU</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>Detailed Feasibility Study (FS)</td>
+<td>Financial model + NPV/IRR/Payback</td>
+<td>✅ Desk</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>Risk Analysis &#x26; Management</td>
+<td>Risk register + Plan B</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>Appraisal &#x26; Investment Decision</td>
+<td>Investor pack + QĐ #005</td>
+<td>🟡 Chờ ký</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Bước 1: Nghiên cứu tiền khả thi (Pre-Feasibility Study)</h2>
+<h3>1.1. Cơ hội &#x26; định vị thị trường</h3>
+<table>
+<thead>
+<tr>
+<th>Nội dung</th>
+<th>Deliverable LONGTV</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Làn sóng FDI TQ → VN</td>
+<td>FDI data deep dive</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></td>
+</tr>
+<tr>
+<td>Vì TN + HP</td>
+<td>Why TN/HP</td>
+<td><a href="/docs/04-research/2026-07/why-tn-hp">why-tn-hp</a></td>
+</tr>
+<tr>
+<td>Định vị All-in-one</td>
+<td>Một cửa A-Z, 6→3 tháng</td>
+<td><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></td>
+</tr>
+<tr>
+<td>Scorecard Go/No-Go</td>
+<td>38/50 Go + Adjust</td>
+<td><a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a></td>
+</tr>
+</tbody>
+</table>
+<h3>1.2. PESTEL &#x26; chính sách CIT</h3>
+<table>
+<thead>
+<tr>
+<th>Yếu tố</th>
+<th>HP</th>
+<th>TN</th>
+<th>Verify</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CIT KKT Đình Vũ–Cát Hải</td>
+<td>🟡 Desk</td>
+<td>—</td>
+<td>KIM-011</td>
+</tr>
+<tr>
+<td>Ưu đãi KCN</td>
+<td><a href="/docs/04-research/2026-07/hai-phong-fdi-policy">hai-phong-fdi-policy</a></td>
+<td><a href="/docs/04-research/2026-07/provincial-incentives">provincial-incentives</a></td>
+<td>Field</td>
+</tr>
+</tbody>
+</table>
+<h3>1.3. Thị trường mục tiêu</h3>
+<table>
+<thead>
+<tr>
+<th>Persona</th>
+<th>Mô tả</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lý Tổng</td>
+<td>NM TQ Tier 2–3, GD/Đầu tư</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a></td>
+</tr>
+<tr>
+<td>Ngành</td>
+<td>Điện tử, cơ khí, dệt may (TQ→VN)</td>
+<td><a href="/docs/06-phases/00-1-market-memo">market-memo</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận Bước 1:</strong> ✅ Đủ tiền khả thi để sang Bước 2–3; field PESTEL 🟡.</p>
+<hr>
+<h2>Bước 2: Thiết kế giải pháp kỹ thuật &#x26; Mô hình vận hành</h2>
+<blockquote>
+<p><strong>Bộ xương sống đầy đủ:</strong> <a href="/docs/07-operations/all-in-one-operational-manual">Operational Manual</a> (I–IV)</p>
+</blockquote>
+<h3>2.1. Lõi dịch vụ — ba trụ cột</h3>
+<table>
+<thead>
+<tr>
+<th>Trụ</th>
+<th>Thiết kế</th>
+<th>Tài liệu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pháp lý &#x26; tư vấn</strong></td>
+<td>IRC, ERC, môi trường, PCCC — qua luật</td>
+<td><a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></td>
+</tr>
+<tr>
+<td><strong>Logistics</strong></td>
+<td>HP: ICD/kho cảng; TN: consolidation + cao tốc</td>
+<td><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a> §4</td>
+</tr>
+<tr>
+<td><strong>Hub PM</strong></td>
+<td>Một cửa, song ngữ</td>
+<td><a href="/docs/03-departments/00-org-model">org-model</a></td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Hạ tầng vận hành (phased)</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Y1 (bootstrap)</th>
+<th>Y2–Y3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Văn phòng</td>
+<td>Virtual HN/HP</td>
+<td>Co-working / desk HP</td>
+</tr>
+<tr>
+<td>WMS / kho</td>
+<td>Đối tác</td>
+<td>MOU kho Lạch Huyện</td>
+</tr>
+<tr>
+<td>ICD</td>
+<td>Không CAPEX</td>
+<td>Đánh giá FS</td>
+</tr>
+<tr>
+<td>Oz HQ tools</td>
+<td>✅</td>
+<td>Tích hợp sâu</td>
+</tr>
+<tr>
+<td>Marketing TQ</td>
+<td>WeChat, Baidu 🟡</td>
+<td>+ case study CN</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Nhân sự cốt lõi</h3>
+<ul>
+<li>Luật VN + <strong>tiếng Trung thương mại</strong> (hoặc biên dịch chuyên sâu)</li>
+<li>2 sales outbound TQ</li>
+<li>PM một cửa Full Setup</li>
+</ul>
+<p><strong>Kết luận Bước 2:</strong> ✅ Thiết kế desk; 🔴 MOU luật/HQ chưa ký.</p>
+<hr>
+<h2>Bước 3: Nghiên cứu khả thi chi tiết (Detailed FS)</h2>
+<h3>3.1. Kế hoạch doanh thu</h3>
+<table>
+<thead>
+<tr>
+<th>Nguồn</th>
+<th>Mô tả</th>
+<th>% DT (Y2 base)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setup fee</td>
+<td>A1, B1, B2, bundle</td>
+<td>55%</td>
+</tr>
+<tr>
+<td>Retainer</td>
+<td>C1 4h/tháng</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Logistics volume</td>
+<td>Phí theo lô / tháng (pass-through + margin)</td>
+<td>25%</td>
+</tr>
+</tbody>
+</table>
+<p>→ <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a></p>
+<h3>3.2. CAPEX &#x26; OPEX</h3>
+<table>
+<thead>
+<tr>
+<th>Loại</th>
+<th>Y1 (triệu VND)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CAPEX</strong></td>
+<td>43–107 (thành lập) + 0 kho</td>
+<td>Không đầu tư kho Y1</td>
+</tr>
+<tr>
+<td><strong>OPEX</strong></td>
+<td>480–1.300/năm</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/use-of-funds-2b">use-of-funds-2b</a></td>
+</tr>
+<tr>
+<td>WMS (SaaS)</td>
+<td>6–18 / 6 tháng</td>
+<td>Thuê, không mua</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3. Chỉ số tài chính (NPV, IRR, Payback)</h3>
+<p>→ Chi tiết tính toán: <a href="/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics">feasibility-study-fs-metrics</a></p>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Base (5 năm)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>NPV</strong> @12%</td>
+<td><strong>+~420 triệu VND</strong></td>
+<td>Trên vốn triển khai 800M</td>
+</tr>
+<tr>
+<td><strong>IRR</strong></td>
+<td><strong>~19%</strong></td>
+<td>Dịch vụ, không kho</td>
+</tr>
+<tr>
+<td><strong>Payback</strong></td>
+<td><strong>~3,2 năm</strong></td>
+<td>Từ dòng tiền triển khai</td>
+</tr>
+</tbody>
+</table>
+<p><em>Conservative — cập nhật sau deal thật.</em></p>
+<p><strong>Kết luận Bước 3:</strong> ✅ Đủ FS desk cho CTCP tư vấn + hub; <strong>FS riêng</strong> nếu đầu tư kho/ICD Y3.</p>
+<hr>
+<h2>Bước 4: Phân tích rủi ro &#x26; Quản trị</h2>
+<h3>4.1. Ma trận rủi ro</h3>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Xác suất</th>
+<th>Tác động</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pháp lý logistics FDI</strong></td>
+<td>TB</td>
+<td>Cao</td>
+<td>MOU đối tác VN; không TQ góp entity logistics Y1</td>
+</tr>
+<tr>
+<td><strong>Deep C / VSIP in-house miễn phí</strong></td>
+<td>Cao</td>
+<td>TB</td>
+<td>All-in-one <strong>sau IRC</strong> + logistics + retainer</td>
+</tr>
+<tr>
+<td><strong>Timeline 3 tháng không đạt</strong></td>
+<td>TB</td>
+<td>TB</td>
+<td>Disclaimer ngành đặc biệt; SLA milestone</td>
+</tr>
+<tr>
+<td><strong>DTM TN chậm</strong></td>
+<td>TB</td>
+<td>Cao</td>
+<td>Pre-screen ngành A1</td>
+</tr>
+<tr>
+<td><strong>Thay đổi luật HQ/WTO</strong></td>
+<td>Thấp</td>
+<td>Cao</td>
+<td>Hermes monitor + đối tác đủ điều kiện</td>
+</tr>
+<tr>
+<td><strong>Pricing bị ép</strong></td>
+<td>TB</td>
+<td>TB</td>
+<td>Floor + bundle</td>
+</tr>
+<tr>
+<td><strong>0 khách 90 ngày</strong></td>
+<td>TB</td>
+<td>Cao</td>
+<td><a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b-no-revenue</a></td>
+</tr>
+</tbody>
+</table>
+<h3>4.2. Cạnh tranh KCN in-house</h3>
+<table>
+<thead>
+<tr>
+<th>Đối thủ</th>
+<th>Ưu thế họ</th>
+<th>Phản bác LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deep C, VSIP</td>
+<td>Thủ tục ban đầu miễn phí/rẻ</td>
+<td>Chỉ 1 KCN — LONGTV <strong>2 tỉnh + HQ + TQ</strong></td>
+</tr>
+<tr>
+<td>Công ty luật lớn</td>
+<td>Brand</td>
+<td>Không logistics, không TN</td>
+</tr>
+<tr>
+<td>Forwarder</td>
+<td>Giá vận chuyển</td>
+<td>Không FDI policy, không song ngữ</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thông điệp:</strong> <em>"KCN giúp anh vào cổng — LONGTV giúp anh <strong>vận hành</strong> và <strong>xuất nhập</strong> sau khi vào."</em></p>
+<h3>4.3. Quản trị</h3>
+<ul>
+<li>RACI: <a href="/docs/03-departments/00-org-model">org-model</a></li>
+<li>Burn weekly: <a href="/docs/03-departments/05-van-hanh-tc/burn-tracker">burn-tracker</a></li>
+<li>Plan B: cắt marketing 50%, delay CAPEX kho</li>
+</ul>
+<p><strong>Kết luận Bước 4:</strong> 🟡 Desk đủ; cần case study chứng minh vs KCN in-house.</p>
+<hr>
+<h2>Bước 5: Thẩm định &#x26; Ra quyết định đầu tư</h2>
+<h3>5.1. Hồ sơ trình duyệt</h3>
+<table>
+<thead>
+<tr>
+<th>Thành phần</th>
+<th>Tài liệu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Executive summary</td>
+<td><a href="01-executive-summary">01-executive-summary</a></td>
+</tr>
+<tr>
+<td>Investment verdict</td>
+<td><a href="00-investment-verdict">00-investment-verdict</a></td>
+</tr>
+<tr>
+<td>Business plan / FS</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> + <a href="/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics">fs-metrics</a></td>
+</tr>
+<tr>
+<td>Pitch deck</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/investor-pitch-deck">investor-pitch-deck</a></td>
+</tr>
+<tr>
+<td>Cap table</td>
+<td><a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a></td>
+</tr>
+<tr>
+<td>Quyết định nội bộ</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+</tr>
+</tbody>
+</table>
+<h3>5.2. Đối tượng thẩm định</h3>
+<table>
+<thead>
+<tr>
+<th>Đối tượng</th>
+<th>Gói tài liệu</th>
+<th>Đủ chưa?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HĐQT / cổ đông TQ+VN</td>
+<td>Bước 1–3 + verdict</td>
+<td>✅ Có điều kiện</td>
+</tr>
+<tr>
+<td>Tổ chức tài chính lớn</td>
+<td>+ traction + NPV audit</td>
+<td>🟡 Chờ HĐ</td>
+</tr>
+<tr>
+<td>Ngân hàng (nếu vay Y2)</td>
+<td>+ collateral / cash flow</td>
+<td>🔴 Chưa</td>
+</tr>
+</tbody>
+</table>
+<h3>5.3. Quyết định đề xuất</h3>
+<p><strong>Phê duyệt triển khai Giai đoạn 2 (lean)</strong> với ngân sách vận hành <strong>500M</strong> từ 2 tỷ, <strong>không</strong> CAPEX kho/ICD cho đến khi có ≥5 khách và MOU logistics.</p>
+<hr>
+<h2>Map thời gian thực hiện 5 bước</h2>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Đã làm (desk)</th>
+<th>Field / Leader còn lại</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>T7/2026</td>
+<td>Call Sở/KCN</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T7/2026</td>
+<td>MOU luật + HQ</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T7/2026</td>
+<td>Chọn Base/Bull (KIM-075)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>T7/2026</td>
+<td>Pilot + case study</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chờ</td>
+<td>Ký QĐ #005, pitch</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="00-index">Investor pack index</a></li>
+<li><a href="/docs/07-operations/all-in-one-operational-manual"><strong>Operational Manual</strong></a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">All-in-one service complex</a></li>
+<li><a href="/kim">/kim</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"investor-pack"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-investment-project-5-steps"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Lập dự án đầu tư — Quy trình 5 bước chuẩn UNIDO/World Bank"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Investment Project Formulation cho tổ hợp All-in-one LONGTV — map deliverable hiện có và gap theo từng bước."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/02-pitch-gap-checklist","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Checklist thiếu sót — Pitch kêu gọi vốn & tuyển C-level"}]]}],["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-overview","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Xây hệ thống vận hành (overview)"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

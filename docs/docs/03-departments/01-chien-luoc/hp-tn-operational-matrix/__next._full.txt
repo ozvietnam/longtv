@@ -1,0 +1,420 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/39fwajqehek4j.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","01-chien-luoc","hp-tn-operational-matrix",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/01-chien-luoc/hp-tn-operational-matrix","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/0g5aankrz05z-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],"$L6","$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"I5sTpNvMpMM-BwO-9Q4rQ"}
+11:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc cần người"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T221e,<h1>Ma trận vận hành — Hải Phòng vs Thái Nguyên</h1>
+<blockquote>
+<p>Do đặc thù địa lý và ngành nghề khác nhau, <strong>cùng một dịch vụ All-in-one</strong> nhưng <strong>hạng mục hành động</strong> và <strong>đối tác</strong> phải chuyên môn hóa theo tỉnh.</p>
+</blockquote>
+<hr>
+<h2>1. So sánh tổng quan</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th><strong>Hải Phòng</strong></th>
+<th><strong>Thái Nguyên</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Trọng tâm</strong></td>
+<td>Cảng biển &#x26; hậu cần</td>
+<td>Công nghệ cao &#x26; thủ tục nội địa</td>
+</tr>
+<tr>
+<td><strong>Lợi thế địa lý</strong></td>
+<td>Lạch Huyện, Đình Vũ; đường biển ↔ Nam Trung Quốc</td>
+<td>Lạng Sơn, Móng Cái; cao tốc HN–TN</td>
+</tr>
+<tr>
+<td><strong>KCN then chốt</strong></td>
+<td>Nam Đình Vũ, DEEP C, VSIP, Tràng Duệ</td>
+<td>Yên Bình, Sông Công, Điềm Thụy</td>
+</tr>
+<tr>
+<td><strong>Ngành FDI TQ</strong></td>
+<td>Cơ khí, ô tô, logistics</td>
+<td>Điện tử, linh kiện, dệt may</td>
+</tr>
+<tr>
+<td><strong>Cơ quan then chốt</strong></td>
+<td>HQ HP, HEZA, Cục HQ</td>
+<td>Sở KH&#x26;ĐT TN, Ban QLKCN</td>
+</tr>
+<tr>
+<td><strong>Rào cản pháp lý</strong></td>
+<td>GP logistics FDI, kho ngoại quan</td>
+<td><strong>ĐTM</strong>, quy hoạch đất, <strong>EPE</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Hải Phòng — Hạng mục hành động chi tiết</h2>
+<h3>2.1. Dịch vụ trọng tâm</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Hạng mục</th>
+<th>Mô tả</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HP-01</td>
+<td><strong>Giấy phép kho ngoại quan</strong></td>
+<td>Bonded warehouse — hàng chưa thông quan</td>
+<td>Đối tác kho + luật</td>
+</tr>
+<tr>
+<td>HP-02</td>
+<td><strong>Chuyển cảng / cảng đích</strong></td>
+<td>Lạch Huyện ↔ Đình Vũ ↔ ICD</td>
+<td>Forwarder</td>
+</tr>
+<tr>
+<td>HP-03</td>
+<td><strong>CO Form E, Form KV</strong></td>
+<td>Xuất khẩu FTA / ASEAN</td>
+<td>Chứng từ</td>
+</tr>
+<tr>
+<td>HP-04</td>
+<td><strong>Demurrage / detention</strong></td>
+<td>Tối ưu lưu container tại cảng</td>
+<td>Ops HP</td>
+</tr>
+<tr>
+<td>HP-05</td>
+<td><strong>Customs brokerage</strong></td>
+<td>ECUS5-VNACCS qua đại lý</td>
+<td>Đối tác HQ</td>
+</tr>
+<tr>
+<td>HP-06</td>
+<td>Kéo container cảng → KCN</td>
+<td>Đường bộ ngắn</td>
+<td>TMS đối tác</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Quan hệ chiến lược cần xây</h3>
+<table>
+<thead>
+<tr>
+<th>Đối tượng</th>
+<th>Mục đích</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cục HQ Hải Phòng</strong></td>
+<td>Thủ tục, phân luồng</td>
+<td>🟡 Field</td>
+</tr>
+<tr>
+<td><strong>HEZA</strong> (KKT Đình Vũ–Cát Hải)</td>
+<td>CIT, quỹ đất</td>
+<td>KIM-011</td>
+</tr>
+<tr>
+<td>Ban QLKCN Nam Đình Vũ</td>
+<td>Giá đất, onboarding</td>
+<td>KIM-013</td>
+</tr>
+<tr>
+<td>Hãng tàu (COSCO, Maersk, SITC)</td>
+<td>Schedule, freight</td>
+<td>Y2</td>
+</tr>
+<tr>
+<td>DEEP C / VSIP</td>
+<td>Lead referral</td>
+<td>Y2 MOU</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Tuyến logistics điển hình</h3>
+<pre><code>Cảng Nam Trung Quốc ──biển──► Lạch Huyện / Đình Vũ ──kéo──► Nam Đình Vũ / DEEP C
+</code></pre>
+<hr>
+<h2>3. Thái Nguyên — Hạng mục hành động chi tiết</h2>
+<h3>3.1. Dịch vụ trọng tâm</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Hạng mục</th>
+<th>Mô tả</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TN-01</td>
+<td><strong>EPE</strong> (Doanh nghiệp chế xuất)</td>
+<td>Miễn VAT, NK trong phi thuế quan</td>
+<td>Luật + Sở</td>
+</tr>
+<tr>
+<td>TN-02</td>
+<td><strong>On-spot XNK</strong></td>
+<td>Xuất nhập tại chỗ cho chuỗi SX</td>
+<td>HQ + Ops</td>
+</tr>
+<tr>
+<td>TN-03</td>
+<td><strong>ĐTM / GP môi trường</strong></td>
+<td>Điện tử, xi mạ — kiểm soát nước thải</td>
+<td>Tư vấn MT</td>
+</tr>
+<tr>
+<td>TN-04</td>
+<td><strong>Tuyển dụng quy mô lớn</strong></td>
+<td>LĐ phổ thông / kỹ sư — cạnh tranh Samsung</td>
+<td>HR đối tác</td>
+</tr>
+<tr>
+<td>TN-05</td>
+<td>Vận tải bộ từ cửa khẩu</td>
+<td>Hữu Nghị, Tân Thanh, Móng Cái → TN</td>
+<td>Vận tải</td>
+</tr>
+<tr>
+<td>TN-06</td>
+<td>Consolidation warehouse</td>
+<td>Gom hàng trước vào KCN</td>
+<td>Y2</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2. Quan hệ chiến lược cần xây</h3>
+<table>
+<thead>
+<tr>
+<th>Đối tượng</th>
+<th>Mục đích</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sở KH&#x26;ĐT TN</strong></td>
+<td>FDI TQ, quỹ hỗ trợ</td>
+<td>KIM-010</td>
+</tr>
+<tr>
+<td>Ban QLKCN <strong>Yên Bình</strong></td>
+<td>Giá đất lô nhỏ</td>
+<td>KIM-012</td>
+</tr>
+<tr>
+<td>Sở LĐTBXH</td>
+<td>Tuyển dụng, WP</td>
+<td>Y2</td>
+</tr>
+<tr>
+<td>Đối tác HR / headhunt</td>
+<td>Cung ứng LĐ</td>
+<td>Y2</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3. Tuyến logistics điển hình</h3>
+<pre><code>TQ (sản xuất) ──bộ──► Lạng Sơn / Móng Cái ──cao tốc──► KCN Yên Bình / Sông Công
+</code></pre>
+<hr>
+<h2>4. Ma trận dịch vụ × tỉnh</h2>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ All-in-one</th>
+<th>HP</th>
+<th>TN</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Site selection A1</td>
+<td>✅ Core</td>
+<td>✅ Core</td>
+<td>Khác KCN list</td>
+</tr>
+<tr>
+<td>Pre-FS CIT</td>
+<td>KKT Đình Vũ</td>
+<td>KCN ưu đãi</td>
+<td>Field verify</td>
+</tr>
+<tr>
+<td>IRC / ERC</td>
+<td>✅</td>
+<td>✅</td>
+<td>Giống quy trình</td>
+</tr>
+<tr>
+<td>ĐTM / PCCC</td>
+<td>🟡</td>
+<td>✅ <strong>Ưu tiên</strong></td>
+<td>TN gắt hơn</td>
+</tr>
+<tr>
+<td>EPE setup</td>
+<td>🟡</td>
+<td>✅ <strong>Core</strong></td>
+<td>TN electronics</td>
+</tr>
+<tr>
+<td>Customs brokerage</td>
+<td>✅ <strong>Core</strong></td>
+<td>✅ On-spot</td>
+<td></td>
+</tr>
+<tr>
+<td>Kho ngoại quan</td>
+<td>✅</td>
+<td>🟡</td>
+<td>HP cảng</td>
+</tr>
+<tr>
+<td>CO Form E/KV</td>
+<td>✅ <strong>Core</strong></td>
+<td>🟡</td>
+<td>HP xuất</td>
+</tr>
+<tr>
+<td>Tuyển dụng LĐ</td>
+<td>🟡</td>
+<td>✅ <strong>Core</strong></td>
+<td>TN Samsung hub</td>
+</tr>
+<tr>
+<td>Repack / labeling</td>
+<td>✅</td>
+<td>✅</td>
+<td>Cả hai</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Phân công team theo tỉnh (Y2+)</h2>
+<table>
+<thead>
+<tr>
+<th>Vai trò</th>
+<th>HP</th>
+<th>TN</th>
+<th>Kiêm (Y1)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Project Director</td>
+<td>Oversight</td>
+<td>Oversight</td>
+<td>TGĐ</td>
+</tr>
+<tr>
+<td>Ops hiện trường</td>
+<td>2</td>
+<td>1</td>
+<td>PM đi cả hai</td>
+</tr>
+<tr>
+<td>Docs HQ</td>
+<td>2</td>
+<td>1</td>
+<td>Đối tác</td>
+</tr>
+<tr>
+<td>BD</td>
+<td>1–2 (cảng/logistics)</td>
+<td>1 (điện tử)</td>
+<td>2 sales chung</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Khách điển hình — chọn tỉnh</h2>
+<table>
+<thead>
+<tr>
+<th>Profile NM TQ</th>
+<th>Khuyến nghị</th>
+<th>Lý do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Xuất nhập qua cảng, máy nặng</td>
+<td><strong>HP</strong></td>
+<td>Lạch Huyện</td>
+</tr>
+<tr>
+<td>Linh kiện điện tử, phụ trợ</td>
+<td><strong>TN</strong></td>
+<td>Gần Samsung chain</td>
+</tr>
+<tr>
+<td>SX TN + xuất cảng</td>
+<td><strong>Split</strong></td>
+<td>NM TN + desk HP logistics</td>
+</tr>
+<tr>
+<td>Dệt may từ Chiết Giang</td>
+<td><strong>TN</strong> / Bắc Giang mở rộng</td>
+<td>Lao động</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Field checklist (Hermes / Leader)</h2>
+<h3>Hải Phòng</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> CIT KKT Đình Vũ–Cát Hải 2026 (KIM-077)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Giá đất Nam Đình Vũ Q3 (KIM-013)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điều kiện kho ngoại quan — đối tác</li>
+</ul>
+<h3>Thái Nguyên</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> FDI TQ thực tế vs Samsung (KIM-010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Yên Bình quỹ lô SME (KIM-012)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Quy trình EPE tại Sở — desk note</li>
+</ul>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/03-departments/04-san-pham/all-in-one-service-portfolio">Service portfolio</a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></li>
+<li><a href="/docs/07-operations/all-in-one-operational-manual">Operational manual</a></li>
+</ul>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"hp-tn-operational-matrix"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Ma trận vận hành thực địa — Hải Phòng vs Thái Nguyên"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Phân công chuyên môn hóa theo địa lý: cảng & hậu cần (HP) vs công nghệ cao & thủ tục nội địa (TN)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/all-in-one-service-complex","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Tổ hợp dịch vụ All-in-one — Tư vấn · Pháp lý · Logistics"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/strategy-3yr","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Chiến lược phát triển 3 năm — LONGTV"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"Ma trận vận hành thực địa — Hải Phòng vs Thái Nguyên · LongTV"}],["$","meta","1",{"name":"description","content":"Phân công chuyên môn hóa theo địa lý: cảng & hậu cần (HP) vs công nghệ cao & thủ tục nội địa (TN)."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]

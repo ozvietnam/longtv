@@ -1,0 +1,387 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/39fwajqehek4j.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","05-van-hanh-tc","all-in-one-tech-infrastructure",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/0g5aankrz05z-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],"$L6","$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"I5sTpNvMpMM-BwO-9Q4rQ"}
+11:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc cần người"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T225f,<h1>All-in-One — Hạ tầng &#x26; Công nghệ</h1>
+<blockquote>
+<p><strong>Mục tiêu:</strong> Một nguồn dữ liệu khách FDI xuyên suốt <strong>Tiếp cận → Khảo sát → Nộp hồ sơ → Vận hành</strong> — không chồng chéo Sheet/email/WeChat rời.</p>
+</blockquote>
+<hr>
+<h2>1. Kiến trúc tổng quan</h2>
+<pre><code>                    ┌─────────────────────────────────┐
+                    │     LONGTV Hub (PM + BD)        │
+                    │  CRM · Kho tri thức web · WeChat │
+                    └───────────┬─────────────────────┘
+          ┌─────────────────────┼─────────────────────┐
+          ▼                     ▼                     ▼
+   ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+   │ Pháp lý     │      │ Hải quan    │      │ Kho / TMS   │
+   │ (đối tác)   │      │ ECUS5-VNACCS│      │ WMS đối tác │
+   └─────────────┘      └─────────────┘      └─────────────┘
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Lớp</th>
+<th>Y1</th>
+<th>Y2</th>
+<th>Y3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hub</strong></td>
+<td>Sheet CRM + longtv web</td>
+<td>Zoho/HubSpot</td>
+<td>+ API tích hợp</td>
+</tr>
+<tr>
+<td><strong>HQ</strong></td>
+<td>Oz tools + đối tác ECUS</td>
+<td>Portal đối tác</td>
+<td>Joint account</td>
+</tr>
+<tr>
+<td><strong>Kho</strong></td>
+<td>Email + đối tác</td>
+<td>WMS read-only khách</td>
+<td>TMS tracking</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Hệ thống phần mềm</h2>
+<h3>2.1. CRM — theo dõi hành trình NĐT</h3>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn</th>
+<th>Công cụ</th>
+<th>Chi phí</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Y1</strong></td>
+<td>Google Sheet / Notion (<a href="/docs/03-departments/03-kinh-doanh/sales-pipeline">sales-pipeline</a>)</td>
+<td>Miễn phí</td>
+</tr>
+<tr>
+<td><strong>Y2</strong></td>
+<td><strong>Zoho CRM</strong> hoặc HubSpot Starter</td>
+<td>~$15–50/user/tháng</td>
+</tr>
+<tr>
+<td><strong>Y3</strong></td>
+<td>CRM + automation WeChat lead</td>
+<td>Tùy tích hợp</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pipeline stage map All-in-one:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Stage CRM</th>
+<th>Milestone</th>
+<th>Trụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lead</td>
+<td>A0</td>
+<td>BD</td>
+</tr>
+<tr>
+<td>Qualified</td>
+<td>Budget + timeline</td>
+<td>BD</td>
+</tr>
+<tr>
+<td>Khảo sát</td>
+<td>A1 kickoff</td>
+<td>PM</td>
+</tr>
+<tr>
+<td>Nộp hồ sơ</td>
+<td>IRC filed</td>
+<td>Pháp lý</td>
+</tr>
+<tr>
+<td>Thành lập</td>
+<td>ERC + MST</td>
+<td>Pháp lý</td>
+</tr>
+<tr>
+<td>Vận hành</td>
+<td>Tờ khai #1</td>
+<td>Logistics</td>
+</tr>
+<tr>
+<td>Retainer</td>
+<td>C1 active</td>
+<td>PM</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Phần mềm khai Hải quan — ECUS5 / VNACCS</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Y1</strong></td>
+<td>Đối tác đại lý HQ khai thay — LONGTV <strong>không</strong> mở tài khoản ECUS</td>
+</tr>
+<tr>
+<td><strong>Y2</strong></td>
+<td>MOU: LONGTV nhân viên được cấp user phụ trên hệ đối tác</td>
+</tr>
+<tr>
+<td><strong>Y3</strong></td>
+<td>Đánh giá đăng ký <strong>tài khoản đại lý</strong> riêng (nếu đủ NV có chứng chỉ)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Điều kiện:</strong> Chứng chỉ nghiệp vụ HQ TCHQ — <a href="all-in-one-headcount-matrix">headcount-matrix</a></p>
+<p><strong>Công cụ nội bộ hiện có:</strong> Oz HQ tools (pre-ECUS checklist, HS draft)</p>
+<h3>2.3. WMS &#x26; TMS — kho và vận tải</h3>
+<table>
+<thead>
+<tr>
+<th>Hệ thống</th>
+<th>Chức năng</th>
+<th>Giai đoạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WMS</strong></td>
+<td>Tồn kho, repack, labeling</td>
+<td>Y2 MOU kho HP</td>
+</tr>
+<tr>
+<td><strong>TMS</strong></td>
+<td>Container tracking, Lạch Huyện → NM</td>
+<td>Y2</td>
+</tr>
+<tr>
+<td><strong>Portal khách</strong></td>
+<td>Real-time tra cứu (web/TQ)</td>
+<td>Y3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Y1:</strong> Báo cáo tuần PDF/WeChat — không đầu tư WMS owned.</p>
+<h3>2.4. Kho tri thức &#x26; website</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Web 3 ngôn ngữ (VN/CN/EN)</td>
+<td>🟡 VN đủ; CN pitch/onpager</td>
+</tr>
+<tr>
+<td><code>/docs</code>, <code>/services</code>, <code>/kim</code></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Oz longtv GitHub</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Văn phòng &#x26; điểm chạm vật lý</h2>
+<table>
+<thead>
+<tr>
+<th>Điểm</th>
+<th>Y1 (bootstrap)</th>
+<th>Y2–Y3 (mục tiêu)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Trụ sở / HN</strong></td>
+<td>Virtual office</td>
+<td>Co-working</td>
+</tr>
+<tr>
+<td><strong>Chi nhánh HP</strong></td>
+<td>Virtual + đi công tác</td>
+<td><strong>Lê Hồng Phong</strong> hoặc gần Đình Vũ — gần HEZA, HQ HP</td>
+</tr>
+<tr>
+<td><strong>VP đại diện TN</strong></td>
+<td>On-site theo lịch</td>
+<td>Gần <strong>KCN Yên Bình</strong> / TP Thái Nguyên</td>
+</tr>
+<tr>
+<td><strong>Kho / ICD</strong></td>
+<td>Không</td>
+<td>MOU đối tác Lạch Huyện</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Chi phí Y1:</strong> 3–5M/tháng virtual — <a href="use-of-funds-2b">use-of-funds-2b</a><br>
+<strong>Chi phí Y2 HP desk:</strong> 8–15M/tháng (co-working + đi lại)</p>
+<hr>
+<h2>4. Công cụ truyền thông &#x26; Guanxi</h2>
+<table>
+<thead>
+<tr>
+<th>Kênh</th>
+<th>Mục đích</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WeChat 企业号</strong></td>
+<td>Nurture lead TQ, gửi báo cáo A1</td>
+<td>BD</td>
+</tr>
+<tr>
+<td>Video ngắn (Douyin/Channels)</td>
+<td>Luật VN bằng tiếng Trung</td>
+<td>Marketing</td>
+</tr>
+<tr>
+<td>One-pager CN</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/bundle-onepager-zh">bundle-onepager-zh</a></td>
+<td>KD</td>
+</tr>
+<tr>
+<td>Email chính thức</td>
+<td>HĐ, milestone</td>
+<td>PM</td>
+</tr>
+</tbody>
+</table>
+<p><strong>KIM-004:</strong> Điền WeChat / contact lên tài liệu CN.</p>
+<hr>
+<h2>5. Bảo mật &#x26; dữ liệu</h2>
+<table>
+<thead>
+<tr>
+<th>Quy tắc</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dữ liệu khách</td>
+<td>CRM + folder Drive theo mã KH-YYYY-NNN</td>
+</tr>
+<tr>
+<td>Hồ sơ pháp lý</td>
+<td>Chỉ luật đối tác + PM — NDA</td>
+</tr>
+<tr>
+<td>ECUS</td>
+<td>Tài khoản đối tác — không share password</td>
+</tr>
+<tr>
+<td>Backup</td>
+<td>Git repo nội bộ + Drive weekly</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Ngân sách công nghệ (VND/năm)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Y1</th>
+<th>Y2</th>
+<th>Y3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SaaS (CRM, email, AI)</td>
+<td>24–48M</td>
+<td>60–120M</td>
+<td>120–200M</td>
+</tr>
+<tr>
+<td>Web / hosting</td>
+<td>5–20M</td>
+<td>20–40M</td>
+<td>40M</td>
+</tr>
+<tr>
+<td>ECUS (phí đối tác)</td>
+<td>Pass-through</td>
+<td>Pass-through</td>
+<td>Own account?</td>
+</tr>
+<tr>
+<td>WMS/TMS license</td>
+<td>0</td>
+<td>50–100M</td>
+<td>100–200M</td>
+</tr>
+<tr>
+<td><strong>Tổng</strong></td>
+<td><strong>~30–70M</strong></td>
+<td><strong>~130–260M</strong></td>
+<td><strong>~260–440M</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Checklist triển khai tech Y1</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> longtv web + <code>/kim</code> + <code>/operations</code></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Pipeline Sheet template</li>
+<li class="task-list-item"><input type="checkbox" disabled> WeChat doanh nghiệp verified</li>
+<li class="task-list-item"><input type="checkbox" disabled> MOU đại lý HQ + quy trình nhận tờ khai (KIM-076)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Folder Drive chuẩn <code>KH-</code> structure</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chọn Zoho vs HubSpot (Q4/2026)</li>
+</ul>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/03-departments/04-san-pham/all-in-one-service-portfolio">Service portfolio</a></li>
+<li><a href="/docs/07-operations/all-in-one-operational-manual">Operational manual</a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">HP vs TN matrix</a></li>
+</ul>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-tech-infrastructure"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"All-in-One — Hạ tầng & Công nghệ (Tech-stack)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"CRM, ECUS-VNACCS, WMS/TMS, văn phòng HP/TN, WeChat — lộ trình theo giai đoạn tránh chồng chéo dữ liệu."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Vận hành & Tài chính"}]]}],["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mẫu hợp đồng & MOU"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"All-in-One — Hạ tầng & Công nghệ (Tech-stack) · LongTV"}],["$","meta","1",{"name":"description","content":"CRM, ECUS-VNACCS, WMS/TMS, văn phòng HP/TN, WeChat — lộ trình theo giai đoạn tránh chồng chéo dữ liệu."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]

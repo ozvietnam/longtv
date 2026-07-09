@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/39fwajqehek4j.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","05-van-hanh-tc","break-even-analysis",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/05-van-hanh-tc/break-even-analysis","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/0g5aankrz05z-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],"$L6","$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"I5sTpNvMpMM-BwO-9Q4rQ"}
+11:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc cần người"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T156f,<h1>Phân tích hòa vốn — LONGTV (V6.3)</h1>
+<blockquote>
+<p><strong>Công thức cốt lõi:</strong> <code>Doanh thu × Gross margin ≥ OPEX</code> → hòa vốn vận hành</p>
+</blockquote>
+<hr>
+<h2>1. Tham số hiện tại</h2>
+<table>
+<thead>
+<tr>
+<th>Tham số</th>
+<th>Giá trị</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OPEX tháng (bootstrap)</td>
+<td><strong>55–75M</strong> VND</td>
+<td>T7–T9, chưa full sales</td>
+</tr>
+<tr>
+<td>OPEX tháng (full lean)</td>
+<td><strong>90–125M</strong> VND</td>
+<td><a href="burn-tracker">burn-tracker</a></td>
+</tr>
+<tr>
+<td>Gross margin</td>
+<td><strong>58%</strong></td>
+<td><a href="financial-model-3yr">financial-model-3yr</a></td>
+</tr>
+<tr>
+<td>A1 trung bình</td>
+<td><strong>$3.250</strong> ≈ <strong>81M</strong> VND</td>
+<td>Pricing mid</td>
+</tr>
+<tr>
+<td>B1 trung bình</td>
+<td><strong>$10.000</strong> ≈ <strong>250M</strong> VND</td>
+<td></td>
+</tr>
+<tr>
+<td>Bundle Khởi đầu</td>
+<td><strong>$3.200</strong> ≈ <strong>80M</strong> VND</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Hòa vốn tháng (full lean)</h2>
+<p><strong>OPEX = 100M/tháng</strong> (làm tròn)</p>
+<pre><code>Doanh thu cần = OPEX / GM = 100M / 0.58 ≈ 172M VND/tháng
+               ≈ $6.900 USD/tháng
+</code></pre>
+<h3>Quy đổi sang deal</h3>
+<table>
+<thead>
+<tr>
+<th>Mix doanh thu tháng</th>
+<th>Deal tương đương</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100% A1</td>
+<td><strong>~2,1 deal A1/tháng</strong></td>
+</tr>
+<tr>
+<td>70% A1 + 30% B1</td>
+<td><strong>~1,5 A1 + 0,2 B1/tháng</strong></td>
+</tr>
+<tr>
+<td>50% A1 + 50% B1</td>
+<td><strong>~1,1 A1 + 0,35 B1/tháng</strong></td>
+</tr>
+<tr>
+<td>1 B1/tháng</td>
+<td>Dư ~48M GP — đủ cover OPEX</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận:</strong> Với team full lean, cần <strong>~2 gói A1/tháng</strong> hoặc <strong>~1 B1/2–3 tháng</strong> để hòa vốn vận hành.</p>
+<hr>
+<h2>3. Hòa vốn bootstrap (T7–T9)</h2>
+<p><strong>OPEX = 65M/tháng</strong></p>
+<pre><code>Doanh thu cần = 65M / 0.58 ≈ 112M VND/tháng ≈ $4.500/tháng
+</code></pre>
+<p>→ <strong>~1,4 A1/tháng</strong> hoặc <strong>1 A1 + retainer nhỏ</strong>.</p>
+<p>Giai đoạn đầu <strong>chưa có 2 sales full</strong> — hòa vốn không phải mục tiêu T7–T8; mục tiêu là <strong>1 Won trong 60 ngày</strong>.</p>
+<hr>
+<h2>4. Thời điểm hòa vốn (timeline)</h2>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn</th>
+<th>OPEX/tháng</th>
+<th>Doanh thu/tháng (base)</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T7–T8/2026</td>
+<td>55–65M</td>
+<td>0–20M</td>
+<td>🔴 Burn</td>
+</tr>
+<tr>
+<td>T9–T10/2026</td>
+<td>75–90M</td>
+<td>30–60M</td>
+<td>🔴 Burn</td>
+</tr>
+<tr>
+<td>T11–T12/2026</td>
+<td>90–100M</td>
+<td>50–80M</td>
+<td>🟡 Gần</td>
+</tr>
+<tr>
+<td>Q1/2027</td>
+<td>100–110M</td>
+<td>80–120M</td>
+<td>🟡 Hòa vốn tháng tốt</td>
+</tr>
+<tr>
+<td>Q2/2027</td>
+<td>110–125M</td>
+<td>120–180M</td>
+<td>🟢 Hòa vốn ổn định</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Hòa vốn vận hành ổn định (base):</strong> <strong>Tháng 14–18</strong> kể từ T7/2026 (~Q2/2027).</p>
+<p><strong>Hòa vốn tích lũy (đã bù hết lỗ lũy kế):</strong> <strong>Tháng 24–30</strong> (Y2) — bình thường với consulting.</p>
+<hr>
+<h2>5. Điểm hòa vốn theo kịch bản</h2>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Tháng hòa vốn vận hành</th>
+<th>Điều kiện</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bear</td>
+<td>Tháng 20–24 hoặc không</td>
+<td>≤1 deal/quý</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>Tháng 14–18</td>
+<td>2 A1/quý + 1 B1/nửa năm</td>
+</tr>
+<tr>
+<td>Bull</td>
+<td>Tháng 10–12</td>
+<td>Kênh TQ mạnh + 2 B1/năm</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Đòn bẩy cải thiện hòa vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Hành động</th>
+<th>Tiết kiệm / tháng</th>
+<th>Trade-off</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Delay sales #2 đến có 1 Won</td>
+<td>10–15M</td>
+<td>Chậm pipeline</td>
+</tr>
+<tr>
+<td>Virtual thay co-working</td>
+<td>5–10M</td>
+<td>Ít không gian họp</td>
+</tr>
+<tr>
+<td>Cắt marketing 50% (Plan B)</td>
+<td>5–8M</td>
+<td>Ít lead</td>
+</tr>
+<tr>
+<td>Tăng giá A1 floor $3.5k</td>
+<td>+10% revenue/deal</td>
+<td>Mất price-sensitive</td>
+</tr>
+<tr>
+<td>Retainer C1 sau B1</td>
+<td>37M/khách/tháng</td>
+<td>Cần delivery tốt</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Ngưỡng cảnh báo</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Ngưỡng vàng</th>
+<th>Ngưỡng đỏ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Doanh thu rolling 3 tháng</td>
+<td>≥150M</td>
+<td>&#x3C;80M</td>
+</tr>
+<tr>
+<td>Deal/tháng (quy đổi A1)</td>
+<td>≥1.5</td>
+<td>&#x3C;0.5</td>
+</tr>
+<tr>
+<td>Runway</td>
+<td>≥9 tháng</td>
+<td>&#x3C;6 tháng</td>
+</tr>
+<tr>
+<td>Gross margin thực</td>
+<td>≥55%</td>
+<td>&#x3C;45%</td>
+</tr>
+</tbody>
+</table>
+<p>→ Kích hoạt <a href="/docs/04-research/2026-07/plan-b-no-revenue">Plan B</a> khi <strong>2 chỉ số đỏ</strong> cùng lúc.</p>
+<hr>
+<h2>8. Slide pitch (1 slide)</h2>
+<p><strong>Break-even:</strong> ~2 A1/month at $3.25k · Target month 15 (Q2 2027) · 2B capital = 18+ months runway at full burn</p>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="financial-model-3yr">Financial model 3yr</a></li>
+<li><a href="use-of-funds-2b">Use of funds</a></li>
+<li><a href="kpi-thang">KPI tháng</a></li>
+</ul>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"break-even-analysis"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Phân tích hòa vốn — LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"V6.3 — Số deal/tháng và thời điểm hòa vốn vận hành với burn 90–125M và margin 58%."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/all-in-one-service-portfolio","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio)"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/factory-operations-playbook-vn","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Playbook vận hành sản xuất — NM FDI TQ tại Việt Nam (G5)"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"Phân tích hòa vốn — LONGTV · LongTV"}],["$","meta","1",{"name":"description","content":"V6.3 — Số deal/tháng và thời điểm hòa vốn vận hành với burn 90–125M và margin 58%."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]

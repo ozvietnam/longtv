@@ -21,12 +21,16 @@ GitHub Pages **chưa được bật** trên repo nên link 404. Làm **1 trong 2
 
 Mỗi push `main` → GitHub Actions tự build + cập nhật `docs/` và `gh-pages`.
 
+**Nếu build Pages bị kẹt / lỗi:** đổi Source sang nhánh `gh-pages` · folder `/ (root)` → Save.
+
 | Trang | URL |
 |-------|-----|
 | Trang chủ | https://ozvietnam.github.io/longtv/ |
+| **Thư ký Kim** | https://ozvietnam.github.io/longtv/kim/ |
 | Giai đoạn 00-1 | https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/ |
 | Dịch vụ | https://ozvietnam.github.io/longtv/services/ |
 | Vận hành | https://ozvietnam.github.io/longtv/operations/ |
+| Investor pack | https://ozvietnam.github.io/longtv/docs/06-phases/investor-pack/00-index/ |
 
 ## Vercel (tùy chọn)
 

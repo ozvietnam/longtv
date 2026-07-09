@@ -1,0 +1,450 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T2925,<h1>All-in-One — Chi tiết khung dịch vụ</h1>
+<blockquote>
+<p><strong>Chuỗi giá trị:</strong> <em>Từ khi NĐT Trung Quốc khảo sát đất → container nguyên vật liệu đầu tiên thông quan vào nhà máy.</em></p>
+<p><strong>Thiết kế:</strong> Ba giai đoạn liên hoàn, một PM LONGTV điều phối — trụ pháp lý &#x26; logistics qua <strong>đối tác có giấy phép</strong> (<a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">licensed-entities</a>).</p>
+</blockquote>
+<hr>
+<h2>Sơ đồ chuỗi giá trị</h2>
+<pre><code>[KHẢO SÁT &#x26; PHÁP LÝ] ──► [THÀNH LẬP &#x26; XÂY DỰNG] ──► [VẬN HÀNH &#x26; LOGISTICS]
+     G0–G2                    G3–G4                      G5+
+  · Khảo sát địa điểm        · IRC / ERC                  · Đại lý hải quan
+  · Pre-FS / A1              · ĐTM / PCCC                 · Vận tải nội địa / quốc tế
+  · So sánh KCN              · Work permit / TRC          · Kho · repack · labeling
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn chuỗi</th>
+<th>Tuần (mục tiêu)</th>
+<th>Gói LONGTV</th>
+<th>SLA khách thấy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khảo sát &#x26; pháp lý</td>
+<td>1–4</td>
+<td>A0, A1, A2</td>
+<td>Báo cáo + chọn tỉnh/KCN</td>
+</tr>
+<tr>
+<td>Thành lập &#x26; xây dựng</td>
+<td>5–10</td>
+<td>B2, bundle</td>
+<td>IRC + ERC + sub-license</td>
+</tr>
+<tr>
+<td>Vận hành &#x26; logistics</td>
+<td>11–12+</td>
+<td>B1, B3, C1</td>
+<td>Tờ khai đầu + lô NVL vào NM</td>
+</tr>
+</tbody>
+</table>
+<p><em>Tổng mục tiêu Full Setup: <strong>~12 tuần</strong> — <a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></em></p>
+<hr>
+<h2>Trụ cột 1: Tư vấn chiến lược &#x26; Khảo sát ban đầu</h2>
+<h3>1.1. Khảo sát địa điểm (Site Selection)</h3>
+<table>
+<thead>
+<tr>
+<th>Tỉnh</th>
+<th>KCN / khu trọng điểm</th>
+<th>Ngành phù hợp</th>
+<th>Mã dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hải Phòng</strong></td>
+<td>DEEP C, VSIP HP, <strong>Nam Đình Vũ</strong>, Tràng Duệ</td>
+<td>Logistics biển, cơ khí, ô tô phụ trợ</td>
+<td>A1-HP, A2</td>
+</tr>
+<tr>
+<td><strong>Thái Nguyên</strong></td>
+<td><strong>Yên Bình</strong>, Sông Công I &#x26; II, Điềm Thụy</td>
+<td>Điện tử, linh kiện, phụ trợ</td>
+<td>A1-TN, A2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Deliverable Site Selection (trong A1/A2):</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Hạng mục</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quỹ đất / nhà xưởng</td>
+<td>Giá desk + <strong>field verify</strong> (Hermes call KCN)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hạ tầng</td>
+<td>Điện, nước, giao thông, khoảng cách cảng/cửa khẩu</td>
+</tr>
+<tr>
+<td>3</td>
+<td>So sánh ≥2 KCN</td>
+<td>Bảng điểm: chi phí · ngành · logistics · lao động</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Khuyến nghị</td>
+<td>TN vs HP vs split (sản xuất TN + cảng HP)</td>
+</tr>
+</tbody>
+</table>
+<p>SOP: <a href="/docs/07-operations/sop-a1-desk-research">sop-a1-desk-research</a></p>
+<h3>1.2. Báo cáo Pre-Feasibility (Pre-FS)</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục phân tích</th>
+<th>Nguồn dữ liệu</th>
+<th>Độ tin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chi phí lao động bình quân</td>
+<td>Sở LĐTBXH / KCN</td>
+<td>🟡 Field</td>
+</tr>
+<tr>
+<td>Chi phí điện, nước công nghiệp</td>
+<td>EVN, KCN</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>CIT</strong> ưu đãi theo KCN/KKT</td>
+<td>Sở KH&#x26;ĐT, ban QLKCN</td>
+<td>🟡 Field</td>
+</tr>
+<tr>
+<td>So sánh TQ vs VN (landed cost)</td>
+<td>Desk + khách</td>
+<td>🟡</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Output:</strong> Phụ lục Pre-FS 8–12 trang (tiếng Trung + Việt) — nằm trong <strong>A1 nâng cao</strong> hoặc <strong>A2</strong>.</p>
+<p><strong>Liên kết UNIDO Bước 1:</strong> <a href="/docs/06-phases/investor-pack/03-investment-project-5-steps">03-investment-project-5-steps</a></p>
+<hr>
+<h2>Trụ cột 2: Pháp lý trọn gói (Legal Setup)</h2>
+<blockquote>
+<p>LONGTV <strong>PM hồ sơ</strong> — ký pháp lý qua <strong>Công ty Luật</strong> (GPLS).</p>
+</blockquote>
+<h3>2.1. Thủ tục đầu tư cốt lõi</h3>
+<table>
+<thead>
+<tr>
+<th>Thủ tục</th>
+<th>Mô tả</th>
+<th>Owner thực thi</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IRC</strong></td>
+<td>Giấy chứng nhận đăng ký đầu tư</td>
+<td>Luật đối tác</td>
+<td>B2</td>
+</tr>
+<tr>
+<td><strong>ERC</strong></td>
+<td>Giấy chứng nhận đăng ký DN</td>
+<td>Luật đối tác</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>MST, hóa đơn điện tử</td>
+<td>Sau ERC</td>
+<td>PM LONGTV</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Tài khoản, con dấu</td>
+<td>Ngân hàng</td>
+<td>Khách + PM</td>
+<td>B2</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Giấy phép chuyên ngành (Sub-licenses)</h3>
+<table>
+<thead>
+<tr>
+<th>Giấy phép</th>
+<th>Đặc thù</th>
+<th>Tỉnh nhạy cảm</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ĐTM</strong> / Giấy phép môi trường</td>
+<td>Bắt buộc nhiều ngành SX</td>
+<td><strong>TN</strong> (điện tử, xi mạ)</td>
+<td>Partner môi trường</td>
+</tr>
+<tr>
+<td><strong>PCCC</strong></td>
+<td>Thẩm duyệt + nghiệm thu</td>
+<td>Cả hai</td>
+<td>Luật + tư vấn PCCC</td>
+</tr>
+<tr>
+<td>Giấy phép xây dựng</td>
+<td>Nếu xây mới</td>
+<td>HP KKT</td>
+<td>Qua KCN</td>
+</tr>
+<tr>
+<td><strong>EPE</strong> (DN chế xuất)</td>
+<td>Miễn VAT, NK trong phi thuế quan</td>
+<td><strong>TN</strong></td>
+<td><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">hp-tn-matrix</a></td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Pháp lý nhân sự ngoại bang</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Đối tượng</th>
+<th>LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Công văn nhu cầu LĐ nước ngoài</td>
+<td>Chuyên gia TQ</td>
+<td>PM + luật</td>
+</tr>
+<tr>
+<td><strong>Work Permit</strong></td>
+<td>Quản lý TQ</td>
+<td>Add-on B2</td>
+</tr>
+<tr>
+<td><strong>TRC</strong> (tạm trú)</td>
+<td>Gia đình / chuyên gia</td>
+<td>Add-on</td>
+</tr>
+<tr>
+<td>GPLĐ người NN</td>
+<td>Lao động kỹ thuật</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a></td>
+</tr>
+</tbody>
+</table>
+<p>Template: <a href="/docs/03-departments/02-phap-ly/templates/00-index">templates pháp lý</a></p>
+<hr>
+<h2>Trụ cột 3: Logistics &#x26; Chuỗi cung ứng</h2>
+<blockquote>
+<p>Giai đoạn 1: <strong>MOU đại lý HQ</strong> — LONGTV không tự khai ECUS nếu chưa đủ điều kiện.</p>
+</blockquote>
+<h3>3.1. Đại lý Hải quan (Customs Brokerage)</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Chi tiết</th>
+<th>Công cụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khai báo XNK</td>
+<td>Tờ khai nhập NVL, máy móc</td>
+<td>ECUS5-VNACCS (đối tác)</td>
+</tr>
+<tr>
+<td><strong>HS code</strong></td>
+<td>Máy cũ/mới, tài sản cố định</td>
+<td>Chuyên viên chứng từ</td>
+</tr>
+<tr>
+<td>Miễn thuế NK TSCĐ</td>
+<td>Theo luật — hồ sơ chuẩn</td>
+<td>Luật + HQ</td>
+</tr>
+<tr>
+<td>Kiểm tra chuyên ngành</td>
+<td>BYT, BCT, BNN…</td>
+<td>Ops hiện trường</td>
+</tr>
+</tbody>
+</table>
+<p>SOP: <a href="/docs/07-operations/sop-b1-on-site">sop-b1-on-site</a></p>
+<h3>3.2. Vận tải đa phương thức</h3>
+<table>
+<thead>
+<tr>
+<th>Tuyến</th>
+<th>Hạng mục</th>
+<th>Đối tác</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Biển — HP</strong></td>
+<td>Lạch Huyện / Đình Vũ → KCN / NM</td>
+<td>Forwarder + kéo container</td>
+</tr>
+<tr>
+<td><strong>Bộ — TN</strong></td>
+<td>Lạng Sơn (Hữu Nghị, Tân Thanh), Móng Cái → cao tốc TN</td>
+<td>Vận tải nội địa</td>
+</tr>
+<tr>
+<td><strong>Nội địa</strong></td>
+<td>KCN ↔ kho ↔ cảng</td>
+<td>TMS (Y2+)</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3. Quản lý kho bãi</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>HP</th>
+<th>TN</th>
+<th>Giai đoạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lưu kho</td>
+<td>Kho cảng / ICD</td>
+<td>Consolidation warehouse</td>
+<td>Y2 MOU</td>
+</tr>
+<tr>
+<td><strong>Repacking</strong></td>
+<td>Theo lô</td>
+<td>Theo lô</td>
+<td>Đối tác</td>
+</tr>
+<tr>
+<td><strong>Labeling</strong> nhãn phụ VN</td>
+<td>Bắt buộc nhiều mặt hàng TQ→VN</td>
+<td></td>
+<td>Add-on B3</td>
+</tr>
+<tr>
+<td>WMS tracking</td>
+<td>Real-time cho khách</td>
+<td></td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">tech-infrastructure</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Ma trận gói bán ↔ trụ cột</h2>
+<table>
+<thead>
+<tr>
+<th>Gói / Bundle</th>
+<th>Trụ 1</th>
+<th>Trụ 2</th>
+<th>Trụ 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1 Khởi đầu</td>
+<td>✅</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Xuất khẩu HP</td>
+<td>✅</td>
+<td>—</td>
+<td>🟡 intro</td>
+</tr>
+<tr>
+<td><strong>Full Setup</strong></td>
+<td>✅</td>
+<td>✅</td>
+<td>✅ B1</td>
+</tr>
+<tr>
+<td>C1 Retainer</td>
+<td>🟡</td>
+<td>🟡</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<p>Giá: <a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a> · Catalog: <a href="service-catalog-v1">service-catalog-v1</a></p>
+<hr>
+<h2>Checklist PM một cửa (mỗi khách)</h2>
+<table>
+<thead>
+<tr>
+<th>Milestone</th>
+<th>Trụ</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>M1 Site shortlist</td>
+<td>1</td>
+<td>A1 PDF</td>
+</tr>
+<tr>
+<td>M2 IRC nộp</td>
+<td>2</td>
+<td>Biên nhận</td>
+</tr>
+<tr>
+<td>M3 ERC + MST</td>
+<td>2</td>
+<td>Scan GCN</td>
+</tr>
+<tr>
+<td>M4 ĐTM/PCCC (nếu cần)</td>
+<td>2</td>
+<td>Số GP</td>
+</tr>
+<tr>
+<td>M5 Tờ khai HQ #1</td>
+<td>3</td>
+<td>Số tờ khai</td>
+</tr>
+<tr>
+<td>M6 Container #1 vào NM</td>
+<td>3</td>
+<td>Phiếu giao hàng</td>
+</tr>
+</tbody>
+</table>
+<p>→ CRM stage map: <a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">all-in-one-tech-infrastructure</a> § CRM</p>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/07-operations/all-in-one-operational-manual">Operational Manual</a></li>
+<li><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix">Headcount &#x26; org</a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">HP vs TN matrix</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-service-portfolio"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Xương sống dịch vụ: từ khảo sát đất đến container NVL đầu tiên thông quan — 3 trụ cột liên hoàn."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/break-even-analysis","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phân tích hòa vốn — LONGTV"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

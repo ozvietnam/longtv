@@ -1,14 +1,16 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-4:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-3:T474,<h1>Nghiên cứu tháng 7/2026</h1>
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Ta6d,<h1>Nghiên cứu tháng 7/2026</h1>
+<blockquote>
+<p><strong>Giai đoạn 00-1:</strong> Desk research <strong>hoàn thành</strong> — field verify (call Sở/KCN) chuyển sang Giai đoạn 2.</p>
+</blockquote>
 <table>
 <thead>
 <tr>
 <th>Task ID</th>
 <th>File</th>
-<th>Issue</th>
 <th>Trạng thái</th>
 </tr>
 </thead>
@@ -16,48 +18,91 @@
 <tr>
 <td>PL-001</td>
 <td><a href="legal-entity-comparison">legal-entity-comparison</a></td>
-<td>#6</td>
 <td>✅ Done</td>
 </tr>
 <tr>
 <td>VT-001</td>
 <td><a href="startup-budget">startup-budget</a></td>
-<td>#9</td>
 <td>✅ Done</td>
 </tr>
 <tr>
 <td>CL-001</td>
 <td><a href="competitors">competitors</a></td>
-<td>#3</td>
 <td>✅ Done</td>
 </tr>
 <tr>
 <td>CL-002</td>
 <td><a href="thai-nguyen-fdi-policy">thai-nguyen-fdi-policy</a></td>
-<td>#4</td>
 <td>🔄 Desk done · chờ gọi Sở</td>
+</tr>
+<tr>
+<td>CL-003</td>
+<td><a href="kcn-desk-research">kcn-desk-research</a></td>
+<td>🔄 Desk done · chờ call KCN</td>
 </tr>
 <tr>
 <td>CL-004</td>
 <td><a href="fdi-data">fdi-data</a></td>
-<td>#5</td>
 <td>🔄 Draft</td>
 </tr>
 <tr>
-<td>PL-004</td>
-<td>provincial-incentives</td>
-<td>#7</td>
-<td>Chưa bắt đầu</td>
+<td>CL-005</td>
+<td><a href="why-tn-hp">why-tn-hp</a></td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>CL-006</td>
+<td><a href="plan-b-no-revenue">plan-b-no-revenue</a></td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td><strong>CL-004b</strong></td>
+<td><a href="fdi-data-deep-dive">fdi-data-deep-dive</a></td>
+<td>✅ Verified desk</td>
+</tr>
+<tr>
+<td><strong>PL-G7/G8</strong></td>
+<td><a href="legal-g7-g8-relocation-exit">legal-g7-g8-relocation-exit</a></td>
+<td>✅ Desk</td>
+</tr>
+<tr>
+<td>PL-004/005</td>
+<td><a href="provincial-incentives">provincial-incentives</a></td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>PL-002/006</td>
+<td><a href="legal-licenses">legal-licenses</a></td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>KD-002</td>
+<td><a href="gtm-channels">gtm-channels</a></td>
+<td>✅ Done</td>
 </tr>
 <tr>
 <td>KD-004</td>
-<td>pricing-research</td>
-<td>#8</td>
-<td>Chưa bắt đầu</td>
+<td><a href="pricing-draft">pricing-draft</a></td>
+<td>✅ Done</td>
+</tr>
+<tr>
+<td>—</td>
+<td><a href="hai-phong-fdi-policy">hai-phong-fdi-policy</a></td>
+<td>🔄 Desk done · chờ gọi Sở</td>
 </tr>
 </tbody>
 </table>
-<h2>Giai đoạn 00-1</h2>
-<p>Nghiên cứu phục vụ <a href="/docs/06-phases/00-1-feasibility-plan">đánh giá tiềm năng</a> — ưu tiên CL-002, CL-004, PL-004/005, KD-004.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nghiên cứu tháng 7/2026"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kho báo cáo nghiên cứu — thị trường, pháp lý, đối thủ, tài chính."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Vận hành & Tài chính"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/legal-entity-comparison","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"So sánh pháp nhân: TNHH vs Cổ phần cho LONGTV"}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
-6:null
+<h2>Giai đoạn 00-1 — Kết quả &#x26; đào sâu</h2>
+<ul>
+<li><a href="/docs/06-phases/00-1-thuc-trang">Thực trạng sau đào sâu</a></li>
+<li><a href="fdi-data-deep-dive">Số liệu FDI đào sâu</a></li>
+<li><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">Vòng đời 9 giai đoạn</a></li>
+<li><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog v1</a></li>
+<li><a href="/docs/06-phases/00-1-market-memo">Memo tiềm năng</a></li>
+<li><a href="/docs/06-phases/00-1-scorecard">Scorecard 38/50</a></li>
+<li><a href="/docs/decisions/005-phase-00-1-go">QĐ #005 Go Giai đoạn 2</a> — chờ Leader ký</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nghiên cứu tháng 7/2026"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kho báo cáo nghiên cứu — thị trường, pháp lý, đối thủ, tài chính."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mẫu hợp đồng & MOU"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/capex-opex-year1-medium-scale","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CAPEX & OPEX năm 1 — Quy mô tầm trung (HP + TN)"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
