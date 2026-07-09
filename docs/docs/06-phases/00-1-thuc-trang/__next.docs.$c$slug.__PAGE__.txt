@@ -1,11 +1,35 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T1565,<h1>Thực trạng Giai đoạn 00-1 (sau đào sâu)</h1>
+3:T1b5c,<h1>Thực trạng Giai đoạn 00-1 (sau đào sâu)</h1>
 <blockquote>
-<p><strong>Ngày cập nhật:</strong> 2026-07-09 · Bổ sung sau <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></p>
+<p><strong>Ngày cập nhật:</strong> 2026-07-09 (lần 2) · Sau <a href="/hermes">/hermes</a> live · <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></p>
 </blockquote>
+<hr>
+<h2>0. Dashboard nhanh</h2>
+<table>
+<thead>
+<tr>
+<th>Xem trên web</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/hermes">/hermes</a></td>
+<td>Wave 1 done vs Wave 2 Kim — tổng hợp cho Leader</td>
+</tr>
+<tr>
+<td><a href="/kim?filter=hermes">/kim?filter=hermes</a></td>
+<td>15 việc Kim giao Hermes (0 done tính đến 09/07)</td>
+</tr>
+<tr>
+<td><a href="00-1-feasibility-plan">00-1-feasibility-plan</a></td>
+<td>Kế hoạch giai đoạn — đã cập nhật bảng tuần &#x26; deliverable</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>1. Tóm tắt 1 trang</h2>
 <table>
@@ -44,8 +68,13 @@
 </tr>
 <tr>
 <td><strong>Catalog</strong></td>
-<td>6 giai đoạn cũ → <strong>9 giai đoạn</strong> vòng đời đầy đủ</td>
-<td>G7/G8 mới định hình — chưa bán thử</td>
+<td>9 giai đoạn vòng đời + <strong>catalog v1</strong> + <a href="/logistics">/logistics</a> live</td>
+<td>G7/G8 chưa bán thử; giá logistics desk (KIM-090)</td>
+</tr>
+<tr>
+<td><strong>Hermes field</strong></td>
+<td>Wave 1 desk ✅ · QĐ #006 duyệt Wave 2</td>
+<td>0/15 Kim done — brief, call Sở/KCN chưa xong</td>
 </tr>
 <tr>
 <td><strong>Pháp lý</strong></td>
@@ -160,9 +189,15 @@
 </tr>
 <tr>
 <td>SP</td>
-<td>catalog v0.2</td>
-<td>🔄 → <strong>v1.0</strong></td>
-<td><a href="service-catalog-v1">service-catalog-v1</a></td>
+<td>catalog v1 + logistics</td>
+<td>✅ Live</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a> · <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td>Hermes</td>
+<td>Wave 2 field pack</td>
+<td>🔄</td>
+<td><a href="/hermes">/hermes</a> · <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">work-pack</a></td>
 </tr>
 </tbody>
 </table>
@@ -180,12 +215,17 @@
 <tr>
 <td>P0</td>
 <td>Số FDI TQ tại TN/HP</td>
-<td>Call Sở</td>
+<td>Hermes — KIM-010, 011 (call Sở)</td>
 </tr>
 <tr>
 <td>P0</td>
 <td>Giá đất KCN 2026</td>
-<td>Call KCN</td>
+<td>Hermes — KIM-012, 013 (call KCN)</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Brief LONGTV trước call</td>
+<td>Hermes — KIM-080 (doing)</td>
 </tr>
 <tr>
 <td>P1</td>
@@ -212,12 +252,16 @@
 <hr>
 <h2>5. Liên kết tài liệu mới (đào sâu)</h2>
 <ol>
+<li><a href="/hermes">Tiến độ Hermes trên web</a></li>
 <li><a href="/docs/04-research/2026-07/fdi-data-deep-dive">Số liệu FDI đào sâu</a></li>
 <li><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">Vòng đời NM TQ tại VN — 9 giai đoạn</a></li>
 <li><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog dịch vụ v1 — theo vòng đời</a></li>
+<li><a href="/logistics">Hậu cần &#x26; hải quan — landing</a></li>
 <li><a href="/docs/03-departments/04-san-pham/factory-operations-playbook-vn">Playbook vận hành sản xuất G5</a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">Gói việc Hermes Wave 2</a></li>
+<li><a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006 — Duyệt Hermes Wave 2</a></li>
 </ol>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-thuc-trang"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Thực trạng Giai đoạn 00-1 — Đã làm rõ & chưa rõ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp trạng thái nghiên cứu, số liệu, catalog và gap sau đào sâu."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-thuc-trang"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Thực trạng Giai đoạn 00-1 — Đã làm rõ & chưa rõ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp trạng thái nghiên cứu, số liệu, catalog và gap sau đào sâu."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7Gx334A2cMoQj6U-Qw7Mr"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/004-content-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #004 — Chuẩn hóa pipeline content → web → deploy"}]]}],["$","$L2",null,{"href":"/docs/05-clarifications/cap-table-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Cap table v1 — LONGTV CTCP"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

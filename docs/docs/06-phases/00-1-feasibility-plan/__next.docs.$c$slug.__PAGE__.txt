@@ -1,12 +1,298 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T3ae3,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+3:T6a48,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
 <blockquote>
 <p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
 <p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
 </blockquote>
+<section class="fd-hero">
+  <div>
+    <p class="fd-eyebrow">Shareholder briefing · Potential & feasibility</p>
+    <h1>Đánh giá tiềm năng & khả thi</h1>
+    <p class="fd-lead">
+      LONGTV có cửa đi rõ nếu tập trung vào nhà máy Trung Quốc dịch chuyển sản xuất về
+      <strong>Thái Nguyên</strong> và <strong>Hải Phòng</strong>, bán trước các gói chính sách,
+      pháp lý điều phối và logistics miền Bắc.
+    </p>
+    <div class="fd-actions">
+      <a href="/docs/services/policy-government">Dịch vụ chính sách 2 tỉnh</a>
+      <a href="/docs/services/legal-consulting">Dịch vụ pháp lý</a>
+      <a href="/docs/data/fdi-legal/legal-library">Thư viện pháp luật</a>
+    </div>
+  </div>
+  <aside class="fd-verdict">
+    <p class="fd-card-label">Kết luận nhanh</p>
+    <div class="fd-verdict-row">
+      <span>Nên đi tiếp?</span>
+      <strong>Có</strong>
+      <small>Nhưng bắt đầu hẹp: 2 tỉnh + 3 gói bán được.</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Gói bán đầu</span>
+      <strong>A1 + H2</strong>
+      <small>Khảo sát chính sách 2 tỉnh + legal screening FDI.</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Điều kiện thắng</span>
+      <strong>RACI rõ</strong>
+      <small>LONGTV PM core, phần pháp lý/CPA/môi trường qua đối tác.</small>
+    </div>
+  </aside>
+</section>
+<h2>Dashboard trình cổ đông</h2>
+<div class="fd-score-grid">
+  <div class="fd-score-card fd-red">
+    <span>Tiềm năng thị trường</span>
+    <strong>8.5/10</strong>
+    <p>Dòng dịch chuyển sản xuất TQ → VN vẫn cần thông tin địa phương, chính sách, KCN và logistics.</p>
+  </div>
+  <div class="fd-score-card fd-amber">
+    <span>Tính khả thi giai đoạn đầu</span>
+    <strong>7.5/10</strong>
+    <p>Khả thi nếu bắt đầu bằng 2 tỉnh trọng tâm, service nhỏ, đối tác chuyên môn rõ ràng.</p>
+  </div>
+  <div class="fd-score-card fd-green">
+    <span>Lợi thế cạnh tranh</span>
+    <strong>8/10</strong>
+    <p>CTCP + cổ đông TQ + hiểu địa phương + hub pháp lý/kế toán/logistics.</p>
+  </div>
+  <div class="fd-score-card fd-slate">
+    <span>Rủi ro cần kiểm soát</span>
+    <strong>6.5/10</strong>
+    <p>Rủi ro pháp lý, năng lực giao hàng và phụ thuộc đối tác cần quản trị bằng RACI.</p>
+  </div>
+</div>
+<h2>Sơ đồ mô hình triển khai</h2>
+<div class="fd-flow">
+  <div class="fd-flow-node fd-source">
+    <span>01</span>
+    <strong>Lead nhà máy TQ</strong>
+    <p>Nhu cầu dịch chuyển, mở rộng hoặc tối ưu chuỗi cung ứng tại Việt Nam.</p>
+  </div>
+  <div class="fd-flow-arrow">→</div>
+  <a class="fd-flow-node" href="/docs/services/policy-government">
+    <span>A</span>
+    <strong>Chính sách & chính quyền</strong>
+    <p>Khảo sát 2 tỉnh, ưu đãi, KCN, đầu mối chính quyền.</p>
+  </a>
+  <a class="fd-flow-node" href="/docs/services/legal-consulting">
+    <span>Hub</span>
+    <strong>Pháp lý & dữ liệu FDI</strong>
+    <p>IRC/ERC, góp vốn/M&A, checklist luật, luật sư đối tác.</p>
+  </a>
+  <a class="fd-flow-node" href="/services">
+    <span>B</span>
+    <strong>Logistics & hải quan</strong>
+    <p>HS code, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+  </a>
+  <div class="fd-flow-arrow">→</div>
+  <div class="fd-flow-node fd-outcome">
+    <span>Output</span>
+    <strong>Pipeline dự án dài hạn</strong>
+    <p>Báo cáo chính sách → hồ sơ pháp lý → site/KCN → logistics vận hành → retainer.</p>
+  </div>
+</div>
+<h2>Ma trận tiềm năng × khả thi</h2>
+<div class="fd-matrix">
+  <div class="fd-matrix-cell fd-active">
+    <small>Cao tiềm năng / cao khả thi</small>
+    <strong>Làm trước</strong>
+    <p>A1 — Khảo sát & định vị 2 tỉnh.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Cao tiềm năng / khó hơn</small>
+    <strong>Làm sau khi có lead nóng</strong>
+    <p>A3 — Thiết lập & dịch chuyển nhà máy.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Vừa tiềm năng / cao khả thi</small>
+    <strong>Dùng để giữ khách</strong>
+    <p>H2 — Pháp lý điều phối + kế toán/CPA.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Phụ thuộc khách vận hành</small>
+    <strong>Scale chọn lọc</strong>
+    <p>B — Logistics, hải quan, retainer XNK.</p>
+  </div>
+</div>
+<h2>Liên kết nội bộ để trình cổ đông</h2>
+<div class="fd-link-grid">
+  <a href="/docs/services/policy-government">
+    <strong>Dịch vụ chính sách 2 tỉnh</strong>
+    <span>A1/A2/A3: khảo sát, xin chính sách, thiết lập nhà máy.</span>
+  </a>
+  <a href="/docs/services/legal-consulting">
+    <strong>Dịch vụ tư vấn pháp lý</strong>
+    <span>Phạm vi LONGTV PM + phần chuyển luật sư/đối tác.</span>
+  </a>
+  <a href="/docs/data/fdi-legal/legal-library">
+    <strong>Thư viện pháp luật FDI</strong>
+    <span>Nguồn luật chia nhóm: đầu tư, vốn nước ngoài, môi trường, KCN.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/service-catalog-v0.2">
+    <strong>Service catalog v0.2</strong>
+    <span>Catalog 2 mảng + hub đang dùng làm nguồn bán hàng.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/build-vs-partner">
+    <strong>Tự làm vs đối tác</strong>
+    <span>Ranh giới LONGTV tự làm và phần cần đối tác đủ điều kiện.</span>
+  </a>
+  <a href="/docs/decisions/003-strategy-july-2026">
+    <strong>Quyết định chiến lược #003</strong>
+    <span>CTCP, vốn 2 tỷ, cổ đông TQ và định vị 2 mảng.</span>
+  </a>
+</div>
+<hr>
+<h2>Cập nhật sau nghiên cứu sâu (2026-07-09)</h2>
+<blockquote>
+<p><strong>Xem trên web:</strong> <a href="/hermes">/hermes</a> — tổng hợp Hermes Wave 1 (desk) vs Wave 2 (field) · <a href="00-1-thuc-trang">Thực trạng 00-1</a> · <a href="/docs/04-research/2026-07/00-index">Nghiên cứu tháng 7</a></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Khối</th>
+<th>Trạng thái</th>
+<th>Bằng chứng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Desk research Wave 1</strong></td>
+<td>✅ <strong>Hoàn thành</strong></td>
+<td>6 báo cáo + deep-dive FDI + catalog 9 giai đoạn</td>
+</tr>
+<tr>
+<td><strong>Scorecard &#x26; memo</strong></td>
+<td>✅ <strong>38/50 · Go + Adjust</strong></td>
+<td><a href="00-1-scorecard">scorecard</a> · <a href="00-1-market-memo">memo</a></td>
+</tr>
+<tr>
+<td><strong>Investor Pack (trụ cột 4)</strong></td>
+<td>✅ Desk</td>
+<td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+</tr>
+<tr>
+<td><strong>Catalog dịch vụ</strong></td>
+<td>✅ v1 + logistics</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a> · <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td><strong>Field verify (Hermes)</strong></td>
+<td>🔄 <strong>Chưa xong</strong></td>
+<td>0/15 việc Kim tick <code>done</code> — <a href="/kim?filter=hermes">Kim Hermes</a></td>
+</tr>
+<tr>
+<td><strong>Quyết định Go</strong></td>
+<td>🟡 Chờ Leader</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a> chưa ký</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận cập nhật:</strong> Giai đoạn 00-1 <strong>đủ bằng chứng desk</strong> để đề xuất Go. Phần <strong>xác minh thực địa</strong> (gọi Sở/KCN, giá đất, FDI theo tỉnh) chuyển sang <strong>Hermes Wave 2</strong> — đã duyệt <a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006</a>, Hermes tự làm trên <a href="/kim">Kim</a>.</p>
+<h3>Wave 1 — Desk đã có (Hermes + Cursor)</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Deliverable</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CL-001</td>
+<td>10 đối thủ FDI TQ→VN</td>
+<td><a href="/docs/04-research/2026-07/competitors">/docs/04-research/2026-07/competitors</a></td>
+</tr>
+<tr>
+<td>PL-001</td>
+<td>TNHH vs CTCP</td>
+<td><a href="/docs/04-research/2026-07/legal-entity-comparison">/docs/04-research/2026-07/legal-entity-comparison</a></td>
+</tr>
+<tr>
+<td>VT-001</td>
+<td>Ngân sách 6 tháng</td>
+<td><a href="/docs/04-research/2026-07/startup-budget">/docs/04-research/2026-07/startup-budget</a></td>
+</tr>
+<tr>
+<td>CL-002</td>
+<td>FDI Thái Nguyên (desk)</td>
+<td><a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">/docs/04-research/2026-07/thai-nguyen-fdi-policy</a></td>
+</tr>
+<tr>
+<td>—</td>
+<td>FDI Hải Phòng (desk)</td>
+<td><a href="/docs/04-research/2026-07/hai-phong-fdi-policy">/docs/04-research/2026-07/hai-phong-fdi-policy</a></td>
+</tr>
+<tr>
+<td>CL-003</td>
+<td>KCN Yên Bình + Nam Đình Vũ (desk)</td>
+<td><a href="/docs/04-research/2026-07/kcn-desk-research">/docs/04-research/2026-07/kcn-desk-research</a></td>
+</tr>
+<tr>
+<td>CL-004b</td>
+<td>FDI deep-dive</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">/docs/04-research/2026-07/fdi-data-deep-dive</a></td>
+</tr>
+<tr>
+<td>CL-005/006</td>
+<td>Vì sao TN+HP · Plan B</td>
+<td><a href="/docs/04-research/2026-07/why-tn-hp">why-tn-hp</a> · <a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Wave 2 — Field &#x26; thu thập (Hermes, chưa done)</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu tiên</th>
+<th>Việc</th>
+<th>Kim</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Brief LONGTV 1 trang trước call</td>
+<td>KIM-080</td>
+<td>doing — template còn placeholder</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Thái Nguyên</td>
+<td>KIM-010</td>
+<td>doing</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Hải Phòng</td>
+<td>KIM-011</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Call Ban QLKCN Yên Bình + Nam Đình Vũ</td>
+<td>KIM-012, 013</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Map 20 NM TQ tại TN + HP</td>
+<td>KIM-082</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Desk logistics + bảng giá tuyến</td>
+<td>KIM-089, 090</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết giao việc: <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a> · Dashboard: <a href="/hermes">/hermes</a></p>
 <hr>
 <h2>Vì sao cần Giai đoạn 00-1</h2>
 <table>
@@ -75,7 +361,7 @@
 <td><strong>2. Catalog dịch vụ</strong></td>
 <td>LONGTV phủ hết hành trình FDI chưa? Thiếu gì?</td>
 <td>Sản phẩm</td>
-<td><a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">Bản đồ hành trình FDI</a></td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog v1</a> · <a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn</a> · <a href="/logistics">/logistics</a></td>
 </tr>
 <tr>
 <td><strong>3. Khả thi triển khai</strong></td>
@@ -153,32 +439,37 @@
 <th>Trọng tâm</th>
 <th>Việc chính</th>
 <th>Output</th>
+<th>Trạng thái (09/07)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>T1</strong></td>
 <td>Thị trường sơ bộ</td>
-<td>Đối thủ ✅ · Sở KH&#x26;ĐT · 1 KCN · số liệu FDI draft</td>
-<td>Checklist Chiến lược ≥50%</td>
+<td>Đối thủ · Sở KH&#x26;ĐT · KCN · số liệu FDI</td>
+<td>Checklist Chiến lược</td>
+<td>✅ Desk done · 🔄 Field Hermes</td>
 </tr>
 <tr>
 <td><strong>T2</strong></td>
 <td>Khách hàng &#x26; giá</td>
-<td>Persona · 5 kênh · pricing 3 gói draft · phỏng vấn 1–2 nguồn</td>
+<td>Persona · 5 kênh · pricing 3 gói · phỏng vấn 1–2 nguồn</td>
 <td>Memo persona + khung giá</td>
+<td>✅ Draft · chưa validate khách</td>
 </tr>
 <tr>
 <td><strong>T3</strong></td>
 <td>Catalog đầy đủ</td>
-<td>Map hành trình FDI 6 giai đoạn · đánh dấu có/thiếu · tự làm vs đối tác</td>
-<td>Catalog v1 + gap list</td>
+<td>Map FDI 9 giai đoạn · logistics · gap</td>
+<td>Catalog v1 + <a href="/logistics">/logistics</a></td>
+<td>✅ v1 live</td>
 </tr>
 <tr>
 <td><strong>T4</strong></td>
 <td>Chốt tiềm năng</td>
-<td>Scorecard · kịch bản xấu · họp Go/No-Go Leader</td>
-<td><strong>Memo tiềm năng 00-1</strong></td>
+<td>Scorecard · Plan B · họp Go/No-Go</td>
+<td><strong>Memo + 38/50</strong></td>
+<td>✅ Desk · 🟡 chờ ký QĐ #005</td>
 </tr>
 </tbody>
 </table>
@@ -207,9 +498,9 @@
 <tr>
 <td>2</td>
 <td>Nhu cầu cụ thể tại TN + HP</td>
-<td>CL-002, CL-003</td>
+<td>CL-002, CL-003, <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></td>
 <td><strong>4</strong></td>
-<td>TN #1 FDI mới; desk KCN</td>
+<td>TN #1 vốn mới (mega Hàn/Đài); niche TQ Tier 2–3 — <strong>chờ call Sở</strong></td>
 </tr>
 <tr>
 <td>3</td>
@@ -235,9 +526,9 @@
 <tr>
 <td>6</td>
 <td>Catalog phủ ≥80% hành trình FDI</td>
-<td>FDI journey map</td>
+<td>FDI lifecycle 9 giai đoạn + logistics</td>
 <td><strong>4</strong></td>
-<td>~82% ✅/🤝</td>
+<td>~82% ✅/🤝 · <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a></td>
 </tr>
 <tr>
 <td>7</td>
@@ -376,7 +667,7 @@
 </tr>
 </tbody>
 </table>
-<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a>.</p>
+<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a> · <a href="/hermes">Tiến độ Hermes</a> · <a href="/kim">Kim — việc người thật</a>.</p>
 <hr>
 <h2>Deliverable bắt buộc cuối 00-1</h2>
 <table>
@@ -396,7 +687,7 @@
 <tr>
 <td>2</td>
 <td><strong>Catalog dịch vụ v1</strong></td>
-<td>Map đủ <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">6 giai đoạn hành trình FDI</a></td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn vòng đời</a> + <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a> + <a href="/logistics">/logistics</a></td>
 </tr>
 <tr>
 <td>3</td>
@@ -420,42 +711,64 @@
 <p>Khi <strong>Go</strong> từ 00-1 → xem <a href="02-giai-doan-2-overview">Overview Giai đoạn 2</a>.</p>
 <p><em>Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.</em></p>
 <hr>
-<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk)</h2>
+<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk) · 🔄 Field đang chờ Hermes</h2>
 <table>
 <thead>
 <tr>
 <th>Deliverable</th>
 <th>Link</th>
+<th>Ghi chú</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Memo tiềm năng</td>
 <td><a href="00-1-market-memo">00-1-market-memo</a></td>
+<td>Cập nhật đoạn TN sau deep-dive</td>
+</tr>
+<tr>
+<td>Thực trạng sau đào sâu</td>
+<td><a href="00-1-thuc-trang">00-1-thuc-trang</a></td>
+<td>Bảng gap P0/P1</td>
 </tr>
 <tr>
 <td>Scorecard 38/50</td>
 <td><a href="00-1-scorecard">00-1-scorecard</a></td>
+<td>Go + Adjust</td>
 </tr>
 <tr>
 <td>Quyết định Go</td>
 <td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+<td>Chờ Leader ký</td>
 </tr>
 <tr>
 <td><strong>Investor Pack</strong></td>
 <td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+<td>Trụ cột 4</td>
+</tr>
+<tr>
+<td><strong>Hermes dashboard</strong></td>
+<td><a href="/hermes">/hermes</a></td>
+<td>Wave 1 vs Wave 2 trên web</td>
+</tr>
+<tr>
+<td>Nghiên cứu tháng 7</td>
+<td><a href="/docs/04-research/2026-07/00-index">/docs/04-research/2026-07/00-index</a></td>
+<td>Index đầy đủ</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Còn field (Leader):</strong> Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ</p>
+<p><strong>Còn field (Hermes — người thật):</strong> Brief 1 trang (KIM-080) · Call Sở TN/HP (KIM-010–011) · Call KCN (KIM-012–013) · Map 20 NM · logistics desk</p>
+<p><strong>Còn Leader:</strong> Ký QĐ #005 · % cổ đông TQ (KIM-002) · duyệt pricing (KIM-003)</p>
 <hr>
-<h2>Việc ngay (Giai đoạn 2)</h2>
+<h2>Việc ngay (chuyển Giai đoạn 2 + Hermes Wave 2)</h2>
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
-<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT Thái Nguyên (CL-002)</li>
-<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hermes hoàn thành <a href="/docs/03-departments/01-chien-luoc/hermes-field-brief-template">brief 1 trang</a> (KIM-080) → gọi Sở TN (KIM-010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Theo dõi tiến độ tại <a href="/hermes">/hermes</a> và <a href="/kim?filter=hermes">/kim?filter=hermes</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP (sau ký QĐ)</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7Gx334A2cMoQj6U-Qw7Mr"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

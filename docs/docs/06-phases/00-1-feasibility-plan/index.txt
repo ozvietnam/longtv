@@ -1,33 +1,316 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-3:I[89759,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
-4:I[39756,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-5:I[37457,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-f:I[68027,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/longtv/_next/static/chunks/0x5crff4xoj7b.css","style"]
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","style"]
 :HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","docs","06-phases","00-1-feasibility-plan",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","06-phases/00-1-feasibility-plan","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3y9azk3x7brqd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":["$L6","$L7","$L8"]}],"$L9"]}]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HREDl5iKe8YIbj_LGYYT6"}
-12:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-13:"$Sreact.suspense"
-16:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
-18:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
-6:["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}]
-7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
-8:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
-9:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
-a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
-15:[]
-d:"$W15"
-e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-10:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1a:T3ae3,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+0:{"P":null,"c":["","docs","06-phases","00-1-feasibility-plan",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","06-phases/00-1-feasibility-plan","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":"$L6"}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"7Gx334A2cMoQj6U-Qw7Mr"}
+f:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T6a48,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
 <blockquote>
 <p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
 <p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
 </blockquote>
+<section class="fd-hero">
+  <div>
+    <p class="fd-eyebrow">Shareholder briefing · Potential & feasibility</p>
+    <h1>Đánh giá tiềm năng & khả thi</h1>
+    <p class="fd-lead">
+      LONGTV có cửa đi rõ nếu tập trung vào nhà máy Trung Quốc dịch chuyển sản xuất về
+      <strong>Thái Nguyên</strong> và <strong>Hải Phòng</strong>, bán trước các gói chính sách,
+      pháp lý điều phối và logistics miền Bắc.
+    </p>
+    <div class="fd-actions">
+      <a href="/docs/services/policy-government">Dịch vụ chính sách 2 tỉnh</a>
+      <a href="/docs/services/legal-consulting">Dịch vụ pháp lý</a>
+      <a href="/docs/data/fdi-legal/legal-library">Thư viện pháp luật</a>
+    </div>
+  </div>
+  <aside class="fd-verdict">
+    <p class="fd-card-label">Kết luận nhanh</p>
+    <div class="fd-verdict-row">
+      <span>Nên đi tiếp?</span>
+      <strong>Có</strong>
+      <small>Nhưng bắt đầu hẹp: 2 tỉnh + 3 gói bán được.</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Gói bán đầu</span>
+      <strong>A1 + H2</strong>
+      <small>Khảo sát chính sách 2 tỉnh + legal screening FDI.</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Điều kiện thắng</span>
+      <strong>RACI rõ</strong>
+      <small>LONGTV PM core, phần pháp lý/CPA/môi trường qua đối tác.</small>
+    </div>
+  </aside>
+</section>
+<h2>Dashboard trình cổ đông</h2>
+<div class="fd-score-grid">
+  <div class="fd-score-card fd-red">
+    <span>Tiềm năng thị trường</span>
+    <strong>8.5/10</strong>
+    <p>Dòng dịch chuyển sản xuất TQ → VN vẫn cần thông tin địa phương, chính sách, KCN và logistics.</p>
+  </div>
+  <div class="fd-score-card fd-amber">
+    <span>Tính khả thi giai đoạn đầu</span>
+    <strong>7.5/10</strong>
+    <p>Khả thi nếu bắt đầu bằng 2 tỉnh trọng tâm, service nhỏ, đối tác chuyên môn rõ ràng.</p>
+  </div>
+  <div class="fd-score-card fd-green">
+    <span>Lợi thế cạnh tranh</span>
+    <strong>8/10</strong>
+    <p>CTCP + cổ đông TQ + hiểu địa phương + hub pháp lý/kế toán/logistics.</p>
+  </div>
+  <div class="fd-score-card fd-slate">
+    <span>Rủi ro cần kiểm soát</span>
+    <strong>6.5/10</strong>
+    <p>Rủi ro pháp lý, năng lực giao hàng và phụ thuộc đối tác cần quản trị bằng RACI.</p>
+  </div>
+</div>
+<h2>Sơ đồ mô hình triển khai</h2>
+<div class="fd-flow">
+  <div class="fd-flow-node fd-source">
+    <span>01</span>
+    <strong>Lead nhà máy TQ</strong>
+    <p>Nhu cầu dịch chuyển, mở rộng hoặc tối ưu chuỗi cung ứng tại Việt Nam.</p>
+  </div>
+  <div class="fd-flow-arrow">→</div>
+  <a class="fd-flow-node" href="/docs/services/policy-government">
+    <span>A</span>
+    <strong>Chính sách & chính quyền</strong>
+    <p>Khảo sát 2 tỉnh, ưu đãi, KCN, đầu mối chính quyền.</p>
+  </a>
+  <a class="fd-flow-node" href="/docs/services/legal-consulting">
+    <span>Hub</span>
+    <strong>Pháp lý & dữ liệu FDI</strong>
+    <p>IRC/ERC, góp vốn/M&A, checklist luật, luật sư đối tác.</p>
+  </a>
+  <a class="fd-flow-node" href="/services">
+    <span>B</span>
+    <strong>Logistics & hải quan</strong>
+    <p>HS code, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+  </a>
+  <div class="fd-flow-arrow">→</div>
+  <div class="fd-flow-node fd-outcome">
+    <span>Output</span>
+    <strong>Pipeline dự án dài hạn</strong>
+    <p>Báo cáo chính sách → hồ sơ pháp lý → site/KCN → logistics vận hành → retainer.</p>
+  </div>
+</div>
+<h2>Ma trận tiềm năng × khả thi</h2>
+<div class="fd-matrix">
+  <div class="fd-matrix-cell fd-active">
+    <small>Cao tiềm năng / cao khả thi</small>
+    <strong>Làm trước</strong>
+    <p>A1 — Khảo sát & định vị 2 tỉnh.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Cao tiềm năng / khó hơn</small>
+    <strong>Làm sau khi có lead nóng</strong>
+    <p>A3 — Thiết lập & dịch chuyển nhà máy.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Vừa tiềm năng / cao khả thi</small>
+    <strong>Dùng để giữ khách</strong>
+    <p>H2 — Pháp lý điều phối + kế toán/CPA.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Phụ thuộc khách vận hành</small>
+    <strong>Scale chọn lọc</strong>
+    <p>B — Logistics, hải quan, retainer XNK.</p>
+  </div>
+</div>
+<h2>Liên kết nội bộ để trình cổ đông</h2>
+<div class="fd-link-grid">
+  <a href="/docs/services/policy-government">
+    <strong>Dịch vụ chính sách 2 tỉnh</strong>
+    <span>A1/A2/A3: khảo sát, xin chính sách, thiết lập nhà máy.</span>
+  </a>
+  <a href="/docs/services/legal-consulting">
+    <strong>Dịch vụ tư vấn pháp lý</strong>
+    <span>Phạm vi LONGTV PM + phần chuyển luật sư/đối tác.</span>
+  </a>
+  <a href="/docs/data/fdi-legal/legal-library">
+    <strong>Thư viện pháp luật FDI</strong>
+    <span>Nguồn luật chia nhóm: đầu tư, vốn nước ngoài, môi trường, KCN.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/service-catalog-v0.2">
+    <strong>Service catalog v0.2</strong>
+    <span>Catalog 2 mảng + hub đang dùng làm nguồn bán hàng.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/build-vs-partner">
+    <strong>Tự làm vs đối tác</strong>
+    <span>Ranh giới LONGTV tự làm và phần cần đối tác đủ điều kiện.</span>
+  </a>
+  <a href="/docs/decisions/003-strategy-july-2026">
+    <strong>Quyết định chiến lược #003</strong>
+    <span>CTCP, vốn 2 tỷ, cổ đông TQ và định vị 2 mảng.</span>
+  </a>
+</div>
+<hr>
+<h2>Cập nhật sau nghiên cứu sâu (2026-07-09)</h2>
+<blockquote>
+<p><strong>Xem trên web:</strong> <a href="/hermes">/hermes</a> — tổng hợp Hermes Wave 1 (desk) vs Wave 2 (field) · <a href="00-1-thuc-trang">Thực trạng 00-1</a> · <a href="/docs/04-research/2026-07/00-index">Nghiên cứu tháng 7</a></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Khối</th>
+<th>Trạng thái</th>
+<th>Bằng chứng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Desk research Wave 1</strong></td>
+<td>✅ <strong>Hoàn thành</strong></td>
+<td>6 báo cáo + deep-dive FDI + catalog 9 giai đoạn</td>
+</tr>
+<tr>
+<td><strong>Scorecard &#x26; memo</strong></td>
+<td>✅ <strong>38/50 · Go + Adjust</strong></td>
+<td><a href="00-1-scorecard">scorecard</a> · <a href="00-1-market-memo">memo</a></td>
+</tr>
+<tr>
+<td><strong>Investor Pack (trụ cột 4)</strong></td>
+<td>✅ Desk</td>
+<td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+</tr>
+<tr>
+<td><strong>Catalog dịch vụ</strong></td>
+<td>✅ v1 + logistics</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a> · <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td><strong>Field verify (Hermes)</strong></td>
+<td>🔄 <strong>Chưa xong</strong></td>
+<td>0/15 việc Kim tick <code>done</code> — <a href="/kim?filter=hermes">Kim Hermes</a></td>
+</tr>
+<tr>
+<td><strong>Quyết định Go</strong></td>
+<td>🟡 Chờ Leader</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a> chưa ký</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận cập nhật:</strong> Giai đoạn 00-1 <strong>đủ bằng chứng desk</strong> để đề xuất Go. Phần <strong>xác minh thực địa</strong> (gọi Sở/KCN, giá đất, FDI theo tỉnh) chuyển sang <strong>Hermes Wave 2</strong> — đã duyệt <a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006</a>, Hermes tự làm trên <a href="/kim">Kim</a>.</p>
+<h3>Wave 1 — Desk đã có (Hermes + Cursor)</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Deliverable</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CL-001</td>
+<td>10 đối thủ FDI TQ→VN</td>
+<td><a href="/docs/04-research/2026-07/competitors">/docs/04-research/2026-07/competitors</a></td>
+</tr>
+<tr>
+<td>PL-001</td>
+<td>TNHH vs CTCP</td>
+<td><a href="/docs/04-research/2026-07/legal-entity-comparison">/docs/04-research/2026-07/legal-entity-comparison</a></td>
+</tr>
+<tr>
+<td>VT-001</td>
+<td>Ngân sách 6 tháng</td>
+<td><a href="/docs/04-research/2026-07/startup-budget">/docs/04-research/2026-07/startup-budget</a></td>
+</tr>
+<tr>
+<td>CL-002</td>
+<td>FDI Thái Nguyên (desk)</td>
+<td><a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">/docs/04-research/2026-07/thai-nguyen-fdi-policy</a></td>
+</tr>
+<tr>
+<td>—</td>
+<td>FDI Hải Phòng (desk)</td>
+<td><a href="/docs/04-research/2026-07/hai-phong-fdi-policy">/docs/04-research/2026-07/hai-phong-fdi-policy</a></td>
+</tr>
+<tr>
+<td>CL-003</td>
+<td>KCN Yên Bình + Nam Đình Vũ (desk)</td>
+<td><a href="/docs/04-research/2026-07/kcn-desk-research">/docs/04-research/2026-07/kcn-desk-research</a></td>
+</tr>
+<tr>
+<td>CL-004b</td>
+<td>FDI deep-dive</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">/docs/04-research/2026-07/fdi-data-deep-dive</a></td>
+</tr>
+<tr>
+<td>CL-005/006</td>
+<td>Vì sao TN+HP · Plan B</td>
+<td><a href="/docs/04-research/2026-07/why-tn-hp">why-tn-hp</a> · <a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Wave 2 — Field &#x26; thu thập (Hermes, chưa done)</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu tiên</th>
+<th>Việc</th>
+<th>Kim</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Brief LONGTV 1 trang trước call</td>
+<td>KIM-080</td>
+<td>doing — template còn placeholder</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Thái Nguyên</td>
+<td>KIM-010</td>
+<td>doing</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Hải Phòng</td>
+<td>KIM-011</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Call Ban QLKCN Yên Bình + Nam Đình Vũ</td>
+<td>KIM-012, 013</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Map 20 NM TQ tại TN + HP</td>
+<td>KIM-082</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Desk logistics + bảng giá tuyến</td>
+<td>KIM-089, 090</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết giao việc: <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a> · Dashboard: <a href="/hermes">/hermes</a></p>
 <hr>
 <h2>Vì sao cần Giai đoạn 00-1</h2>
 <table>
@@ -96,7 +379,7 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <td><strong>2. Catalog dịch vụ</strong></td>
 <td>LONGTV phủ hết hành trình FDI chưa? Thiếu gì?</td>
 <td>Sản phẩm</td>
-<td><a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">Bản đồ hành trình FDI</a></td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog v1</a> · <a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn</a> · <a href="/logistics">/logistics</a></td>
 </tr>
 <tr>
 <td><strong>3. Khả thi triển khai</strong></td>
@@ -174,32 +457,37 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <th>Trọng tâm</th>
 <th>Việc chính</th>
 <th>Output</th>
+<th>Trạng thái (09/07)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>T1</strong></td>
 <td>Thị trường sơ bộ</td>
-<td>Đối thủ ✅ · Sở KH&#x26;ĐT · 1 KCN · số liệu FDI draft</td>
-<td>Checklist Chiến lược ≥50%</td>
+<td>Đối thủ · Sở KH&#x26;ĐT · KCN · số liệu FDI</td>
+<td>Checklist Chiến lược</td>
+<td>✅ Desk done · 🔄 Field Hermes</td>
 </tr>
 <tr>
 <td><strong>T2</strong></td>
 <td>Khách hàng &#x26; giá</td>
-<td>Persona · 5 kênh · pricing 3 gói draft · phỏng vấn 1–2 nguồn</td>
+<td>Persona · 5 kênh · pricing 3 gói · phỏng vấn 1–2 nguồn</td>
 <td>Memo persona + khung giá</td>
+<td>✅ Draft · chưa validate khách</td>
 </tr>
 <tr>
 <td><strong>T3</strong></td>
 <td>Catalog đầy đủ</td>
-<td>Map hành trình FDI 6 giai đoạn · đánh dấu có/thiếu · tự làm vs đối tác</td>
-<td>Catalog v1 + gap list</td>
+<td>Map FDI 9 giai đoạn · logistics · gap</td>
+<td>Catalog v1 + <a href="/logistics">/logistics</a></td>
+<td>✅ v1 live</td>
 </tr>
 <tr>
 <td><strong>T4</strong></td>
 <td>Chốt tiềm năng</td>
-<td>Scorecard · kịch bản xấu · họp Go/No-Go Leader</td>
-<td><strong>Memo tiềm năng 00-1</strong></td>
+<td>Scorecard · Plan B · họp Go/No-Go</td>
+<td><strong>Memo + 38/50</strong></td>
+<td>✅ Desk · 🟡 chờ ký QĐ #005</td>
 </tr>
 </tbody>
 </table>
@@ -228,9 +516,9 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <tr>
 <td>2</td>
 <td>Nhu cầu cụ thể tại TN + HP</td>
-<td>CL-002, CL-003</td>
+<td>CL-002, CL-003, <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></td>
 <td><strong>4</strong></td>
-<td>TN #1 FDI mới; desk KCN</td>
+<td>TN #1 vốn mới (mega Hàn/Đài); niche TQ Tier 2–3 — <strong>chờ call Sở</strong></td>
 </tr>
 <tr>
 <td>3</td>
@@ -256,9 +544,9 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <tr>
 <td>6</td>
 <td>Catalog phủ ≥80% hành trình FDI</td>
-<td>FDI journey map</td>
+<td>FDI lifecycle 9 giai đoạn + logistics</td>
 <td><strong>4</strong></td>
-<td>~82% ✅/🤝</td>
+<td>~82% ✅/🤝 · <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a></td>
 </tr>
 <tr>
 <td>7</td>
@@ -397,7 +685,7 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 </tr>
 </tbody>
 </table>
-<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a>.</p>
+<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a> · <a href="/hermes">Tiến độ Hermes</a> · <a href="/kim">Kim — việc người thật</a>.</p>
 <hr>
 <h2>Deliverable bắt buộc cuối 00-1</h2>
 <table>
@@ -417,7 +705,7 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <tr>
 <td>2</td>
 <td><strong>Catalog dịch vụ v1</strong></td>
-<td>Map đủ <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">6 giai đoạn hành trình FDI</a></td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn vòng đời</a> + <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a> + <a href="/logistics">/logistics</a></td>
 </tr>
 <tr>
 <td>3</td>
@@ -441,44 +729,66 @@ e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","di
 <p>Khi <strong>Go</strong> từ 00-1 → xem <a href="02-giai-doan-2-overview">Overview Giai đoạn 2</a>.</p>
 <p><em>Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.</em></p>
 <hr>
-<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk)</h2>
+<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk) · 🔄 Field đang chờ Hermes</h2>
 <table>
 <thead>
 <tr>
 <th>Deliverable</th>
 <th>Link</th>
+<th>Ghi chú</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Memo tiềm năng</td>
 <td><a href="00-1-market-memo">00-1-market-memo</a></td>
+<td>Cập nhật đoạn TN sau deep-dive</td>
+</tr>
+<tr>
+<td>Thực trạng sau đào sâu</td>
+<td><a href="00-1-thuc-trang">00-1-thuc-trang</a></td>
+<td>Bảng gap P0/P1</td>
 </tr>
 <tr>
 <td>Scorecard 38/50</td>
 <td><a href="00-1-scorecard">00-1-scorecard</a></td>
+<td>Go + Adjust</td>
 </tr>
 <tr>
 <td>Quyết định Go</td>
 <td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+<td>Chờ Leader ký</td>
 </tr>
 <tr>
 <td><strong>Investor Pack</strong></td>
 <td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+<td>Trụ cột 4</td>
+</tr>
+<tr>
+<td><strong>Hermes dashboard</strong></td>
+<td><a href="/hermes">/hermes</a></td>
+<td>Wave 1 vs Wave 2 trên web</td>
+</tr>
+<tr>
+<td>Nghiên cứu tháng 7</td>
+<td><a href="/docs/04-research/2026-07/00-index">/docs/04-research/2026-07/00-index</a></td>
+<td>Index đầy đủ</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Còn field (Leader):</strong> Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ</p>
+<p><strong>Còn field (Hermes — người thật):</strong> Brief 1 trang (KIM-080) · Call Sở TN/HP (KIM-010–011) · Call KCN (KIM-012–013) · Map 20 NM · logistics desk</p>
+<p><strong>Còn Leader:</strong> Ký QĐ #005 · % cổ đông TQ (KIM-002) · duyệt pricing (KIM-003)</p>
 <hr>
-<h2>Việc ngay (Giai đoạn 2)</h2>
+<h2>Việc ngay (chuyển Giai đoạn 2 + Hermes Wave 2)</h2>
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
-<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT Thái Nguyên (CL-002)</li>
-<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hermes hoàn thành <a href="/docs/03-departments/01-chien-luoc/hermes-field-brief-template">brief 1 trang</a> (KIM-080) → gọi Sở TN (KIM-010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Theo dõi tiến độ tại <a href="/hermes">/hermes</a> và <a href="/kim?filter=hermes">/kim?filter=hermes</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP (sau ký QĐ)</li>
 </ul>
-11:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b"]}]
-1b:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
-17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1c:I[27201,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
-14:null
-19:[["$","title","0",{"children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi · LongTV"}],["$","meta","1",{"name":"description","content":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1c","3",{}]]
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi · LongTV"}],["$","meta","1",{"name":"description","content":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

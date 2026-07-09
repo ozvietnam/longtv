@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","data","fdi-legal","library","02-foreign-capital-forms",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","data/fdi-legal/library/02-foreign-capital-forms","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":"$L6"}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"7Gx334A2cMoQj6U-Qw7Mr"}
+f:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T135c,<h1>Nhóm 2 — Hình thức vốn nước ngoài</h1>
+<h2>Câu hỏi nhóm này trả lời</h2>
+<ul>
+<li>Nên lập công ty <strong>100% vốn nước ngoài</strong> hay để nhà đầu tư nước ngoài góp vốn/mua cổ phần vào công ty Việt Nam?</li>
+<li>Khi nào góp vốn/mua cổ phần phải đăng ký trước với cơ quan đầu tư?</li>
+<li>Ngưỡng sở hữu nước ngoài trên 50% ảnh hưởng gì?</li>
+<li>Ngành nghề có điều kiện hoặc đất ở khu vực nhạy cảm ảnh hưởng thế nào?</li>
+</ul>
+<h2>Bản đồ quyết định</h2>
+<table>
+<thead>
+<tr>
+<th>Mô hình</th>
+<th>Khi nào dùng</th>
+<th>Thủ tục chính</th>
+<th>Rủi ro cần kiểm tra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100% vốn nước ngoài</td>
+<td>Nhà đầu tư muốn tự kiểm soát công ty/dự án mới</td>
+<td>IRC + ERC, sau đó góp vốn theo tiến độ</td>
+<td>Ngành nghề có điều kiện, năng lực tài chính, địa điểm, môi trường</td>
+</tr>
+<tr>
+<td>Góp vốn vào công ty Việt Nam</td>
+<td>Muốn có đối tác Việt Nam, giảm rào cản thị trường hoặc tận dụng pháp nhân sẵn có</td>
+<td>Có thể cần M&#x26;A approval trước khi đổi cổ đông/thành viên</td>
+<td>Ngưỡng sở hữu nước ngoài, ngành nghề, đất/quốc phòng an ninh</td>
+</tr>
+<tr>
+<td>Mua cổ phần/phần vốn góp</td>
+<td>Mua lại doanh nghiệp hoặc dự án đang vận hành</td>
+<td>M&#x26;A approval nếu thuộc trường hợp luật định; cập nhật ERC/IRC nếu có</td>
+<td>Due diligence pháp lý, đất, môi trường, giấy phép đang có</td>
+</tr>
+<tr>
+<td>CTCP có cổ đông Trung Quốc + Việt Nam</td>
+<td>LONGTV đã chốt hướng CTCP, phía Việt Nam giữ trên 51%</td>
+<td>ERC/IRC theo cấu trúc dự án; điều lệ và thỏa thuận cổ đông</td>
+<td>Quản trị cổ đông, chuyển nhượng cổ phần, điều kiện FDI</td>
+</tr>
+</tbody>
+</table>
+<h2>Văn bản cần đọc trước</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>Văn bản</th>
+<th>Vai trò trong cẩm nang</th>
+<th>Cần trích xuất</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Luật Đầu tư 2020</td>
+<td>Quy định hình thức đầu tư, góp vốn, mua cổ phần, điều kiện nhà đầu tư nước ngoài</td>
+<td>Điều 21-26</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Nghị định 31/2021/NĐ-CP</td>
+<td>Hướng dẫn điều kiện tiếp cận thị trường và thủ tục đăng ký góp vốn/mua cổ phần</td>
+<td>Danh mục ngành nghề, hồ sơ đăng ký, thời hạn</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Luật Doanh nghiệp 2020</td>
+<td>Quy định cổ đông, thành viên, chuyển nhượng vốn/cổ phần</td>
+<td>CTCP, TNHH, thay đổi cổ đông/thành viên</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Cam kết WTO/FTA và danh mục tiếp cận thị trường</td>
+<td>Kiểm tra ngành có cho phép 100% vốn nước ngoài hay hạn chế tỷ lệ</td>
+<td>Cần lập bảng theo ngành mục tiêu</td>
+</tr>
+</tbody>
+</table>
+<h2>Checklist nghiên cứu</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Lập decision tree: lập mới 100% vốn nước ngoài vs góp vốn/mua cổ phần.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Trích rõ 3 tình huống cần đăng ký góp vốn/mua cổ phần trước khi đổi chủ sở hữu.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Lập bảng ngưỡng sở hữu: dưới/bằng 50%, trên 50%, tăng thêm khi đã trên 50%.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tạo checklist due diligence khi mua cổ phần/phần vốn góp: đất, môi trường, thuế, lao động, giấy phép chuyên ngành.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Kiểm tra riêng với ngành mục tiêu của khách hàng Trung Quốc.</li>
+</ul>
+<h2>Output bài viết liên quan</h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Bài viết</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI-HB-002</td>
+<td>Công ty 100% vốn nước ngoài: điều kiện, IRC, ERC</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-003</td>
+<td>Góp vốn/mua cổ phần: khi nào cần M&#x26;A approval?</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-004</td>
+<td>Decision tree: lập mới hay góp vốn/mua cổ phần?</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-007</td>
+<td>Điều chỉnh IRC/ERC khi thay đổi vốn, cổ đông, địa điểm, ngành nghề</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<h2>Ghi chú biên tập</h2>
+<p>Không viết theo kiểu "FDI được/không được". Phải chuyển thành câu hỏi thực tế: <strong>ngành gì, tỷ lệ nước ngoài bao nhiêu, có đất hay không, công ty đang có IRC không, địa điểm ở đâu</strong>.</p>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"data"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-legal"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"library"}]]}],["$","span","3",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-foreign-capital-forms"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"legal-library"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nhóm 2 — Hình thức vốn nước ngoài"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Nguồn pháp luật cho mô hình 100% vốn nước ngoài, góp vốn, mua cổ phần và M&A approval."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/data/fdi-legal/library/01-investment-enterprise","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nhóm 1 — Đầu tư & doanh nghiệp"}]]}],["$","$L2",null,{"href":"/docs/data/fdi-legal/library/03-environment-manufacturing","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nhóm 3 — Môi trường & sản xuất"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Nhóm 2 — Hình thức vốn nước ngoài · LongTV"}],["$","meta","1",{"name":"description","content":"Nguồn pháp luật cho mô hình 100% vốn nước ngoài, góp vốn, mua cổ phần và M&A approval."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]
