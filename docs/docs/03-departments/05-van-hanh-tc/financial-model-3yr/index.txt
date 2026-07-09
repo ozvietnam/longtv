@@ -4,10 +4,10 @@
 4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","style"]
+:HL["/longtv/_next/static/chunks/2jz00h6q4uhhm.css","style"]
 :HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","docs","03-departments","05-van-hanh-tc","financial-model-3yr",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/05-van-hanh-tc/financial-model-3yr","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"URii_kKhvlrmQu9BrYQMO"}
+0:{"P":null,"c":["","docs","03-departments","05-van-hanh-tc","financial-model-3yr",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/05-van-hanh-tc/financial-model-3yr","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/2jz00h6q4uhhm.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-r8AC7VXCCPYuuG-bhQmy"}
 f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
@@ -19,8 +19,8 @@ f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/
 12:[]
 a:"$W12"
 b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-17:T373a,<h1>Mô hình tài chính 3 năm — LONGTV</h1>
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/2jz00h6q4uhhm.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T3663,<h1>Mô hình tài chính 3 năm — LONGTV</h1>
 <blockquote>
 <p><strong>Owner:</strong> Vận hành &#x26; TC · <strong>Cập nhật:</strong> Hàng quý sau khi có actuals<br>
 Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a> · <a href="/docs/03-departments/00-org-model">org-model</a></p>
@@ -98,13 +98,13 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Logistics — cont/tháng (tháng 6)</strong></td>
-<td>Bear 15 · Base 65 · Stretch <strong>500</strong></td>
-<td>Mục tiêu anh: 500 cont = Bull 12–18T, không Base 6T</td>
+<td>Bear 25 · Base <strong>200</strong> · Bull 300+</td>
+<td>Ramp Oz 50 cont/tháng từ T8 → 200 T12</td>
 </tr>
 <tr>
 <td><strong>GP/cont logistics (desk)</strong></td>
-<td><strong>~980k VND</strong> (~14%)</td>
-<td>HQ + trucking + C/O blended</td>
+<td><strong>~820k VND</strong> (~15,3%)</td>
+<td>HQ + trucking blended + C/O (nhập +30% vs xuất)</td>
 </tr>
 <tr>
 <td><strong>Giá khai báo xuất (desk)</strong></td>
@@ -228,14 +228,14 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Cont xử lý (tích lũy 6T)</strong></td>
-<td>60–90</td>
-<td><strong>200–350</strong></td>
-<td><strong>1.500–2.000</strong> (~500/tháng T12)</td>
+<td>100–120</td>
+<td><strong>651</strong> (ramp 25→200)</td>
+<td>900+</td>
 </tr>
 <tr>
 <td>Khách logistics-only</td>
 <td>0–1</td>
-<td>1–2</td>
+<td>1–2 (Oz + 1–2 NM)</td>
 <td>3–5</td>
 </tr>
 <tr>
@@ -246,33 +246,33 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Doanh thu logistics VND</strong></td>
-<td>60–90M</td>
-<td><strong>250–450M</strong></td>
-<td><strong>10–14 tỷ</strong></td>
+<td>150–200M</td>
+<td><strong>~3,5 tỷ</strong></td>
+<td>5–6 tỷ</td>
 </tr>
 <tr>
 <td><strong>Tổng doanh thu VND</strong></td>
-<td>~120–150M</td>
-<td><strong>450–750M</strong></td>
-<td><strong>11–15 tỷ</strong></td>
+<td>~200–250M</td>
+<td><strong>~3,9–4,2 tỷ</strong></td>
+<td>5,5–6,5 tỷ</td>
 </tr>
 <tr>
 <td><strong>OPEX 6T tích lũy</strong></td>
 <td>~400M</td>
-<td>~480M</td>
-<td>~650–800M</td>
+<td>~550–650M</td>
+<td>~700–800M</td>
 </tr>
 <tr>
 <td><strong>Gross profit blended</strong></td>
-<td>~30–45M</td>
-<td><strong>120–200M</strong></td>
-<td><strong>1,7–2,5 tỷ</strong></td>
+<td>~40–60M</td>
+<td><strong>~650–750M</strong></td>
+<td>900M+</td>
 </tr>
 <tr>
 <td><strong>Net (GP − OPEX)</strong></td>
-<td><strong>−355M</strong></td>
-<td><strong>−280 đến −360M</strong></td>
-<td><strong>+0,9 đến +1,8 tỷ</strong></td>
+<td><strong>−340M</strong></td>
+<td><strong>~0 đến +100M</strong></td>
+<td><strong>+100–200M</strong></td>
 </tr>
 <tr>
 <td>Pipeline qualified</td>
@@ -283,7 +283,7 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tbody>
 </table>
 <p><em>*Bear consulting: 1 A1 pilot giảm 30% ($3.25k × 0.7)</em></p>
-<p><strong>Cách đọc mục tiêu 500 cont/tháng:</strong></p>
+<p><strong>Cách đọc mục tiêu 200 cont/tháng:</strong></p>
 <table>
 <thead>
 <tr>
@@ -294,23 +294,23 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </thead>
 <tbody>
 <tr>
-<td><strong>500 cont/tháng</strong></td>
-<td>~3,6 tỷ DT logistics/tháng · cần 3–8 NM lớn</td>
-<td>🟡 <strong>Stretch</strong> — chỉ Bull nếu có anchor sẵn</td>
+<td><strong>200 cont/tháng</strong></td>
+<td>~1,08 tỷ DT logistics/tháng · Oz 50 + 1–2 NM mới</td>
+<td>✅ <strong>Base</strong> — ramp từ T8</td>
 </tr>
 <tr>
-<td><strong>50–80 cont/tháng</strong></td>
-<td>~400–600M DT logistics/tháng</td>
-<td>✅ <strong>Base</strong> với 2–3 NM + MOU GPLS</td>
+<td><strong>50 cont/tháng</strong></td>
+<td>Nguồn Oz khởi điểm tháng 2</td>
+<td>✅ Có sẵn từ cổ đông</td>
 </tr>
 <tr>
-<td><strong>15–20 cont/tháng</strong></td>
-<td>Pilot 1 NM</td>
-<td>✅ Bear / tháng 1–2</td>
+<td><strong>25 cont/tháng</strong></td>
+<td>Pilot tháng 1</td>
+<td>✅ MOU GPLS + pilot</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nhận xét 6 tháng:</strong> Consulting vẫn chưa hòa vốn ở Base. <strong>Logistics có thể mang dòng tiền sớm hơn</strong> nếu ký B3 retainer hoặc NM đang xuất khẩu — nhưng margin <strong>~14–22%</strong> trên cont, không phải 58%. Mục tiêu 500 cont đặt làm <strong>đỉnh Bull</strong> hoặc mốc <strong>tháng 12–18</strong>, không thay thế Base planning.</p>
+<p><strong>Nhận xét 6 tháng:</strong> Với ramp Oz, logistics Base mang <strong>~534M GP</strong> trong 6T (nhập +30% vs xuất) — có thể <strong>hòa vốn hoặc lãi nhẹ</strong> sau OPEX. Margin cont <strong>~15%</strong>, không phải 58% consulting. Consulting vẫn quan trọng cho retainer và margin cao.</p>
 <hr>
 <h3>3.2. Sau 1 năm (T7/2026 – T6/2027)</h3>
 <table>
@@ -401,8 +401,8 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Logistics transactional</strong> (HQ+trucking+C/O)</td>
-<td><strong>30%</strong></td>
-<td><strong>~400–600M VND</strong></td>
+<td><strong>55–65%</strong></td>
+<td><strong>~2,5–3,5 tỷ VND</strong></td>
 </tr>
 <tr>
 <td>Bundle</td>
@@ -417,7 +417,7 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tbody>
 </table>
 <blockquote>
-<p>Năm 1 Base: logistics ~<strong>800–1.200 cont</strong> tích lũy (65–100 cont/tháng cuối năm) — không 500 cont/tháng ngay tháng 6 trừ Bull.</p>
+<p>Năm 1 Base: logistics ~<strong>1.500–2.000 cont</strong> tích lũy (150–200 cont/tháng cuối năm) — ramp Oz từ 50 cont/tháng T8.</p>
 </blockquote>
 <hr>
 <h3>3.3. Sau 2 năm (T7/2026 – T6/2028)</h3>

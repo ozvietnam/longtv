@@ -2,7 +2,7 @@
 2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T373a,<h1>Mô hình tài chính 3 năm — LONGTV</h1>
+3:T3663,<h1>Mô hình tài chính 3 năm — LONGTV</h1>
 <blockquote>
 <p><strong>Owner:</strong> Vận hành &#x26; TC · <strong>Cập nhật:</strong> Hàng quý sau khi có actuals<br>
 Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a> · <a href="/docs/03-departments/00-org-model">org-model</a></p>
@@ -80,13 +80,13 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Logistics — cont/tháng (tháng 6)</strong></td>
-<td>Bear 15 · Base 65 · Stretch <strong>500</strong></td>
-<td>Mục tiêu anh: 500 cont = Bull 12–18T, không Base 6T</td>
+<td>Bear 25 · Base <strong>200</strong> · Bull 300+</td>
+<td>Ramp Oz 50 cont/tháng từ T8 → 200 T12</td>
 </tr>
 <tr>
 <td><strong>GP/cont logistics (desk)</strong></td>
-<td><strong>~980k VND</strong> (~14%)</td>
-<td>HQ + trucking + C/O blended</td>
+<td><strong>~820k VND</strong> (~15,3%)</td>
+<td>HQ + trucking blended + C/O (nhập +30% vs xuất)</td>
 </tr>
 <tr>
 <td><strong>Giá khai báo xuất (desk)</strong></td>
@@ -210,14 +210,14 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Cont xử lý (tích lũy 6T)</strong></td>
-<td>60–90</td>
-<td><strong>200–350</strong></td>
-<td><strong>1.500–2.000</strong> (~500/tháng T12)</td>
+<td>100–120</td>
+<td><strong>651</strong> (ramp 25→200)</td>
+<td>900+</td>
 </tr>
 <tr>
 <td>Khách logistics-only</td>
 <td>0–1</td>
-<td>1–2</td>
+<td>1–2 (Oz + 1–2 NM)</td>
 <td>3–5</td>
 </tr>
 <tr>
@@ -228,33 +228,33 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Doanh thu logistics VND</strong></td>
-<td>60–90M</td>
-<td><strong>250–450M</strong></td>
-<td><strong>10–14 tỷ</strong></td>
+<td>150–200M</td>
+<td><strong>~3,5 tỷ</strong></td>
+<td>5–6 tỷ</td>
 </tr>
 <tr>
 <td><strong>Tổng doanh thu VND</strong></td>
-<td>~120–150M</td>
-<td><strong>450–750M</strong></td>
-<td><strong>11–15 tỷ</strong></td>
+<td>~200–250M</td>
+<td><strong>~3,9–4,2 tỷ</strong></td>
+<td>5,5–6,5 tỷ</td>
 </tr>
 <tr>
 <td><strong>OPEX 6T tích lũy</strong></td>
 <td>~400M</td>
-<td>~480M</td>
-<td>~650–800M</td>
+<td>~550–650M</td>
+<td>~700–800M</td>
 </tr>
 <tr>
 <td><strong>Gross profit blended</strong></td>
-<td>~30–45M</td>
-<td><strong>120–200M</strong></td>
-<td><strong>1,7–2,5 tỷ</strong></td>
+<td>~40–60M</td>
+<td><strong>~650–750M</strong></td>
+<td>900M+</td>
 </tr>
 <tr>
 <td><strong>Net (GP − OPEX)</strong></td>
-<td><strong>−355M</strong></td>
-<td><strong>−280 đến −360M</strong></td>
-<td><strong>+0,9 đến +1,8 tỷ</strong></td>
+<td><strong>−340M</strong></td>
+<td><strong>~0 đến +100M</strong></td>
+<td><strong>+100–200M</strong></td>
 </tr>
 <tr>
 <td>Pipeline qualified</td>
@@ -265,7 +265,7 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tbody>
 </table>
 <p><em>*Bear consulting: 1 A1 pilot giảm 30% ($3.25k × 0.7)</em></p>
-<p><strong>Cách đọc mục tiêu 500 cont/tháng:</strong></p>
+<p><strong>Cách đọc mục tiêu 200 cont/tháng:</strong></p>
 <table>
 <thead>
 <tr>
@@ -276,23 +276,23 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </thead>
 <tbody>
 <tr>
-<td><strong>500 cont/tháng</strong></td>
-<td>~3,6 tỷ DT logistics/tháng · cần 3–8 NM lớn</td>
-<td>🟡 <strong>Stretch</strong> — chỉ Bull nếu có anchor sẵn</td>
+<td><strong>200 cont/tháng</strong></td>
+<td>~1,08 tỷ DT logistics/tháng · Oz 50 + 1–2 NM mới</td>
+<td>✅ <strong>Base</strong> — ramp từ T8</td>
 </tr>
 <tr>
-<td><strong>50–80 cont/tháng</strong></td>
-<td>~400–600M DT logistics/tháng</td>
-<td>✅ <strong>Base</strong> với 2–3 NM + MOU GPLS</td>
+<td><strong>50 cont/tháng</strong></td>
+<td>Nguồn Oz khởi điểm tháng 2</td>
+<td>✅ Có sẵn từ cổ đông</td>
 </tr>
 <tr>
-<td><strong>15–20 cont/tháng</strong></td>
-<td>Pilot 1 NM</td>
-<td>✅ Bear / tháng 1–2</td>
+<td><strong>25 cont/tháng</strong></td>
+<td>Pilot tháng 1</td>
+<td>✅ MOU GPLS + pilot</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nhận xét 6 tháng:</strong> Consulting vẫn chưa hòa vốn ở Base. <strong>Logistics có thể mang dòng tiền sớm hơn</strong> nếu ký B3 retainer hoặc NM đang xuất khẩu — nhưng margin <strong>~14–22%</strong> trên cont, không phải 58%. Mục tiêu 500 cont đặt làm <strong>đỉnh Bull</strong> hoặc mốc <strong>tháng 12–18</strong>, không thay thế Base planning.</p>
+<p><strong>Nhận xét 6 tháng:</strong> Với ramp Oz, logistics Base mang <strong>~534M GP</strong> trong 6T (nhập +30% vs xuất) — có thể <strong>hòa vốn hoặc lãi nhẹ</strong> sau OPEX. Margin cont <strong>~15%</strong>, không phải 58% consulting. Consulting vẫn quan trọng cho retainer và margin cao.</p>
 <hr>
 <h3>3.2. Sau 1 năm (T7/2026 – T6/2027)</h3>
 <table>
@@ -383,8 +383,8 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tr>
 <tr>
 <td><strong>Logistics transactional</strong> (HQ+trucking+C/O)</td>
-<td><strong>30%</strong></td>
-<td><strong>~400–600M VND</strong></td>
+<td><strong>55–65%</strong></td>
+<td><strong>~2,5–3,5 tỷ VND</strong></td>
 </tr>
 <tr>
 <td>Bundle</td>
@@ -399,7 +399,7 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 </tbody>
 </table>
 <blockquote>
-<p>Năm 1 Base: logistics ~<strong>800–1.200 cont</strong> tích lũy (65–100 cont/tháng cuối năm) — không 500 cont/tháng ngay tháng 6 trừ Bull.</p>
+<p>Năm 1 Base: logistics ~<strong>1.500–2.000 cont</strong> tích lũy (150–200 cont/tháng cuối năm) — ramp Oz từ 50 cont/tháng T8.</p>
 </blockquote>
 <hr>
 <h3>3.3. Sau 2 năm (T7/2026 – T6/2028)</h3>
@@ -633,7 +633,7 @@ Tham chiếu: <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <
 <li><a href="/docs/03-departments/01-chien-luoc/strategy-3yr">Strategy 3yr</a></li>
 <li><a href="/docs/06-phases/investor-pack/00-investment-verdict">Investment verdict</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"financial-model-3yr"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Mô hình tài chính 3 năm — LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Dự phóng khách hàng, doanh thu, chi phí và runway: 6 tháng, 1 năm, 2 năm (Bear/Base/Bull)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"URii_kKhvlrmQu9BrYQMO"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"financial-model-3yr"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Mô hình tài chính 3 năm — LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Dự phóng khách hàng, doanh thu, chi phí và runway: 6 tháng, 1 năm, 2 năm (Bear/Base/Bull)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-r8AC7VXCCPYuuG-bhQmy"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/ctcp-timeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Timeline thành lập CTCP — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Kinh doanh & GTM"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
