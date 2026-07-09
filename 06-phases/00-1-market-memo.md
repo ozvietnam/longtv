@@ -44,6 +44,10 @@ author: "Cursor · Sếp Thắng"
 
 ### SAM — miền Bắc, 2 tỉnh LONGTV
 
+### 2. Đọc đúng số liệu TN (quan trọng)
+
+> Q1/2026 TN #1 FDI chủ yếu do **Samsung bán dẫn (~4B USD)** và dự án lớn Hàn/Đài — **không đồng nghĩa** hàng trăm NM TQ nhỏ. Phân khúc LONGTV: NM TQ **Tier 2–3**, 2–50M USD. Chi tiết: [fdi-data-deep-dive](/docs/04-research/2026-07/fdi-data-deep-dive).
+
 | Tỉnh | FDI mới 6T/2026 | Vai trò LONGTV |
 |------|-----------------|----------------|
 | **Thái Nguyên** | ~5,7 tỷ USD (#1) | Mảng A: chính sách, KCN Yên Bình |

@@ -38,7 +38,10 @@ author: "Sếp Thắng"
 - [x] SOP A1 desk research
 - [x] SOP B1 on-site
 - [ ] Chạy thử SOP A1 với khách pilot đầu tiên
-- [ ] SP-005: Tích hợp Oz tools (B1 hải quan)
+- [ ] SP-005: Tích hợp Oz tools (B1/B3)
+- [x] Vòng đời 9 giai đoạn (G0–G8) — [fdi-lifecycle-full-map](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map)
+- [x] Catalog v1 theo vòng đời — [service-catalog-v1](/docs/03-departments/04-san-pham/service-catalog-v1)
+- [x] Playbook G5 vận hành SX — [factory-operations-playbook-vn](/docs/03-departments/04-san-pham/factory-operations-playbook-vn)
 
 ## Hướng dẫn thực hiện
 
