@@ -55,6 +55,15 @@ author: "Cursor"
 | P2 | KIM-077 | **Verify CIT** KKT Đình Vũ–Cát Hải 2026 | Hermes | todo | 2026-07-21 | /docs/06-phases/investor-pack/03-investment-project-5-steps |
 | P2 | KIM-078 | **Pilot Full Setup** — đo timeline thực vs 3 tháng | Leader / KD | todo | 2026-09-30 | /docs/03-departments/01-chien-luoc/all-in-one-service-complex |
 | P2 | KIM-079 | **Draft SOP-FULL** 12 tuần từ Operational Manual | Cursor / PM | todo | 2026-08-15 | /docs/07-operations/all-in-one-operational-manual |
+| P0 | KIM-080 | **Brief LONGTV 1 trang A4** — gửi Sở/KCN trước call | Hermes | doing | 2026-07-12 | /docs/03-departments/01-chien-luoc/hermes-field-brief-template |
+| P1 | KIM-081 | **Thu thập URL địa phương** TN & HP → source-registry | Hermes | todo | 2026-07-25 | /docs/data/fdi-legal/source-registry.json |
+| P1 | KIM-082 | **Map 20 nhà máy TQ** tại TN + HP | Hermes | todo | 2026-07-30 | /docs/04-research/2026-07/fdi-data |
+| P1 | KIM-083 | **Desk note quy trình EPE** tại Thái Nguyên | Hermes | todo | 2026-07-28 | /docs/04-research/2026-07/thai-nguyen-fdi-policy |
+| P1 | KIM-084 | **Verify hiệu lực** 3 nguồn P0 trong Cẩm nang | Hermes | todo | 2026-07-28 | /docs/cam-nang |
+| P1 | KIM-085 | **Cập nhật fdi-data** sau field (số liệu theo quốc gia) | Hermes | todo | 2026-07-28 | /docs/04-research/2026-07/fdi-data |
+| P1 | KIM-086 | **Infographic 1 trang** "Vì sao TN + HP" | Hermes | todo | 2026-07-25 | /docs/04-research/2026-07/why-tn-hp |
+| P2 | KIM-087 | **Subscribe** báo cáo quý Cục Đầu tư nước ngoài | Hermes | todo | 2026-07-15 | /docs/04-research/2026-07/fdi-data |
+| P2 | KIM-088 | **Draft địa phương** Cẩm nang FDI-HB-013 & 014 | Hermes | todo | 2026-07-31 | /docs/data/fdi-legal/article-backlog |
 
 ---
 
@@ -64,13 +73,14 @@ author: "Cursor"
 |------|-----|
 | Ký / quyết định | KIM-001, 003 |
 | Điền thông tin công ty | KIM-002, 004 |
-| Gọi Sở / KCN | KIM-010 – 013 |
+| Gọi Sở / KCN | KIM-010 – 013, 077 |
 | Pháp lý / MOU | KIM-020, 050, 051 |
 | Thành lập CTCP | KIM-031 |
 | Bán hàng / khách thật | KIM-040, 041 |
 | Hạ tầng web | KIM-030, 060 |
 | Đầu tư & pitch | KIM-070 – 075, 072 |
 | All-in-one / UNIDO | KIM-076 – 079 |
+| **Hermes research** | KIM-080 – 088 |
 
 ---
 

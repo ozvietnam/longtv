@@ -9,6 +9,7 @@ const LINKS = [
   { href: "/cam-nang", label: "Cẩm nang tri thức" },
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "Giai đoạn 00-1" },
   { href: "/services", label: "Dịch vụ" },
+  { href: "/logistics", label: "Logistics & hải quan" },
   { href: "/operations", label: "Bảng vận hành" },
   { href: "/roadmap", label: "Lộ trình" },
   { href: "/departments", label: "Phòng ban" },

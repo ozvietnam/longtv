@@ -36,6 +36,14 @@ const HUB_LINKS = [
     icon: "02",
   },
   {
+    href: "/logistics",
+    title: "Logistics & hải quan",
+    subtitle: "Mảng B · XNK miền Bắc",
+    desc: "Khai báo HQ · nhập máy · forwarder · retainer nhập–SX–xuất",
+    accent: true,
+    icon: "🚢",
+  },
+  {
     href: "/operations",
     title: "Bảng vận hành",
     subtitle: "5 phòng ban",

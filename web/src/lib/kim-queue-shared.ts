@@ -32,7 +32,22 @@ export const JOB_CATEGORIES = [
   {
     id: "field",
     label: "Gọi Sở / KCN",
-    ids: ["KIM-010", "KIM-011", "KIM-012", "KIM-013"],
+    ids: ["KIM-010", "KIM-011", "KIM-012", "KIM-013", "KIM-077"],
+  },
+  {
+    id: "hermes-research",
+    label: "Hermes research",
+    ids: [
+      "KIM-080",
+      "KIM-081",
+      "KIM-082",
+      "KIM-083",
+      "KIM-084",
+      "KIM-085",
+      "KIM-086",
+      "KIM-087",
+      "KIM-088",
+    ],
   },
   {
     id: "legal",
@@ -62,6 +77,6 @@ export const JOB_CATEGORIES = [
   {
     id: "allinone",
     label: "All-in-one / UNIDO",
-    ids: ["KIM-076", "KIM-077", "KIM-078", "KIM-079"],
+    ids: ["KIM-076", "KIM-078", "KIM-079"],
   },
 ];

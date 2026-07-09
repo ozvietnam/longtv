@@ -4,11 +4,13 @@ import Link from "next/link";
 import { useState } from "react";
 import {
   LIFECYCLE_PHASES,
+  SERVICE_FAMILIES,
   SERVICES,
   TYPICAL_JOURNEY,
   COMPANY_POSITIONING,
   TIER_STYLES,
   getServicesByPhase,
+  getServiceById,
   type LifecyclePhase,
   type ServiceItem,
 } from "@/lib/services";
@@ -243,6 +245,49 @@ export function ServicesPageContent() {
             <ServiceCard key={s.id} service={s} />
           ))}
         </div>
+      </section>
+
+      {/* Service families */}
+      <section className="mb-12 space-y-5">
+        <div>
+          <h2 className="text-xl font-bold mb-2">Nhóm dịch vụ chuyên môn</h2>
+          <p className="text-sm text-[var(--muted)]">
+            Một số mảng không nằm gọn trong 1 giai đoạn. Đặc biệt, logistics được LONGTV triển khai như một chuỗi
+            dịch vụ riêng từ hải quan đến vận chuyển.
+          </p>
+        </div>
+        {SERVICE_FAMILIES.map((family) => {
+          const familyServices = family.serviceIds
+            .map((id) => getServiceById(id))
+            .filter((service): service is ServiceItem => Boolean(service));
+
+          return (
+            <div key={family.id} className="rounded-2xl border border-[var(--border)] bg-white p-6">
+              <div className="flex flex-col gap-2 mb-5">
+                <div className="inline-flex w-fit items-center rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold text-amber-900">
+                  Logistics & hải quan
+                </div>
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+                  <div>
+                    <h3 className="text-lg font-bold">{family.title}</h3>
+                    <p className="text-sm text-[var(--muted)] max-w-3xl">{family.summary}</p>
+                  </div>
+                  <Link
+                    href="/logistics"
+                    className="shrink-0 inline-flex items-center px-4 h-9 rounded-full bg-amber-600 text-white text-sm font-medium hover:bg-amber-700"
+                  >
+                    Landing logistics →
+                  </Link>
+                </div>
+              </div>
+              <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-4">
+                {familyServices.map((service) => (
+                  <ServiceCard key={service.id} service={service} />
+                ))}
+              </div>
+            </div>
+          );
+        })}
       </section>
 
       {/* By phase */}
