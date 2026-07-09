@@ -17,6 +17,7 @@ author: "Sếp Thắng"
 | P0 | SP-001 | Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc) | V4.1, V4.2 | @cursor | done | 2026-07-18 | /docs/03-departments/04-san-pham/service-catalog-v0.2 |
 | P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | @cursor | done | 2026-07-21 | /docs/03-departments/04-san-pham/build-vs-partner |
 | P0 | SP-006 | Tách dịch vụ tư vấn pháp lý kinh doanh & đầu tư thành trang dịch vụ riêng | V4.2, V4.4 | @cursor | review | 2026-07-09 | /docs/services/legal-consulting |
+| P0 | SP-007 | Tách dịch vụ chính sách & chính quyền 2 tỉnh thành trang dịch vụ riêng | V4.2 | @cursor | review | 2026-07-09 | /docs/services/policy-government |
 | P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
 | P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
 | P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
@@ -38,3 +39,7 @@ Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = 
 ### SP-006 — Tách trang dịch vụ pháp lý
 
 Tách H2 khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ phạm vi LONGTV tự làm, phần nào cần luật sư/đối tác đủ điều kiện, deliverable theo từng gói, input khách hàng cần cung cấp và liên kết sang thư viện pháp luật FDI.
+
+### SP-007 — Tách trang dịch vụ chính sách
+
+Tách Mảng A khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ A1/A2/A3, deliverable bán hàng, input khách hàng cần cung cấp, ranh giới giữa LONGTV điều phối và phần cần xác nhận từ cơ quan/đối tác chuyên môn.

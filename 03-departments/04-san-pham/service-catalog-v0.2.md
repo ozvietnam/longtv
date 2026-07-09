@@ -19,7 +19,7 @@ author: "Cursor · Sếp Thắng"
 | Tầng | Tên | Phạm vi | Khách hàng |
 |------|-----|---------|------------|
 | **Hub** | Trung tâm kết nối | Toàn VN (thông tin, pháp lý, kế toán) | NĐT nước ngoài, NM TQ |
-| **Mảng A** | Chính sách & chính quyền | **Thái Nguyên + Hải Phòng** | NM TQ muốn dịch chuyển |
+| **Mảng A** | [Chính sách & chính quyền](/docs/services/policy-government) | **Thái Nguyên + Hải Phòng** | NM TQ muốn dịch chuyển |
 | **Mảng B** | Logistics & hải quan | **Miền Bắc** (KCN + ngoài KCN) | NM/xí nghiệp SX-XNK |
 
 ---
@@ -51,6 +51,8 @@ Trang chi tiết: [Dịch vụ tư vấn pháp lý kinh doanh & đầu tư](/doc
 ---
 
 ## Mảng A — Chính sách & chính quyền (2 tỉnh)
+
+Trang chi tiết: [Dịch vụ chính sách & chính quyền 2 tỉnh](/docs/services/policy-government)
 
 ### Gói A1 — Khảo sát & định vị
 

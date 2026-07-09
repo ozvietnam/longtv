@@ -40,6 +40,12 @@ export default function Home() {
               Dịch vụ
             </Link>
             <Link
+              href="/docs/services/policy-government"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Chính sách 2 tỉnh
+            </Link>
+            <Link
               href="/departments"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >

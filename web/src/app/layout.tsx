@@ -34,6 +34,7 @@ function Header() {
           <Link href="/roadmap" className="hover:text-[var(--accent)]">Lộ trình</Link>
           <Link href="/departments" className="hover:text-[var(--accent)]">Phòng ban</Link>
           <Link href="/docs/services/00-index" className="hover:text-[var(--accent)]">Dịch vụ</Link>
+          <Link href="/docs/services/policy-government" className="hover:text-[var(--accent)] hidden md:inline">Chính sách</Link>
           <Link href="/docs" className="hover:text-[var(--accent)]">Tài liệu</Link>
           <Link href="/phases" className="hover:text-[var(--accent)] hidden sm:inline">Các pha</Link>
           <Link href="/decisions" className="hover:text-[var(--accent)] hidden sm:inline">Quyết định</Link>

@@ -16,11 +16,13 @@ author: "Cursor"
 
 | Tầng | Vai trò | Phạm vi | Trang chi tiết |
 |---|---|---|---|
-| **Mảng A — Chính sách & chính quyền** | Khảo sát địa điểm, chính sách, ưu đãi, làm việc với cơ quan địa phương | Thái Nguyên + Hải Phòng | Đang bóc tách |
+| **Mảng A — Chính sách & chính quyền** | Khảo sát địa điểm, chính sách, ưu đãi, làm việc với cơ quan địa phương | Thái Nguyên + Hải Phòng | [Dịch vụ chính sách & chính quyền 2 tỉnh](policy-government) |
 | **Mảng B — Logistics & hải quan** | HS code, khai báo, vận chuyển, chuỗi xuất-nhập-sản xuất | Miền Bắc | Đang bóc tách |
 | **Hub — Dịch vụ chuyên môn** | Pháp lý, kế toán, kiểm toán, kết nối đối tác | Toàn Việt Nam | [Tư vấn pháp lý kinh doanh & đầu tư](legal-consulting) |
 
 ## Mảng A — Chính sách & chính quyền
+
+Trang chi tiết: [Dịch vụ chính sách & chính quyền 2 tỉnh](policy-government).
 
 | Gói | Khách hàng phù hợp | Deliverable chính |
 |---|---|---|
