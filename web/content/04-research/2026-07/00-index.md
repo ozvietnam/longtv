@@ -36,6 +36,8 @@ author: "Hermes + Cursor"
 | CL-010 | Cập nhật fdi-data sau field | 📋 Todo |
 | CL-011 | Desk note EPE Thái Nguyên | 📋 Todo |
 | CL-012 | Verify nguồn P0 Cẩm nang | 📋 Todo |
+| CL-013 | Desk đối tác logistics (KIM-089) | 📋 Todo |
+| CL-014 | Bảng giá tuyến desk (KIM-090) | 📋 Todo |
 
 ## Giai đoạn 00-1 — Kết quả & đào sâu
 

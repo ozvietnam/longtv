@@ -47,6 +47,8 @@ export const JOB_CATEGORIES = [
       "KIM-086",
       "KIM-087",
       "KIM-088",
+      "KIM-089",
+      "KIM-090",
     ],
   },
   {

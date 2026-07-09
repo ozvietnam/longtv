@@ -10,6 +10,9 @@ author: "Cursor"
 
 # Gói công việc Hermes — Wave 2
 
+> **Trạng thái:** ✅ **Đã duyệt** — [QĐ #006](/docs/decisions/006-hermes-wave2-approval) · 2026-07-09  
+> **Chỉ đạo mới nhất:** [hermes-directive-log](/docs/03-departments/01-chien-luoc/hermes-directive-log) (#002, #003)
+
 > **Vai trò:** Nghiên cứu sâu + field verify + thu thập tài liệu cho LONGTV (CTCP tư vấn FDI TQ→VN, trọng tâm Thái Nguyên & Hải Phòng).
 >
 > **Leader xử lý:** KIM-001–004, 030, 060, 070–075 — tại [/kim](/kim).
@@ -129,6 +132,13 @@ Hỏi Sở KH&ĐT / Hải quan khi call KIM-010: điều kiện EPE, đầu mố
 - Memo WTO logistics FDI → [all-in-one-licensed-entities](/docs/03-departments/02-phap-ly/all-in-one-licensed-entities)
 - Giấy phép con PL-002 → phối hợp Pháp lý khi có khách pilot
 
+### F. Logistics desk (bổ sung sau QĐ #006)
+
+| Kim | CL | Việc | Output | Hạn |
+|-----|-----|------|--------|-----|
+| KIM-089 | CL-013 | **Desk đối tác** forwarder + đại lý hải quan GPLS | Bảng trong research hoặc file mới `logistics-partners-desk.md` | 2026-07-28 |
+| KIM-090 | CL-014 | **Bảng giá desk** tuyến TQ → HP → TN | § trong [logistics](/logistics) hoặc file `logistics-routes-desk.md` | 2026-07-25 |
+
 ---
 
 ## Definition of Done
@@ -148,7 +158,9 @@ Hỏi Sở KH&ĐT / Hải quan khi call KIM-010: điều kiện EPE, đầu mố
 
 | Công cụ | URL |
 |---------|-----|
-| Hộp việc Hermes (lọc) | [/kim](/kim) → filter **Hermes** |
+| Hộp việc Hermes (lọc) | [/kim](/kim) → filter **Nghiên cứu (Hermes)** |
+| Chỉ đạo & nhắc việc | [hermes-directive-log](/docs/03-departments/01-chien-luoc/hermes-directive-log) |
+| Quyết định duyệt | [QĐ #006](/docs/decisions/006-hermes-wave2-approval) |
 | Script gọi điện | [field-call-scripts](/docs/03-departments/01-chien-luoc/field-call-scripts) |
 | Ma trận TN/HP | [hp-tn-operational-matrix](/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix) |
 | Cẩm nang & registry | [/cam-nang](/cam-nang) |

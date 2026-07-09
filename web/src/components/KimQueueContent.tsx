@@ -107,6 +107,18 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
         </p>
         <div className="flex flex-wrap gap-3 mt-6">
           <Link
+            href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07"
+            className="inline-flex items-center px-4 h-10 rounded-full bg-violet-600 text-white text-sm font-semibold hover:bg-violet-700"
+          >
+            Gói việc Hermes (đã duyệt) →
+          </Link>
+          <Link
+            href="/docs/03-departments/01-chien-luoc/hermes-directive-log"
+            className="inline-flex items-center px-4 h-10 rounded-full border border-violet-200 bg-violet-50 text-sm font-medium text-violet-900 hover:bg-violet-100"
+          >
+            Chỉ đạo Hermes →
+          </Link>
+          <Link
             href="/docs/05-clarifications/kim-secretary-queue"
             className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] text-sm font-medium hover:bg-white"
           >

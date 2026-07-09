@@ -28,6 +28,8 @@ author: "Sếp Thắng"
 | P1 | CL-010 | Cập nhật fdi-data sau field verify (số liệu theo quốc gia) | V1.3 | @hermes | todo | 2026-07-28 | /docs/04-research/2026-07/fdi-data |
 | P1 | CL-011 | Desk note quy trình EPE tại Thái Nguyên | V1.2 | @hermes | todo | 2026-07-28 | /docs/04-research/2026-07/thai-nguyen-fdi-policy |
 | P1 | CL-012 | Verify hiệu lực 3 nguồn pháp luật P0 (Cẩm nang) | V2.3 | @hermes | todo | 2026-07-28 | /docs/cam-nang |
+| P1 | CL-013 | Desk danh sách đối tác forwarder & đại lý hải quan GPLS | V1.2 | @hermes | todo | 2026-07-28 | /logistics |
+| P1 | CL-014 | Bảng giá desk tuyến vận chuyển TQ → HP → TN | V1.2 | @hermes | todo | 2026-07-25 | /logistics |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
