@@ -37,13 +37,13 @@ author: "Cursor"
 | P0 | KIM-012 | **Call Ban QLKCN Yên Bình** — giá đất Q3/2026, quỹ lô nhỏ | Hermes | todo | 2026-07-21 | /docs/04-research/2026-07/kcn-desk-research |
 | P0 | KIM-013 | **Call Ban QLKCN Nam Đình Vũ** — giá & onboarding FDI TQ | Hermes | todo | 2026-07-21 | /docs/04-research/2026-07/kcn-desk-research |
 | P0 | KIM-020 | **Luật sư review** mẫu HĐ / NDA / MOU trước khi ký khách | Luật đối tác | todo | 2026-07-20 | /docs/03-departments/02-phap-ly/templates/00-index |
-| P1 | KIM-030 | **Bật GitHub Pages** — Settings → main / docs | Leader | todo | 2026-07-10 | /docs/DEPLOY |
+| P1 | KIM-030 | **Bật GitHub Pages** — Settings → main / docs | Leader | done | 2026-07-10 | /docs/DEPLOY |
+| P0 | KIM-060 | **Reconnect Vercel** — Root `web`, auto-deploy `main` (1 link duyệt) | Leader | todo | 2026-07-10 | /docs/DEPLOY |
 | P1 | KIM-031 | **Nộp hồ sơ đăng ký CTCP** (khi KIM-002 xong) | Leader + Luật | todo | 2026-08-15 | /docs/03-departments/02-phap-ly/ctcp-ho-so-checklist |
 | P1 | KIM-040 | **Gửi ≥2 proposal A1** cho khách TQ thật | Sales | todo | 2026-08-31 | /docs/03-departments/03-kinh-doanh/proposal-template-a1 |
 | P1 | KIM-041 | **Phỏng vấn 1** NM TQ đang vận hành tại VN (validate pricing) | Leader / KD | todo | 2026-08-31 | — |
 | P1 | KIM-050 | **Ký MOU** đối tác luật (white-label B2) | Leader | todo | 2026-08-15 | /docs/03-departments/02-phap-ly/templates/mou-doi-tac-luat |
 | P1 | KIM-051 | **Đàm phán MOU** Ban QLKCN (giới thiệu NĐT) | Leader | todo | 2026-08-31 | /docs/03-departments/02-phap-ly/templates/mou-kcn |
-| P2 | KIM-060 | Kết nối **Vercel** auto-deploy từ GitHub | Leader | todo | — | /docs/DEPLOY |
 | P2 | KIM-061 | Chọn **virtual office** & ký HĐ thuê địa chỉ | Leader | todo | 2026-08-01 | /docs/04-research/2026-07/plan-b-no-revenue |
 | P1 | KIM-070 | **Làm slide deck investor** 15 slide từ outline | Leader | todo | 2026-07-20 | /docs/03-departments/03-kinh-doanh/investor-pitch-deck |
 | P1 | KIM-071 | **Dry-run pitch** 15 phút + ghi hình | Leader | todo | 2026-07-25 | /docs/06-phases/investor-pack/01-executive-summary |
