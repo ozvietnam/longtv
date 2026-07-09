@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3941qvhqr3b0y.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3941qvhqr3b0y.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/1s4o3smh209kf.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1s4o3smh209kf.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T1f19,<h1>Hộp việc Thư ký Kim</h1>
+3:T26fb,<h1>Hộp việc Thư ký Kim</h1>
 <blockquote>
 <p><strong>Quy tắc:</strong> Chỉ ghi việc cần <strong>tương tác con người</strong> (gọi điện, ký, gặp, nộp hồ sơ, bán hàng thật). Việc desk/AI đã xong → link Evidence, không đưa vào đây.</p>
 <p><strong>Leader:</strong> Xử lý tập trung tại <a href="/kim">trang /kim</a> trên web.</p>
@@ -272,6 +272,87 @@
 <td>2026-08-15</td>
 <td>/docs/07-operations/all-in-one-operational-manual</td>
 </tr>
+<tr>
+<td>P0</td>
+<td>KIM-080</td>
+<td><strong>Brief LONGTV 1 trang A4</strong> — gửi Sở/KCN trước call</td>
+<td>Hermes</td>
+<td>doing</td>
+<td>2026-07-12</td>
+<td>/docs/03-departments/01-chien-luoc/hermes-field-brief-template</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-081</td>
+<td><strong>Thu thập URL địa phương</strong> TN &#x26; HP → source-registry</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td>/docs/data/fdi-legal/source-registry.json</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-082</td>
+<td><strong>Map 20 nhà máy TQ</strong> tại TN + HP</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-30</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-083</td>
+<td><strong>Desk note quy trình EPE</strong> tại Thái Nguyên</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/thai-nguyen-fdi-policy</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-084</td>
+<td><strong>Verify hiệu lực</strong> 3 nguồn P0 trong Cẩm nang</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/cam-nang</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-085</td>
+<td><strong>Cập nhật fdi-data</strong> sau field (số liệu theo quốc gia)</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-086</td>
+<td><strong>Infographic 1 trang</strong> "Vì sao TN + HP"</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td>/docs/04-research/2026-07/why-tn-hp</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-087</td>
+<td><strong>Subscribe</strong> báo cáo quý Cục Đầu tư nước ngoài</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-15</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-088</td>
+<td><strong>Draft địa phương</strong> Cẩm nang FDI-HB-013 &#x26; 014</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-31</td>
+<td>/docs/data/fdi-legal/article-backlog</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -294,7 +375,7 @@
 </tr>
 <tr>
 <td>Gọi Sở / KCN</td>
-<td>KIM-010 – 013</td>
+<td>KIM-010 – 013, 077</td>
 </tr>
 <tr>
 <td>Pháp lý / MOU</td>
@@ -320,6 +401,10 @@
 <td>All-in-one / UNIDO</td>
 <td>KIM-076 – 079</td>
 </tr>
+<tr>
+<td><strong>Hermes research</strong></td>
+<td>KIM-080 – 088</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -329,7 +414,7 @@
 <li>Ghi kết quả ngắn vào file research liên quan (hoặc comment PR)</li>
 <li>Việc desk tương ứng → tick TODO phòng ban tại <a href="/operations">/operations</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kim-secretary-queue"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Hộp việc — Thư ký Kim"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Danh sách công việc cần người thật xử lý — Leader tập trung tại /kim trên web."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C4mzN0goybHrCmvRkCPmz"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kim-secretary-queue"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Hộp việc — Thư ký Kim"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Danh sách công việc cần người thật xử lý — Leader tập trung tại /kim trên web."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"abC9QVAJZDC1bmk4qWy42"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-overview","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Xây hệ thống vận hành (overview)"}]]}],["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-07","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3941qvhqr3b0y.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3941qvhqr3b0y.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/1s4o3smh209kf.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1s4o3smh209kf.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T38d6,<h1>Service catalog v1 — Vòng đời đầy đủ</h1>
+3:T3fe5,<h1>Service catalog v1 — Vòng đời đầy đủ</h1>
 <blockquote>
 <p>Thay thế dần <a href="service-catalog-v0.2">catalog v0.2</a> làm <strong>nguồn bán hàng chính</strong>.<br>
 Map: <a href="fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></p>
@@ -61,6 +61,55 @@ Map: <a href="fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h2>Nhóm dịch vụ Logistics &#x26; hải quan</h2>
+<blockquote>
+<p>Đây là <strong>một nhóm dịch vụ riêng</strong>, không chỉ là vài đầu việc phụ trong setup nhà máy.
+LONGTV định vị logistics theo chuỗi: <strong>khai báo hải quan → nhập thiết bị → vận chuyển/forwarder → retainer XNK</strong>.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Nhóm việc</th>
+<th>Khách cần gì</th>
+<th>Deliverable chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>B1</td>
+<td>Hải quan starter</td>
+<td>Mới vào VN, chưa có SOP XNK</td>
+<td>SOP XNK, training, checklist hồ sơ</td>
+</tr>
+<tr>
+<td>B1-ext</td>
+<td>Nhập thiết bị / dây chuyền</td>
+<td>Máy móc từ TQ vào VN</td>
+<td>HS code, tờ khai nhập, tạm nhập–tái xuất</td>
+</tr>
+<tr>
+<td>B2</td>
+<td>Logistics pack</td>
+<td>Cần tuyến TQ → Hải Phòng → KCN / nhà máy</td>
+<td>Báo giá 2–3 tuyến, SOP giao nhận, kết nối forwarder</td>
+</tr>
+<tr>
+<td>B3</td>
+<td>Retainer chuỗi nhập–SX–xuất</td>
+<td>Nhà máy đã vận hành, có nhiều tờ khai</td>
+<td>PM XNK, đối soát BOM–hải quan, báo cáo tháng</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Phạm vi cụ thể:</strong></p>
+<ul>
+<li><strong>Khai báo hải quan:</strong> HS code, hồ sơ, tờ khai nhập/xuất, EPE flow cơ bản</li>
+<li><strong>Vận chuyển / logistics:</strong> forwarder quốc tế, trucking nội địa, cảng Hải Phòng / ICD / KCN</li>
+<li><strong>Điều phối vận hành:</strong> SOP giao nhận, phối hợp kho, cảnh báo rủi ro chứng từ</li>
+<li><strong>Không làm sâu tài sản-heavy Y1:</strong> chưa mở kho/ICD riêng; LONGTV đóng vai trò <strong>PM + tư vấn + điều phối đối tác</strong></li>
+</ul>
 <hr>
 <h2>G0–G1 — Tiếp cận</h2>
 <h3>A0 — Tư vấn sơ bộ (miễn phí)</h3>
@@ -756,7 +805,7 @@ Map: <a href="fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></p>
 <li class="task-list-item"><input type="checkbox" disabled> KD: one-pager G7/G8 tiếng Trung (niche ít đối thủ)</li>
 <li class="task-list-item"><input type="checkbox" disabled> SP-005: Oz tools vào B1/B3</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"service-catalog-v1"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Định hình cụ thể từng dịch vụ G0–G8: deliverable, giá, ai làm, điều kiện."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C4mzN0goybHrCmvRkCPmz"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"service-catalog-v1"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Định hình cụ thể từng dịch vụ G0–G8: deliverable, giá, ai làm, điều kiện."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"abC9QVAJZDC1bmk4qWy42"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Sản phẩm dịch vụ"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/all-in-one-service-portfolio","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio)"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
