@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tf84,<h1>Desk research — Chính sách FDI Hải Phòng (CL-002 mirror)</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Pháp lý / Chiến lược | <strong>Hermes wave 1</strong> | <strong>Ngày:</strong> 2026-07-09<br>
+<strong>Trạng thái:</strong> Desk hoàn thành — call Sở pending</p>
+</blockquote>
+<hr>
+<h2>1. Bối cảnh</h2>
+<ul>
+<li>Hải Phòng: <strong>cảng trọng điểm miền Bắc</strong>, FDI tăng mạnh 2020–2025 (điện tử, logistics, năng lượng)</li>
+<li>Đối tác LONGTV: nhà máy TQ cần <strong>xuất khẩu</strong> hoặc <strong>hub ASEAN</strong></li>
+</ul>
+<hr>
+<h2>2. Cơ quan &#x26; điểm chạm</h2>
+<table>
+<thead>
+<tr>
+<th>Cơ quan</th>
+<th>Vai trò</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sở KH&#x26;ĐT HP</strong></td>
+<td>Giấy phép đầu tư, ưu đãi</td>
+</tr>
+<tr>
+<td><strong>Ban QLKCN</strong> (Nam Đình Vũ, Tràng Duệ, VSIP…)</td>
+<td>Thuê đất, hạ tầng</td>
+</tr>
+<tr>
+<td><strong>Cục Hải quan HP</strong></td>
+<td>Thủ tục xuất nhập khẩu</td>
+</tr>
+<tr>
+<td><strong>Sở Tài nguyên &#x26; MT</strong></td>
+<td>GCN đất, môi trường</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Ưu đãi đầu tư (desk)</h2>
+<table>
+<thead>
+<tr>
+<th>Loại</th>
+<th>Nội dung (cần verify)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Thuế TNDN</strong></td>
+<td>Theo Luật Đầu tư — vùng ưu đãi đặc biệt (một số KCN)</td>
+</tr>
+<tr>
+<td><strong>Thuê đất</strong></td>
+<td>Giảm / miễn theo NĐ tỉnh &#x26; thời hạn thuê</td>
+</tr>
+<tr>
+<td><strong>Hỗ trợ thủ tục</strong></td>
+<td>Một cửa tại Sở KH&#x26;ĐT (thời gian cam kết ~15–30 ngày IRC — desk)</td>
+</tr>
+<tr>
+<td><strong>Quỹ hỗ trợ</strong></td>
+<td>Hỗ trợ đào tạo, chứng nhận (mức tùy quyết định hàng năm)</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết tổng hợp: <a href="./provincial-incentives.md">provincial-incentives.md</a></p>
+<hr>
+<h2>4. KCN trọng điểm</h2>
+<table>
+<thead>
+<tr>
+<th>KCN</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nam Đình Vũ</strong></td>
+<td>Logistics, gần cảng — <a href="./kcn-desk-research.md">kcn-desk-research.md</a></td>
+</tr>
+<tr>
+<td><strong>Tràng Duệ</strong></td>
+<td>Điện tử, ô tô</td>
+</tr>
+<tr>
+<td><strong>VSIP Hải Phòng</strong></td>
+<td>FDI đa quốc gia, giá cao</td>
+</tr>
+<tr>
+<td><strong>Deep C</strong></td>
+<td>Khu liên hợp cảng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Thủ tục FDI (tóm tắt)</h2>
+<ol>
+<li>Đăng ký ý định / IRC tại Sở KH&#x26;ĐT</li>
+<li>Đăng ký MST, con dấu</li>
+<li>Thuê đất / nhà xưởng tại KCN</li>
+<li>Giấy phép môi trường (nếu sản xuất)</li>
+<li>Giấy phép lao động cho lao động nước ngoài (nếu có)</li>
+</ol>
+<p>Tham chiếu hành trình: <a href="../../03-departments/04-san-pham/fdi-journey-service-map.md">fdi-journey-service-map.md</a></p>
+<hr>
+<h2>6. Rủi ro &#x26; lưu ý</h2>
+<ul>
+<li>Thời gian <strong>đánh giá tác động môi trường</strong> có thể kéo dài với ngành hóa chất</li>
+<li>Giá đất Nam Đình Vũ tăng — cần bảng giá mới mỗi quý</li>
+<li>Cạnh tranh với tư vấn địa phương đã có relationship Sở</li>
+</ul>
+<hr>
+<h2>7. Call script (Sở KH&#x26;ĐT HP)</h2>
+<ol>
+<li>Quỹ hỗ trợ FDI 2026 cho DN mới (mức, điều kiện)?</li>
+<li>Thời gian trung bình cấp IRC cho CTCP 100% nước ngoài?</li>
+<li>Danh sách KCN còn quỹ cho ngành điện tử / cơ khí?</li>
+<li>Đầu mối liên hệ Ban QLKCN Nam Đình Vũ?</li>
+</ol>
+<hr>
+<h2>8. Việc còn lại</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT HP (Leader / PL)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật số liệu FDI 2025 từ <a href="./fdi-data.md">fdi-data.md</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"hai-phong-fdi-policy"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"hai-phong-fdi-policy"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/gtm-channels","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"gtm-channels"}]]}],["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/hd-dich-vu-tu-van","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"hd-dich-vu-tu-van"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

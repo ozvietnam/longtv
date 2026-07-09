@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Td5b,<h1>Nhóm 1 — Đầu tư &#x26; doanh nghiệp</h1>
+<h2>Câu hỏi nhóm này trả lời</h2>
+<ul>
+<li>Nhà đầu tư nước ngoài muốn lập công ty mới tại Việt Nam cần đi qua những giấy phép nào?</li>
+<li>Khi nào phải xin <strong>Investment Registration Certificate (IRC)</strong>?</li>
+<li>Sau IRC cần làm gì để có <strong>Enterprise Registration Certificate (ERC)</strong>?</li>
+<li>Dự án trong khu công nghiệp và ngoài khu công nghiệp khác nhau ở cơ quan xử lý nào?</li>
+</ul>
+<h2>Văn bản cần đọc trước</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>Văn bản</th>
+<th>Vai trò trong cẩm nang</th>
+<th>Cần trích xuất</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Luật Đầu tư 2020 — 61/2020/QH14</td>
+<td>Luật gốc về hình thức đầu tư, điều kiện nhà đầu tư nước ngoài, IRC</td>
+<td>Điều 21-23, Điều 37-40</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Nghị định 31/2021/NĐ-CP</td>
+<td>Hướng dẫn chi tiết Luật Đầu tư, hồ sơ/thủ tục đầu tư</td>
+<td>Hồ sơ IRC, điều kiện tiếp cận thị trường, cơ quan cấp phép</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Luật Doanh nghiệp 2020 — 59/2020/QH14</td>
+<td>Luật gốc về loại hình doanh nghiệp, CTCP/TNHH, ERC, cổ đông/thành viên</td>
+<td>Điều kiện thành lập, người đại diện, cổ đông/thành viên</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Nghị định 01/2021/NĐ-CP</td>
+<td>Hướng dẫn đăng ký doanh nghiệp</td>
+<td>Hồ sơ ERC, thay đổi đăng ký doanh nghiệp</td>
+</tr>
+</tbody>
+</table>
+<h2>Checklist nghiên cứu</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Lập sơ đồ: nhà đầu tư nước ngoài -> IRC -> ERC -> sau thành lập.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tách trường hợp <strong>dự án trong KCN/KKT</strong> và <strong>dự án ngoài KCN/KKT</strong>.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ghi rõ cơ quan xử lý: Sở KH&#x26;ĐT, Ban quản lý KCN/KKT, Phòng đăng ký kinh doanh.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ghi thời hạn pháp lý và cảnh báo "thực tế có thể kéo dài nếu hồ sơ bị hỏi bổ sung".</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tạo bảng hồ sơ cần chuẩn bị từ phía nhà đầu tư Trung Quốc.</li>
+</ul>
+<h2>Output bài viết liên quan</h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Bài viết</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI-HB-001</td>
+<td>Tổng quan con đường đầu tư FDI vào Việt Nam</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-005</td>
+<td>Quy trình xin Investment Registration Certificate (IRC)</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-006</td>
+<td>Quy trình Enterprise Registration Certificate (ERC) và việc sau thành lập</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-016</td>
+<td>Hồ sơ nhà đầu tư Trung Quốc cần chuẩn bị trước khi sang Việt Nam</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<h2>Ghi chú biên tập</h2>
+<p>Nhóm này là nền của toàn bộ cẩm nang. Khi viết cho trang chủ, cần dùng ngôn ngữ quy trình: <strong>bước 1 làm gì, nộp ở đâu, hồ sơ gồm gì, rủi ro bị hỏi bổ sung là gì</strong>.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"data"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-legal"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"library"}]]}],["$","span","3",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-investment-enterprise"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"legal-library"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nhóm 1 — Đầu tư & doanh nghiệp"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Nguồn pháp luật nền tảng cho IRC, ERC, thành lập tổ chức kinh tế và đăng ký doanh nghiệp FDI."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/data/fdi-legal/article-backlog","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Backlog bài viết — Cẩm nang pháp lý FDI"}]]}],["$","$L2",null,{"href":"/docs/data/fdi-legal/library/02-foreign-capital-forms","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nhóm 2 — Hình thức vốn nước ngoài"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T13bb,<h1>CL-006 — Plan B: Không có doanh thu 3 tháng đầu</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Chiến lược | <strong>Giai đoạn:</strong> 00-1 | <strong>Trạng thái:</strong> Hoàn thành<br>
+<strong>Ngày:</strong> 2026-07-09</p>
+</blockquote>
+<hr>
+<h2>1. Giả định kích hoạt Plan B</h2>
+<p>Kích hoạt khi <strong>đồng thời</strong>:</p>
+<ul>
+<li>Tháng 1–3 sau go-live: <strong>0 hợp đồng trả phí</strong> (chỉ lead / meeting miễn phí)</li>
+<li><strong>Burn rate</strong> thực tế > 120% ngân sách <a href="./startup-budget.md">startup-budget.md</a></li>
+<li>Pipeline &#x3C; 3 lead qualified</li>
+</ul>
+<hr>
+<h2>2. Ngân sách &#x26; runway</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Kế hoạch gốc (3 tháng)</th>
+<th>Plan B (cắt giảm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lương (5 người part-time)</td>
+<td>180M</td>
+<td><strong>120M</strong> — TGĐ + 2 sales only</td>
+</tr>
+<tr>
+<td>Văn phòng / coworking</td>
+<td>30M</td>
+<td><strong>15M</strong> — coworking, không thuê riêng</td>
+</tr>
+<tr>
+<td>Marketing</td>
+<td>40M</td>
+<td><strong>10M</strong> — organic + WeChat only</td>
+</tr>
+<tr>
+<td>Pháp lý / đăng ký CTCP</td>
+<td>50M</td>
+<td><strong>50M</strong> — không cắt (bắt buộc)</td>
+</tr>
+<tr>
+<td>Đi lại / on-site</td>
+<td>30M</td>
+<td><strong>15M</strong> — 1 chuyến TN/HP/tháng</td>
+</tr>
+<tr>
+<td>Dự phòng</td>
+<td>70M</td>
+<td><strong>90M</strong> — tăng buffer</td>
+</tr>
+<tr>
+<td><strong>Tổng 3 tháng</strong></td>
+<td><strong>~400M</strong></td>
+<td><strong>~300M</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Vốn điều lệ 2B</strong> — Plan B <strong>không</strong> đụng vốn góp; chỉ dùng <strong>quỹ hoạt động</strong> từ cổ đông / vay ngắn hạn nội bộ.</p>
+<p><strong>Runway:</strong> Với burn 100M/tháng (Plan B) → <strong>~10 tháng</strong> nếu quỹ hoạt động 1B (giả định Leader duyệt).</p>
+<hr>
+<h2>3. Hành động theo tuần</h2>
+<h3>Tuần 1–2 sau kích hoạt</h3>
+<table>
+<thead>
+<tr>
+<th>Hành động</th>
+<th>Owner</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Freeze tuyển</td>
+<td>TGĐ</td>
+<td>Không tuyển thêm đến khi có HĐ đầu tiên</td>
+</tr>
+<tr>
+<td>Cắt marketing trả phí</td>
+<td>KD</td>
+<td>Dừng ads, events trả phí</td>
+</tr>
+<tr>
+<td>Pivot gói miễn phí</td>
+<td>SP</td>
+<td><strong>Gói A0</strong> — 30 phút tư vấn + checklist PDF</td>
+</tr>
+<tr>
+<td>Tăng outbound TQ</td>
+<td>Sales</td>
+<td>20 cuộc gọi/tuần qua WeChat / đối tác giới thiệu</td>
+</tr>
+<tr>
+<td>Báo cáo cổ đông</td>
+<td>TGĐ</td>
+<td>Email 2 tuần/lần: burn, pipeline, điều chỉnh</td>
+</tr>
+</tbody>
+</table>
+<h3>Tuần 3–4</h3>
+<table>
+<thead>
+<tr>
+<th>Hành động</th>
+<th>Owner</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đối tác white-label</td>
+<td>KD</td>
+<td>Thỏa thuận chia fee với luật / kế toán có sẵn khách</td>
+</tr>
+<tr>
+<td>Nội dung tiếng Trung</td>
+<td>VT</td>
+<td>2 bài/tuần WeChat / 小红书 positioning</td>
+</tr>
+<tr>
+<td>Giảm giá gói A1</td>
+<td>KD</td>
+<td>-30% cho 3 khách pilot (có case study)</td>
+</tr>
+</tbody>
+</table>
+<h3>Tháng 2–3 (nếu vẫn 0 doanh thu)</h3>
+<table>
+<thead>
+<tr>
+<th>Hành động</th>
+<th>Owner</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pause</strong> phòng HC không cốt lõi</td>
+<td>TGĐ</td>
+<td>Chỉ giữ TGĐ, PL, KD, SP</td>
+</tr>
+<tr>
+<td>Freelance thay FTE</td>
+<td>VT</td>
+<td>Designer / content theo project</td>
+</tr>
+<tr>
+<td>Xem xét <strong>No-Go</strong></td>
+<td>TGĐ + cổ đông</td>
+<td>Họp QĐ: tiếp tục / pivot ngành / giải thể</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Chỉ số thoát Plan B (recovery)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Ngưỡng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hợp đồng ký</td>
+<td>≥ 1 gói A1 hoặc B1</td>
+</tr>
+<tr>
+<td>Pipeline</td>
+<td>≥ 5 lead qualified</td>
+</tr>
+<tr>
+<td>Burn</td>
+<td>≤ 100M/tháng</td>
+</tr>
+<tr>
+<td>Thời gian</td>
+<td>Trong 60 ngày kể từ kích hoạt</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Kịch bản xấu nhất (No-Go sau 6 tháng)</h2>
+<ol>
+<li>Hoàn tất nghĩa vụ pháp lý CTCP (nếu đã thành lập)</li>
+<li>Chuyển nhượng / giải thể theo <a href="./legal-entity-comparison.md">legal-entity-comparison.md</a></li>
+<li>Tài sản: website, nội dung research → archive repo</li>
+<li><strong>Chi phí sunk ước tính:</strong> 400–600M (3–6 tháng Plan B)</li>
+</ol>
+<hr>
+<h2>6. Khuyến nghị</h2>
+<ul>
+<li><strong>Phê duyệt trước:</strong> Leader ký ngưỡng kích hoạt Plan B (số tiền quỹ hoạt động tối thiểu)</li>
+<li><strong>Không panic pivot</strong> sang Bắc Ninh chỉ vì chậm doanh thu — đổi tỉnh không giải quyết GTM yếu</li>
+<li>Ưu tiên <strong>1 case study miễn phí</strong> (pilot) hơn cắt giá toàn bộ catalog</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"plan-b-no-revenue"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"plan-b-no-revenue"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/pitch-deck-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"pitch-deck-v1"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/pricing-draft","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"pricing-draft"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

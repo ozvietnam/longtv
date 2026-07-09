@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+8:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T911,<h1>VT-GĐ2 — Burn tracker (mẫu)</h1>
+<blockquote>
+<p><strong>Cập nhật:</strong> Hàng tuần · <strong>Owner:</strong> Vận hành &#x26; TC<br>
+Tham chiếu ngân sách: <a href="/docs/04-research/2026-07/startup-budget">startup-budget</a></p>
+</blockquote>
+<hr>
+<h2>Kế hoạch vs thực tế (VND)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Kế hoạch/tháng</th>
+<th>T1</th>
+<th>T2</th>
+<th>T3</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lương</td>
+<td>60–90M</td>
+<td></td>
+<td></td>
+<td></td>
+<td>TGĐ + 2 sales lean</td>
+</tr>
+<tr>
+<td>Văn phòng (virtual)</td>
+<td>3–5M</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Marketing</td>
+<td>10–15M</td>
+<td></td>
+<td></td>
+<td></td>
+<td>WeChat organic</td>
+</tr>
+<tr>
+<td>Pháp lý / đăng ký</td>
+<td>—</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Spike tháng nộp CTCP</td>
+</tr>
+<tr>
+<td>Đi lại on-site</td>
+<td>0–15M</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Theo B1</td>
+</tr>
+<tr>
+<td>Công cụ / SaaS</td>
+<td>2–5M</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Sheet, domain</td>
+</tr>
+<tr>
+<td><strong>Tổng burn</strong></td>
+<td><strong>~90–125M</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Doanh thu</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Net burn</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Runway</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quỹ hoạt động khả dụng</td>
+<td>___ VND <em>(Leader điền)</em></td>
+</tr>
+<tr>
+<td>Burn trung bình 3 tháng</td>
+<td>___ VND</td>
+</tr>
+<tr>
+<td><strong>Runway (tháng)</strong></td>
+<td>Quỹ / Burn</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ngưỡng cảnh báo:</strong> Runway &#x3C; 6 tháng → báo TGĐ + xem Plan B</p>
+<hr>
+<h2>Quy tắc ghi nhận</h2>
+<ul>
+<li>Ghi <strong>chi phí thực</strong> khi xuất hóa đơn / chuyển khoản</li>
+<li>Doanh thu ghi khi <strong>nhận deposit</strong> (không ghi khi ký HĐ chưa thu)</li>
+<li>CTCP vốn 2 tỷ <strong>tách</strong> khỏi burn hoạt động</li>
+</ul>
+<hr>
+<h2>File làm việc</h2>
+<p>Copy bảng trên vào Google Sheet tab <code>burn-2026</code> — chia sẻ TGĐ + VT.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"burn-tracker"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"burn-tracker"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/bundle-onepager-zh","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":["$L4","$L5"]}],"$L6"]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}]
+5:["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"bundle-onepager-zh"}]
+6:["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/ctcp-ho-so-checklist","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"ctcp-ho-so-checklist"}]]}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

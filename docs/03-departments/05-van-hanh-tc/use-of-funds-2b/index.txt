@@ -1,0 +1,334 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3nx12gne_ziuj.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","05-van-hanh-tc","use-of-funds-2b",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/05-van-hanh-tc/use-of-funds-2b","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QswpECjHA_uBUdh3_m9Nn"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T1b7e,<h1>Phân bổ vốn 2 tỷ VND — Use of Funds</h1>
+<blockquote>
+<p><strong>Tham chiếu:</strong> <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> · <a href="/docs/04-research/2026-07/startup-budget">startup-budget</a><br>
+<strong>Trạng thái:</strong> Đề xuất — <strong>chờ Leader &#x26; cổ đông ký</strong></p>
+</blockquote>
+<hr>
+<h2>1. Tổng quan</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>%</th>
+<th>Số tiền (triệu VND)</th>
+<th>Mục đích</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A. Vốn góp cổ đông (treo DN)</strong></td>
+<td>50%</td>
+<td><strong>1.000</strong></td>
+<td>Vốn điều lệ CTCP, uy tín pháp lý, IRC</td>
+</tr>
+<tr>
+<td><strong>B. Quỹ vận hành 12–18 tháng</strong></td>
+<td>25%</td>
+<td><strong>500</strong></td>
+<td>Lương, văn phòng, đi lại, SaaS</td>
+</tr>
+<tr>
+<td><strong>C. Marketing &#x26; GTM</strong></td>
+<td>10%</td>
+<td><strong>200</strong></td>
+<td>WeChat, sự kiện KCN, tài liệu CN</td>
+</tr>
+<tr>
+<td><strong>D. Dự phòng &#x26; pháp lý</strong></td>
+<td>15%</td>
+<td><strong>300</strong></td>
+<td>MOU, spike CTCP, Plan B buffer</td>
+</tr>
+<tr>
+<td><strong>TỔNG</strong></td>
+<td>100%</td>
+<td><strong>2.000</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Chi tiết từng quỹ</h2>
+<h3>A. Vốn góp cổ đông — 1.000 triệu</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Triệu VND</th>
+<th>Thời điểm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn điều lệ đăng ký CTCP</td>
+<td>1.000</td>
+<td>Nộp trong 90 ngày sau ERC</td>
+</tr>
+<tr>
+<td>Chi phí thành lập (trừ vào ops nếu cần)</td>
+<td>43–107</td>
+<td>T7–T8/2026</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lưu ý pháp lý:</strong> Vốn điều lệ có thể dùng cho hoạt động DN sau khi mở tài khoản — không nhất thiết “đóng băng” vô hạn, nhưng <strong>không nên</strong> coi toàn bộ 1 tỷ là chi tiêu tự do; giữ ≥500M trong DN làm vốn chủ sở hữu tối thiểu.</p>
+<h3>B. Quỹ vận hành — 500 triệu (12–18 tháng lean)</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>6 tháng</th>
+<th>12 tháng</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lương &#x26; thù lao</td>
+<td>200–320</td>
+<td>400–650</td>
+<td>Ramp 2 sales T8–T9</td>
+</tr>
+<tr>
+<td>Virtual office</td>
+<td>18–30</td>
+<td>36–60</td>
+<td>3–5M/tháng</td>
+</tr>
+<tr>
+<td>Đi lại KCN / on-site</td>
+<td>30–60</td>
+<td>80–150</td>
+<td>Theo B1</td>
+</tr>
+<tr>
+<td>Kế toán / admin</td>
+<td>24–48</td>
+<td>48–96</td>
+<td>Thuê ngoài</td>
+</tr>
+<tr>
+<td>SaaS / công cụ</td>
+<td>12–24</td>
+<td>24–48</td>
+<td>CRM, AI, domain</td>
+</tr>
+<tr>
+<td><strong>Tổng</strong></td>
+<td><strong>~284–482</strong></td>
+<td><strong>~588–1.004</strong></td>
+<td>Base ~480M/6T</td>
+</tr>
+</tbody>
+</table>
+<p>→ 500M đủ <strong>~10–12 tháng</strong> ở burn ~45–50M (bootstrap) hoặc <strong>~5–6 tháng</strong> ở burn ~90M (full team).</p>
+<h3>C. Marketing &#x26; GTM — 200 triệu</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Triệu VND</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One-pager / pitch CN in ấn</td>
+<td>10–20</td>
+<td>Bundle zh, name card</td>
+</tr>
+<tr>
+<td>Sự kiện KCN / Hội DN TQ</td>
+<td>40–80</td>
+<td>2–4 sự kiện/năm</td>
+</tr>
+<tr>
+<td>WeChat / LinkedIn outbound</td>
+<td>30–50</td>
+<td>Ads nhẹ + content</td>
+</tr>
+<tr>
+<td>Đối tác referral (commission)</td>
+<td>40–60</td>
+<td>Luật / KCN intro</td>
+</tr>
+<tr>
+<td>Dự phòng campaign</td>
+<td>30–50</td>
+<td>Q4 push nếu pipeline yếu</td>
+</tr>
+</tbody>
+</table>
+<h3>D. Dự phòng &#x26; pháp lý — 300 triệu</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Triệu VND</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Luật sư CTCP + MOU cổ đông</td>
+<td>80–120</td>
+<td>White-label B2</td>
+</tr>
+<tr>
+<td>MOU Ban QLKCN</td>
+<td>20–40</td>
+<td>Đàm phán, lễ ký</td>
+</tr>
+<tr>
+<td>Review template HĐ</td>
+<td>15–30</td>
+<td>KIM-020</td>
+</tr>
+<tr>
+<td>Buffer 3 tháng burn khẩn</td>
+<td>150</td>
+<td>Plan B (<a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b</a>)</td>
+</tr>
+<tr>
+<td>Virtual office nâng cấp / VO</td>
+<td>20–40</td>
+<td>Khi cần địa chỉ đẹp hơn</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Lịch giải ngân đề xuất (milestone-based)</h2>
+<table>
+<thead>
+<tr>
+<th>Mốc</th>
+<th>% 2B</th>
+<th>Triệu VND</th>
+<th>Điều kiện</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>M1</strong> Ký MOU cổ đông + điều lệ draft</td>
+<td>30%</td>
+<td>600</td>
+<td>Cap table chốt</td>
+</tr>
+<tr>
+<td><strong>M2</strong> ERC + tài khoản DN mở</td>
+<td>40%</td>
+<td>800</td>
+<td>CTCP thành lập</td>
+</tr>
+<tr>
+<td><strong>M3</strong> 1 HĐ khách ký (A1+)</td>
+<td>20%</td>
+<td>400</td>
+<td>Deposit vào</td>
+</tr>
+<tr>
+<td><strong>M4</strong> 12 tháng hoặc 3 khách</td>
+<td>10%</td>
+<td>200</td>
+<td>Review board</td>
+</tr>
+</tbody>
+</table>
+<p><em>Phù hợp cổ đông chiến lược — giảm rủi ro “đổ hết vốn trước khi bán được”.</em></p>
+<hr>
+<h2>4. So sánh với research VT-001</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>VT-001 (cũ)</th>
+<th>Use of Funds (mới)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn điều lệ</td>
+<td>1–1,5 tỷ</td>
+<td><strong>2 tỷ</strong> (QĐ #003)</td>
+</tr>
+<tr>
+<td>Opex 6T</td>
+<td>270–425M</td>
+<td>Khớp — nằm trong quỹ B</td>
+</tr>
+<tr>
+<td>Giả định 0 DT 6T</td>
+<td>Có</td>
+<td>Vẫn trong runway</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Slide “Use of Funds” (cho pitch)</h2>
+<pre><code>2 tỷ VND
+├── 50% Vốn DN (uy tín CTCP + IRC)
+├── 25% Vận hành 12–18T (team lean + virtual office)
+├── 10% GTM (WeChat, KCN events, referral)
+└── 15% Dự phòng (pháp lý, Plan B 3 tháng)
+</code></pre>
+<hr>
+<h2>7. Kịch bản scale — quy mô tầm trung (tham chiếu)</h2>
+<p>Khi triển khai <strong>2 chi nhánh vật lý + kho + ~16–18 FTE</strong> (không phải bootstrap 2 tỷ):</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Giá trị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tổng nhu cầu năm 1</td>
+<td><strong>6.650.000.000 VND</strong></td>
+</tr>
+<tr>
+<td>CAPEX</td>
+<td>1.460 tỷ (22%)</td>
+</tr>
+<tr>
+<td>OPEX</td>
+<td>5.190 tỷ (78%)</td>
+</tr>
+</tbody>
+</table>
+<p>→ Chi tiết + file Excel: <a href="capex-opex-year1-medium-scale.md">capex-opex-year1-medium-scale</a></p>
+<hr>
+<h2>Việc Leader chốt</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Xác nhận % A/B/C/D hoặc điều chỉnh</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chọn <strong>milestone giải ngân</strong> hay giải ngân một lần</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền <a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a> — ai góp phần nào</li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"use-of-funds-2b"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Phân bổ vốn 2 tỷ VND — Use of Funds"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Chi tiết sử dụng vốn điều lệ 2 tỷ: vốn góp DN, vận hành, GTM, dự phòng và lịch giải ngân."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/fdi-journey-service-map","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Bản đồ hành trình FDI TQ→VN & checklist dịch vụ"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Sản phẩm dịch vụ"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Phân bổ vốn 2 tỷ VND — Use of Funds · LongTV"}],["$","meta","1",{"name":"description","content":"Chi tiết sử dụng vốn điều lệ 2 tỷ: vốn góp DN, vận hành, GTM, dự phòng và lịch giải ngân."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

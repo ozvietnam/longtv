@@ -1,0 +1,397 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1e89,<h1>Memo pháp lý — G7 Di dời &#x26; G8 Thoái vốn</h1>
+<blockquote>
+<p><strong>Disclaimer:</strong> Desk research — <strong>bắt buộc</strong> luật sư đối tác xác nhận trước khi tư vấn khách.<br>
+<strong>Catalog:</strong> <a href="/docs/03-departments/04-san-pham/service-catalog-v1">G7-Pack / G8-Pack</a></p>
+</blockquote>
+<hr>
+<h2>Phần A — G7: Di dời sang tỉnh khác (trong VN)</h2>
+<h3>A.1. Các kịch bản</h3>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Mô tả</th>
+<th>Độ phức tạp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>7a</strong></td>
+<td>Giữ pháp nhân, thuê thêm lô tỉnh mới</td>
+<td>Trung bình</td>
+</tr>
+<tr>
+<td><strong>7b</strong></td>
+<td>Giữ pháp nhân, chuyển trụ sở + nhà máy</td>
+<td>Cao</td>
+</tr>
+<tr>
+<td><strong>7c</strong></td>
+<td>Lập pháp nhân mới tỉnh B, dần chuyển hoạt động</td>
+<td>Cao</td>
+</tr>
+<tr>
+<td><strong>7d</strong></td>
+<td>Bán / chuyển nhượng NM cho bên thứ 3</td>
+<td>Cao (M&#x26;A)</td>
+</tr>
+</tbody>
+</table>
+<h3>A.2. Thủ tục chính (kịch bản 7a/7b)</h3>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Việc</th>
+<th>Cơ quan</th>
+<th>Thời gian ước tính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Rà soát HĐ thuê đất hiện tại</td>
+<td>KCN + luật</td>
+<td>2–4 tuần</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Đánh giá nghĩa vụ hoàn trả ưu đãi (nếu chưa hết cam kết)</td>
+<td>Sở + Thuế</td>
+<td>2–4 tuần</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Đăng ký dự án / điều chỉnh IRC (địa điểm mới)</td>
+<td>Sở KH&#x26;ĐT tỉnh đích</td>
+<td>15–45 ngày</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Thuê đất / nhà xưởng tỉnh mới</td>
+<td>KCN đích</td>
+<td>1–3 tháng</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chấm dứt / chuyển nhượng HĐ thuê tỉnh cũ</td>
+<td>KCN nguồn</td>
+<td>1–6 tháng</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cập nhật địa chỉ DN, MST, hải quan</td>
+<td>ĐKKD, Thuế, HQ</td>
+<td>2–4 tuần</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Di chuyển tài sản, máy móc</td>
+<td>Hải quan (EPE: đặc biệt)</td>
+<td>Theo lô</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Chuyển / tái tuyển lao động</td>
+<td>Nội bộ + LĐ</td>
+<td>1–3 tháng</td>
+</tr>
+</tbody>
+</table>
+<h3>A.3. Rủi ro pháp lý G7</h3>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phạt vi phạm cam kết đầu tư</td>
+<td>Chưa đủ vốn, chưa SX đúng ngành</td>
+</tr>
+<tr>
+<td>Hoàn trả ưu đãi thuế</td>
+<td>Chuyển đi trước hết thời hạn miễn giảm</td>
+</tr>
+<tr>
+<td>Tranh chấp HĐ thuê</td>
+<td>Phí chấm dứt sớm</td>
+</tr>
+<tr>
+<td>Hải quan EPE</td>
+<td>Chuyển kho / BOM phải đóng sổ lô cũ</td>
+</tr>
+<tr>
+<td>Nợ BHXH</td>
+<td>Phải thanh toán trước khi sa thải quy mô lớn</td>
+</tr>
+</tbody>
+</table>
+<h3>A.4. Dịch vụ LONGTV G7</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G7-01</td>
+<td>Memo rủi ro + timeline + chi phí ước tính</td>
+</tr>
+<tr>
+<td>A1</td>
+<td>Khảo sát tỉnh đích</td>
+</tr>
+<tr>
+<td>G7-02</td>
+<td>PM điều phối thủ tục</td>
+</tr>
+<tr>
+<td>B2</td>
+<td>Điều chỉnh IRC / DN mới</td>
+</tr>
+<tr>
+<td>B1</td>
+<td>Hải quan di chuyển máy</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Phần B — G8: Thoái vốn / giải thể / về Trung Quốc</h2>
+<h3>B.1. Các kịch bản thoái</h3>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>8a</strong></td>
+<td>Giải thể tự nguyện (còn khả năng thanh toán)</td>
+</tr>
+<tr>
+<td><strong>8b</strong></td>
+<td>Bán NM (M&#x26;A) — chuyển nhượng vốn / tài sản</td>
+</tr>
+<tr>
+<td><strong>8c</strong></td>
+<td>Phá sản (nợ không trả được)</td>
+</tr>
+<tr>
+<td><strong>8d</strong></td>
+<td>Rút vốn góp (hạn chế với FDI — cần điều kiện)</td>
+</tr>
+</tbody>
+</table>
+<h3>B.2. Thủ tục giải thể tự nguyện (8a) — outline</h3>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Việc</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Nghị quyết giải thể (HĐQT / ĐHĐCĐ)</td>
+<td>Nội bộ</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Thông báo công khai giải thể</td>
+<td>Cổ đông, chủ nợ</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Thanh lý hợp đồng (thuê đất, lao động, NCC)</td>
+<td>Có thể song song</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Quyết toán thuế (CIT, VAT, phí)</td>
+<td><strong>Chặn</strong> nếu còn nợ</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Thanh toán nợ (ưu tiên LĐ, BHXH)</td>
+<td>Luật phá sản</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Kiểm toán tất toán</td>
+<td>CPA</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nộp hồ sơ giải thể</td>
+<td>Sở KH&#x26;ĐT</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Hủy MST, đóng tài khoản HQ</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Thu hồi IRC</td>
+<td>Sở</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Xuất khẩu máy móc về TQ</td>
+<td>B1 — tờ khai XK</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Chuyển lợi nhuận còn lại ra nước ngoài</td>
+<td>Ngân hàng, SBV</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thời gian typic:</strong> 12–24 tháng (không tranh chấp); 24–36+ nếu tranh chấp đất/thuế.</p>
+<h3>B.3. Xuất khẩu máy móc về Trung Quốc</h3>
+<table>
+<thead>
+<tr>
+<th>Tình huống</th>
+<th>Hải quan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Máy tạm nhập</td>
+<td>Tái xuất trong hạn</td>
+</tr>
+<tr>
+<td>Máy nhập chính thức đã qua khấu hao</td>
+<td>Xuất bán / thanh lý</td>
+</tr>
+<tr>
+<td>EPE còn NVL dở dang</td>
+<td>Phải quyết toán BOM trước</td>
+</tr>
+</tbody>
+</table>
+<h3>B.4. Rủi ro pháp lý G8</h3>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Hậu quả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nợ thuế chưa quyết toán</td>
+<td>Không giải thể được</td>
+</tr>
+<tr>
+<td>Tranh chấp lao động</td>
+<td>Đình chỉ thủ tục</td>
+</tr>
+<tr>
+<td>Vi phạm cam kết đầu tư</td>
+<td>Phạt, hoàn ưu đãi</td>
+</tr>
+<tr>
+<td>Chuyển giá / giao dịch liên kết</td>
+<td>Thanh tra khi thoái</td>
+</tr>
+<tr>
+<td>Ô nhiễm môi trường</td>
+<td>Trách nhiệm sau giải thể</td>
+</tr>
+</tbody>
+</table>
+<h3>B.5. Dịch vụ LONGTV G8</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G8-01</td>
+<td>Kế hoạch thoái 12–36 tháng</td>
+</tr>
+<tr>
+<td>H3</td>
+<td>Quyết toán thuế, kiểm toán tất toán</td>
+</tr>
+<tr>
+<td>G8-02</td>
+<td>Hồ sơ giải thể (luật sư)</td>
+</tr>
+<tr>
+<td>B1-exit</td>
+<td>Xuất máy, đóng HQ</td>
+</tr>
+<tr>
+<td>HR 🤝</td>
+<td>Sa thải, trợ cấp</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Phần C — So sánh G7 vs G8</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>G7 Di dời</th>
+<th>G8 Thoái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Giữ hoạt động SX tại VN</td>
+<td>Có (tỉnh khác)</td>
+<td>Không</td>
+</tr>
+<tr>
+<td>IRC</td>
+<td>Điều chỉnh / mới</td>
+<td>Hủy</td>
+</tr>
+<tr>
+<td>Thời gian</td>
+<td>6–18 tháng</td>
+<td>12–36 tháng</td>
+</tr>
+<tr>
+<td>Chi phí tư vấn LONGTV</td>
+<td>12–25k USD</td>
+<td>15–40k+ USD</td>
+</tr>
+<tr>
+<td>Cơ hội thị trường</td>
+<td>Ít tư vấn VN làm rõ</td>
+<td><strong>Rất ít</strong> — niche</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Luật sư đối tác review memo</li>
+<li class="task-list-item"><input type="checkbox" disabled> Case study 1 NM TQ đã giải thể (desk/media)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Template checklist G7/G8 cho khách</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"legal-g7-g8-relocation-exit"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Memo pháp lý — Di dời tỉnh (G7) & Giải thể FDI (G8)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"PL đào sâu thủ tục NM TQ chuyển tỉnh hoặc thoái vốn về nước tại Việt Nam."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/strategy-3yr","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Chiến lược phát triển 3 năm — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/all-in-one-licensed-entities","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Pháp nhân & giấy phép — Mô hình All-in-one"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Te0a,<h1>Quyết định #004 — Pipeline content</h1>
+<p><strong>Ngày:</strong> 2026-07-08<br>
+<strong>Người quyết:</strong> Cursor đề xuất · Sếp Thắng duyệt nguyên tắc làm mượt<br>
+<strong>Trạng thái:</strong> ✅ Áp dụng ngay</p>
+<hr>
+<h2>Vấn đề đã gặp</h2>
+<p>Team đã có tình huống:</p>
+<ul>
+<li>file research/decision viết ở <strong>repo root</strong></li>
+<li>nhưng web live chỉ đọc được markdown trong phạm vi <code>/web</code></li>
+<li>kết quả: <strong>đã merge nhưng live không thấy</strong></li>
+</ul>
+<p>Điều này làm Hermes phải hỏi lại A/B, gây khựng workflow.</p>
+<hr>
+<h2>Quy ước chính thức từ nay</h2>
+<h3>1. Source of truth</h3>
+<p><strong>Tất cả tài liệu nghiệp vụ phải viết ở repo root</strong>, ví dụ:</p>
+<pre><code class="language-text">00-about.md
+00-WORKING_PRINCIPLES.md
+02-monthly-roadmap/
+03-departments/
+04-research/
+05-clarifications/
+decisions/
+</code></pre>
+<h3>2. Web content mirror</h3>
+<p><code>/web/content/</code> là <strong>bản mirror tự động</strong>, không phải nơi author chính.</p>
+<ul>
+<li>dev/build chạy <code>sync-content</code></li>
+<li>script copy markdown từ root → <code>web/content</code></li>
+<li>Next.js chỉ đọc từ <code>web/content</code></li>
+</ul>
+<h3>3. Rule cho Hermes / team</h3>
+<table>
+<thead>
+<tr>
+<th>Làm gì</th>
+<th>Viết ở đâu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Research</td>
+<td><code>04-research/...</code></td>
+</tr>
+<tr>
+<td>Quyết định</td>
+<td><code>decisions/...</code></td>
+</tr>
+<tr>
+<td>Yêu cầu làm rõ</td>
+<td><code>05-clarifications/...</code></td>
+</tr>
+<tr>
+<td>TODO / profile phòng ban</td>
+<td><code>03-departments/...</code></td>
+</tr>
+<tr>
+<td>Không viết trực tiếp</td>
+<td><code>web/content/...</code></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Luồng chuẩn</h2>
+<pre><code class="language-mermaid">flowchart LR
+    RootMd[RepoRootMarkdown] --> Sync[SyncContentScript]
+    Sync --> WebContent[web/content]
+    WebContent --> NextBuild[NextBuild]
+    NextBuild --> VercelLive[VercelLive]
+</code></pre>
+<hr>
+<h2>Lợi ích</h2>
+<ol>
+<li><strong>Hermes không cần chọn A/B nữa</strong> — cứ viết ở root</li>
+<li><strong>Repo sạch</strong> — content nghiệp vụ không chui vào app layer</li>
+<li><strong>Vercel ổn định</strong> — chỉ ship <code>web/</code>, nhưng vẫn có full content nhờ mirror</li>
+<li><strong>Review dễ</strong> — mọi tài liệu business ở đúng thư mục nghiệp vụ</li>
+</ol>
+<hr>
+<h2>Checklist thực thi</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>web/package.json</code> có <code>predev</code> + <code>prebuild</code> chạy <code>sync-content</code></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>web/src/lib/docs.ts</code> chỉ đọc từ <code>web/content</code></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Giữ root markdown là source of truth</li>
+<li class="task-list-item"><input type="checkbox" disabled> Xóa dần legacy docs/content lệch chuẩn nếu còn</li>
+</ul>
+<hr>
+<h2>Chốt cho team</h2>
+<blockquote>
+<p>Nếu là tài liệu kinh doanh, nghiên cứu, quyết định, checklist: <strong>viết ở root repo</strong>.<br>
+Nếu là giao diện hoặc logic hiển thị: <strong>sửa trong <code>web/src/</code></strong>.<br>
+Không viết tay vào <code>web/content/</code> trừ khi debug khẩn cấp.</p>
+</blockquote>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"decisions"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"004-content-pipeline"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"decisions"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Quyết định #004 — Chuẩn hóa pipeline content → web → deploy"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Khóa quy ước: chỉ viết markdown ở repo root; web/content là bản mirror tự sync trước build để Vercel luôn hiển thị đúng."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/00-1-scorecard","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Scorecard tiềm năng 00-1"}]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-thuc-trang","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Thực trạng Giai đoạn 00-1 — Đã làm rõ & chưa rõ"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

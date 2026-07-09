@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T12f7,<h1>Thư viện pháp luật FDI Việt Nam</h1>
+<blockquote>
+<p>Đây là điểm vào chính cho kho pháp luật FDI. Mục tiêu là đọc theo <strong>nhóm vấn đề</strong> thay vì nhìn một danh sách văn bản rời rạc.</p>
+</blockquote>
+<h2>Cách đọc thư viện</h2>
+<table>
+<thead>
+<tr>
+<th>Nếu anh cần trả lời câu hỏi...</th>
+<th>Đọc nhóm này trước</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nhà đầu tư nước ngoài lập công ty mới tại Việt Nam thế nào?</td>
+<td><a href="library/01-investment-enterprise">Nhóm 1 — Đầu tư &#x26; doanh nghiệp</a></td>
+</tr>
+<tr>
+<td>Nên chọn 100% vốn nước ngoài hay góp vốn/mua cổ phần?</td>
+<td><a href="library/02-foreign-capital-forms">Nhóm 2 — Hình thức vốn nước ngoài</a></td>
+</tr>
+<tr>
+<td>Nhà máy sản xuất cần ĐTM, giấy phép môi trường, giấy phép sản xuất gì?</td>
+<td><a href="library/03-environment-manufacturing">Nhóm 3 — Môi trường &#x26; sản xuất</a></td>
+</tr>
+<tr>
+<td>Đặt nhà máy trong KCN Thái Nguyên/Hải Phòng thì làm việc với ai?</td>
+<td><a href="library/04-industrial-zones-local">Nhóm 4 — KCN, đất đai &#x26; địa phương</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Bản đồ thư viện</h2>
+<table>
+<thead>
+<tr>
+<th>Nhóm</th>
+<th>Trọng tâm</th>
+<th>Văn bản/nguồn nền tảng</th>
+<th>Output sẽ tạo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Đầu tư &#x26; doanh nghiệp</td>
+<td>IRC, ERC, thành lập tổ chức kinh tế, đăng ký doanh nghiệp</td>
+<td>Luật Đầu tư 2020; Nghị định 31/2021/NĐ-CP; Luật Doanh nghiệp 2020; Nghị định 01/2021/NĐ-CP</td>
+<td>Checklist IRC/ERC, timeline cấp phép, bảng cơ quan xử lý</td>
+</tr>
+<tr>
+<td>2. Hình thức vốn nước ngoài</td>
+<td>100% vốn nước ngoài, góp vốn, mua cổ phần, M&#x26;A approval, ngưỡng sở hữu</td>
+<td>Luật Đầu tư Điều 21-26; Nghị định 31/2021/NĐ-CP; danh mục tiếp cận thị trường</td>
+<td>Decision tree chọn mô hình đầu tư</td>
+</tr>
+<tr>
+<td>3. Môi trường &#x26; sản xuất</td>
+<td>Phân loại dự án, ĐTM, giấy phép môi trường, đăng ký môi trường, điều kiện trước vận hành</td>
+<td>Luật BVMT 2020; Nghị định 08/2022/NĐ-CP; Thông tư 02/2022/TT-BTNMT; văn bản sửa đổi</td>
+<td>Checklist môi trường/sản xuất theo loại nhà máy</td>
+</tr>
+<tr>
+<td>4. KCN, đất đai &#x26; địa phương</td>
+<td>Khu công nghiệp, khu kinh tế, thuê đất/xưởng, ưu đãi và đầu mối tỉnh</td>
+<td>Nghị định 35/2022/NĐ-CP; Luật Đất đai 2024; nguồn Thái Nguyên/Hải Phòng</td>
+<td>Bản đồ cơ quan, ưu đãi địa phương, checklist địa điểm</td>
+</tr>
+</tbody>
+</table>
+<h2>Trạng thái hiện tại</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Trạng thái</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mục lục thư viện</td>
+<td>done</td>
+<td>Đã chia nhóm để đọc nhanh</td>
+</tr>
+<tr>
+<td>Registry dữ liệu nguồn</td>
+<td>draft</td>
+<td>Xem <code>source-registry.json</code>; cần kiểm tra hiệu lực từng văn bản trước khi xuất bản</td>
+</tr>
+<tr>
+<td>Backlog bài cẩm nang</td>
+<td>draft</td>
+<td>Xem <a href="article-backlog">Backlog bài viết</a></td>
+</tr>
+<tr>
+<td>Trích điều/khoản chi tiết</td>
+<td>todo</td>
+<td>Là bước nghiên cứu tiếp theo</td>
+</tr>
+<tr>
+<td>Review bởi luật sư/đối tác pháp lý</td>
+<td>todo</td>
+<td>Bắt buộc trước khi đưa lên trang chủ như cẩm nang công khai</td>
+</tr>
+</tbody>
+</table>
+<h2>Nguyên tắc trình bày cho trang chủ</h2>
+<ul>
+<li>Bài viết phải mở đầu bằng <strong>kết luận nhanh</strong>, không bắt khách hàng đọc luật trước.</li>
+<li>Mỗi kết luận cần có <strong>căn cứ pháp lý</strong> rõ: văn bản, điều/khoản, ngày kiểm tra.</li>
+<li>Không nói chung "FDI cần giấy phép" mà phải tách theo trường hợp: lập mới, góp vốn/mua cổ phần, dự án sản xuất, dự án trong KCN, dự án ngoài KCN.</li>
+<li>Luôn có cảnh báo: nội dung là cẩm nang thông tin, không thay thế ý kiến tư vấn pháp lý chính thức.</li>
+</ul>
+<h2>File dữ liệu liên quan</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Vai trò</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="00-index">Kế hoạch nghiên cứu</a></td>
+<td>Quy trình xây dựng cẩm nang FDI</td>
+</tr>
+<tr>
+<td><a href="article-backlog">Backlog bài viết</a></td>
+<td>Danh sách bài cần viết cho trang chủ</td>
+</tr>
+<tr>
+<td><code>source-registry.json</code></td>
+<td>Dữ liệu nguồn máy đọc được để team tiếp tục bổ sung</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"data"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-legal"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"legal-library"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"legal-library"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Thư viện pháp luật FDI Việt Nam"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Mục lục nguồn pháp luật được chia nhóm để nghiên cứu và viết cẩm nang FDI cho nhà đầu tư nước ngoài."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/chinese-factory-owner-decision-journey","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-016 — Ông chủ xưởng Trung Quốc ra quyết định sang Việt Nam như thế nào"}]]}],["$","$L2",null,{"href":"/docs/05-clarifications/00-team-input-requirements","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Yêu cầu làm rõ từ team"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

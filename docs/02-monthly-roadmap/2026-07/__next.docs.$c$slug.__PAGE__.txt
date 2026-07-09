@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1a02,<h1>Tháng 7/2026 — Đặt nền móng &#x26; chốt hướng</h1>
+<blockquote>
+<p><strong>Chủ đề tháng:</strong> LONGTV sẽ là ai trong 6 tháng tới?</p>
+<p><strong>Giai đoạn:</strong> <a href="/docs/06-phases/00-1-feasibility-plan">00-1 — Đánh giá tiềm năng</a> <em>(mục tiêu: có/không tiềm năng — chưa xây hệ thống chi tiết)</em></p>
+</blockquote>
+<hr>
+<h2>Khai vấn định hướng</h2>
+<p><strong>Câu hỏi lớn:</strong> LONGTV đi theo hướng nào?</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Phương án</th>
+<th>Mô tả</th>
+<th>Ưu</th>
+<th>Nhược</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><strong>Full-service tư vấn FDI</strong></td>
+<td>Khảo sát → pháp lý → thiết lập → vận hành — làm hết</td>
+<td>Doanh thu cao/deal, khách gắn chặt</td>
+<td>Cần team lớn, vốn cao, rủi ro pháp lý</td>
+</tr>
+<tr>
+<td>B</td>
+<td><strong>Chuyên 1–2 dịch vụ đầu mối</strong></td>
+<td>Bán gói "Khảo sát + Site selection" trước, phần còn lại đối tác</td>
+<td>Chạy nhanh, ít vốn, dễ chứng minh giá trị</td>
+<td>Doanh thu/deal nhỏ hơn ban đầu</td>
+</tr>
+<tr>
+<td>C</td>
+<td><strong>Platform + tư vấn</strong></td>
+<td>Tư vấn kèm công cụ Oz (HS code, customs) làm differentiator</td>
+<td>Khác biệt so đối thủ truyền thống</td>
+<td>Cần dev, khách chưa quen mô hình</td>
+</tr>
+<tr>
+<td>D</td>
+<td><strong>Đối tác KCN/Sở KH&#x26;ĐT</strong></td>
+<td>Làm đơn vị tư vấn chính thức cho 1–2 KCN</td>
+<td>Pipeline khách ổn định</td>
+<td>Phụ thuộc đối tác, margin thấp</td>
+</tr>
+</tbody>
+</table>
+<p><strong>→ Chốt tháng 7 (cập nhật QĐ #003):</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Nội dung</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pháp nhân</td>
+<td><strong>CTCP</strong> + tập đoàn TQ cổ đông</td>
+<td><a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a></td>
+</tr>
+<tr>
+<td>Vốn</td>
+<td><strong>2 tỷ VND</strong></td>
+<td><a href="/docs/04-research/2026-07/startup-budget">startup-budget</a></td>
+</tr>
+<tr>
+<td>Định vị</td>
+<td>2 mảng + Hub</td>
+<td>Chính sách 2 tỉnh · Logistics miền Bắc · Kết nối/pháp lý/kế toán</td>
+</tr>
+<tr>
+<td>Catalog</td>
+<td>Service catalog v0.2</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v0.2">SP-001</a></td>
+</tr>
+</tbody>
+</table>
+<p><em>Phương án B (chỉ gói Khảo sát) được nâng cấp thành mô hình 2 mảng + hub.</em></p>
+<hr>
+<h2>Mục tiêu P0 tháng 7</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Mục tiêu</th>
+<th>Phòng phụ trách</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Hiểu thị trường &#x26; đối thủ</td>
+<td>Chiến lược</td>
+<td>Bảng 10 đối thủ + 3 nguồn phỏng vấn</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Chốt hướng pháp nhân</td>
+<td>Pháp lý</td>
+<td>Memo chọn TNHH/CP + timeline thành lập</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Xác định khách hàng mục tiêu</td>
+<td>Kinh doanh</td>
+<td>1 persona chi tiết</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Có service catalog v0.1</td>
+<td>Sản phẩm</td>
+<td>3 gói: Khảo sát / Thiết lập / Vận hành</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Biết cần bao nhiêu tiền</td>
+<td>Vận hành-TC</td>
+<td>Bảng vốn + burn rate 6 tháng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Phân công theo phòng ban</h2>
+<table>
+<thead>
+<tr>
+<th>Phòng</th>
+<th>P0 Tasks</th>
+<th>Link TODO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chiến lược &#x26; Rủi ro</td>
+<td>Nghiên cứu đối thủ, phỏng vấn 3 nguồn</td>
+<td><a href="/docs/03-departments/01-chien-luoc/TODO">TODO Chiến lược</a></td>
+</tr>
+<tr>
+<td>Pháp lý &#x26; Chính sách</td>
+<td>Chọn pháp nhân, timeline, giấy phép</td>
+<td><a href="/docs/03-departments/02-phap-ly/TODO">TODO Pháp lý</a></td>
+</tr>
+<tr>
+<td>Kinh doanh &#x26; GTM</td>
+<td>Persona khách, kênh tiếp cận</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/TODO">TODO Kinh doanh</a></td>
+</tr>
+<tr>
+<td>Sản phẩm dịch vụ</td>
+<td>Service catalog v0.1, tự làm vs đối tác</td>
+<td><a href="/docs/03-departments/04-san-pham/TODO">TODO Sản phẩm</a></td>
+</tr>
+<tr>
+<td>Vận hành &#x26; Tài chính</td>
+<td>Vốn, burn rate, mô hình văn phòng</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/TODO">TODO Vận hành</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Lịch tháng 7</h2>
+<table>
+<thead>
+<tr>
+<th>Tuần</th>
+<th>Việc chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tuần 1</strong> (8–14/7)</td>
+<td>Khai vấn + chốt phương án B · Gán task P0 cho 5 phòng · Bắt nghiên cứu đối thủ</td>
+</tr>
+<tr>
+<td><strong>Tuần 2</strong> (15–21/7)</td>
+<td>Phỏng vấn 3 nguồn · Draft persona · Draft service catalog</td>
+</tr>
+<tr>
+<td><strong>Tuần 3</strong> (22–28/7)</td>
+<td>Chốt pháp nhân · Tính vốn/burn rate · Review tiến độ P0</td>
+</tr>
+<tr>
+<td><strong>Tuần 4</strong> (29–31/7)</td>
+<td>Review tháng · Chuẩn bị khai vấn tháng 8</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Tiêu chí hoàn thành tháng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> 5 file TODO có ít nhất 3 task P0 mỗi phòng, status cập nhật</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Ít nhất 50% task P0 ở trạng thái <code>done</code> hoặc <code>doing</code> — <strong>>80% done</strong></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> File <code>2026-07.md</code> này có phương án đã chốt (2 mảng + Hub)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Web hiển thị đầy đủ — <em>tạm hoãn theo Leader</em></li>
+</ul>
+<h2>Giai đoạn 00-1 — Hoàn thành</h2>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Memo tiềm năng</td>
+<td>✅ <a href="/docs/06-phases/00-1-market-memo">00-1-market-memo</a></td>
+</tr>
+<tr>
+<td>Catalog + journey map</td>
+<td>✅ ≥82% phủ</td>
+</tr>
+<tr>
+<td>Scorecard</td>
+<td>✅ 38/50</td>
+</tr>
+<tr>
+<td>Go/No-Go</td>
+<td>🔄 Draft <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tiếp theo:</strong> <a href="/docs/06-phases/02-giai-doan-2-overview">Giai đoạn 2</a></p>
+<hr>
+<h2>Xem trước tháng 8</h2>
+<p><strong>Chủ đề:</strong> Chốt sản phẩm &#x26; pháp nhân — Gói dịch vụ nào bán trước? (Retainer vs project fee vs success fee)</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-monthly-roadmap"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"roadmap"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Khai vấn định hướng tháng 7: LONGTV sẽ là ai trong 6 tháng tới? Mục tiêu P0 cho 5 phòng ban."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/05-clarifications/kim-secretary-queue","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Hộp việc — Thư ký Kim"}]]}],["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-plan","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Kế hoạch triển khai chi tiết"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

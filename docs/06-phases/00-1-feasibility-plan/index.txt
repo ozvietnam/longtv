@@ -1,0 +1,939 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3nx12gne_ziuj.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","06-phases","00-1-feasibility-plan",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","06-phases/00-1-feasibility-plan","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QswpECjHA_uBUdh3_m9Nn"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T8473,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+<blockquote>
+<p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
+<p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
+</blockquote>
+<blockquote>
+<p><strong>Dashboard trình cổ đông (biểu đồ + số liệu xác minh):</strong> <a href="/assessment">/assessment</a> — scorecard 38/50 · FDI theo quốc gia/tỉnh · kết luận bám nguồn NSO.</p>
+</blockquote>
+<section class="fd-hero">
+  <div>
+    <p class="fd-eyebrow">Shareholder briefing · Potential & feasibility</p>
+    <h1>Đánh giá tiềm năng & khả thi</h1>
+    <p class="fd-lead">
+      LONGTV có cửa đi rõ nếu tập trung vào nhà máy Trung Quốc dịch chuyển sản xuất về
+      <strong>Thái Nguyên</strong> và <strong>Hải Phòng</strong>, bán trước các gói chính sách,
+      pháp lý điều phối, kiểm soát rủi ro xuất xứ và logistics miền Bắc.
+    </p>
+    <div class="fd-actions">
+      <a href="/assessment">Dashboard biểu đồ (khuyến nghị) →</a>
+      <a href="/docs/services/policy-government">Dịch vụ chính sách 2 tỉnh</a>
+      <a href="/docs/services/legal-consulting">Dịch vụ pháp lý</a>
+    </div>
+  </div>
+  <aside class="fd-verdict">
+    <p class="fd-card-label">Kết luận nhanh</p>
+    <div class="fd-verdict-row">
+      <span>Scorecard</span>
+      <strong>38/50</strong>
+      <small>Go + Adjust — xem biểu đồ tại /assessment</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Gói bán đầu</span>
+      <strong>A1 + B1</strong>
+      <small>Khảo sát 2 tỉnh + hải quan starter.</small>
+    </div>
+    <div class="fd-verdict-row">
+      <span>Số liệu</span>
+      <strong>NSO 2025</strong>
+      <small>TQ 3,64 tỷ USD vốn mới (#2, 21%).</small>
+    </div>
+  </aside>
+</section>
+<h2>Dashboard trình cổ đông</h2>
+<blockquote>
+<p><strong>Phiên bản đầy đủ có biểu đồ:</strong> <a href="/assessment">/assessment</a> — FDI theo quốc gia · theo tỉnh · scorecard 10 tiêu chí · kết luận có nguồn.</p>
+</blockquote>
+<div class="fd-score-grid">
+  <div class="fd-score-card fd-red">
+    <span>Tiềm năng thị trường</span>
+    <strong>8.5/10</strong>
+    <p>China+1, thuế quan và FTA tạo nhu cầu chọn tỉnh, kiểm tra xuất xứ, KCN và logistics.</p>
+  </div>
+  <div class="fd-score-card fd-amber">
+    <span>Tính khả thi giai đoạn đầu</span>
+    <strong>7.5/10</strong>
+    <p>Khả thi nếu bắt đầu bằng 2 tỉnh trọng tâm, service nhỏ, đối tác chuyên môn rõ ràng.</p>
+  </div>
+  <div class="fd-score-card fd-green">
+    <span>Lợi thế cạnh tranh</span>
+    <strong>8/10</strong>
+    <p>CTCP + cổ đông TQ + Oz làm lõi HS/XNK + hub pháp lý/kế toán/logistics.</p>
+  </div>
+  <div class="fd-score-card fd-slate">
+    <span>Rủi ro cần kiểm soát</span>
+    <strong>6.5/10</strong>
+    <p>Rủi ro pháp lý, năng lực giao hàng và phụ thuộc đối tác cần quản trị bằng RACI.</p>
+  </div>
+</div>
+<h2>Sơ đồ mô hình triển khai</h2>
+<div class="fd-flow">
+  <div class="fd-flow-node fd-source">
+    <span>01</span>
+    <strong>Lead nhà máy TQ</strong>
+    <p>Nhu cầu dịch chuyển, mở rộng hoặc tối ưu chuỗi cung ứng tại Việt Nam.</p>
+  </div>
+  <div class="fd-flow-arrow">→</div>
+  <a class="fd-flow-node" href="/docs/services/policy-government">
+    <span>A</span>
+    <strong>Chính sách & chính quyền</strong>
+    <p>Khảo sát 2 tỉnh, ưu đãi, KCN, đầu mối chính quyền.</p>
+  </a>
+  <a class="fd-flow-node" href="/docs/services/legal-consulting">
+    <span>Hub</span>
+    <strong>Pháp lý & dữ liệu FDI</strong>
+    <p>IRC/ERC, góp vốn/M&A, checklist luật, luật sư đối tác.</p>
+  </a>
+  <a class="fd-flow-node" href="/services">
+    <span>B</span>
+    <strong>Logistics & hải quan</strong>
+    <p>HS code/Oz core, rules of origin, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+  </a>
+  <div class="fd-flow-arrow">→</div>
+  <div class="fd-flow-node fd-outcome">
+    <span>Output</span>
+    <strong>Pipeline dự án dài hạn</strong>
+    <p>Báo cáo chính sách → hồ sơ pháp lý → site/KCN → logistics vận hành → retainer.</p>
+  </div>
+</div>
+<h2>Ma trận tiềm năng × khả thi</h2>
+<div class="fd-matrix">
+  <div class="fd-matrix-cell fd-active">
+    <small>Cao tiềm năng / cao khả thi</small>
+    <strong>Làm trước</strong>
+    <p>A1 — Khảo sát & định vị 2 tỉnh.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Cao tiềm năng / khó hơn</small>
+    <strong>Làm sau khi có lead nóng</strong>
+    <p>A3 — Thiết lập & dịch chuyển nhà máy.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Vừa tiềm năng / cao khả thi</small>
+    <strong>Dùng để giữ khách</strong>
+    <p>H2 — Pháp lý điều phối + kế toán/CPA.</p>
+  </div>
+  <div class="fd-matrix-cell">
+    <small>Phụ thuộc khách vận hành</small>
+    <strong>Scale chọn lọc</strong>
+    <p>B — Logistics, hải quan, retainer XNK.</p>
+  </div>
+</div>
+<h2>Liên kết nội bộ để trình cổ đông</h2>
+<div class="fd-link-grid">
+  <a href="/docs/services/policy-government">
+    <strong>Dịch vụ chính sách 2 tỉnh</strong>
+    <span>A1/A2/A3: khảo sát, xin chính sách, thiết lập nhà máy.</span>
+  </a>
+  <a href="/docs/services/legal-consulting">
+    <strong>Dịch vụ tư vấn pháp lý</strong>
+    <span>Phạm vi LONGTV PM + phần chuyển luật sư/đối tác.</span>
+  </a>
+  <a href="/docs/data/fdi-legal/legal-library">
+    <strong>Thư viện pháp luật FDI</strong>
+    <span>Nguồn luật chia nhóm: đầu tư, vốn nước ngoài, môi trường, KCN.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/service-catalog-v0.2">
+    <strong>Service catalog v0.2</strong>
+    <span>Catalog 2 mảng + hub đang dùng làm nguồn bán hàng.</span>
+  </a>
+  <a href="/docs/03-departments/04-san-pham/build-vs-partner">
+    <strong>Tự làm vs đối tác</strong>
+    <span>Ranh giới LONGTV tự làm và phần cần đối tác đủ điều kiện.</span>
+  </a>
+  <a href="/docs/decisions/003-strategy-july-2026">
+    <strong>Quyết định chiến lược #003</strong>
+    <span>CTCP, vốn 2 tỷ, cổ đông TQ và định vị 2 mảng.</span>
+  </a>
+  <a href="/co-dong">
+    <strong>Cổ đông — Oz Việt Nam</strong>
+    <span>Đánh giá nguồn lực GitHub, vai trò giai đoạn đầu và lõi hậu cần.</span>
+  </a>
+  <a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">
+    <strong>Vì sao nhà máy TQ sang Việt Nam</strong>
+    <span>8 động lực China+1, trade war, FTA, logistics và rules of origin.</span>
+  </a>
+  <a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">
+    <strong>Góc nhìn ông chủ xưởng TQ</strong>
+    <span>Tâm lý sinh tồn, kênh Baidu/WeChat/Zhihu/36Kr và bẫy thông tin.</span>
+  </a>
+</div>
+<h2>Góc nhìn bổ sung — China+1 không chỉ là “dịch chuyển nhà máy”</h2>
+<table>
+<thead>
+<tr>
+<th>Động lực thị trường</th>
+<th>Tác động tới khách TQ</th>
+<th>Dịch vụ LONGTV nên gắn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thuế quan Mỹ-Trung</td>
+<td>Cần sản xuất ngoài Trung Quốc nhưng không được transshipment trá hình</td>
+<td>B1 hải quan starter + rules of origin checklist</td>
+</tr>
+<tr>
+<td>China+1</td>
+<td>Không rời Trung Quốc hoàn toàn, mà thêm điểm sản xuất ASEAN</td>
+<td>A1 khảo sát 2 tỉnh + A2 làm việc chính quyền/KCN</td>
+</tr>
+<tr>
+<td>Gần Trung Quốc</td>
+<td>Linh kiện/máy móc vẫn đi từ Trung Quốc sang Việt Nam</td>
+<td>B2 logistics pack, tuyến TQ → Hải Phòng → KCN</td>
+</tr>
+<tr>
+<td>FTA/RCEP/CPTPP</td>
+<td>Muốn hưởng ưu đãi thuế, nhưng phải chứng minh xuất xứ</td>
+<td>H2 legal screening + C/O + BOM/process checklist</td>
+</tr>
+<tr>
+<td>Hạ tầng/KCN/RBF</td>
+<td>Muốn vào nhanh, giảm thời gian setup</td>
+<td>A1 site shortlist + A3 setup PM</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thông điệp bán hàng mới:</strong> <em>China+1 vào Việt Nam không chỉ là lập công ty — phải chọn tỉnh đúng, tránh rủi ro xuất xứ và thiết lập hải quan từ ngày đầu.</em></p>
+<p>Nguồn chi tiết: <a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam</a>.</p>
+<h2>Góc nhìn người mua — Lý Tổng không thiếu thông tin, mà thiếu bộ lọc đáng tin</h2>
+<table>
+<thead>
+<tr>
+<th>Tâm lý của chủ xưởng TQ</th>
+<th>Hệ quả khi tìm thông tin</th>
+<th>LONGTV cần làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Không ra đi thì mất đơn hàng”</td>
+<td>Quyết định vội, dễ nghe môi giới nói dễ</td>
+<td>A0/A1 phải giúp dừng lại và kiểm tra đúng thứ tự</td>
+</tr>
+<tr>
+<td>Không dùng Google/tiếng Việt</td>
+<td>Phụ thuộc Baidu, WeChat, Zhihu, 36Kr, hội nhóm</td>
+<td>Content tiếng Trung + nguồn Việt Nam đã lọc</td>
+</tr>
+<tr>
+<td>Sợ bị lừa đất/xưởng</td>
+<td>Cần người đứng về phía nhà đầu tư</td>
+<td>LONGTV định vị PM độc lập, không chỉ bán đất</td>
+</tr>
+<tr>
+<td>Không hiểu rules of origin</td>
+<td>Nghĩ “sang VN là né thuế”</td>
+<td>B1 + Oz HS/XNK core + checklist C/O/BOM/quy trình</td>
+</tr>
+<tr>
+<td>Lo sau vận hành</td>
+<td>Sợ lỗ ban đầu, lao động/văn hóa/thuế/hải quan</td>
+<td>B3 retainer + kế toán/CPA + SOP vận hành</td>
+</tr>
+</tbody>
+</table>
+<p>Nguồn chi tiết: <a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">CL-016 — Ông chủ xưởng Trung Quốc ra quyết định sang Việt Nam như thế nào</a>.</p>
+<h2>Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu</h2>
+<table>
+<thead>
+<tr>
+<th>Nguồn lực Oz</th>
+<th>Bằng chứng GitHub</th>
+<th>Ý nghĩa với LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HS Code + tariff API</td>
+<td><a href="https://github.com/ozvietnam/hs-code-api"><code>hs-code-api</code></a> — AI HS suggestions, mô tả khai báo hải quan, endpoints tariff/dataset</td>
+<td>Tạo lõi cho gói B1: phân loại HS, checklist tờ khai, mô tả khai báo</td>
+</tr>
+<tr>
+<td>Knowledge graph XNK</td>
+<td><a href="https://github.com/ozvietnam/hs-knowledge-api"><code>hs-knowledge-api</code></a> — knowledge graph 9 tầng, biểu thuế XNK 2026, Postgres/pgvector/Gemini</td>
+<td>Là nền dữ liệu để xây SOP và truy vấn tri thức hải quan</td>
+</tr>
+<tr>
+<td>Webapp XNK</td>
+<td><a href="https://github.com/ozvietnam/xnk-webapp"><code>xnk-webapp</code></a> — FastAPI/Next.js, tra cứu HS, thuế MFN/ACFTA, chatbot RAG</td>
+<td>Chứng minh năng lực triển khai công cụ khách hàng/ops nội bộ</td>
+</tr>
+<tr>
+<td>Webapp hải quan 2026</td>
+<td><a href="https://github.com/ozvietnam/wa26"><code>wa26</code></a> — 11.871 mã HS 8 số, 19 FTA, chatbot AI tư vấn</td>
+<td>Tạo lợi thế khác biệt: LONGTV không chỉ tư vấn, mà có lõi số về hậu cần</td>
+</tr>
+<tr>
+<td>SEO/automation</td>
+<td><a href="https://github.com/ozvietnam/oz-rank-tracker"><code>oz-rank-tracker</code></a>, <code>n8n-workflows</code></td>
+<td>Hỗ trợ inbound, vận hành tri thức và tự động hóa</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận:</strong> Oz là cổ đông/nền tảng trụ cột trong giai đoạn đầu vì đã có sẵn tài sản công nghệ ngành hải quan — đủ để LONGTV triển khai mảng <strong>B hậu cần &#x26; hải quan</strong> theo hướng tư vấn + PM + đối tác vận tải/đại lý hải quan.</p>
+<p><strong>Ranh giới cần quản trị:</strong> Oz không thay thế forwarder, kho, đội xe hoặc đại lý hải quan có giấy phép. Oz là <strong>lõi dữ liệu/công cụ/SOP</strong>, còn vận hành thực địa cần đối tác và Kim field.</p>
+<p>Trang chi tiết: <a href="/co-dong">Cổ đông — Oz Việt Nam</a>.</p>
+<hr>
+<h2>Cập nhật sau nghiên cứu sâu (2026-07-09)</h2>
+<blockquote>
+<p><strong>Xem trên web:</strong> <a href="/hermes">/hermes</a> — tổng hợp Hermes Wave 1 (desk) vs Wave 2 (field) · <a href="00-1-thuc-trang">Thực trạng 00-1</a> · <a href="/docs/04-research/2026-07/00-index">Nghiên cứu tháng 7</a></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Khối</th>
+<th>Trạng thái</th>
+<th>Bằng chứng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Desk research Wave 1</strong></td>
+<td>✅ <strong>Hoàn thành</strong></td>
+<td>6 báo cáo + deep-dive FDI + catalog 9 giai đoạn</td>
+</tr>
+<tr>
+<td><strong>Scorecard &#x26; memo</strong></td>
+<td>✅ <strong>38/50 · Go + Adjust</strong></td>
+<td><a href="00-1-scorecard">scorecard</a> · <a href="00-1-market-memo">memo</a></td>
+</tr>
+<tr>
+<td><strong>Investor Pack (trụ cột 4)</strong></td>
+<td>✅ Desk</td>
+<td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+</tr>
+<tr>
+<td><strong>Catalog dịch vụ</strong></td>
+<td>✅ v1 + logistics</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a> · <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td><strong>Field verify (Hermes)</strong></td>
+<td>🔄 <strong>Chưa xong</strong></td>
+<td>0/15 việc Kim tick <code>done</code> — <a href="/kim?filter=hermes">Kim Hermes</a></td>
+</tr>
+<tr>
+<td><strong>Quyết định Go</strong></td>
+<td>🟡 Chờ Leader</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a> chưa ký</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận cập nhật:</strong> Giai đoạn 00-1 <strong>đủ bằng chứng desk</strong> để đề xuất Go. Phần <strong>xác minh thực địa</strong> (gọi Sở/KCN, giá đất, FDI theo tỉnh) chuyển sang <strong>Hermes Wave 2</strong> — đã duyệt <a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006</a>, Hermes tự làm trên <a href="/kim">Kim</a>.</p>
+<h3>Wave 1 — Desk đã có (Hermes + Cursor)</h3>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Deliverable</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CL-001</td>
+<td>10 đối thủ FDI TQ→VN</td>
+<td><a href="/docs/04-research/2026-07/competitors">/docs/04-research/2026-07/competitors</a></td>
+</tr>
+<tr>
+<td>PL-001</td>
+<td>TNHH vs CTCP</td>
+<td><a href="/docs/04-research/2026-07/legal-entity-comparison">/docs/04-research/2026-07/legal-entity-comparison</a></td>
+</tr>
+<tr>
+<td>VT-001</td>
+<td>Ngân sách 6 tháng</td>
+<td><a href="/docs/04-research/2026-07/startup-budget">/docs/04-research/2026-07/startup-budget</a></td>
+</tr>
+<tr>
+<td>CL-002</td>
+<td>FDI Thái Nguyên (desk)</td>
+<td><a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">/docs/04-research/2026-07/thai-nguyen-fdi-policy</a></td>
+</tr>
+<tr>
+<td>—</td>
+<td>FDI Hải Phòng (desk)</td>
+<td><a href="/docs/04-research/2026-07/hai-phong-fdi-policy">/docs/04-research/2026-07/hai-phong-fdi-policy</a></td>
+</tr>
+<tr>
+<td>CL-003</td>
+<td>KCN Yên Bình + Nam Đình Vũ (desk)</td>
+<td><a href="/docs/04-research/2026-07/kcn-desk-research">/docs/04-research/2026-07/kcn-desk-research</a></td>
+</tr>
+<tr>
+<td>CL-004b</td>
+<td>FDI deep-dive</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">/docs/04-research/2026-07/fdi-data-deep-dive</a></td>
+</tr>
+<tr>
+<td>CL-005/006</td>
+<td>Vì sao TN+HP · Plan B</td>
+<td><a href="/docs/04-research/2026-07/why-tn-hp">why-tn-hp</a> · <a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b</a></td>
+</tr>
+<tr>
+<td>CL-015</td>
+<td>Vì sao NM TQ sang Việt Nam</td>
+<td><a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">china-to-vietnam-manufacturing-shift</a></td>
+</tr>
+<tr>
+<td>CL-016</td>
+<td>Persona sâu Lý Tổng + kênh thông tin TQ</td>
+<td><a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">chinese-factory-owner-decision-journey</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Wave 2 — Field &#x26; thu thập (Hermes, chưa done)</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu tiên</th>
+<th>Việc</th>
+<th>Kim</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Brief LONGTV 1 trang trước call</td>
+<td>KIM-080</td>
+<td>doing — template còn placeholder</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Thái Nguyên</td>
+<td>KIM-010</td>
+<td>doing</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Gọi Sở KH&#x26;ĐT Hải Phòng</td>
+<td>KIM-011</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Call Ban QLKCN Yên Bình + Nam Đình Vũ</td>
+<td>KIM-012, 013</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Map 20 NM TQ tại TN + HP</td>
+<td>KIM-082</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Desk logistics + bảng giá tuyến</td>
+<td>KIM-089, 090</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết giao việc: <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a> · Dashboard: <a href="/hermes">/hermes</a></p>
+<hr>
+<h2>Vì sao cần Giai đoạn 00-1</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro nếu bỏ qua</th>
+<th>Cách 00-1 giảm rủi ro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đầu tư CTCP + văn phòng khi thị trường hẹp</td>
+<td>Số liệu FDI + phỏng vấn trước khi cam kết vốn lớn</td>
+</tr>
+<tr>
+<td>Catalog dịch vụ thiếu mảng → mất khách giữa chừng</td>
+<td>Map đủ hành trình khách FDI, đánh dấu có/thiếu/đối tác</td>
+</tr>
+<tr>
+<td>Cạnh tranh mạnh, margin thấp</td>
+<td>Bảng đối thủ + điểm khác biệt có bằng chứng</td>
+</tr>
+<tr>
+<td>Không biết ai trả tiền cho gì</td>
+<td>Persona + pricing sơ bộ + 3 gói bán thử</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nguyên tắc:</strong> <em>Thu thập &#x26; checklist dần</em> — mỗi phòng ghi nhận, không cần hoàn hảo ngày 1. Đủ bằng chứng để <strong>Go / No-Go / Điều chỉnh</strong>.</p>
+<hr>
+<h2>Ba trụ cột đánh giá</h2>
+<pre><code>┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
+│  1. THỊ TRƯỜNG  │   │ 2. CATALOG DỊCH │   │ 3. KHẢ THI      │
+│  Có nhu cầu?    │   │ VỤ ĐỦ CHƯA?     │   │ TRIỂN KHAI?     │
+│  Ai trả tiền?   │   │ Hành trình FDI  │   │ Vốn · team ·    │
+│  Đối thủ?       │   │ TQ → VN         │   │ đối tác · pháp  │
+└────────┬────────┘   └────────┬────────┘   └────────┬────────┘
+         │                     │                     │
+         └─────────────────────┼─────────────────────┘
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+              MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+   TRỤ CỘT 4 — ĐÁNH GIÁ ĐẦU TƯ &#x26; GỌI VỐN (bổ sung 2026-07-09)
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Trụ cột</th>
+<th>Câu hỏi then chốt</th>
+<th>Phòng chủ trì</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Thị trường</strong></td>
+<td>Có bao nhiêu NM TQ thực sự muốn vào TN/HP? Họ trả bao nhiêu?</td>
+<td>Chiến lược + Kinh doanh</td>
+<td>Memo thị trường + persona</td>
+</tr>
+<tr>
+<td><strong>2. Catalog dịch vụ</strong></td>
+<td>LONGTV phủ hết hành trình FDI chưa? Thiếu gì?</td>
+<td>Sản phẩm</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog v1</a> · <a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn</a> · <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td><strong>3. Khả thi triển khai</strong></td>
+<td>2 tỷ vốn + team bootstrap có đủ không? Rủi ro chính?</td>
+<td>Pháp lý + Vận hành</td>
+<td>Scorecard + kịch bản xấu</td>
+</tr>
+<tr>
+<td><strong>4. Đánh giá đầu tư</strong></td>
+<td>Với 2 tỷ, team &#x26; VP ảo — <strong>có nên đầu tư?</strong> DT/khách 6T/1N/2N? Pitch thiếu gì?</td>
+<td>Vận hành + Chiến lược + KD</td>
+<td><a href="/docs/06-phases/investor-pack/00-index">Investor Pack</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Trụ cột 4 — Đánh giá đầu tư &#x26; gọi vốn</h3>
+<blockquote>
+<p><strong>Yêu cầu bổ sung (Leader, 2026-07-09):</strong> Đủ thông tin để quyết định <strong>có nên đầu tư</strong>; dự phóng <strong>doanh số &#x26; khách</strong> sau 6 tháng, 1 năm, 2 năm; <strong>chiến lược dài hạn</strong>; và bộ tài liệu <strong>thuyết trình kêu gọi vốn / tìm C-level</strong>.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Câu hỏi</th>
+<th>Tài liệu trả lời</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Có nên đầu tư 2 tỷ?</td>
+<td><a href="/docs/06-phases/investor-pack/00-investment-verdict">Investment verdict</a></td>
+<td>✅ Go có điều kiện</td>
+</tr>
+<tr>
+<td>Phân bổ vốn?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/use-of-funds-2b">Use of funds 2B</a></td>
+<td>✅ Đề xuất</td>
+</tr>
+<tr>
+<td>DT &#x26; khách 6T/1N/2N?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">Financial model 3yr</a></td>
+<td>✅ Bear/Base/Bull</td>
+</tr>
+<tr>
+<td>Hòa vốn khi nào?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/break-even-analysis">Break-even</a></td>
+<td>✅ ~tháng 15 (base)</td>
+</tr>
+<tr>
+<td>Chiến lược 3 năm?</td>
+<td><a href="/docs/03-departments/01-chien-luoc/strategy-3yr">Strategy 3yr</a></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Pitch thiếu gì?</td>
+<td><a href="/docs/06-phases/investor-pack/02-pitch-gap-checklist">Pitch gap checklist</a></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Cap table?</td>
+<td><a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a></td>
+<td>🟡 Chờ Leader điền</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận trụ cột 4:</strong> Đủ cho <strong>cổ đông chiến lược</strong> quyết định; <strong>chưa đủ</strong> cho investor thứ ba nếu chưa có ≥1 HĐ + cap table ký.</p>
+<hr>
+<h2>Ba trụ cột đánh giá (bảng chi tiết)</h2>
+<hr>
+<h2>Lộ trình 4 tuần (đề xuất)</h2>
+<table>
+<thead>
+<tr>
+<th>Tuần</th>
+<th>Trọng tâm</th>
+<th>Việc chính</th>
+<th>Output</th>
+<th>Trạng thái (09/07)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T1</strong></td>
+<td>Thị trường sơ bộ</td>
+<td>Đối thủ · Sở KH&#x26;ĐT · KCN · số liệu FDI</td>
+<td>Checklist Chiến lược</td>
+<td>✅ Desk done · 🔄 Field Hermes</td>
+</tr>
+<tr>
+<td><strong>T2</strong></td>
+<td>Khách hàng &#x26; giá</td>
+<td>Persona · 5 kênh · pricing 3 gói · phỏng vấn 1–2 nguồn</td>
+<td>Memo persona + khung giá</td>
+<td>✅ Draft · chưa validate khách</td>
+</tr>
+<tr>
+<td><strong>T3</strong></td>
+<td>Catalog đầy đủ</td>
+<td>Map FDI 9 giai đoạn · logistics · gap</td>
+<td>Catalog v1 + <a href="/logistics">/logistics</a></td>
+<td>✅ v1 live</td>
+</tr>
+<tr>
+<td><strong>T4</strong></td>
+<td>Chốt tiềm năng</td>
+<td>Scorecard · Plan B · họp Go/No-Go</td>
+<td><strong>Memo + 38/50</strong></td>
+<td>✅ Desk · 🟡 chờ ký QĐ #005</td>
+</tr>
+</tbody>
+</table>
+<p><em>Có thể trùng với lộ trình tháng 7 — 00-1 là khung mục tiêu, tháng 7 là lịch thực thi.</em></p>
+<hr>
+<h2>Bảng chấm điểm tiềm năng (Scorecard)</h2>
+<p>Chấm <strong>1–5</strong> mỗi tiêu chí (1 = yếu, 5 = mạnh). Tổng ≥ <strong>35/50</strong> → đề xuất <strong>Go</strong> sang Giai đoạn 2.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tiêu chí</th>
+<th>Nguồn bằng chứng</th>
+<th>Điểm (1–5)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quy mô thị trường FDI TQ→VN (miền Bắc)</td>
+<td>CL-004, báo cáo FDI</td>
+<td><strong>4</strong></td>
+<td>TQ #2 nguồn vốn 2025</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nhu cầu cụ thể tại TN + HP</td>
+<td>CL-002, CL-003, <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></td>
+<td><strong>4</strong></td>
+<td>TN #1 vốn mới (mega Hàn/Đài); niche TQ Tier 2–3 — <strong>chờ call Sở</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Khoảng trống vs đối thủ</td>
+<td>CL-001 competitors</td>
+<td><strong>3</strong></td>
+<td>Niche Tier 2–3 TQ</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Khách mục tiêu rõ (persona)</td>
+<td>KD-001</td>
+<td><strong>4</strong></td>
+<td><a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sẵn sàng trả phí (pricing)</td>
+<td>KD-004</td>
+<td><strong>3</strong></td>
+<td>Draft — chưa validate khách</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Catalog phủ ≥80% hành trình FDI</td>
+<td>FDI lifecycle 9 giai đoạn + logistics</td>
+<td><strong>4</strong></td>
+<td>~82% ✅/🤝 · <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Pháp lý &#x26; giấy phép khả thi</td>
+<td>PL-001, PL-003</td>
+<td><strong>4</strong></td>
+<td>CTCP path rõ</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vốn 2 tỷ đủ 6–12 tháng</td>
+<td>VT-001, VT-005</td>
+<td><strong>5</strong></td>
+<td>Burn &#x3C;&#x3C; 2 tỷ</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Lợi thế CTCP + tập đoàn TQ</td>
+<td>QĐ #003, Leader input</td>
+<td><strong>3</strong></td>
+<td>% cổ đông chưa điền</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Rủi ro chấp nhận được</td>
+<td>CL-006, VT-005</td>
+<td><strong>4</strong></td>
+<td>Plan B có</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TỔNG</strong></td>
+<td></td>
+<td><strong>38/50</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận (2026-07-09):</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> <strong>Go + Adjust</strong> — Sang <a href="02-giai-doan-2-overview">Giai đoạn 2</a> (xây hệ thống lean)</li>
+<li class="task-list-item"><input type="checkbox" disabled> <strong>No-Go</strong> — Dừng hoặc pivot mô hình</li>
+<li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+</ul>
+<hr>
+<h2>Ý tưởng triển khai khả thi (bootstrap)</h2>
+<blockquote>
+<p>Đây là <strong>mô hình thử nghiệm</strong> trong 00-1 — chưa cam kết tuyển dụng scale.</p>
+</blockquote>
+<h3>Cách tiếp cận “Lean validation”</h3>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Làm gì</th>
+<th>Chi phí ước tính</th>
+<th>Ai làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Nghiên cứu desk + Hermes issues</td>
+<td>Thấp (thời gian)</td>
+<td>Hermes + Cursor</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3 cuộc gọi: Sở KH&#x26;ĐT, 1 KCN, 1 đối thủ/khách tiềm năng</td>
+<td>~0</td>
+<td>Leader + Chiến lược</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Catalog trên giấy + web nội bộ</td>
+<td>~0</td>
+<td>Sản phẩm</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Offer thử</strong> 1 gói A1 cho 1 lead TQ (nếu có) — chưa cần CTCP</td>
+<td>Hợp đồng qua đối tác luật</td>
+<td>Kinh doanh</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chốt CTCP <strong>sau</strong> khi scorecard ≥ ngưỡng</td>
+<td>~2 tỷ vốn (đã chốt hướng)</td>
+<td>Pháp lý</td>
+</tr>
+</tbody>
+</table>
+<h3>Thứ tự ưu tiên dịch vụ bán thử (nếu Go)</h3>
+<ol>
+<li><strong>A1 Khảo sát 2 tỉnh</strong> — chứng minh giá trị, ít rủi ro pháp lý</li>
+<li><strong>B1 Hải quan starter</strong> — tận dụng công cụ Oz, khách đã vào VN</li>
+<li><strong>H2/H3 Hub</strong> — giữ khách sau deal A</li>
+</ol>
+<p><em>Không bán A3 (thiết lập NM) cho đến khi có uy tín + đối tác luật/đất chắc.</em></p>
+<hr>
+<h2>Phân công 5 phòng — checklist 00-1</h2>
+<p>Mỗi phòng có section <strong>Giai đoạn 00-1</strong> trong file TODO — tick dần, không quên.</p>
+<table>
+<thead>
+<tr>
+<th>Phòng</th>
+<th>File checklist</th>
+<th>Trọng tâm 00-1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chiến lược &#x26; Rủi ro</td>
+<td><a href="/docs/03-departments/01-chien-luoc/TODO">TODO Chiến lược</a></td>
+<td>Thị trường, đối thủ, Sở, KCN, Plan B</td>
+</tr>
+<tr>
+<td>Pháp lý &#x26; Chính sách</td>
+<td><a href="/docs/03-departments/02-phap-ly/TODO">TODO Pháp lý</a></td>
+<td>CTCP, ưu đãi 2 tỉnh, rào cản giấy phép</td>
+</tr>
+<tr>
+<td>Kinh doanh &#x26; GTM</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/TODO">TODO Kinh doanh</a></td>
+<td>Persona, kênh, pricing, lead thử</td>
+</tr>
+<tr>
+<td>Sản phẩm dịch vụ</td>
+<td><a href="/docs/03-departments/04-san-pham/TODO">TODO Sản phẩm</a></td>
+<td>Catalog đầy đủ, hành trình FDI, gap</td>
+</tr>
+<tr>
+<td>Vận hành &#x26; TC</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/TODO">TODO Vận hành</a></td>
+<td>Vốn, burn, scorecard, kịch bản xấu</td>
+</tr>
+</tbody>
+</table>
+<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a> · <a href="/hermes">Tiến độ Hermes</a> · <a href="/kim">Kim — việc người thật</a>.</p>
+<hr>
+<h2>Deliverable bắt buộc cuối 00-1</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tài liệu</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Memo tiềm năng thị trường</strong></td>
+<td>5–10 trang: TAM/SAM, đối thủ, kết luận có/không nhu cầu</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Catalog dịch vụ v1</strong></td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">9 giai đoạn vòng đời</a> + <a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog v1</a> + <a href="/logistics">/logistics</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Scorecard điền đủ 10 tiêu chí</strong></td>
+<td>Bảng trên, có điểm số + giải thích</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Quyết định Go/No-Go</strong></td>
+<td>Leader ký — mở Giai đoạn 2 hoặc điều chỉnh</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Investor Pack (trụ cột 4)</strong></td>
+<td>Verdict đầu tư + financial model 3yr + strategy 3yr + pitch gap — <a href="/docs/06-phases/investor-pack/00-index">index</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Giai đoạn 2</h2>
+<p>Khi <strong>Go</strong> từ 00-1 → xem <a href="02-giai-doan-2-overview">Overview Giai đoạn 2</a>.</p>
+<p><em>Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.</em></p>
+<hr>
+<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk) · 🔄 Field đang chờ Hermes</h2>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Link</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Memo tiềm năng</td>
+<td><a href="00-1-market-memo">00-1-market-memo</a></td>
+<td>Cập nhật đoạn TN sau deep-dive</td>
+</tr>
+<tr>
+<td>Thực trạng sau đào sâu</td>
+<td><a href="00-1-thuc-trang">00-1-thuc-trang</a></td>
+<td>Bảng gap P0/P1</td>
+</tr>
+<tr>
+<td>Scorecard 38/50</td>
+<td><a href="00-1-scorecard">00-1-scorecard</a></td>
+<td>Go + Adjust</td>
+</tr>
+<tr>
+<td>Quyết định Go</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+<td>Chờ Leader ký</td>
+</tr>
+<tr>
+<td><strong>Investor Pack</strong></td>
+<td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+<td>Trụ cột 4</td>
+</tr>
+<tr>
+<td><strong>Hermes dashboard</strong></td>
+<td><a href="/hermes">/hermes</a></td>
+<td>Wave 1 vs Wave 2 trên web</td>
+</tr>
+<tr>
+<td>Nghiên cứu tháng 7</td>
+<td><a href="/docs/04-research/2026-07/00-index">/docs/04-research/2026-07/00-index</a></td>
+<td>Index đầy đủ</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Còn field (Hermes — người thật):</strong> Brief 1 trang (KIM-080) · Call Sở TN/HP (KIM-010–011) · Call KCN (KIM-012–013) · Map 20 NM · logistics desk</p>
+<p><strong>Còn Leader:</strong> Ký QĐ #005 · % cổ đông TQ (KIM-002) · duyệt pricing (KIM-003)</p>
+<hr>
+<h2>Việc ngay (chuyển Giai đoạn 2 + Hermes Wave 2)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Hermes hoàn thành <a href="/docs/03-departments/01-chien-luoc/hermes-field-brief-template">brief 1 trang</a> (KIM-080) → gọi Sở TN (KIM-010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Theo dõi tiến độ tại <a href="/hermes">/hermes</a> và <a href="/kim?filter=hermes">/kim?filter=hermes</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP (sau ký QĐ)</li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi · LongTV"}],["$","meta","1",{"name":"description","content":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

@@ -1,0 +1,294 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T16b5,<h1>SOP-A1 — Quy trình gói Khảo sát desk (v1)</h1>
+<blockquote>
+<p><strong>Gói:</strong> A1 · <strong>Thời gian:</strong> 2–3 tuần · <strong>Owner:</strong> PM Sản phẩm + Sales<br>
+<strong>Spec:</strong> <a href="/docs/03-departments/04-san-pham/package-a1-deliverable">package-a1-deliverable</a></p>
+</blockquote>
+<hr>
+<h2>1. Điều kiện kích hoạt</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> HĐ ký + nhận <strong>deposit 30%</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> Kickoff form đủ: ngành, quy mô, tỉnh ưu tiên (TN/HP), timeline, ngôn ngữ báo cáo</li>
+<li class="task-list-item"><input type="checkbox" disabled> NDA ký (nếu khách yêu cầu)</li>
+</ul>
+<hr>
+<h2>2. Luồng tổng quát</h2>
+<pre><code>Ký HĐ → Kickoff (D1) → Research (D2–10) → Review nội bộ (D11–12)
+→ Draft khách (D13) → Pitch online (D14–15) → Final + nghiệm thu (D16–17)
+</code></pre>
+<hr>
+<h2>3. Chi tiết từng bước</h2>
+<h3>Bước 0 — Pre-sale (trước ký HĐ)</h3>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Owner</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qualify lead (budget, timeline, ngành)</td>
+<td>Sales</td>
+<td>CRM stage = Qualified</td>
+</tr>
+<tr>
+<td>Gửi proposal + bảng giá</td>
+<td>Sales</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/proposal-template-a1">proposal-template-a1</a></td>
+</tr>
+<tr>
+<td>Negotiate &#x26; ký HĐ</td>
+<td>Sales + PL</td>
+<td>HĐ + invoice deposit</td>
+</tr>
+</tbody>
+</table>
+<h3>Bước 1 — Kickoff (Ngày 1)</h3>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Owner</th>
+<th>SLA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Call kickoff 60 phút (song ngữ)</td>
+<td>Sales + PL</td>
+<td>Trong 48h sau ký HĐ</td>
+</tr>
+<tr>
+<td>Thu thập profile DN TQ</td>
+<td>Sales</td>
+<td>Form kickoff</td>
+</tr>
+<tr>
+<td>Chốt phạm vi: TN / HP / cả hai</td>
+<td>PM SP</td>
+<td>Ghi vào ticket</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kickoff checklist khách cần cung cấp:</strong></p>
+<ul>
+<li>Giấy phép DN TQ (scan)</li>
+<li>Ngành sản xuất + sản phẩm chính</li>
+<li>Quy mô đầu tư dự kiến (USD)</li>
+<li>Có xuất khẩu không? Thị trường đích?</li>
+<li>Timeline mong muốn vào VN</li>
+</ul>
+<h3>Bước 2 — Research (Ngày 2–10)</h3>
+<table>
+<thead>
+<tr>
+<th>Phần báo cáo</th>
+<th>Owner</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Executive summary</td>
+<td>Chiến lược</td>
+<td>Memo + scorecard</td>
+</tr>
+<tr>
+<td>FDI / thị trường</td>
+<td>Chiến lược</td>
+<td><a href="/docs/04-research/2026-07/fdi-data">fdi-data</a></td>
+</tr>
+<tr>
+<td>KCN so sánh</td>
+<td>Chiến lược</td>
+<td><a href="/docs/04-research/2026-07/kcn-desk-research">kcn-desk-research</a></td>
+</tr>
+<tr>
+<td>Ưu đãi tỉnh</td>
+<td>Pháp lý</td>
+<td><a href="/docs/04-research/2026-07/provincial-incentives">provincial-incentives</a></td>
+</tr>
+<tr>
+<td>Lộ trình 6 bước FDI</td>
+<td>Sản phẩm</td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-service-map</a></td>
+</tr>
+<tr>
+<td>Chi phí sơ bộ</td>
+<td>Vận hành</td>
+<td><a href="/docs/04-research/2026-07/startup-budget">startup-budget</a> + pricing</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Quy tắc chất lượng:</strong></p>
+<ul>
+<li>Mọi số liệu có <strong>nguồn</strong> hoặc ghi rõ "ước tính desk"</li>
+<li>Disclaimer pháp lý ở Phần 4 — bắt buộc</li>
+<li>Không cam kết mức ưu đãi cụ thể</li>
+</ul>
+<h3>Bước 3 — Review nội bộ (Ngày 11–12)</h3>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Người duyệt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fact-check số liệu</td>
+<td>Chiến lược</td>
+</tr>
+<tr>
+<td>Disclaimer pháp lý</td>
+<td>Pháp lý</td>
+</tr>
+<tr>
+<td>Format + slide</td>
+<td>VT</td>
+</tr>
+<tr>
+<td>Go/No-Go gửi khách</td>
+<td>TGĐ (nếu deal >5.000 USD)</td>
+</tr>
+</tbody>
+</table>
+<h3>Bước 4 — Giao khách (Ngày 13–17)</h3>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gửi draft PDF</td>
+<td>Sales</td>
+</tr>
+<tr>
+<td>Pitch online 60 phút</td>
+<td>Sales + PL</td>
+</tr>
+<tr>
+<td>Thu feedback (1 vòng chỉnh sửa nhỏ)</td>
+<td>PM SP</td>
+</tr>
+<tr>
+<td>Final PDF + slide</td>
+<td>VT</td>
+</tr>
+<tr>
+<td>Biên bản nghiệm thu / email xác nhận</td>
+<td>Sales</td>
+</tr>
+<tr>
+<td>Invoice 70% còn lại</td>
+<td>Vận hành</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. RACI</h2>
+<table>
+<thead>
+<tr>
+<th>Hoạt động</th>
+<th>R</th>
+<th>A</th>
+<th>C</th>
+<th>I</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kickoff</td>
+<td>Sales</td>
+<td>TGĐ</td>
+<td>PL</td>
+<td>SP</td>
+</tr>
+<tr>
+<td>Viết báo cáo</td>
+<td>CL+PL</td>
+<td>PM SP</td>
+<td>VT</td>
+<td>TGĐ</td>
+</tr>
+<tr>
+<td>Pitch</td>
+<td>Sales</td>
+<td>Trưởng KD</td>
+<td>PL</td>
+<td>TGĐ</td>
+</tr>
+<tr>
+<td>Nghiệm thu</td>
+<td>Sales</td>
+<td>TGĐ</td>
+<td>PL</td>
+<td>VT</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Upsell sau A1</h2>
+<table>
+<thead>
+<tr>
+<th>Tín hiệu khách</th>
+<th>Đề xuất</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hỏi giá đất chi tiết</td>
+<td>B1 on-site</td>
+</tr>
+<tr>
+<td>Hỏi thành lập công ty</td>
+<td>B2 (qua đối tác luật)</td>
+</tr>
+<tr>
+<td>Hỏi hải quan / xuất khẩu</td>
+<td>B1 hải quan starter</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. KPI gói A1</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>On-time delivery</td>
+<td>≥ 90% trong 3 tuần</td>
+</tr>
+<tr>
+<td>1 vòng revision</td>
+<td>≤ 1</td>
+</tr>
+<tr>
+<td>Upsell meeting</td>
+<td>100% khách được pitch B1</td>
+</tr>
+<tr>
+<td>NPS / feedback</td>
+<td>Thu survey sau giao</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"07-operations"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"sop-a1-desk-research"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"sop-a1-desk-research"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/sales-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sales-pipeline"}]]}],["$","$L2",null,{"href":"/docs/07-operations/sop-b1-on-site","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sop-b1-on-site"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

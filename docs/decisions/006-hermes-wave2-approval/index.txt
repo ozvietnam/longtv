@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3nx12gne_ziuj.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","decisions","006-hermes-wave2-approval",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","decisions/006-hermes-wave2-approval","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QswpECjHA_uBUdh3_m9Nn"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:Td42,<h1>Quyết định #006 — Duyệt gói việc Hermes Wave 2</h1>
+<blockquote>
+<p><strong>Trạng thái:</strong> <strong>Đã duyệt</strong> · 2026-07-09<br>
+<strong>Gói việc:</strong> <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a><br>
+<strong>Chỉ đạo liên tục:</strong> <a href="/docs/03-departments/01-chien-luoc/hermes-directive-log">hermes-directive-log</a></p>
+</blockquote>
+<hr>
+<h2>Bối cảnh</h2>
+<p>Sau Wave 1 (desk research 00-1), LONGTV cần <strong>xác minh thực địa</strong> (Sở, khu công nghiệp) và <strong>thu thập tài liệu</strong> cho Cẩm nang, investor pack, landing hậu cần. Hermes là owner nghiên cứu &#x26; field; Cursor điều phối, rà soát, bổ sung việc.</p>
+<hr>
+<h2>Quyết định</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Duyệt Wave 2</strong></td>
+<td>Toàn bộ KIM-010–013, 077, 080–088 và CL-007–012</td>
+</tr>
+<tr>
+<td><strong>Owner thực hiện</strong></td>
+<td><strong>Hermes</strong> (người)</td>
+</tr>
+<tr>
+<td><strong>Owner điều phối</strong></td>
+<td><strong>Cursor</strong> — cập nhật queue, nhắc hạn, mở việc mới khi Leader yêu cầu</td>
+</tr>
+<tr>
+<td><strong>Blocker Giai đoạn 2</strong></td>
+<td>≥2/4 call Sở/KCN xong + brief KIM-080 trước khi pitch khách A1</td>
+</tr>
+<tr>
+<td><strong>Bổ sung sau duyệt</strong></td>
+<td>KIM-089 (đối tác logistics/HQ), KIM-090 (bảng giá tuyến desk)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Ưu tiên tuần này (chỉ đạo #002)</h2>
+<table>
+<thead>
+<tr>
+<th>Thứ tự</th>
+<th>ID</th>
+<th>Việc</th>
+<th>Hạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>KIM-080</td>
+<td>Brief LONGTV 1 trang — gửi trước khi gọi</td>
+<td>2026-07-12</td>
+</tr>
+<tr>
+<td>2</td>
+<td>KIM-087</td>
+<td>Subscribe báo cáo Cục Đầu tư nước ngoài</td>
+<td><strong>quá hạn — làm ngay</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td>KIM-010</td>
+<td>Gọi Sở KH&#x26;ĐT Thái Nguyên</td>
+<td>2026-07-18</td>
+</tr>
+<tr>
+<td>4</td>
+<td>KIM-011</td>
+<td>Gọi Sở KH&#x26;ĐT Hải Phòng</td>
+<td>2026-07-21</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Tiêu chí đánh giá Hermes (tháng 7)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Field call hoàn thành</td>
+<td>≥2/4 (KIM-010–013)</td>
+</tr>
+<tr>
+<td>Research cập nhật sau call</td>
+<td>100% call có file evidence</td>
+</tr>
+<tr>
+<td>URL địa phương (Cẩm nang)</td>
+<td>≥8 link chính thức</td>
+</tr>
+<tr>
+<td>Map nhà máy TQ</td>
+<td>≥15/20 hàng có nguồn</td>
+</tr>
+<tr>
+<td>Brief + infographic</td>
+<td>1 trang mỗi loại, Leader duyệt</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Việc Cursor làm thay Leader (điều phối)</h2>
+<ul>
+<li>Rà soát <a href="/kim">/kim</a> filter <strong>Nghiên cứu (Hermes)</strong> mỗi lần cập nhật repo</li>
+<li>Ghi chỉ đạo mới vào <a href="/docs/03-departments/01-chien-luoc/hermes-directive-log">hermes-directive-log</a></li>
+<li>Mở PR khi Hermes xong evidence; <strong>không tick <code>done</code> thay Hermes</strong> (<a href="/docs/05-clarifications/what-is-kim">Kim là gì?</a>)</li>
+</ul>
+<hr>
+<p><strong>Ghi nhận:</strong> Leader duyệt qua Cursor Agent · đẩy live 2026-07-09</p>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"decisions"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"006-hermes-wave2-approval"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"decisions"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Quyết định #006 — Duyệt gói công việc Hermes Wave 2"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Leader duyệt phân công nghiên cứu, field verify và thu thập tài liệu — Cursor điều phối hàng tuần."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-investment-verdict","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Kết luận đầu tư — LONGTV có nên đầu tư không?"}]]}],["$","$L2",null,{"href":"/docs/06-phases/investor-pack/01-executive-summary","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Executive Summary — LONGTV (Investor)"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Quyết định #006 — Duyệt gói công việc Hermes Wave 2 · LongTV"}],["$","meta","1",{"name":"description","content":"Leader duyệt phân công nghiên cứu, field verify và thu thập tài liệu — Cursor điều phối hàng tuần."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tf34,<h1>Giai đoạn 2 — Kế hoạch triển khai</h1>
+<blockquote>
+<p><strong>Trạng thái:</strong> <strong>ĐANG TRIỂN KHAI</strong> (tài liệu v1)<br>
+<strong>Overview:</strong> <a href="02-giai-doan-2-overview">02-giai-doan-2-overview</a></p>
+</blockquote>
+<hr>
+<h2>Deliverable &#x26; trạng thái</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Deliverable</th>
+<th>File</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>W1</td>
+<td>Checklist hồ sơ CTCP</td>
+<td><a href="/docs/03-departments/02-phap-ly/ctcp-ho-so-checklist">ctcp-ho-so-checklist</a></td>
+<td>✅ Draft</td>
+</tr>
+<tr>
+<td>W1</td>
+<td>HĐ + NDA + MOU mẫu</td>
+<td><a href="/docs/03-departments/02-phap-ly/templates/00-index">templates</a></td>
+<td>✅ Draft</td>
+</tr>
+<tr>
+<td>W2</td>
+<td>SOP A1</td>
+<td><a href="/docs/07-operations/sop-a1-desk-research">sop-a1</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W2</td>
+<td>SOP B1</td>
+<td><a href="/docs/07-operations/sop-b1-on-site">sop-b1</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W3</td>
+<td>Pipeline CRM</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/sales-pipeline">sales-pipeline</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W3</td>
+<td>Pitch deck</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/pitch-deck-v1">pitch-deck-v1</a></td>
+<td>✅ Outline</td>
+</tr>
+<tr>
+<td>W3</td>
+<td>Bảng giá chính thức</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a></td>
+<td>🔄 Chờ duyệt</td>
+</tr>
+<tr>
+<td>W3</td>
+<td>One-pager 中文</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/bundle-onepager-zh">bundle-onepager-zh</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W3</td>
+<td>Proposal A1</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/proposal-template-a1">proposal-template-a1</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W4</td>
+<td>Script call Sở/KCN</td>
+<td><a href="/docs/03-departments/01-chien-luoc/field-call-scripts">field-call-scripts</a></td>
+<td>✅ Sẵn sàng</td>
+</tr>
+<tr>
+<td>W4</td>
+<td>MOU KCN draft</td>
+<td><a href="/docs/03-departments/02-phap-ly/templates/mou-kcn">mou-kcn</a></td>
+<td>✅ Draft</td>
+</tr>
+<tr>
+<td>VT</td>
+<td>KPI + burn</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/kpi-thang">kpi-thang</a></td>
+<td>✅ v1</td>
+</tr>
+<tr>
+<td>W5–8</td>
+<td>Pilot 1 khách A1</td>
+<td>CRM</td>
+<td>⬜ Chờ sales</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Việc cần Leader / field</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Duyệt <a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền WeChat / contact trên one-pager &#x26; pitch</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Sở TN + HP (script có sẵn)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Nộp hồ sơ CTCP khi đủ thông tin cổ đông</li>
+<li class="task-list-item"><input type="checkbox" disabled> Luật sư review templates trước HĐ thật</li>
+</ul>
+<hr>
+<h2>Tiêu chí hoàn thành Giai đoạn 2</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tiêu chí</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>CTCP đăng ký xong <strong>hoặc</strong> hồ sơ đã nộp</td>
+</tr>
+<tr>
+<td>2</td>
+<td>≥1 HĐ A1 ký + đang giao / đã giao</td>
+</tr>
+<tr>
+<td>3</td>
+<td>SOP A1 chạy thử 1 vòng không lỗi quy trình</td>
+</tr>
+<tr>
+<td>4</td>
+<td>MOU luật <strong>hoặc</strong> MOU KCN ký 1 bên</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Pipeline ≥5 qualified</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/02-monthly-roadmap/2026-08">Lộ trình tháng 8</a></li>
+<li><a href="00-1-feasibility-plan">00-1 đã xong</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-giai-doan-2-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 2 — Kế hoạch triển khai chi tiết"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Checklist 4–8 tuần: CTCP, SOP, GTM, field, pilot A1."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-07","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}]]}],["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-08","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 8/2026 — Chốt sản phẩm & vận hành"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

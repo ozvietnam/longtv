@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T191a,<h1>CAPEX &#x26; OPEX năm 1 — Quy mô tầm trung</h1>
+<blockquote>
+<p><strong>File Excel:</strong> <a href="financial-plan-all-in-one-year1.xlsx">financial-plan-all-in-one-year1.xlsx</a><br>
+<strong>Tái tạo file:</strong> <code>python3 scripts/generate-financial-plan-excel.py</code><br>
+<strong>Quy mô:</strong> Doanh nghiệp tầm trung — 2 chi nhánh vật lý, kho thuê, ~16–18 FTE (<a href="all-in-one-headcount-matrix">headcount-matrix</a>)</p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt nhu cầu vốn năm đầu</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Hải Phòng (VND)</th>
+<th>Thái Nguyên (VND)</th>
+<th><strong>Tổng hệ thống</strong></th>
+<th>Tỷ trọng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. CAPEX</strong></td>
+<td>845,000,000</td>
+<td>615,000,000</td>
+<td><strong>1,460,000,000</strong></td>
+<td>22,0%</td>
+</tr>
+<tr>
+<td><strong>2. OPEX</strong></td>
+<td>2,876,000,000</td>
+<td>2,314,000,000</td>
+<td><strong>5,190,000,000</strong></td>
+<td>78,0%</td>
+</tr>
+<tr>
+<td><strong>TỔNG NĂM 1</strong></td>
+<td><strong>3,721,000,000</strong></td>
+<td><strong>2,929,000,000</strong></td>
+<td><strong>6,650,000,000</strong></td>
+<td>100%</td>
+</tr>
+</tbody>
+</table>
+<p><em>Làm tròn tỷ trọng từ tổng 6,65 tỷ.</em></p>
+<hr>
+<h2>2. So sánh 2 kịch bản vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Nhu cầu năm 1</th>
+<th>Khi nào dùng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bootstrap</strong> (<a href="use-of-funds-2b">use-of-funds-2b</a>)</td>
+<td><strong>~2,0 tỷ</strong> vốn điều lệ + ~500M ops</td>
+<td><strong>Y1 hiện tại</strong> — virtual office, MOU đối tác</td>
+</tr>
+<tr>
+<td><strong>Tầm trung</strong> (file này)</td>
+<td><strong>6,65 tỷ</strong></td>
+<td><strong>Y2–Y3</strong> — 2 VP + kho + full team</td>
+</tr>
+<tr>
+<td><strong>Chênh lệch</strong></td>
+<td><strong>~4,65 tỷ</strong></td>
+<td>Gọi vốn vòng 2 / tín dụng / giải ngân theo mốc</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận tư vấn:</strong> Số liệu <strong>6,65 tỷ</strong> là <strong>mục tiêu vận hành trơn tru</strong> (đúng bảng nhân sự anh mô tả) — <strong>không</strong> thay thế quyết định <strong>2 tỷ bootstrap</strong> đã chốt QĐ #003. Dùng file Excel để pitch <strong>lộ trình scale</strong> và <strong>nhu cầu vốn giai đoạn 2</strong>.</p>
+<hr>
+<h2>3. Chi tiết CAPEX (1,46 tỷ)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>HP</th>
+<th>TN</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Giấy phép &#x26; pháp lý thương hiệu</td>
+<td>185M</td>
+<td>140M</td>
+<td>MOU công ty luật, mã đại lý HQ, GP bưu chính</td>
+</tr>
+<tr>
+<td>Hạ tầng VP (cọc + nội thất tiếp khách TQ)</td>
+<td>385M</td>
+<td>295M</td>
+<td>HP Lê Hồng Phong/Đình Vũ · TN Yên Bình</td>
+</tr>
+<tr>
+<td>CNTT (WMS, CRM, ECUS5-VNACCS)</td>
+<td>275M</td>
+<td>180M</td>
+<td>Bản quyền / setup năm 1</td>
+</tr>
+<tr>
+<td><strong>Tổng CAPEX</strong></td>
+<td><strong>845M</strong></td>
+<td><strong>615M</strong></td>
+<td><strong>1,46 tỷ</strong></td>
+</tr>
+</tbody>
+</table>
+<p>→ <a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></p>
+<hr>
+<h2>4. Chi tiết OPEX (5,19 tỷ / năm)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>HP</th>
+<th>TN</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lương — pháp lý (IRC, ERC, ĐTM, PCCC)</td>
+<td>960M</td>
+<td>720M</td>
+<td>4 + 3 FTE</td>
+</tr>
+<tr>
+<td>Lương — logistics (HQ, kho hiện trường)</td>
+<td>1.080M</td>
+<td>648M</td>
+<td>Chứng chỉ TCHQ</td>
+</tr>
+<tr>
+<td>Lương — BD/PM (HSK 5–6)</td>
+<td>360M</td>
+<td>312M</td>
+<td>Guanxi</td>
+</tr>
+<tr>
+<td>Thuê kho &#x26; bốc xếp</td>
+<td>336M</td>
+<td>280M</td>
+<td>Consolidation HP · phụ trợ TN</td>
+</tr>
+<tr>
+<td>Marketing TQ (Baidu, WeChat, hội thảo)</td>
+<td>80M</td>
+<td>60M</td>
+<td></td>
+</tr>
+<tr>
+<td>Thuê VP (OPEX) + điện nước</td>
+<td>36M</td>
+<td>30M</td>
+<td>Sau cọc CAPEX</td>
+</tr>
+<tr>
+<td>Tuyển dụng / HR (TN)</td>
+<td>—</td>
+<td>150M</td>
+<td>Cạnh tranh LĐ Samsung hub</td>
+</tr>
+<tr>
+<td>SaaS, đi lại, admin</td>
+<td>24M</td>
+<td>114M</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Tổng OPEX</strong></td>
+<td><strong>2.876M</strong></td>
+<td><strong>2.314M</strong></td>
+<td><strong>5,19 tỷ</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Hướng dẫn file Excel</h2>
+<table>
+<thead>
+<tr>
+<th>Tab</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tổng Quan Dự Án</strong></td>
+<td>Bảng tổng hợp <code>=SUM()</code> / tham chiếu CAPEX &#x26; OPEX · so sánh 2 tỷ vs 6,65 tỷ</td>
+</tr>
+<tr>
+<td><strong>CAPEX</strong></td>
+<td>3 dòng chi tiết × 2 tỉnh — sửa ô số → tổng tự cập nhật</td>
+</tr>
+<tr>
+<td><strong>OPEX</strong></td>
+<td>8 dòng chi tiết × 2 tỉnh — phân tách HP (đô thị loại I, cận cảng) vs TN</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cách dùng:</strong> Nhân đôi file → chỉnh % lương / m² thuê kho theo báo giá thực → cập nhật <a href="financial-model-3yr">financial-model-3yr</a> kịch bản Bull.</p>
+<hr>
+<h2>6. Liên kết UNIDO Bước 3</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Bootstrap (2B)</th>
+<th>Tầm trung (6,65B)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NPV @12%</td>
+<td>+400–500M (<a href="feasibility-study-fs-metrics">fs-metrics</a>)</td>
+<td>Cần DT scale Y2</td>
+</tr>
+<tr>
+<td>IRR</td>
+<td>~19%</td>
+<td>Cần model riêng</td>
+</tr>
+<tr>
+<td>Payback</td>
+<td>~3,2 năm</td>
+<td>~4–5 năm (ước desk)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Việc Leader</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Xác nhận kịch bản pitch: <strong>2 tỷ now</strong> + <strong>6,65 tỷ scale roadmap</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền báo giá thực VP HP (Lê Hồng Phong) vào tab CAPEX</li>
+<li class="task-list-item"><input type="checkbox" disabled> KIM-075: chọn Bear/Base/Bull có tính đến giai đoạn tầm trung</li>
+</ul>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/07-operations/all-in-one-operational-manual">Operational Manual</a></li>
+<li><a href="/docs/06-phases/investor-pack/00-index">Investor pack</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"capex-opex-year1-medium-scale"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"CAPEX & OPEX năm 1 — Quy mô tầm trung (HP + TN)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng tổng hợp nhu cầu vốn 6,65 tỷ VND — 2 chi nhánh All-in-one; đối chiếu kịch bản bootstrap 2 tỷ."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nghiên cứu tháng 7/2026"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/legal-entity-comparison","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"So sánh pháp nhân: TNHH vs Cổ phần cho LONGTV"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1269,<h1>PL-004/005 — Ưu đãi tỉnh: Thái Nguyên &#x26; Hải Phòng</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Pháp lý | <strong>Giai đoạn:</strong> 00-1 | <strong>Ngày:</strong> 2026-07-09<br>
+<strong>Disclaimer:</strong> Tổng hợp desk — bắt buộc xác nhận văn bản gốc &#x26; call Sở trước khi cam kết khách</p>
+</blockquote>
+<hr>
+<h2>1. Khung pháp lý chung</h2>
+<ul>
+<li><strong>Luật Đầu tư 2020</strong> + NĐ hướng dẫn</li>
+<li><strong>Luật Thuế TNDN</strong> — ưu đãi vùng (2, 3, 4)</li>
+<li><strong>Nghị quyết / Quyết định tỉnh</strong> — hàng năm có thể thay đổi</li>
+</ul>
+<hr>
+<h2>2. Thái Nguyên</h2>
+<h3>2.1. Phân vùng ưu đãi</h3>
+<table>
+<thead>
+<tr>
+<th>Khu vực</th>
+<th>Loại vùng (ước tính)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Một số KCN (Yên Bình, Sông Công…)</td>
+<td>Vùng khó khăn / 3</td>
+<td>Cần verify từng lô</td>
+</tr>
+<tr>
+<td>Nội thành TP Thái Nguyên</td>
+<td>Vùng 4 hoặc không ưu đãi</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Thuế TNDN (tham chiếu Luật)</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu đãi</th>
+<th>Điều kiện thường gặp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Miễn 4 năm, giảm 50% 9 năm tiếp</td>
+<td>Dự án mới tại vùng ưu đãi</td>
+</tr>
+<tr>
+<td>Thuế suất 10% trong 15 năm</td>
+<td>Một số ngành ưu tiên</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Ưu đãi địa phương (desk)</h3>
+<ul>
+<li>Hỗ trợ <strong>đào tạo nghề</strong> cho lao động địa phương</li>
+<li>Hỗ trợ <strong>lãi vay</strong> một phần (quỹ phát triển DN)</li>
+<li>Giảm / miễn <strong>tiền thuê đất</strong> theo thời hạn dự án</li>
+</ul>
+<p>Chi tiết policy: <a href="./thai-nguyen-fdi-policy.md">thai-nguyen-fdi-policy.md</a></p>
+<h3>2.4. Call checklist (TN)</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Quỹ hỗ trợ FDI 2026 — mức &#x26; hồ sơ</li>
+<li class="task-list-item"><input type="checkbox" disabled> Danh mục ngành ưu tiên</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thời gian xử lý IRC trung bình</li>
+</ul>
+<hr>
+<h2>3. Hải Phòng</h2>
+<h3>3.1. Phân vùng ưu đãi</h3>
+<table>
+<thead>
+<tr>
+<th>Khu vực</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KCN Nam Đình Vũ, Deep C, một số khu cảng</td>
+<td>Ưu đãi đặc biệt / vùng 2–3 (verify)</td>
+</tr>
+<tr>
+<td>Đô thị trung tâm</td>
+<td>Ít ưu đãi hơn</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2. Thuế &#x26; đất</h3>
+<ul>
+<li>Tương tự khung quốc gia; <strong>một số KCN</strong> có thêm ưu đãi từ chủ đầu tư KCN</li>
+<li>Thuê đất: thường <strong>đấu giá / thỏa thuận</strong> — không đồng giá toàn tỉnh</li>
+</ul>
+<p>Chi tiết: <a href="./hai-phong-fdi-policy.md">hai-phong-fdi-policy.md</a></p>
+<h3>3.3. Call checklist (HP)</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Chính sách thu hút FDI 2026–2030 (văn bản mới nhất)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ưu đãi riêng cho logistics / điện tử</li>
+<li class="task-list-item"><input type="checkbox" disabled> Đầu mối một cửa Sở KH&#x26;ĐT</li>
+</ul>
+<hr>
+<h2>4. Bảng so sánh nhanh (tư vấn khách)</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>Thái Nguyên</th>
+<th>Hải Phòng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chi phí đất</td>
+<td>Thấp hơn</td>
+<td>Cao hơn</td>
+</tr>
+<tr>
+<td>Ưu đãi thuế (typical)</td>
+<td>Vùng 3 — mạnh</td>
+<td>Vùng 2–3 tùy KCN</td>
+</tr>
+<tr>
+<td>Quỹ hỗ trợ tỉnh</td>
+<td>Có — cần số</td>
+<td>Có — cần số</td>
+</tr>
+<tr>
+<td>Phù hợp</td>
+<td>Sản xuất nội địa / Samsung chain</td>
+<td>Xuất khẩu / cảng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Template cam kết với khách</h2>
+<blockquote>
+<p>"Thông tin ưu đãi trong báo cáo LONGTV mang tính tham khảo dựa trên văn bản công khai tại thời điểm [ngày]. Cam kết chính thức thuộc thẩm quyền cơ quan nhà nước có thẩm quyền. LONGTV hỗ trợ làm việc với Sở KH&#x26;ĐT nhưng không bảo đảm mức ưu đãi cụ thể."</p>
+</blockquote>
+<hr>
+<h2>6. Việc còn lại</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Lưu PDF văn bản gốc vào <code>04-research/2026-07/sources/</code> (sau call)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật khi có NQ tỉnh mới</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"provincial-incentives"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"provincial-incentives"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/proposal-template-a1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"proposal-template-a1"}]]}],["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/sales-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sales-pipeline"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

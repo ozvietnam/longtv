@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1de0,<h1>Dịch vụ tư vấn pháp lý kinh doanh &#x26; đầu tư</h1>
+<blockquote>
+<p>Dịch vụ này được tách riêng khỏi catalog tổng vì có rủi ro giấy phép hành nghề. LONGTV giữ vai trò <strong>điều phối dự án, chuẩn hóa yêu cầu, quản lý hồ sơ và kết nối luật sư/đối tác đủ điều kiện</strong> khi cần ý kiến pháp lý chính thức hoặc nộp hồ sơ chuyên môn.</p>
+</blockquote>
+<h2>1. Dành cho ai?</h2>
+<table>
+<thead>
+<tr>
+<th>Nhóm khách hàng</th>
+<th>Nhu cầu thường gặp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nhà đầu tư Trung Quốc chuẩn bị vào Việt Nam</td>
+<td>Chọn mô hình 100% vốn nước ngoài, CTCP/TNHH, tỷ lệ cổ đông, ngành nghề</td>
+</tr>
+<tr>
+<td>Công ty Việt Nam nhận vốn nước ngoài</td>
+<td>Kiểm tra điều kiện góp vốn/mua cổ phần, M&#x26;A approval, cập nhật ERC/IRC</td>
+</tr>
+<tr>
+<td>Nhà máy sản xuất mới</td>
+<td>IRC/ERC, đất/xưởng, môi trường, PCCC, giấy phép trước vận hành</td>
+</tr>
+<tr>
+<td>Nhà máy đang vận hành</td>
+<td>Rà soát tuân thủ, hợp đồng, hải quan, lao động, môi trường, thay đổi dự án</td>
+</tr>
+</tbody>
+</table>
+<h2>2. Phạm vi dịch vụ</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Nhóm dịch vụ</th>
+<th>Việc LONGTV làm</th>
+<th>Khi nào cần luật sư/đối tác</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1</td>
+<td>Legal screening FDI</td>
+<td>Thu thập thông tin dự án, rà ngành nghề, tỷ lệ vốn nước ngoài, địa điểm, checklist rủi ro</td>
+<td>Khi cần kết luận pháp lý chính thức về ngành có điều kiện hoặc cam kết WTO/FTA</td>
+</tr>
+<tr>
+<td>L2</td>
+<td>IRC/ERC roadmap</td>
+<td>Lập lộ trình hồ sơ, cơ quan xử lý, timeline, tài liệu cần chuẩn bị</td>
+<td>Khi soạn/nộp hồ sơ pháp lý hoặc đại diện làm việc với cơ quan nhà nước</td>
+</tr>
+<tr>
+<td>L3</td>
+<td>Góp vốn/mua cổ phần</td>
+<td>Bóc điều kiện M&#x26;A approval, cập nhật cổ đông/thành viên, checklist due diligence</td>
+<td>Khi cần ý kiến về giao dịch, hợp đồng chuyển nhượng, hồ sơ thay đổi IRC/ERC</td>
+</tr>
+<tr>
+<td>L4</td>
+<td>Hợp đồng &#x26; governance</td>
+<td>Chuẩn hóa yêu cầu review hợp đồng, điều lệ, thỏa thuận cổ đông, MOU</td>
+<td>Khi cần review/ký xác nhận pháp lý bởi luật sư</td>
+</tr>
+<tr>
+<td>L5</td>
+<td>Giấy phép sản xuất</td>
+<td>Điều phối checklist môi trường, PCCC, xây dựng, ngành nghề chuyên ngành</td>
+<td>Khi cần đơn vị tư vấn môi trường/PCCC/xây dựng đủ năng lực lập hồ sơ</td>
+</tr>
+<tr>
+<td>L6</td>
+<td>Compliance retainer</td>
+<td>Theo dõi nghĩa vụ sau thành lập: góp vốn, báo cáo, thay đổi dự án, cảnh báo rủi ro</td>
+<td>Khi phát sinh tranh chấp, thanh tra, xử phạt hoặc ý kiến pháp lý chính thức</td>
+</tr>
+</tbody>
+</table>
+<h2>3. Gói dịch vụ đề xuất</h2>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>Phù hợp với</th>
+<th>Deliverable</th>
+<th>Ranh giới</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Legal Quick Scan</td>
+<td>Khách mới hỏi "có làm được không?"</td>
+<td>Memo 5-10 trang: mô hình đầu tư, giấy phép chính, red flags, bước tiếp theo</td>
+<td>Không thay thế legal opinion</td>
+</tr>
+<tr>
+<td>FDI Setup Roadmap</td>
+<td>Khách đã có ngành, vốn, địa điểm dự kiến</td>
+<td>Checklist IRC/ERC, timeline, cơ quan xử lý, bộ câu hỏi cho luật sư</td>
+<td>LONGTV PM; hồ sơ chính thức do đối tác luật xử lý nếu cần</td>
+</tr>
+<tr>
+<td>M&#x26;A / Capital Contribution Screen</td>
+<td>Góp vốn/mua cổ phần vào công ty Việt Nam</td>
+<td>Decision tree M&#x26;A approval, checklist due diligence, hồ sơ cần kiểm tra</td>
+<td>Không đại diện giao dịch nếu chưa có luật sư đối tác</td>
+</tr>
+<tr>
+<td>Factory Licensing Checklist</td>
+<td>Dự án sản xuất cần vận hành nhà máy</td>
+<td>Bảng giấy phép: môi trường, PCCC, xây dựng, lao động, chuyên ngành</td>
+<td>Cần đối tác chuyên môn theo từng giấy phép</td>
+</tr>
+<tr>
+<td>Monthly Compliance Desk</td>
+<td>Nhà máy đã vận hành</td>
+<td>Lịch nghĩa vụ, cập nhật rủi ro, điều phối đối tác</td>
+<td>Không thay thế bộ phận pháp chế nội bộ/luật sư</td>
+</tr>
+</tbody>
+</table>
+<h2>4. Quy trình làm việc</h2>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Nội dung</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Intake dự án: nhà đầu tư, quốc tịch, ngành, địa điểm, vốn, quy mô, timeline</td>
+<td>Form đầu vào + danh sách thiếu thông tin</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Phân loại case: lập mới, góp vốn/mua cổ phần, dự án sản xuất, thay đổi dự án</td>
+<td>Case type + checklist nguồn luật</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rà soát sơ bộ từ thư viện pháp luật FDI</td>
+<td>Bảng căn cứ pháp lý, red flags, câu hỏi cần luật sư xác nhận</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Chốt phạm vi LONGTV tự làm và phần chuyển đối tác</td>
+<td>RACI: LONGTV / luật sư / CPA / môi trường / PCCC / khách hàng</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Quản lý hồ sơ và timeline</td>
+<td>Checklist hồ sơ, lịch nộp, trạng thái xử lý, evidence</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Bàn giao cẩm nang/brief cho khách hàng</td>
+<td>Memo, checklist, next actions</td>
+</tr>
+</tbody>
+</table>
+<h2>5. Input cần khách hàng cung cấp</h2>
+<ul>
+<li>Quốc tịch/tư cách pháp lý của nhà đầu tư: cá nhân, công ty mẹ, công ty con, quỹ.</li>
+<li>Mục tiêu đầu tư: lập mới, góp vốn, mua cổ phần, mở rộng dự án, thuê/mua nhà máy.</li>
+<li>Ngành nghề, sản phẩm sản xuất, công suất dự kiến.</li>
+<li>Địa điểm: Thái Nguyên, Hải Phòng, KCN cụ thể hoặc ngoài KCN.</li>
+<li>Vốn đầu tư, vốn điều lệ, tỷ lệ sở hữu nước ngoài dự kiến.</li>
+<li>Hồ sơ pháp nhân nước ngoài, báo cáo tài chính/năng lực tài chính nếu có.</li>
+<li>Tình trạng đất/xưởng, môi trường, PCCC, xây dựng nếu mua/thuê lại cơ sở hiện hữu.</li>
+</ul>
+<h2>6. Không nằm trong phạm vi LONGTV tự làm</h2>
+<p>LONGTV không tự nhận các phần sau nếu chưa có đối tác đủ điều kiện:</p>
+<ul>
+<li>Ký legal opinion chính thức.</li>
+<li>Đại diện hành nghề luật sư hoặc dịch vụ pháp lý bắt buộc giấy phép.</li>
+<li>Ký hồ sơ môi trường, PCCC, xây dựng, kiểm toán, kế toán khi pháp luật yêu cầu đơn vị đủ điều kiện.</li>
+<li>Cam kết chắc chắn được cấp phép khi chưa có xác nhận của cơ quan có thẩm quyền.</li>
+</ul>
+<h2>7. Liên kết nguồn luật</h2>
+<ul>
+<li><a href="/docs/data/fdi-legal/legal-library">Thư viện pháp luật FDI</a></li>
+<li><a href="/docs/data/fdi-legal/library/01-investment-enterprise">Nhóm 1 — Đầu tư &#x26; doanh nghiệp</a></li>
+<li><a href="/docs/data/fdi-legal/library/02-foreign-capital-forms">Nhóm 2 — Hình thức vốn nước ngoài</a></li>
+<li><a href="/docs/data/fdi-legal/library/03-environment-manufacturing">Nhóm 3 — Môi trường &#x26; sản xuất</a></li>
+<li><a href="/docs/data/fdi-legal/library/04-industrial-zones-local">Nhóm 4 — KCN, đất đai &#x26; địa phương</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"services"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"legal-consulting"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"services"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Dịch vụ tư vấn pháp lý kinh doanh & đầu tư"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Trang dịch vụ riêng cho tư vấn pháp lý FDI: market access, IRC/ERC, góp vốn/mua cổ phần, hợp đồng, tuân thủ và giấy phép sản xuất."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/services/policy-government","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Dịch vụ chính sách & chính quyền 2 tỉnh"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Chiến lược & Rủi ro"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

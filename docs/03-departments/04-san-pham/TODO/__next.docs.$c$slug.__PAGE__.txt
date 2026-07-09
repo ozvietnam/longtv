@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1c29,<h1>TODO — Sản phẩm dịch vụ</h1>
+<h2>Tháng 2026-07 | Phòng: Sản phẩm dịch vụ</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Task</th>
+<th>V-layer</th>
+<th>Assignee</th>
+<th>Status</th>
+<th>Deadline</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>SP-001</td>
+<td>Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc)</td>
+<td>V4.1, V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-18</td>
+<td>/docs/03-departments/04-san-pham/service-catalog-v0.2</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-002</td>
+<td>Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ</td>
+<td>V4.4</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-21</td>
+<td>/docs/03-departments/04-san-pham/build-vs-partner</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-006</td>
+<td>Tách dịch vụ tư vấn pháp lý kinh doanh &#x26; đầu tư thành trang dịch vụ riêng</td>
+<td>V4.2, V4.4</td>
+<td>@cursor</td>
+<td>review</td>
+<td>2026-07-09</td>
+<td>/docs/services/legal-consulting</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-007</td>
+<td>Tách dịch vụ chính sách &#x26; chính quyền 2 tỉnh thành trang dịch vụ riêng</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>review</td>
+<td>2026-07-09</td>
+<td>/docs/services/policy-government</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-008</td>
+<td>Tạo trang đánh giá tiềm năng &#x26; khả thi để trình cổ đông, có sơ đồ và liên kết nội bộ</td>
+<td>V4.2, V7</td>
+<td>@cursor</td>
+<td>review</td>
+<td>2026-07-09</td>
+<td>/docs/06-phases/00-1-feasibility-plan</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>SP-003</td>
+<td>Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro)</td>
+<td>V4.3</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-25</td>
+<td>/docs/03-departments/04-san-pham/product-bundles</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>SP-004</td>
+<td>Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?)</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-28</td>
+<td>/docs/03-departments/04-san-pham/package-a1-deliverable</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>SP-005</td>
+<td>Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ</td>
+<td>V4.3</td>
+<td>—</td>
+<td>todo</td>
+<td>2026-08-31</td>
+<td></td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-G2-01</td>
+<td>SOP A1 vận hành</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/07-operations/sop-a1-desk-research</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-G2-02</td>
+<td>SOP B1 on-site</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/07-operations/sop-b1-on-site</td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1 — Checklist đánh giá tiềm năng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-001: Catalog v0.2 (2 mảng + Hub)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-002: Bảng tự làm vs đối tác</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Map hành trình FDI 6 giai đoạn — <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-service-map</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-003: 3 bundle + add-on (checklist, logistics intro)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Chốt gap list — ~82% ✅/🤝 trên journey map</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Điền điểm scorecard #6 → <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a></li>
+</ul>
+<h2>Giai đoạn 2 — SOP giao hàng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> SOP A1 desk research</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SOP B1 on-site</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chạy thử SOP A1 với khách pilot đầu tiên</li>
+<li class="task-list-item"><input type="checkbox" disabled> SP-005: Tích hợp Oz tools (B1/B3)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Vòng đời 9 giai đoạn (G0–G8) — <a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Catalog v1 theo vòng đời — <a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Playbook G5 vận hành SX — <a href="/docs/03-departments/04-san-pham/factory-operations-playbook-vn">factory-operations-playbook-vn</a></li>
+</ul>
+<h2>Hướng dẫn thực hiện</h2>
+<h3>SP-001 — Service catalog v0.1</h3>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>Mô tả ngắn</th>
+<th>Deliverable</th>
+<th>Thời gian ước tính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khảo sát</strong></td>
+<td>Đánh giá site, chính sách, chi phí 2 tỉnh</td>
+<td>Báo cáo 15–20 trang + bảng so sánh</td>
+<td>2–3 tuần</td>
+</tr>
+<tr>
+<td><strong>Thiết lập</strong></td>
+<td>Hỗ trợ IRC/ERC, giấy phép, thuê đất/KCN</td>
+<td>Công ty VN hoạt động được</td>
+<td>2–4 tháng</td>
+</tr>
+<tr>
+<td><strong>Vận hành</strong></td>
+<td>Hỗ trợ vận hành 6 tháng đầu (HR, logistics, customs)</td>
+<td>NM chạy ổn định</td>
+<td>6 tháng</td>
+</tr>
+</tbody>
+</table>
+<h3>SP-002 — Tự làm vs Đối tác</h3>
+<p>Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = đối tác luật · Customs = tự làm (có công cụ Oz) · Thuê đất = đối tác KCN.</p>
+<h3>SP-006 — Tách trang dịch vụ pháp lý</h3>
+<p>Tách H2 khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ phạm vi LONGTV tự làm, phần nào cần luật sư/đối tác đủ điều kiện, deliverable theo từng gói, input khách hàng cần cung cấp và liên kết sang thư viện pháp luật FDI.</p>
+<h3>SP-007 — Tách trang dịch vụ chính sách</h3>
+<p>Tách Mảng A khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ A1/A2/A3, deliverable bán hàng, input khách hàng cần cung cấp, ranh giới giữa LONGTV điều phối và phần cần xác nhận từ cơ quan/đối tác chuyên môn.</p>
+<h3>SP-008 — Trang đánh giá tiềm năng &#x26; khả thi</h3>
+<p>Tạo dashboard trình cổ đông tại <code>/docs/06-phases/00-1-feasibility-plan</code>, gồm kết luận nhanh, scorecard, sơ đồ mô hình 2 mảng + hub, ma trận tiềm năng/khả thi, rủi ro/đối sách và liên kết nội bộ sang các trang dịch vụ, thư viện pháp luật, service catalog, quyết định chiến lược. Các trang nguồn liên quan cần có nút quay lại dashboard.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Sản phẩm dịch vụ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Sản phẩm dịch vụ."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v0.2","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v0.2 — 2 mảng + Hub"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"FS Metrics — NPV, IRR, Payback (Detailed Feasibility)"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

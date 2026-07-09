@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T10aa,<h1>CL-GĐ2 — Script gọi Sở KH&#x26;ĐT &#x26; KCN</h1>
+<blockquote>
+<p><strong>Owner:</strong> <strong>Hermes</strong> (field verify) · Leader chỉ tham gia khi Sở yêu cầu gặp TGĐ.</p>
+<p><strong>Chuẩn bị trước khi gọi:</strong> <a href="/docs/03-departments/01-chien-luoc/hermes-field-brief-template">Brief 1 trang</a> (KIM-080) + giới thiệu LONGTV 30 giây</p>
+</blockquote>
+<hr>
+<h2>1. Giới thiệu nhanh (dùng cho mọi cuộc gọi)</h2>
+<blockquote>
+<p>"Xin chào anh/chị, em là [Tên] từ LONGTV — công ty tư vấn đầu tư, chuyên hỗ trợ doanh nghiệp Trung Quốc tìm hiểu đầu tư tại [Thái Nguyên / Hải Phòng]. Em muốn xin tư vấn chính sách và quy trình giới thiệu nhà đầu tư, không phải môi giới đất ạ."</p>
+</blockquote>
+<hr>
+<h2>2. Sở KH&#x26;ĐT Thái Nguyên</h2>
+<p><strong>Đầu mối:</strong> Phòng Đầu tư / Ban Quản lý dự án đầu tư</p>
+<h3>Câu hỏi bắt buộc</h3>
+<ol>
+<li>Số dự án FDI Trung Quốc đăng ký mới <strong>2025 và 6 tháng đầu 2026</strong>?</li>
+<li><strong>Quỹ hỗ trợ</strong> DN FDI năm 2026 — mức, điều kiện, hồ sơ?</li>
+<li><strong>Danh mục ngành</strong> ưu tiên thu hút tại KCN Yên Bình / Sông Công?</li>
+<li>Thời gian trung bình cấp <strong>Giấy chứng nhận đăng ký đầu tư</strong>?</li>
+<li>Đơn vị tư vấn / đối tác Sở đang phối hợp?</li>
+<li>Đầu mối <strong>Ban QLKCN Yên Bình</strong> — tên, SĐT?</li>
+</ol>
+<h3>Ghi chép sau call</h3>
+<table>
+<thead>
+<tr>
+<th>Trường</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Người liên hệ</td>
+<td></td>
+</tr>
+<tr>
+<td>SĐT / email</td>
+<td></td>
+</tr>
+<tr>
+<td>Số liệu FDI</td>
+<td></td>
+</tr>
+<tr>
+<td>Quỹ hỗ trợ</td>
+<td></td>
+</tr>
+<tr>
+<td>Việc follow-up</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>→ Cập nhật <a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">thai-nguyen-fdi-policy</a></p>
+<hr>
+<h2>3. Sở KH&#x26;ĐT Hải Phòng</h2>
+<p><em>Tương tự TN, thêm:</em></p>
+<ol start="7">
+<li>Chính sách riêng cho <strong>logistics / điện tử</strong>?</li>
+<li>KCN <strong>Nam Đình Vũ</strong> — quỹ đất còn cho FDI mới &#x3C;10.000 m²?</li>
+<li>Liên hệ <strong>cảng Lạch Huyện</strong> / ICD nếu khách xuất khẩu?</li>
+</ol>
+<p>→ Cập nhật <a href="/docs/04-research/2026-07/hai-phong-fdi-policy">hai-phong-fdi-policy</a></p>
+<hr>
+<h2>4. Ban QLKCN (Yên Bình / Nam Đình Vũ)</h2>
+<h3>Câu hỏi</h3>
+<ol>
+<li><strong>Bảng giá</strong> thuê đất Q3/2026 (USD/m²/năm)?</li>
+<li>Diện tích <strong>còn trống</strong> theo ngành (điện tử / cơ khí)?</li>
+<li>Quy trình <strong>onboarding</strong> nhà đầu tư TQ — timeline?</li>
+<li>Có <strong>nhà xưởng sẵn</strong> cho thuê không?</li>
+<li>Cơ chế <strong>giới thiệu</strong> đối tác tư vấn — có MOU không?</li>
+</ol>
+<h3>Sau call</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật <a href="/docs/04-research/2026-07/kcn-desk-research">kcn-desk-research</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Gửi MOU draft <a href="/docs/03-departments/02-phap-ly/templates/mou-kcn">mou-kcn</a> nếu họ quan tâm</li>
+<li class="task-list-item"><input type="checkbox" disabled> Sắp lịch tham quan (cho gói B1)</li>
+</ul>
+<hr>
+<h2>5. Checklist trước field visit</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Gọi Sở trước ít nhất 5 ngày làm việc</li>
+<li class="task-list-item"><input type="checkbox" disabled> Gửi profile dự án khách (không confidential) trước meeting</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mang danh thiếp + deck 5 slide tiếng Việt</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ghi âm / biên bản (xin phép)</li>
+</ul>
+<p><strong>Trạng thái:</strong> Script sẵn sàng — <strong>Hermes</strong> thực hiện call (KIM-010–013). Xem <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a>.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"field-call-scripts"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"field-call-scripts"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/DEPLOY","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"DEPLOY"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/gtm-channels","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"gtm-channels"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

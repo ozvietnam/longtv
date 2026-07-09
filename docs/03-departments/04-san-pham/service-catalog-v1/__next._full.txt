@@ -1,0 +1,831 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3nx12gne_ziuj.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","04-san-pham","service-catalog-v1",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/04-san-pham/service-catalog-v1","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QswpECjHA_uBUdh3_m9Nn"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T3fe5,<h1>Service catalog v1 — Vòng đời đầy đủ</h1>
+<blockquote>
+<p>Thay thế dần <a href="service-catalog-v0.2">catalog v0.2</a> làm <strong>nguồn bán hàng chính</strong>.<br>
+Map: <a href="fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></p>
+</blockquote>
+<p><strong>Ký hiệu:</strong> ✅ Tự làm · 🤝 Đối tác · PM = điều phối</p>
+<hr>
+<h2>Bảng tra nhanh theo giai đoạn</h2>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn</th>
+<th>Gói bán chính</th>
+<th>Giá USD (band)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G0–G1</td>
+<td>A0, A1</td>
+<td>0 – 4.000</td>
+</tr>
+<tr>
+<td>G2</td>
+<td>A1, A2, B1</td>
+<td>2.500 – 12.000</td>
+</tr>
+<tr>
+<td>G3</td>
+<td>B2, A2</td>
+<td>6.000 – 10.000</td>
+</tr>
+<tr>
+<td>G4</td>
+<td>A3-PM, B1, B2, H3</td>
+<td>15.000 – 80.000+</td>
+</tr>
+<tr>
+<td>G5</td>
+<td>B1, B2, B3, H3, C1</td>
+<td>1.500/tháng – retainer</td>
+</tr>
+<tr>
+<td>G6</td>
+<td>A1, B2</td>
+<td>Theo scope</td>
+</tr>
+<tr>
+<td>G7</td>
+<td>G7-Pack</td>
+<td>12.000 – 25.000</td>
+</tr>
+<tr>
+<td>G8</td>
+<td>G8-Pack</td>
+<td>15.000 – 40.000+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Nhóm dịch vụ Logistics &#x26; hải quan</h2>
+<blockquote>
+<p>Đây là <strong>một nhóm dịch vụ riêng</strong>, không chỉ là vài đầu việc phụ trong setup nhà máy.
+LONGTV định vị logistics theo chuỗi: <strong>khai báo hải quan → nhập thiết bị → vận chuyển/forwarder → retainer XNK</strong>.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Nhóm việc</th>
+<th>Khách cần gì</th>
+<th>Deliverable chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>B1</td>
+<td>Hải quan starter</td>
+<td>Mới vào VN, chưa có SOP XNK</td>
+<td>SOP XNK, training, checklist hồ sơ</td>
+</tr>
+<tr>
+<td>B1-ext</td>
+<td>Nhập thiết bị / dây chuyền</td>
+<td>Máy móc từ TQ vào VN</td>
+<td>HS code, tờ khai nhập, tạm nhập–tái xuất</td>
+</tr>
+<tr>
+<td>B2</td>
+<td>Logistics pack</td>
+<td>Cần tuyến TQ → Hải Phòng → KCN / nhà máy</td>
+<td>Báo giá 2–3 tuyến, SOP giao nhận, kết nối forwarder</td>
+</tr>
+<tr>
+<td>B3</td>
+<td>Retainer chuỗi nhập–SX–xuất</td>
+<td>Nhà máy đã vận hành, có nhiều tờ khai</td>
+<td>PM XNK, đối soát BOM–hải quan, báo cáo tháng</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Phạm vi cụ thể:</strong></p>
+<ul>
+<li><strong>Khai báo hải quan:</strong> HS code, hồ sơ, tờ khai nhập/xuất, EPE flow cơ bản</li>
+<li><strong>Vận chuyển / logistics:</strong> forwarder quốc tế, trucking nội địa, cảng Hải Phòng / ICD / KCN</li>
+<li><strong>Điều phối vận hành:</strong> SOP giao nhận, phối hợp kho, cảnh báo rủi ro chứng từ</li>
+<li><strong>Không làm sâu tài sản-heavy Y1:</strong> chưa mở kho/ICD riêng; LONGTV đóng vai trò <strong>PM + tư vấn + điều phối đối tác</strong></li>
+</ul>
+<hr>
+<h2>G0–G1 — Tiếp cận</h2>
+<h3>A0 — Tư vấn sơ bộ (miễn phí)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>Lead mới, chưa chắc vào VN</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Call 30 phút + checklist PDF 10 mục</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>Miễn phí</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ Sales</td>
+</tr>
+</tbody>
+</table>
+<h3>A1 — Báo cáo desk research</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>G1–G2; chưa sang VN hoặc chưa chọn tỉnh</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>PDF 15–20 trang + slide 10 + pitch 60 phút</td>
+</tr>
+<tr>
+<td><strong>Phạm vi</strong></td>
+<td>TN <strong>hoặc</strong> HP <strong>hoặc</strong> so sánh 2 tỉnh</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>2.500 – 4.000 USD</td>
+</tr>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>2–3 tuần</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ CL + PL + VT</td>
+</tr>
+<tr>
+<td><strong>Spec</strong></td>
+<td><a href="package-a1-deliverable">package-a1-deliverable</a></td>
+</tr>
+</tbody>
+</table>
+<h3>H1 — Brief chính sách &#x26; bản tin</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Bản tin tháng, cập nhật NĐ tỉnh</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>Trong retainer hoặc miễn phí lead magnet</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G2 — Khảo sát &#x26; chính quyền</h2>
+<h3>A2 — Làm việc Sở / xin ưu đãi</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>Đã chọn tỉnh, cần ưu đãi &#x26; lịch IRC</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Biên bản họp Sở/KCN + checklist hồ sơ + timeline</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>4.000 – 6.000 USD</td>
+</tr>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>1–3 tháng</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ 80% + 🤝 luật</td>
+</tr>
+</tbody>
+</table>
+<h3>B1 — On-site 2 ngày + hải quan starter</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>G2; cần thấy lô đất &#x26; gặp Sở</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Trip + báo cáo bổ sung 5–8 trang + checklist XNK</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>8.000 – 12.000 USD + chi phí đi lại</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ Sales + CL</td>
+</tr>
+<tr>
+<td><strong>SOP</strong></td>
+<td><a href="/docs/07-operations/sop-b1-on-site">/docs/07-operations/sop-b1-on-site</a></td>
+</tr>
+</tbody>
+</table>
+<h3>DD-01 — Due diligence đối tác / đất (đối tác)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Báo cáo pháp lý quyền sử dụng đất, HĐ thuê</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>3.000 – 8.000 USD</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝 Luật — PM giới thiệu</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G3–G4 — Thành lập &#x26; setup</h2>
+<h3>B2 — Thành lập pháp nhân &#x26; IRC</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>G3; cam kết đầu tư</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>CTCP/DN FDI hoạt động: IRC, ERC, MST, con dấu</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>6.000 – 10.000 USD (chưa phí NN)</td>
+</tr>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>6–12 tuần</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝 Luật 70% · PM 30%</td>
+</tr>
+</tbody>
+</table>
+<h3>A3-PM — PM thiết lập nhà máy</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>G4; khách cần một đầu mối</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Timeline master, họp hàng tuần, checklist 50 mục G4</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>15.000 – 30.000 USD (6 tháng) hoặc % project</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ PM — <strong>không</strong> cam kết ngày SX nếu thuộc xây dựng</td>
+</tr>
+<tr>
+<td><strong>Phạm vi</strong></td>
+<td>Điều phối luật, KCN, ENV, HR, B1</td>
+</tr>
+</tbody>
+</table>
+<h3>ENV-01 — Môi trường &#x26; PCCC (đối tác)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>ĐTM, GP môi trường, PCCC (nếu cần)</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>5.000 – 20.000 USD tùy ngành</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝</td>
+</tr>
+</tbody>
+</table>
+<h3>HR-01 — Tuyển dụng khởi điểm (đối tác)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Tuyển 20–100 CN đầu, HĐLĐ mẫu</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>Theo head hoặc project</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝</td>
+</tr>
+</tbody>
+</table>
+<h3>B1-ext — Nhập thiết bị / dây chuyền TQ</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Phân loại HS, tờ khai nhập, tạm nhập–tái xuất (nếu EPE)</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>2.000 – 5.000 USD / lô + phí hải quan</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ B1 + Oz tools</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G5 — Vận hành sản xuất</h2>
+<h3>B1 — Hải quan starter (đã vào VN)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>SOP XNK, training 2 buổi, mã HS 20 SKU đầu</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>3.000 – 6.000 USD setup</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<h3>B2 — Logistics pack</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Báo giá 2–3 tuyến TQ→HP→KCN; SOP giao nhận</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>1.500 – 3.000 USD + shipment</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>Điều phối 🤝 forwarder</td>
+</tr>
+</tbody>
+</table>
+<h3>B3 — Retainer chuỗi nhập–SX–xuất</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khi nào</strong></td>
+<td>NM đang chạy, ≥10 tờ khai/tháng</td>
+</tr>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>PM XNK, đối soát BOM–hải quan, báo cáo tháng</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>2.000 – 5.000 USD/tháng</td>
+</tr>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>6–12 tháng</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ 60% + forwarder</td>
+</tr>
+</tbody>
+</table>
+<h3>H3 — Kế toán &#x26; thuế NM</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Sổ sách, BCTC, quyết toán CIT, VAT</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>800 – 2.500 USD/tháng tùy quy mô</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝 CPA — PM LONGTV</td>
+</tr>
+</tbody>
+</table>
+<h3>HR-02 — Payroll &#x26; BHXH (đối tác)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Tính lương, BHXH, báo cáo lao động</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>500 – 1.500 USD/tháng</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝</td>
+</tr>
+</tbody>
+</table>
+<h3>C1 — Cố vấn tháng</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>4h tư vấn: chính sách, Sở, chiến lược tỉnh</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>1.500 USD/tháng</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ TGĐ/CL</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G6 — Mở rộng</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Dịch vụ</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1</td>
+<td>Khảo sát mở rộng / tỉnh thứ 2</td>
+<td>Như A1</td>
+</tr>
+<tr>
+<td>B2-adj</td>
+<td>Điều chỉnh vốn, bổ sung ngành</td>
+<td>Qua luật</td>
+</tr>
+<tr>
+<td>A3-PM</td>
+<td>PM thêm nhà xưởng</td>
+<td>Scope mới</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G7 — Di dời tỉnh (trong VN)</h2>
+<h3>G7-01 — Đánh giá rủi ro chuyển tỉnh</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Memo: phạt đất, mất ưu đãi, chi phí chuyển, timeline</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>3.000 – 5.000 USD</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ PL + CL</td>
+</tr>
+</tbody>
+</table>
+<h3>G7-02 — PM di dời</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Điều phối IRC mới, chấm dứt lô cũ, hải quan nội địa</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>8.000 – 15.000 USD</td>
+</tr>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>6–18 tháng</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ PM</td>
+</tr>
+</tbody>
+</table>
+<h3>G7-Pack (bundle)</h3>
+<p><strong>G7-01 + A1 (tỉnh mới) + G7-02 + B2 điều chỉnh</strong> → <strong>12.000 – 25.000 USD</strong></p>
+<p><strong>Ví dụ:</strong> NM TQ ở TN 5 năm, khách chuyển sang HP để gần cảng xuất khẩu.</p>
+<hr>
+<h2>G8 — Thoái vốn / về Trung Quốc</h2>
+<h3>G8-01 — Kế hoạch thoái vốn</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Lộ trình 12–36 tháng: thuế, LĐ, đất, máy, giải thể</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>5.000 – 8.000 USD</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ PL + H3 🤝</td>
+</tr>
+</tbody>
+</table>
+<h3>G8-02 — Giải thể / hủy IRC</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Quyết toán thuế, công bố giải thể, đóng MST</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>4.000 – 8.000 USD</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>🤝 Luật</td>
+</tr>
+</tbody>
+</table>
+<h3>B1-exit — Xuất khẩu máy móc về TQ</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deliverable</strong></td>
+<td>Tờ khai xuất, tái xuất tạm nhập, logistics</td>
+</tr>
+<tr>
+<td><strong>Giá</strong></td>
+<td>Theo lô</td>
+</tr>
+<tr>
+<td><strong>LONGTV</strong></td>
+<td>✅ B1</td>
+</tr>
+</tbody>
+</table>
+<h3>G8-Pack (bundle)</h3>
+<p><strong>G8-01 + H3 quyết toán + G8-02 + B1-exit</strong> → <strong>15.000 – 40.000+ USD</strong></p>
+<p><strong>Lưu ý pháp lý:</strong> Thời gian giải thể phụ thuộc nợ thuế, tranh chấp KCN, BHXH — không cam kết ngày xong trong HĐ.</p>
+<hr>
+<h2>Hub — Dịch vụ xuyên suốt</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Tên</th>
+<th>Giai đoạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>H1</td>
+<td>Kho tri thức, bản tin</td>
+<td>G0–G8</td>
+</tr>
+<tr>
+<td>H2</td>
+<td>Tư vấn pháp lý, review HĐ</td>
+<td>G2–G8</td>
+</tr>
+<tr>
+<td>H3</td>
+<td>Kế toán, kiểm toán</td>
+<td>G4–G8</td>
+</tr>
+<tr>
+<td>H4</td>
+<td>Kết nối KCN, Sở, MOU</td>
+<td>G2–G7</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Lộ trình bán điển hình (NM TQ mới)</h2>
+<pre><code>A0 → A1 → B1 → B2 → B1-ext → B3 + H3 (retainer)
+                    ↓
+              (3–5 năm sau)
+                    ↓
+         G6 mở rộng HOẶC G7 chuyển tỉnh HOẶC G8 thoái
+</code></pre>
+<p><strong>Doanh thu lifetime 1 khách (ước tính desk):</strong> 40.000 – 150.000 USD nếu giữ retainer G5.</p>
+<hr>
+<h2>So với v0.2</h2>
+<table>
+<thead>
+<tr>
+<th>v0.2</th>
+<th>v1.0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6 giai đoạn</td>
+<td><strong>9 giai đoạn</strong> (thêm G0, G7, G8)</td>
+</tr>
+<tr>
+<td>A1–A3, B1–B3</td>
+<td>+ <strong>G7-Pack, G8-Pack</strong>, mã ENV/HR/DD</td>
+</tr>
+<tr>
+<td>Giá VND draft</td>
+<td>Giá <strong>USD</strong> band + bundle</td>
+</tr>
+<tr>
+<td>Không có exit</td>
+<td><strong>Có dịch vụ thoái / di dời</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> Trang web <code>/services</code> — <a href="services-page-source">services-page-source</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Leader duyệt catalog v1 làm chuẩn bán hàng</li>
+<li class="task-list-item"><input type="checkbox" disabled> PL: memo pháp lý G7/G8 (thủ tục chi tiết)</li>
+<li class="task-list-item"><input type="checkbox" disabled> KD: one-pager G7/G8 tiếng Trung (niche ít đối thủ)</li>
+<li class="task-list-item"><input type="checkbox" disabled> SP-005: Oz tools vào B1/B3</li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"service-catalog-v1"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Định hình cụ thể từng dịch vụ G0–G8: deliverable, giá, ai làm, điều kiện."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Sản phẩm dịch vụ"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/all-in-one-service-portfolio","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio)"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN · LongTV"}],["$","meta","1",{"name":"description","content":"Định hình cụ thể từng dịch vụ G0–G8: deliverable, giá, ai làm, điều kiện."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

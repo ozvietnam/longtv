@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+4:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T6f8,<h1>HD-04 — MOU hợp tác KCN (giới thiệu nhà đầu tư)</h1>
+<blockquote>
+<p><strong>Đối tác mục tiêu:</strong> KCN Yên Bình (TN) hoặc Nam Đình Vũ (HP)</p>
+</blockquote>
+<hr>
+<h1>BIÊN BẢN GHI NHỚ</h1>
+<p><strong>Giữa LONGTV và Ban Quản lý KCN _________________</strong></p>
+<h2>1. Mục đích</h2>
+<p>LONGTV giới thiệu nhà đầu tư nước ngoài (ưu tiên Trung Quốc) có nhu cầu thuê đất/sản xất; KCN hỗ trợ tiếp nhận, cung cấp thông tin quỹ đất.</p>
+<h2>2. Cam kết LONGTV</h2>
+<ul>
+<li>Giới thiệu khách đã qua bước qualified (có ngân sách, ngành phù hợp)</li>
+<li>Không thu phí "chạy đất" từ khách — chỉ phí tư vấn minh bạch</li>
+<li>Cung cấp profile dự án trước khi sắp meeting</li>
+</ul>
+<h2>3. Cam kết KCN</h2>
+<ul>
+<li>Chỉ định đầu mối liên hệ (tên, SĐT, email)</li>
+<li>Cung cất bảng giá quỹ đất cập nhật mỗi quý</li>
+<li>Hỗ trợ sắp lịch tham quan trong 10 ngày làm việc</li>
+</ul>
+<h2>4. Fee / referral (thỏa thuận)</h2>
+<table>
+<thead>
+<tr>
+<th>Mô hình</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong> — Không fee từ KCN</td>
+<td>LONGTV chỉ thu phí tư vấn khách</td>
+</tr>
+<tr>
+<td><strong>B</strong> — Referral cố định</td>
+<td>KCN trả ___ triệu VND / khách ký HĐ thuê đất <em>(điền khi đàm phán)</em></td>
+</tr>
+</tbody>
+</table>
+<h2>5. Thời hạn</h2>
+<p>12 tháng · Đánh giá lại sau 6 tháng.</p>
+<hr>
+<p><strong>LONGTV</strong>        <strong>BAN QLKCN</strong></p>
+<p><em>Draft — đàm phán thực tế khi call KCN: xem <a href="/docs/03-departments/01-chien-luoc/field-call-scripts">field-call-scripts</a></em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"templates"}]]}],["$","span","3",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"mou-kcn"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"mou-kcn"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/mou-doi-tac-luat","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"mou-doi-tac-luat"}]]}],["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/nda-bao-mat","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"nda-bao-mat"}]]}]]}]]}],null,["$","$L4",null,{"children":"$L5"}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+5:["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]
+7:null

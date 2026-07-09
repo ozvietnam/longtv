@@ -1,0 +1,218 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T16e5,<h1>TODO — Vận hành &#x26; Tài chính</h1>
+<h2>Tháng 2026-07 | Phòng: Vận hành &#x26; Tài chính</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Task</th>
+<th>V-layer</th>
+<th>Assignee</th>
+<th>Status</th>
+<th>Deadline</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>VT-001</td>
+<td>Ước tính vốn khởi điểm cần thiết cho 6 tháng đầu (thành lập, văn phòng, marketing, dự phòng)</td>
+<td>V6.1</td>
+<td>@hermes</td>
+<td>done</td>
+<td>2026-07-16</td>
+<td>/docs/04-research/2026-07/startup-budget</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-002</td>
+<td>Tính burn rate hàng tháng (chi phí cố định + biến đổi)</td>
+<td>V6.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-18</td>
+<td>/docs/04-research/2026-07/startup-budget</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-003</td>
+<td>So sánh và chọn mô hình văn phòng: virtual / co-working / thuê riêng</td>
+<td>V5.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-21</td>
+<td>/docs/04-research/2026-07/plan-b-no-revenue</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>VT-004</td>
+<td>Draft cấu trúc team sơ bộ: vai trò cần tuyển tháng 1–6, full-time vs part-time</td>
+<td>V5.1</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-25</td>
+<td>/docs/03-departments/00-org-model</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>VT-005</td>
+<td>Viết kịch bản xấu: burn 6 tháng không có doanh thu — cần bao nhiêu tiền dự phòng?</td>
+<td>V6.5</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/plan-b-no-revenue</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>VT-006</td>
+<td>Đề xuất KPI tháng cho 5 phòng ban (1–2 KPI/phòng)</td>
+<td>V5.5</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/03-departments/05-van-hanh-tc/kpi-thang</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-G2-01</td>
+<td>Burn tracker template</td>
+<td>V6.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/03-departments/05-van-hanh-tc/burn-tracker</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-G2-02</td>
+<td>Báo cáo burn tuần (thực tế)</td>
+<td>V6.2</td>
+<td>VT</td>
+<td>doing</td>
+<td>2026-08-31</td>
+<td></td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-007</td>
+<td>Mô hình tài chính 3 năm (6T/1N/2N — Bear/Base/Bull)</td>
+<td>V6.4</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/03-departments/05-van-hanh-tc/financial-model-3yr</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>VT-008</td>
+<td>Use of funds 2 tỷ + break-even</td>
+<td>V6.1/V6.3</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/03-departments/05-van-hanh-tc/use-of-funds-2b</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>VT-009</td>
+<td>Leader chọn kịch bản năm 1 (Bear/Base/Bull)</td>
+<td>V6.4</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-12</td>
+<td>KIM-075</td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1 — Checklist đánh giá tiềm năng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> VT-001: Ước tính vốn 6 tháng đầu</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> VT-002: Burn rate hàng tháng (~90–125M/tháng lean)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> VT-003: Chọn mô hình văn phòng — <strong>virtual office</strong> giai đoạn đầu</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> VT-004: Cấu trúc team sơ bộ tháng 1–6</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> VT-005: Kịch bản xấu — Plan B 3 tháng không doanh thu</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Hoàn thiện <strong>Scorecard 10 tiêu chí</strong> — <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Điền điểm #8, #10</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Tổng hợp đề xuất <strong>Go + Adjust</strong> → <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <strong>Investor Pack</strong> — financial model, use of funds, break-even → <a href="/docs/06-phases/investor-pack/00-index">investor-pack</a></li>
+</ul>
+<h2>Giai đoạn 2 — KPI &#x26; tài chính</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> KPI tháng 5 phòng</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Burn tracker template</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ghi số burn thực tế hàng tuần</li>
+<li class="task-list-item"><input type="checkbox" disabled> Review runway cuối tháng 8</li>
+</ul>
+<h2>Hướng dẫn thực hiện</h2>
+<h3>VT-001 — Vốn khởi điểm</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Ước tính (VND)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thành lập công ty + giấy phép</td>
+<td>15–30 triệu</td>
+</tr>
+<tr>
+<td>Văn phòng (6 tháng)</td>
+<td>30–90 triệu</td>
+</tr>
+<tr>
+<td>Marketing / GTM</td>
+<td>20–50 triệu</td>
+</tr>
+<tr>
+<td>Công cụ (web, CRM, phần mềm)</td>
+<td>10–20 triệu</td>
+</tr>
+<tr>
+<td>Dự phòng 3 tháng burn</td>
+<td>Tính từ VT-002</td>
+</tr>
+<tr>
+<td><strong>Tổng</strong></td>
+<td><em>Điền sau khi hoàn thành</em></td>
+</tr>
+</tbody>
+</table>
+<h3>VT-003 — Mô hình văn phòng</h3>
+<table>
+<thead>
+<tr>
+<th>Phương án</th>
+<th>Chi phí/tháng</th>
+<th>Phù hợp khi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Virtual office</td>
+<td>1–3 triệu</td>
+<td>Giai đoạn 0–3 tháng, ít gặp khách</td>
+</tr>
+<tr>
+<td>Co-working</td>
+<td>3–8 triệu</td>
+<td>Cần không gian họp, 1–3 người</td>
+</tr>
+<tr>
+<td>Thuê riêng</td>
+<td>15–40 triệu</td>
+<td>Team >3, cần branding</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Vận hành & Tài chính"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Vận hành & Tài chính."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"All-in-One — Cơ cấu nhân sự chi tiết (theo giai đoạn)"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"All-in-One — Hạ tầng & Công nghệ (Tech-stack)"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

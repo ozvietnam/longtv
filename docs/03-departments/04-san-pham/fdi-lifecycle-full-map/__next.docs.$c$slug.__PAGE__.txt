@@ -1,0 +1,570 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T3494,<h1>Vòng đời nhà máy FDI Trung Quốc tại Việt Nam</h1>
+<blockquote>
+<p><strong>Thay thế / mở rộng</strong> <a href="fdi-journey-service-map">bản đồ 6 giai đoạn</a> — dùng làm <strong>khung sản phẩm chính</strong> từ Giai đoạn 00-1 đào sâu.</p>
+</blockquote>
+<pre><code>G0          G1–G2         G3–G4              G5              G6         G7          G8
+Quyết định → Tiếp cận → Thành lập &#x26; setup → Vận hành SX → Mở rộng → Di dời tỉnh → Thoái / về TQ
+  (TQ)       (VN)         (VN)               (VN)           (VN)        (VN)         (VN↔TQ)
+</code></pre>
+<hr>
+<h2>Tổng quan 9 giai đoạn</h2>
+<table>
+<thead>
+<tr>
+<th>G</th>
+<th>Tên</th>
+<th>Thời gian typic</th>
+<th>Khách đang nghĩ</th>
+<th>Rủi ro nếu bỏ qua</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>G0</strong></td>
+<td>Quyết định rời TQ / China+1</td>
+<td>1–6 tháng (TQ)</td>
+<td>"Có nên đi? Đi đâu?"</td>
+<td>Chọn sai quốc gia/tỉnh</td>
+</tr>
+<tr>
+<td><strong>G1</strong></td>
+<td>Tiếp cận &#x26; due diligence VN</td>
+<td>2–8 tuần</td>
+<td>"VN có phù hợp ngành tôi?"</td>
+<td>Tin môi giới đất</td>
+</tr>
+<tr>
+<td><strong>G2</strong></td>
+<td>Khảo sát &#x26; chọn tỉnh/KCN/lô</td>
+<td>1–3 tháng</td>
+<td>"TN hay HP? Giá bao nhiêu?"</td>
+<td>Ký thuê đất sớm</td>
+</tr>
+<tr>
+<td><strong>G3</strong></td>
+<td>Cam kết đầu tư &#x26; thành lập pháp nhân</td>
+<td>2–4 tháng</td>
+<td>"IRC, công ty, con dấu?"</td>
+<td>Sai cơ cấu pháp nhân</td>
+</tr>
+<tr>
+<td><strong>G4</strong></td>
+<td>Setup nhà máy (đất, xây, máy, người)</td>
+<td>6–18 tháng</td>
+<td>"Xây xong khi nào chạy được?"</td>
+<td>Chậm GP môi trường</td>
+</tr>
+<tr>
+<td><strong>G5</strong></td>
+<td><strong>Vận hành sản xuất</strong></td>
+<td>3–15+ năm</td>
+<td>"Nhập NVL, SX, xuất, thuế?"</td>
+<td>Phạt hải quan/thuế</td>
+</tr>
+<tr>
+<td><strong>G6</strong></td>
+<td>Mở rộng (line, vốn, tỉnh thứ 2)</td>
+<td>Ongoing</td>
+<td>"Thêm line / thêm nhà xưởng?"</td>
+<td>Overcapacity</td>
+</tr>
+<tr>
+<td><strong>G7</strong></td>
+<td><strong>Di dời trong VN</strong> (sang tỉnh khác)</td>
+<td>6–24 tháng</td>
+<td>"Chuyển sang Bắc Ninh/HP được không?"</td>
+<td>Mất ưu đãi, phạt đất</td>
+</tr>
+<tr>
+<td><strong>G8</strong></td>
+<td><strong>Thoái vốn / giải thể / về TQ</strong></td>
+<td>6–36 tháng</td>
+<td>"Đóng NM, máy về TQ?"</td>
+<td>Nợ thuế, tranh chấp LAĐ</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G0 — Quyết định rời Trung Quốc (trước khi sang VN)</h2>
+<p><strong>Bối cảnh:</strong> Chi phí lao động, thuế, đơn hàng Mỹ/EU, chính sách TQ, geopolitics.</p>
+<table>
+<thead>
+<tr>
+<th>Hạng mục công việc</th>
+<th>Ai làm (thường)</th>
+<th>LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>So sánh VN vs Thái Lan / Indonesia / Mexico</td>
+<td>Tư vấn quốc tế</td>
+<td>⬜ Chưa — chỉ VN</td>
+</tr>
+<tr>
+<td>Đánh giá ngành bị hạn chế / chính sách TQ xuất</td>
+<td>Nội bộ TQ</td>
+<td>H1 brief</td>
+</tr>
+<tr>
+<td>Sơ bộ thuế &#x26; transfer pricing</td>
+<td>CPA</td>
+<td>H2/H3 🤝</td>
+</tr>
+<tr>
+<td>Lập kế hoạch di dời (timeline, ngân sách)</td>
+<td>Chủ NM</td>
+<td><strong>A0</strong> miễn phí</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dịch vụ LONGTV:</strong> A0, H1 (brief chính sách VN), không làm tư vấn rời TQ nội địa.</p>
+<hr>
+<h2>G1 — Tiếp cận &#x26; due diligence Việt Nam</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Chi tiết</th>
+<th>Mã dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desk research thị trường VN</td>
+<td>FDI, ngành, đối thủ</td>
+<td><strong>A1</strong></td>
+</tr>
+<tr>
+<td>So sánh vùng miền Bắc</td>
+<td>TN vs HP vs (BN/HY tham chiếu)</td>
+<td><strong>A1/A2</strong></td>
+</tr>
+<tr>
+<td>Persona / ICP fit</td>
+<td>Tier 2–3 TQ</td>
+<td>KD</td>
+</tr>
+<tr>
+<td>NDA, bảo mật</td>
+<td>Trước chia sẻ BOM/giá</td>
+<td><strong>NDA</strong></td>
+</tr>
+<tr>
+<td>Hội thảo / WeChat content</td>
+<td>Nhận diện thương hiệu</td>
+<td>H1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G2 — Khảo sát &#x26; chọn địa điểm</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Chi tiết</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Báo cáo KCN, giá đất, ưu đãi</td>
+<td>Desk + call</td>
+<td><strong>A1</strong></td>
+</tr>
+<tr>
+<td>On-site tham quan lô</td>
+<td>2 ngày</td>
+<td><strong>B1</strong></td>
+</tr>
+<tr>
+<td>Làm việc Sở KH&#x26;ĐT, Ban QLKCN</td>
+<td>Đặt lịch, biên bản</td>
+<td><strong>A2</strong> / B1</td>
+</tr>
+<tr>
+<td>Due diligence đối tác địa phương</td>
+<td>Luật</td>
+<td>🤝 <strong>DD-01</strong></td>
+</tr>
+<tr>
+<td>So sánh thuê vs mua / built-to-suit</td>
+<td>PM</td>
+<td>A1 phần</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Output:</strong> Quyết định tỉnh + KCN + phương án pháp nhân sơ bộ.</p>
+<hr>
+<h2>G3 — Cam kết đầu tư &#x26; thành lập pháp nhân</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Thủ tục / việc</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đăng ký ý định / dự án đầu tư</td>
+<td>IRC</td>
+<td><strong>B2</strong> 🤝</td>
+</tr>
+<tr>
+<td>Thành lập CTCP/DN 100% vốn ngoại</td>
+<td>ERC, MST</td>
+<td><strong>B2</strong></td>
+</tr>
+<tr>
+<td>Điều lệ, cổ đông, con dấu</td>
+<td>Luật</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Tài khoản vốn đầu tư (DICA)</td>
+<td>Ngân hàng</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Xin ưu đãi thuế / đất</td>
+<td>Hồ sơ Sở</td>
+<td><strong>A2</strong></td>
+</tr>
+<tr>
+<td>Power of attorney người TQ</td>
+<td>Dịch thuật</td>
+<td>Add-on</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thời gian:</strong> 2–4 tháng (hồ sơ TQ hợp pháp hóa đầy đủ).</p>
+<hr>
+<h2>G4 — Setup nhà máy</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Chi tiết</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HĐ thuê đất / nhà xưởng KCN</td>
+<td>Thương thượng</td>
+<td><strong>A3</strong> 🤝</td>
+</tr>
+<tr>
+<td>Đánh giá môi trường (ĐTM), PCCC</td>
+<td>Tư vấn môi trường</td>
+<td>🤝 <strong>ENV-01</strong></td>
+</tr>
+<tr>
+<td>GP xây dựng, nghiệm thu</td>
+<td>Chủ đầu tư KCN + NM</td>
+<td>🤝</td>
+</tr>
+<tr>
+<td>Nhập thiết bị / dây chuyền từ TQ</td>
+<td>Hải quan tạm nhập</td>
+<td><strong>B1</strong></td>
+</tr>
+<tr>
+<td>Tuyển dụng lao động VN</td>
+<td>HR agency</td>
+<td>🤝 <strong>HR-01</strong></td>
+</tr>
+<tr>
+<td>GPLĐ người TQ (quản lý/kỹ thuật)</td>
+<td>Nội bộ + lao động</td>
+<td><strong>B2</strong> add-on</td>
+</tr>
+<tr>
+<td>Mở tài khoản hải quan, mã HS</td>
+<td>XNK</td>
+<td><strong>B1</strong></td>
+</tr>
+<tr>
+<td>Hệ thống kế toán, hóa đơn điện tử</td>
+<td>CPA</td>
+<td><strong>H3</strong> 🤝</td>
+</tr>
+<tr>
+<td>Chạy thử (trial production)</td>
+<td>Nội bộ NM</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>LONGTV vai trò:</strong> PM tổng (<strong>A3-PM</strong>) hoặc từng gói B1/B2/H3 — không EPC xây dựng.</p>
+<hr>
+<h2>G5 — Vận hành sản xuất (trọng tâm dài hạn)</h2>
+<p>Xem chi tiết: <a href="factory-operations-playbook-vn">factory-operations-playbook-vn</a></p>
+<h3>G5 chia 5 lớp vận hành</h3>
+<table>
+<thead>
+<tr>
+<th>Lớp</th>
+<th>Nội dung</th>
+<th>Chu kỳ</th>
+<th>Mã dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5a — Hải quan &#x26; XNK</strong></td>
+<td>NVL nhập, TP xuất, nội địa hóa, EPE</td>
+<td>Mỗi lô hàng</td>
+<td><strong>B1, B3</strong></td>
+</tr>
+<tr>
+<td><strong>5b — Logistics</strong></td>
+<td>TQ→cảng→KCN, kho, vận chuyển</td>
+<td>Weekly</td>
+<td><strong>B2, B3</strong></td>
+</tr>
+<tr>
+<td><strong>5c — Sản xuất &#x26; QC</strong></td>
+<td>SOP SX, ISO (nếu có)</td>
+<td>Daily</td>
+<td>⬜ / đối tác</td>
+</tr>
+<tr>
+<td><strong>5d — Tài chính &#x26; thuế</strong></td>
+<td>CIT, VAT, transfer pricing, kiểm toán</td>
+<td>Tháng/quý/năm</td>
+<td><strong>H3</strong></td>
+</tr>
+<tr>
+<td><strong>5e — Lao động &#x26; BHXH</strong></td>
+<td>HĐLĐ, lương, BHXH, ATVS</td>
+<td>Tháng</td>
+<td>🤝 <strong>HR-02</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Retainer điển hình:</strong> <strong>B3</strong> (XNK) + <strong>H3</strong> (kế toán) + <strong>C1</strong> (cố vấn tháng).</p>
+<hr>
+<h2>G6 — Mở rộng</h2>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Việc cần làm</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tăng vốn / thêm ngành</td>
+<td>Điều chỉnh IRC</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Thêm nhà xưởng cùng tỉnh</td>
+<td>Thuê thêm lô</td>
+<td>A3 / B1</td>
+</tr>
+<tr>
+<td>Mở văn phòng / chi nhánh</td>
+<td>ĐKKD chi nhánh</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Mở tỉnh thứ 2 (xem G7)</td>
+<td>Khảo sát mới</td>
+<td>A1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>G7 — Di dời sang tỉnh khác (trong Việt Nam)</h2>
+<p><strong>Động lý:</strong> Chi phí đất tăng, mất ưu đãi, khách chuyển chain, đi theo anchor NM.</p>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Thủ tục / rủi ro</th>
+<th>Mã LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rà soát HĐ thuê đất hiện tại</td>
+<td>Phạt, hoàn trả ưu đãi</td>
+<td><strong>G7-01</strong> Due diligence</td>
+</tr>
+<tr>
+<td>Khảo sát tỉnh đích</td>
+<td>TN↔HP, HP↔BN…</td>
+<td><strong>A1</strong></td>
+</tr>
+<tr>
+<td>Đăng ký dự án mới tại tỉnh mới</td>
+<td>IRC mới / điều chỉnh</td>
+<td><strong>B2</strong> 🤝</td>
+</tr>
+<tr>
+<td>Chấm dứt / chuyển nhượng lô cũ</td>
+<td>KCN + Sở</td>
+<td>🤝</td>
+</tr>
+<tr>
+<td>Di dời máy móc (nội địa)</td>
+<td>Hải quan nội địa (nếu EPE)</td>
+<td><strong>B1</strong></td>
+</tr>
+<tr>
+<td>Tái tuyển / chuyển lao động</td>
+<td>HR</td>
+<td>🤝</td>
+</tr>
+<tr>
+<td>Cập nhật MST, địa chỉ, hải quan</td>
+<td>Hành chính</td>
+<td><strong>G7-02</strong> PM</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Gói đề xuất:</strong> <strong>G7-Pack</strong> = A1 (tỉnh mới) + G7-01 + G7-02 + B2 (điều chỉnh IRC).</p>
+<hr>
+<h2>G8 — Thoái vốn / giải thể / về Trung Quốc</h2>
+<p><strong>Động lý:</strong> Lỗ liên tục, chính sách thay đổi, đơn hàng về TQ, M&#x26;A bán NM.</p>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Thủ tục</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quyết định thoái (nội bộ TQ + VN)</td>
+<td>Board</td>
+<td>Tư vấn <strong>G8-01</strong></td>
+</tr>
+<tr>
+<td>Thanh lý HĐ thuê đất / bán tài sản</td>
+<td>KCN, địa ốc</td>
+<td>🤝</td>
+</tr>
+<tr>
+<td>Sa thải / trợ cấp lao động</td>
+<td>Luật LAĐ VN</td>
+<td>🤝 HR</td>
+</tr>
+<tr>
+<td>Quyết toán thuế (CIT, VAT)</td>
+<td>Cơ quan thuế</td>
+<td><strong>H3</strong> 🤝</td>
+</tr>
+<tr>
+<td>Kiểm toán tất toán</td>
+<td>CPA</td>
+<td>H3</td>
+</tr>
+<tr>
+<td>Hủy IRC / giải thể DN</td>
+<td>Sở KH&#x26;ĐT</td>
+<td><strong>G8-02</strong> 🤝</td>
+</tr>
+<tr>
+<td>Xuất khẩu máy móc về TQ</td>
+<td>Tạm xuất / tái xuất</td>
+<td><strong>B1</strong></td>
+</tr>
+<tr>
+<td>Đóng tài khoản hải quan, NH</td>
+<td>—</td>
+<td>G8-02</td>
+</tr>
+<tr>
+<td>Chuyển lợi nhuận còn lại ra nước ngoài</td>
+<td>Ngân hàng, SBV</td>
+<td>🤝</td>
+</tr>
+<tr>
+<td>Bàn giao môi trường</td>
+<td>Thu hồi GP môi trường</td>
+<td>ENV</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Gói đề xuất:</strong> <strong>G8-Pack</strong> = G8-01 (kế hoạch thoái) + H3 (quyết toán) + G8-02 (giải thể) + B1 (xuất máy).</p>
+<p><strong>Thời gian typic:</strong> 12–36 tháng (nếu có tranh chấp đất/LĐ có thể dài hơn).</p>
+<hr>
+<h2>Ma trận LONGTV phủ dịch vụ (sau đào sâu)</h2>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn</th>
+<th>% phủ (✅+🤝)</th>
+<th>Tự làm core</th>
+<th>Gap chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G0</td>
+<td>30%</td>
+<td>H1</td>
+<td>Không tư vấn TQ nội địa</td>
+</tr>
+<tr>
+<td>G1–G2</td>
+<td><strong>90%</strong></td>
+<td>A1, B1, A2</td>
+<td>DD đối tác</td>
+</tr>
+<tr>
+<td>G3–G4</td>
+<td><strong>75%</strong></td>
+<td>PM, B1, B2</td>
+<td>ENV, HR, xây dựng</td>
+</tr>
+<tr>
+<td>G5</td>
+<td><strong>80%</strong></td>
+<td>B1–B3, H3 PM</td>
+<td>HR payroll, MES</td>
+</tr>
+<tr>
+<td>G6</td>
+<td>70%</td>
+<td>A1, B2</td>
+<td>—</td>
+</tr>
+<tr>
+<td>G7</td>
+<td><strong>60%</strong> 🔄</td>
+<td>A1, B1, PM mới</td>
+<td>Ít đối thủ — <strong>cơ hội</strong></td>
+</tr>
+<tr>
+<td>G8</td>
+<td><strong>55%</strong> 🔄</td>
+<td>Tư vấn, B1, H3</td>
+<td>Giải thể — cần luật mạnh</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trung bình vòng đời đầy đủ:</strong> ~<strong>70%</strong> có ✅ hoặc 🤝 — đủ để positioning <strong>full lifecycle partner</strong> (một phần qua đối tác).</p>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="service-catalog-v1">Catalog v1 — chi tiết từng dịch vụ</a></li>
+<li><a href="factory-operations-playbook-vn">Playbook G5 vận hành</a></li>
+<li><a href="build-vs-partner">Tự làm vs đối tác</a></li>
+<li><a href="/docs/04-research/2026-07/fdi-data-deep-dive">Số liệu đào sâu</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-lifecycle-full-map"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Vòng đời NM FDI Trung Quốc tại Việt Nam — 9 giai đoạn"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bản đồ đầy đủ từ lúc cân nhắc rời TQ → vận hành → di dời tỉnh / thoái vốn về nước."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/services-page-source","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Trang dịch vụ web — vòng đời & catalog"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/fdi-journey-service-map","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Bản đồ hành trình FDI TQ→VN & checklist dịch vụ"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

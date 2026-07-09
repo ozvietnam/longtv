@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+4:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T5f7,<h1>Các giai đoạn triển khai</h1>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn</th>
+<th>Tên</th>
+<th>Trạng thái</th>
+<th>Mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>00-1</strong></td>
+<td><a href="00-1-feasibility-plan">Đánh giá tiềm năng &#x26; khả thi</a></td>
+<td><strong>✅ DESK XONG</strong> · 🔄 field Hermes</td>
+<td>Thị trường + catalog + Go/No-Go + <strong>Investor Pack</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><a href="02-giai-doan-2-overview">Xây hệ thống chi tiết</a></td>
+<td><strong>ĐANG TRIỂN KHAI</strong></td>
+<td>SOP, sales, CTCP, pilot A1</td>
+</tr>
+<tr>
+<td><strong>Investor</strong></td>
+<td><a href="investor-pack/00-index">Bộ đánh giá đầu tư</a></td>
+<td><strong>✅ DESK</strong></td>
+<td>DT 6T/1N/2N · pitch · cap table mẫu</td>
+</tr>
+<tr>
+<td><strong>Hermes</strong></td>
+<td><a href="/hermes">Tiến độ trên web</a></td>
+<td><strong>Wave 2</strong></td>
+<td>Field Sở/KCN · thu thập tài liệu</td>
+</tr>
+<tr>
+<td>P1–P5</td>
+<td>Khung cây vấn đề V1–V7</td>
+<td>Song song</td>
+<td>Xem <a href="/phases">Các pha</a> trên web</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giai đoạn hiện tại:</strong> <a href="02-giai-doan-2-plan">Giai đoạn 2 — Kế hoạch</a></p>
+<p><strong>Kết quả 00-1:</strong> Scorecard <strong>38/50</strong> · Dashboard <a href="/assessment">/assessment</a> · <a href="00-1-market-memo">Memo</a> · <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a> (chờ ký)</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Các giai đoạn triển khai LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Chỉ mục các giai đoạn: 00-1 đánh giá tiềm năng, Giai đoạn 2 xây hệ thống chi tiết."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","div",null,{"className":"flex-1"}],["$","$L2",null,{"href":"/docs/00-about","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"LongTV — Về chúng tôi"}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+6:null

@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tf99,<h1>PL-003 — Timeline thành lập CTCP</h1>
+<blockquote>
+<p>Theo <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a>: CTCP, vốn 2 tỷ, cổ đông VN + tập đoàn TQ, với nguyên tắc <strong>phía Việt Nam nắm trên 51%</strong>.</p>
+</blockquote>
+<h2>Trước khi nộp hồ sơ (Tuần 1–2)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Việc</th>
+<th>Phụ trách</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Chốt tên công ty (VN + EN)</td>
+<td>Leader</td>
+<td>3 tên dự phòng</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Ký MOU / thỏa thuận cổ đông với tập đoàn TQ</td>
+<td>Leader</td>
+<td>MOU signed</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Chốt tỷ lệ cổ phần theo nguyên tắc <strong>VN > 51%</strong></td>
+<td>Leader</td>
+<td>Bảng cổ đông</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Soạn Điều lệ công ty CTCP</td>
+<td>Luật sư + Cursor</td>
+<td>Draft điều lệ</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Hợp pháp hóa hồ sơ TQ (dịch, công chứng, Lãnh sự)</td>
+<td>Hermes + luật</td>
+<td>Bộ hồ sơ TQ</td>
+</tr>
+</tbody>
+</table>
+<h2>Thành lập (Tuần 3–8)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Việc</th>
+<th>Thời gian</th>
+<th>Chi phí ước tính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6</td>
+<td>Nộp hồ sơ IRC (Sở KH&#x26;ĐT)</td>
+<td>15–30 ngày</td>
+<td>0–5 tr (phí NN)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nộp ERC (ĐKKD) — có thể song song theo NĐ 96/2026</td>
+<td>3–5 ngày</td>
+<td>~0 tr (online)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Khắc con dấu + đăng ký chữ ký số</td>
+<td>3–5 ngày</td>
+<td>3–5 tr</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Mở tài khoản đầu tư (DICA)</td>
+<td>5–10 ngày</td>
+<td>0–2 tr</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Góp vốn điều lệ (2 tỷ trong 90 ngày)</td>
+<td>90 ngày</td>
+<td>—</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Đăng ký thuế, hóa đơn điện tử</td>
+<td>5–7 ngày</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<h2>Sau thành lập (Tuần 9–12)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Việc</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12</td>
+<td>Đăng ký ngành nghề 7020 (tư vấn quản lý)</td>
+<td>Kiểm tra điều kiện FDI</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Ký hợp đồng kế toán / CPA</td>
+<td>Hub dịch vụ</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Cập nhật website / profile công ty</td>
+<td>Marketing</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Báo cáo quý đầu tiên (nếu áp dụng)</td>
+<td>Luật ĐT 2025</td>
+</tr>
+</tbody>
+</table>
+<h2>Tổng thời gian &#x26; chi phí</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Thời gian</strong></td>
+<td>8–12 tuần (nếu hồ sơ TQ đầy đủ)</td>
+</tr>
+<tr>
+<td><strong>Chi phí dịch vụ</strong></td>
+<td>80–150 triệu VND (CTCP phức tạp hơn TNHH)</td>
+</tr>
+<tr>
+<td><strong>Vốn điều lệ</strong></td>
+<td>2 tỷ VND (góp trong 90 ngày)</td>
+</tr>
+</tbody>
+</table>
+<h2>Rủi ro cần theo dõi</h2>
+<ul>
+<li>Hồ sơ tập đoàn TQ chưa hợp pháp hóa → delay 2–4 tuần</li>
+<li>Tên công ty trùng / ngành nghề cần điều kiện → đổi tên/ngành</li>
+<li>Tỷ lệ sở hữu nước ngoài — kiểm tra cam kết WTO/FTA cho tư vấn, nhưng phải giữ nguyên tắc <strong>VN > 51%</strong></li>
+</ul>
+<h2>Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader cung cấp tên tập đoàn TQ + % cổ phần chi tiết theo nguyên tắc <strong>VN > 51%</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> Chọn luật sư FDI (đối tác từ build-vs-partner)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hermes: research giấy phép con (PL-002)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Team điền <a href="/docs/05-clarifications/00-team-input-requirements">trang yêu cầu làm rõ</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"ctcp-timeline"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Timeline thành lập CTCP — LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"PL-003 — Lộ trình thành lập công ty cổ phần có cổ đông tập đoàn Trung Quốc."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Kinh doanh & GTM"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/financial-model-3yr","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tài chính 3 năm — LONGTV"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

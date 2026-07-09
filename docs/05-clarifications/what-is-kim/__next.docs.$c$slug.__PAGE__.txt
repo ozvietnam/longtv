@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T167c,<h1>Kim là gì?</h1>
+<blockquote>
+<p><strong>Một câu:</strong> <strong>Kim</strong> (Thư ký Kim) là <strong>danh sách việc bắt buộc có người thật tự hoàn thiện và đi làm</strong> — AI <strong>không</strong> thay thế được.</p>
+</blockquote>
+<p>Trang web: <a href="/kim">/kim</a> · File hàng chờ: <a href="/docs/05-clarifications/kim-secretary-queue">kim-secretary-queue</a></p>
+<hr>
+<h2>Kim KHÔNG phải là gì</h2>
+<table>
+<thead>
+<tr>
+<th>Hiểu nhầm</th>
+<th>Sự thật</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"Kim = việc của Leader"</td>
+<td>Kim là việc <strong>của mọi owner người</strong> (Leader, Hermes, Sales, Luật đối tác…)</td>
+</tr>
+<tr>
+<td>"Hermes trong Kim = AI làm"</td>
+<td><strong>Hermes là người</strong> — gọi Sở, thu thập tài liệu thật. AI chỉ soạn script/brief</td>
+</tr>
+<tr>
+<td>"Cursor tick <code>done</code> là xong"</td>
+<td><strong>Chỉ người đã làm</strong> mới được đổi status → <code>done</code></td>
+</tr>
+<tr>
+<td>"Research desk = Kim"</td>
+<td>Desk research → <code>04-research/</code> hoặc TODO phòng ban, <strong>không</strong> vào Kim</td>
+</tr>
+<tr>
+<td>"Build web / deploy = Kim"</td>
+<td>Việc kỹ thuật AI/Cursor → <a href="/operations">/operations</a>, không Kim</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Kim LÀ gì</h2>
+<p>Việc <strong>không thể hoàn thành</strong> chỉ bằng viết tài liệu hay chạy bot — cần <strong>hành động con người</strong> trên thực tế:</p>
+<table>
+<thead>
+<tr>
+<th>Loại</th>
+<th>Ví dụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gọi / gặp</td>
+<td>Gọi Sở KH&#x26;ĐT, họp khu công nghiệp, gặp khách</td>
+</tr>
+<tr>
+<td>Ký / quyết định</td>
+<td>Ký QĐ, ký hợp đồng, chốt bảng giá, cap table</td>
+</tr>
+<tr>
+<td>Nộp / đăng ký</td>
+<td>Nộp hồ sơ CTCP, đăng ký dịch vụ, bật Vercel/GitHub</td>
+</tr>
+<tr>
+<td>Bán hàng thật</td>
+<td>Gửi proposal, pitch, phỏng vấn khách, ký MOU</td>
+</tr>
+<tr>
+<td>Thu thập thật</td>
+<td>Subscribe báo cáo MPI, verify qua cuộc gọi, tham quan hiện trường</td>
+</tr>
+</tbody>
+</table>
+<p>Mã việc: <strong>KIM-001, KIM-002, …</strong> — xem bảng đầy đủ tại <a href="/docs/05-clarifications/kim-secretary-queue">kim-secretary-queue</a>.</p>
+<hr>
+<h2>Ai làm việc Kim?</h2>
+<table>
+<thead>
+<tr>
+<th>Owner trong Kim</th>
+<th>Vai trò</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Leader</strong></td>
+<td>Ký, chốt chiến lược, khách quan trọng, thành lập CTCP</td>
+</tr>
+<tr>
+<td><strong>Hermes</strong></td>
+<td>Gọi Sở/KCN, field verify, thu thập tài liệu &#x26; số liệu thật</td>
+</tr>
+<tr>
+<td><strong>Sales</strong></td>
+<td>Proposal, khách hàng</td>
+</tr>
+<tr>
+<td><strong>Luật đối tác</strong></td>
+<td>Review hợp đồng, nộp hồ sơ pháp lý</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cursor / AI:</strong> chuẩn bị script, brief, template, cập nhật research <strong>sau khi</strong> người báo kết quả — <strong>không</strong> ghi nhận hoàn thành thay owner.</p>
+<hr>
+<h2>Kim vs các kho việc khác</h2>
+<pre><code class="language-text">┌─────────────────────────────────────────────────────────────┐
+│  KIM (/kim)          →  Người thật phải đi làm              │
+├─────────────────────────────────────────────────────────────┤
+│  /operations         →  TODO phòng ban (desk + người)       │
+│  04-research/        →  Nghiên cứu, evidence sau field      │
+│  Cursor              →  Web, sync, PR, điều phối Hermes     │
+└─────────────────────────────────────────────────────────────┘
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Câu hỏi</th>
+<th>Vào Kim?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cần gọi điện cho Sở?</td>
+<td>✅ Có</td>
+</tr>
+<tr>
+<td>Cần Leader ký tên?</td>
+<td>✅ Có</td>
+</tr>
+<tr>
+<td>Chỉ đọc web và viết báo cáo?</td>
+<td>❌ Không — research</td>
+</tr>
+<tr>
+<td>Cursor build trang /logistics?</td>
+<td>❌ Không — ops kỹ thuật</td>
+</tr>
+<tr>
+<td>Hermes đã gọi xong, cần cập nhật file?</td>
+<td>❌ Không — research (sau khi Kim <code>done</code>)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Quy trình chuẩn</h2>
+<ol>
+<li><strong>Thêm việc</strong> vào <code>kim-secretary-queue.md</code> nếu và chỉ nếu cần người thật</li>
+<li><strong>Owner người</strong> nhận việc → <code>doing</code> → <strong>tự làm</strong> (gọi, ký, gặp…)</li>
+<li><strong>Xong</strong> → owner (hoặc Leader xác nhận) đổi <code>done</code></li>
+<li><strong>Cursor</strong> cập nhật research / evidence từ kết quả người báo — không bước 3 thay người</li>
+</ol>
+<hr>
+<h2>Liên quan Hermes</h2>
+<p><a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">Gói việc Hermes</a> có nhiều mục <strong>trong Kim</strong> vì cần <strong>Hermes người</strong> gọi điện, đi field, subscribe dịch vụ.</p>
+<p>Cursor <strong>điều phối</strong> Hermes (<a href="/docs/03-departments/01-chien-luoc/hermes-directive-log">chỉ đạo</a>) — <strong>không</strong> thay Hermes thực hiện call.</p>
+<hr>
+<p><strong>Cập nhật:</strong> 2026-07-09 · Áp dụng cho toàn team LONGTV</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"what-is-kim"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Kim là gì? — Định nghĩa cho cả team"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Thư ký Kim = hàng chờ việc chỉ con người thật tự làm. AI/Cursor không thay thế, không tick xong thay người."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/02-pitch-gap-checklist","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Checklist thiếu sót — Pitch kêu gọi vốn & tuyển C-level"}]]}],["$","$L2",null,{"href":"/docs/06-phases/investor-pack/03-investment-project-5-steps","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lập dự án đầu tư — Quy trình 5 bước chuẩn UNIDO/World Bank"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,311 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/3nx12gne_ziuj.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","06-phases","investor-pack","00-investment-verdict",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","06-phases/investor-pack/00-investment-verdict","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QswpECjHA_uBUdh3_m9Nn"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/3nx12gne_ziuj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T2687,<h1>Kết luận đầu tư — Có nên đầu tư không?</h1>
+<blockquote>
+<p><strong>Ngày đánh giá:</strong> 2026-07-09<br>
+<strong>Giả định:</strong> Vốn điều lệ <strong>2 tỷ VND</strong> · CTCP VN >51% · Team <strong>8–10 FTE</strong> (2 sales) · <strong>Virtual office</strong> · 2 mảng TN/HP + logistics miền Bắc</p>
+</blockquote>
+<hr>
+<h2>1. Câu trả lời ngắn</h2>
+<table>
+<thead>
+<tr>
+<th>Đối tượng quyết định</th>
+<th>Khuyến nghị</th>
+<th>Lý do 1 dòng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cổ đông sáng lập + tập đoàn TQ (chiến lược)</strong></td>
+<td><strong>✅ ĐẦU TƯ CÓ ĐIỀU KIỆN</strong></td>
+<td>Thị trường có, niche rõ, vốn 2B cho runway 18–24 tháng ở kịch bản base</td>
+</tr>
+<tr>
+<td><strong>Nhà đầu tư tài chính thứ ba (VC/PE/angel lạ)</strong></td>
+<td><strong>🟡 CHƯA — chờ 90 ngày</strong></td>
+<td>Thiếu traction (0 HĐ), pricing chưa validate, cap table chưa ký</td>
+</tr>
+<tr>
+<td><strong>C-level đồng hành (Phó TGĐ, Trưởng KD)</strong></td>
+<td><strong>🟡 CÓ THỂ THẢO LUẬN</strong></td>
+<td>Cần pitch + equity rõ + 1 deal pilot</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Điều kiện đầu tư (bắt buộc trước khi giải ngân toàn bộ 2B):</strong></p>
+<ol>
+<li>Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a> + điền <a href="/docs/05-clarifications/cap-table-v1">cap table</a></li>
+<li>Hermes hoàn thành <strong>≥2/4</strong> call Sở/KCN (KIM-010–013)</li>
+<li>Cam kết <strong>không scale headcount</strong> trước khi có <strong>≥1 HĐ A1</strong> ký (Go + Adjust đã chốt)</li>
+<li>Duyệt <a href="/docs/03-departments/03-kinh-doanh/pricing-official">bảng giá v1</a> trong 7 ngày</li>
+</ol>
+<hr>
+<h2>2. Đã có đủ thông tin gì?</h2>
+<h3>✅ Đủ cho quyết định “có tiềm năng + đủ vốn bootstrap”</h3>
+<table>
+<thead>
+<tr>
+<th>Khía cạnh</th>
+<th>Bằng chứng</th>
+<th>Độ tin cậy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thị trường FDI TQ→VN</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a>, TN #1 FDI mới</td>
+<td>🟢 Cao (số liệu công)</td>
+</tr>
+<tr>
+<td>Phân khúc mục tiêu</td>
+<td>Tier 2–3 NM TQ, persona “Lý Tổng”</td>
+<td>🟡 Trung (desk)</td>
+</tr>
+<tr>
+<td>Đối thủ &#x26; positioning</td>
+<td><a href="/docs/04-research/2026-07/competitors">competitors</a>, niche 2 tỉnh + song ngữ</td>
+<td>🟡 Trung</td>
+</tr>
+<tr>
+<td>Catalog &#x26; giá</td>
+<td><a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a>, A1 $2.5–4k</td>
+<td>🟡 Chưa validate khách</td>
+</tr>
+<tr>
+<td>Vốn &#x26; burn</td>
+<td>2B vs burn ~90–125M/tháng full team</td>
+<td>🟢 Runway dài</td>
+</tr>
+<tr>
+<td>Plan B</td>
+<td><a href="/docs/04-research/2026-07/plan-b-no-revenue">plan-b-no-revenue</a></td>
+<td>🟢 Có</td>
+</tr>
+<tr>
+<td>Scorecard</td>
+<td><strong>38/50</strong> Go + Adjust</td>
+<td>🟢 Đạt ngưỡng</td>
+</tr>
+</tbody>
+</table>
+<h3>🔴 Chưa đủ cho pitch “chắc thắng”</h3>
+<table>
+<thead>
+<tr>
+<th>Thiếu</th>
+<th>Ảnh hưởng</th>
+<th>Cách bù (30–90 ngày)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 hợp đồng khách thật</td>
+<td>Investor không tin unit economics</td>
+<td>Pilot A1 × 1–2 (KIM-040)</td>
+</tr>
+<tr>
+<td>Pricing WTP</td>
+<td>Rủi ro margin / discount sâu</td>
+<td>Phỏng vấn 1 NM TQ (KIM-041)</td>
+</tr>
+<tr>
+<td>Sở/KCN field data</td>
+<td>Memo TN/HP có thể sai số</td>
+<td>Hermes calls (KIM-010–013)</td>
+</tr>
+<tr>
+<td>Cap table ký</td>
+<td>Không ký MOU cổ đông</td>
+<td>Leader điền (KIM-002)</td>
+</tr>
+<tr>
+<td>Case study</td>
+<td>Pitch deck trống slide 7</td>
+<td>Đổi giảm 30% lấy testimonial</td>
+</tr>
+<tr>
+<td>LTV thực tế</td>
+<td>Catalog $40–150k/client là desk</td>
+<td>Track 12 tháng sau deal đầu</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. So sánh vốn 2 tỷ với kế hoạch vận hành</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Số liệu</th>
+<th>Nhận xét</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn điều lệ</td>
+<td><strong>2.000 triệu VND</strong></td>
+<td><a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a></td>
+</tr>
+<tr>
+<td>Burn tháng (lean full team)</td>
+<td><strong>90–125 triệu</strong></td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/burn-tracker">burn-tracker</a></td>
+</tr>
+<tr>
+<td>Burn 6 tháng (thực tế)</td>
+<td><strong>270–425 triệu</strong></td>
+<td><a href="/docs/04-research/2026-07/startup-budget">startup-budget</a></td>
+</tr>
+<tr>
+<td>Quỹ vận hành đề xuất (25% 2B)</td>
+<td><strong>500 triệu</strong></td>
+<td>~4–5 tháng full burn <strong>hoặc</strong> 12–18 tháng bootstrap</td>
+</tr>
+<tr>
+<td>Dự phóng + pháp lý (15%)</td>
+<td><strong>300 triệu</strong></td>
+<td>CTCP, MOU, spike pháp lý</td>
+</tr>
+<tr>
+<td>Vốn góp treo DN (50%)</td>
+<td><strong>1.000 triệu</strong></td>
+<td>Tăng uy tín; giải ngân theo nhu cầu DN</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận tài chính:</strong> 2 tỷ <strong>không</strong> cần thi cho mô hình lean A1+B1. Ngay cả <strong>0 doanh thu 12 tháng</strong>, tổng burn ~1,0–1,5 tỷ vẫn trong phạm vi nếu không tuyển vượt kế hoạch. Rủi ro chính là <strong>cơ hội</strong> (không bán được), không phải <strong>cháy tiền ngay</strong>.</p>
+<hr>
+<h2>4. Dự phóng khách hàng &#x26; doanh số (tóm tắt)</h2>
+<p>Chi tiết: <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a></p>
+<table>
+<thead>
+<tr>
+<th>Mốc</th>
+<th>Khách trả phí (tích lũy)</th>
+<th>Doanh thu (kịch bản <strong>Base</strong>)</th>
+<th>Hòa vốn vận hành?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6 tháng</strong> (T7–T12/2026)</td>
+<td><strong>3–4</strong></td>
+<td><strong>~12–18k USD</strong> (~300–450 tr VND)</td>
+<td>❌ Net burn</td>
+</tr>
+<tr>
+<td><strong>1 năm</strong> (đến T6/2027)</td>
+<td><strong>8–12</strong></td>
+<td><strong>~55–80k USD</strong> (~1,4–2,0 tỷ VND)</td>
+<td>🟡 Gần hòa vốn tháng cuối Q2</td>
+</tr>
+<tr>
+<td><strong>2 năm</strong> (đến T6/2028)</td>
+<td><strong>25–35</strong></td>
+<td><strong>~180–250k USD</strong> (~4,5–6,3 tỷ VND)</td>
+<td>✅ EBITDA dương (base)</td>
+</tr>
+</tbody>
+</table>
+<p><em>Bear case 6T: 1 khách, ~3k USD — vẫn chấp nhận được nếu pipeline ≥10 lead.</em></p>
+<hr>
+<h2>5. Ma trận rủi ro — quyết định đầu tư</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Xác suất</th>
+<th>Tác động</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Không chốt được A1 trong 90 ngày</td>
+<td>Trung</td>
+<td>Cao</td>
+<td>Kênh TQ shareholder + pilot giảm 30%</td>
+</tr>
+<tr>
+<td>TN FDI chủ yếu mega-project (Samsung)</td>
+<td>Trung</td>
+<td>Trung</td>
+<td>Focus Tier 2–3 TQ, không cạnh tranh Samsung</td>
+</tr>
+<tr>
+<td>Pricing bị ép thấp</td>
+<td>Trung</td>
+<td>Trung</td>
+<td>Bundle + retainer; floor A1 $2,500</td>
+</tr>
+<tr>
+<td>CTCP / cổ đông TQ chậm</td>
+<td>Thấp–Trung</td>
+<td>Cao</td>
+<td>MOU trước ERC; virtual office trước</td>
+</tr>
+<tr>
+<td>Đối thủ quốc tế hạ giá</td>
+<td>Thấp</td>
+<td>Trung</td>
+<td>2 tỉnh + logistics + hub</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rủi ro chấp nhận được</strong> nếu cổ đông xem 2B là <strong>vốn chiến lược</strong> (mở cửa supply chain TQ), không chỉ ROI tài chính 12 tháng.</p>
+<hr>
+<h2>6. Khuyến nghị chiến lược đầu tư</h2>
+<h3>Nên làm (nếu Go)</h3>
+<ol>
+<li><strong>Giải ngân theo mốc:</strong> 40% khi CTCP + MOU cổ đông · 30% khi 1 HĐ A1 · 30% khi 3 khách hoặc 12 tháng</li>
+<li><strong>Giữ lean:</strong> Virtual office T7–T12; co-working chỉ khi họp khách</li>
+<li><strong>Đo lường:</strong> Dashboard <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model</a> + burn tracker hàng tuần</li>
+<li><strong>Pivot sớm nếu:</strong> 0 Won sau 90 ngày + pipeline &#x3C;5 qualified → xem <a href="/docs/04-research/2026-07/plan-b-no-revenue">Plan B</a></li>
+</ol>
+<h3>Không nên (giai đoạn 1)</h3>
+<ul>
+<li>Thuê văn phòng riêng >15M/tháng trước deal đầu</li>
+<li>Tuyển sales thứ 3 trước utilization >70%</li>
+<li>Bán A3 (thiết lập NM full) trước uy tín + đối tác đất</li>
+<li>Hứa investor ROI 12 tháng — mô hình consulting cần 18–24 tháng</li>
+</ul>
+<hr>
+<h2>7. Verdict cuối (1 câu cho thuyết trình)</h2>
+<blockquote>
+<p><strong>LONGTV đủ điều kiện để cổ đông chiến lược góp 2 tỷ và chạy lean 12–18 tháng</strong>, vì thị trường FDI TQ→VN miền Bắc có quy mô, phân khúc Tier 2–3 còn khoảng trống, và vốn đủ dài để validate bán hàng — <strong>miễn là</strong> chấp nhận doanh thu năm 1 khiêm tốn (~$55–80k base) và hoàn thành 4 điều kiện ở mục 1 trước khi scale team.</p>
+</blockquote>
+<hr>
+<h2>Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader đọc <a href="01-executive-summary">Executive Summary</a> trước họp cổ đông</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền <a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Dùng <a href="02-pitch-gap-checklist">pitch-gap-checklist</a> trước mỗi buổi gọi vốn</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật verdict sau deal A1 đầu tiên (target: 2026-09)</li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"investor-pack"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-investment-verdict"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Kết luận đầu tư — LONGTV có nên đầu tư không?"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Đánh giá chuyên gia: đủ thông tin để quyết định với vốn 2 tỷ, nhân sự bootstrap và văn phòng ảo."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/005-phase-00-1-go","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #005 — Go Giai đoạn 2 (sau 00-1)"}]]}],["$","$L2",null,{"href":"/docs/decisions/006-hermes-wave2-approval","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #006 — Duyệt gói công việc Hermes Wave 2"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Kết luận đầu tư — LONGTV có nên đầu tư không? · LongTV"}],["$","meta","1",{"name":"description","content":"Đánh giá chuyên gia: đủ thông tin để quyết định với vốn 2 tỷ, nhân sự bootstrap và văn phòng ảo."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]

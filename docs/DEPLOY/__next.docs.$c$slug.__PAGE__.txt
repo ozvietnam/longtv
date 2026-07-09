@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tc52,<h1>Bật live web — 1 lần duy nhất</h1>
+<p>GitHub Pages cần trỏ đúng nhánh có bản build. Làm <strong>1 bước</strong> (~30 giây):</p>
+<h2>Bật Pages (khuyến nghị: nhánh gh-pages)</h2>
+<ol>
+<li>Mở: <strong><a href="https://github.com/ozvietnam/longtv/settings/pages">https://github.com/ozvietnam/longtv/settings/pages</a></strong></li>
+<li><strong>Build and deployment → Source:</strong> chọn <strong>Deploy from a branch</strong></li>
+<li><strong>Branch:</strong> <code>gh-pages</code> · <strong>Folder:</strong> <code>/ (root)</code> → <strong>Save</strong></li>
+<li>Đợi 1–2 phút → mở <strong><a href="https://ozvietnam.github.io/longtv/">https://ozvietnam.github.io/longtv/</a></strong></li>
+</ol>
+<blockquote>
+<p>Nhánh <code>gh-pages</code> đã có bản mới (Kim, investor pack, services G0–G8).<br>
+Nếu đang dùng <code>main</code> / <code>docs</code> mà build kẹt → đổi sang <code>gh-pages</code> như trên.</p>
+</blockquote>
+<h2>Cách 2 — main / docs (dự phòng)</h2>
+<ol>
+<li>Cùng trang Settings → Pages</li>
+<li><strong>Branch:</strong> <code>main</code> · <strong>Folder:</strong> <code>/docs</code> → <strong>Save</strong></li>
+</ol>
+<p><code>docs/</code> trên <code>main</code> cũng đã được cập nhật bản mới (PR #30).</p>
+<hr>
+<h2>Sau khi bật</h2>
+<p>Mỗi push <code>main</code> → GitHub Actions tự build + cập nhật <code>docs/</code> và <code>gh-pages</code>.</p>
+<p><strong>Nếu build Pages bị kẹt / lỗi:</strong> đổi Source sang nhánh <code>gh-pages</code> · folder <code>/ (root)</code> → Save.</p>
+<table>
+<thead>
+<tr>
+<th>Trang</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trang chủ</td>
+<td><a href="https://ozvietnam.github.io/longtv/">https://ozvietnam.github.io/longtv/</a></td>
+</tr>
+<tr>
+<td><strong>Thư ký Kim</strong></td>
+<td><a href="https://ozvietnam.github.io/longtv/kim/">https://ozvietnam.github.io/longtv/kim/</a></td>
+</tr>
+<tr>
+<td>Giai đoạn 00-1</td>
+<td><a href="https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/">https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/</a></td>
+</tr>
+<tr>
+<td>Dịch vụ</td>
+<td><a href="https://ozvietnam.github.io/longtv/services/">https://ozvietnam.github.io/longtv/services/</a></td>
+</tr>
+<tr>
+<td>Vận hành</td>
+<td><a href="https://ozvietnam.github.io/longtv/operations/">https://ozvietnam.github.io/longtv/operations/</a></td>
+</tr>
+<tr>
+<td>Investor pack</td>
+<td><a href="https://ozvietnam.github.io/longtv/docs/06-phases/investor-pack/00-index/">https://ozvietnam.github.io/longtv/docs/06-phases/investor-pack/00-index/</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Vercel (tùy chọn)</h2>
+<p>URL cũ <a href="https://web-plum-nu-91.vercel.app">https://web-plum-nu-91.vercel.app</a> đang lag bản cũ — cần reconnect:</p>
+<ol>
+<li><a href="https://vercel.com/new">https://vercel.com/new</a> → Import <code>ozvietnam/longtv</code></li>
+<li><strong>Root Directory:</strong> <code>web</code></li>
+<li>Deploy</li>
+</ol>
+<p>Hoặc Project Settings → Root Directory = <code>web</code> → Redeploy.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"DEPLOY"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"DEPLOY"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/ctcp-ho-so-checklist","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"ctcp-ho-so-checklist"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/field-call-scripts","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"field-call-scripts"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
