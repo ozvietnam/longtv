@@ -18,6 +18,7 @@ author: "Sếp Thắng"
 | P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | @cursor | done | 2026-07-21 | /docs/03-departments/04-san-pham/build-vs-partner |
 | P0 | SP-006 | Tách dịch vụ tư vấn pháp lý kinh doanh & đầu tư thành trang dịch vụ riêng | V4.2, V4.4 | @cursor | review | 2026-07-09 | /docs/services/legal-consulting |
 | P0 | SP-007 | Tách dịch vụ chính sách & chính quyền 2 tỉnh thành trang dịch vụ riêng | V4.2 | @cursor | review | 2026-07-09 | /docs/services/policy-government |
+| P0 | SP-008 | Tạo trang đánh giá tiềm năng & khả thi để trình cổ đông, có sơ đồ và liên kết nội bộ | V4.2, V7 | @cursor | review | 2026-07-09 | /assessment |
 | P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
 | P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
 | P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
@@ -43,3 +44,7 @@ Tách H2 khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nê
 ### SP-007 — Tách trang dịch vụ chính sách
 
 Tách Mảng A khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ A1/A2/A3, deliverable bán hàng, input khách hàng cần cung cấp, ranh giới giữa LONGTV điều phối và phần cần xác nhận từ cơ quan/đối tác chuyên môn.
+
+### SP-008 — Trang đánh giá tiềm năng & khả thi
+
+Tạo dashboard trình cổ đông, route `/assessment`, gồm kết luận nhanh, scorecard, sơ đồ mô hình 2 mảng + hub, ma trận tiềm năng/khả thi, rủi ro/đối sách và liên kết nội bộ sang các trang dịch vụ, thư viện pháp luật, service catalog, quyết định chiến lược. Các trang nguồn liên quan cần có nút quay lại dashboard.

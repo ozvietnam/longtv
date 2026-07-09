@@ -6,7 +6,7 @@ export default function Home() {
   const featured = docs.slice(0, 6);
 
   return (
-    <div className="max-w-6xl mx-auto px-6 py-12">
+    <div className="max-w-7xl mx-auto px-6 py-12">
       {/* Hero */}
       <section className="py-12 md:py-20 border-b border-[var(--border)]">
         <div className="max-w-3xl">
@@ -38,6 +38,12 @@ export default function Home() {
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
               Dịch vụ
+            </Link>
+            <Link
+              href="/assessment"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Đánh giá tiềm năng
             </Link>
             <Link
               href="/docs/services/policy-government"

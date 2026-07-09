@@ -12,7 +12,7 @@ const PHASES = [
 
 export default function PhasesIndex() {
   return (
-    <div className="max-w-3xl mx-auto px-6 py-12">
+    <div className="max-w-5xl mx-auto px-6 py-12">
       <header className="mb-12">
         <h1 className="text-4xl font-bold tracking-tight mb-3">Các pha triển khai</h1>
         <p className="text-[var(--muted)]">

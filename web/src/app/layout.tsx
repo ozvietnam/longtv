@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 function Header() {
   return (
     <header className="border-b border-[var(--border)] bg-white sticky top-0 z-50">
-      <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-xl font-bold tracking-tight">
             Long<span className="text-[var(--accent)]">TV</span>
@@ -33,6 +33,7 @@ function Header() {
           <Link href="/docs/00-WORKING_PRINCIPLES" className="hover:text-[var(--accent)]">Nguyên tắc</Link>
           <Link href="/roadmap" className="hover:text-[var(--accent)]">Lộ trình</Link>
           <Link href="/departments" className="hover:text-[var(--accent)]">Phòng ban</Link>
+          <Link href="/assessment" className="hover:text-[var(--accent)]">Đánh giá</Link>
           <Link href="/docs/services/00-index" className="hover:text-[var(--accent)]">Dịch vụ</Link>
           <Link href="/docs/services/policy-government" className="hover:text-[var(--accent)] hidden md:inline">Chính sách</Link>
           <Link href="/docs" className="hover:text-[var(--accent)]">Tài liệu</Link>
@@ -47,7 +48,7 @@ function Header() {
 function Footer() {
   return (
     <footer className="border-t border-[var(--border)] mt-16">
-      <div className="max-w-6xl mx-auto px-6 py-8 text-sm text-[var(--muted)] flex justify-between flex-wrap gap-4">
+      <div className="max-w-7xl mx-auto px-6 py-8 text-sm text-[var(--muted)] flex justify-between flex-wrap gap-4">
         <div>
           <span className="font-semibold text-[var(--foreground)]">LongTV</span> · Kho tri thức nội bộ
         </div>

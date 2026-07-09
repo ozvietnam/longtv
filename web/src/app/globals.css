@@ -49,7 +49,25 @@ body {
 .prose-longtv pre { background: #1c1917; color: #fafaf9; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; margin: 1rem 0; }
 .prose-longtv pre code { background: transparent; padding: 0; color: inherit; }
 .prose-longtv table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.95em; }
-.prose-longtv th, .prose-longtv td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; }
+.prose-longtv th, .prose-longtv td { border: 1px solid var(--border); padding: 0.65rem 0.85rem; text-align: left; vertical-align: top; }
 .prose-longtv th { background: var(--accent-soft); font-weight: 600; }
 .prose-longtv hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 .prose-longtv strong { font-weight: 700; }
+.prose-longtv table { display: table; }
+.prose-longtv .back-to-assessment {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #fff;
+  padding: 0.5rem 1rem;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.prose-longtv .back-to-assessment:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
