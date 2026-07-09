@@ -8,38 +8,38 @@ const HUB_LINKS = [
     href: "/kim",
     title: "Thư ký Kim",
     subtitle: "Việc cần người thật",
-    desc: "Ký, gọi Sở/KCN, khách hàng, pháp lý — Leader xử lý tại đây",
+    desc: "Ký, gọi cơ quan & khu công nghiệp, khách hàng, pháp lý — Lãnh đạo xử lý tại đây",
     accent: true,
     icon: "★",
   },
   {
     href: "/cam-nang",
     title: "Cẩm nang tri thức",
-    subtitle: "Thư viện FDI",
+    subtitle: "Thư viện đầu tư nước ngoài (FDI)",
     desc: "Quy trình thu thập · bài đã có · nguồn pháp luật · backlog",
     accent: true,
     icon: "📚",
   },
   {
     href: "/docs/06-phases/00-1-feasibility-plan",
-    title: "Giai đoạn 00-1",
-    subtitle: "Đánh giá tiềm năng",
-    desc: "Thị trường · catalog FDI · Go/No-Go",
+    title: "Giai đoạn đánh giá tiềm năng",
+    subtitle: "Bước khởi đầu (00-1)",
+    desc: "Thị trường · danh mục dịch vụ · quyết định tiếp tục",
     accent: true,
     icon: "01",
   },
   {
     href: "/services",
     title: "Dịch vụ công ty",
-    subtitle: "Vòng đời G0–G8",
-    desc: "Từ sang VN → vận hành → di dời / về TQ",
+    subtitle: "9 giai đoạn vòng đời",
+    desc: "Từ sang Việt Nam → vận hành → di dời / về nước",
     icon: "02",
   },
   {
     href: "/logistics",
-    title: "Logistics & hải quan",
-    subtitle: "Mảng B · XNK miền Bắc",
-    desc: "Khai báo HQ · nhập máy · forwarder · retainer nhập–SX–xuất",
+    title: "Hậu cần & hải quan",
+    subtitle: "Mảng logistics miền Bắc",
+    desc: "Khai báo hải quan · nhập máy · vận chuyển · thuê ngoài theo tháng",
     accent: true,
     icon: "🚢",
   },
@@ -60,10 +60,10 @@ const HUB_LINKS = [
 ];
 
 const INSIGHTS = [
-  { label: "FDI mới 6T/2026", value: "34,65 tỷ USD", note: "Toàn quốc, +61% y/y" },
-  { label: "Thái Nguyên", value: "#1", note: "~5,7 tỷ USD FDI mới" },
-  { label: "Trung Quốc", value: "#2", note: "21% vốn FDI mới 2025" },
-  { label: "Phân khúc LONGTV", value: "Tier 2-3", note: "Supply chain NM TQ" },
+  { label: "Đầu tư nước ngoài mới (6T/2026)", value: "34,65 tỷ USD", note: "Toàn quốc, +61% so với cùng kỳ" },
+  { label: "Thái Nguyên", value: "Dẫn đầu", note: "~5,7 tỷ USD vốn FDI mới" },
+  { label: "Trung Quốc", value: "Hạng 2", note: "21% vốn FDI mới năm 2025" },
+  { label: "Phân khúc LONGTV", value: "Tầng 2–3", note: "Chuỗi cung ứng nhà máy Trung Quốc" },
 ];
 
 export default function Home() {
@@ -85,14 +85,14 @@ export default function Home() {
             <div>
               <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wider bg-white/15 px-3 py-1 rounded-full mb-3">
                 <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
-                Đang chạy · Giai đoạn 00-1
+                Đang chạy · Giai đoạn đánh giá tiềm năng
               </div>
               <h1 className="text-2xl md:text-3xl font-bold tracking-tight mb-2">
                 Đánh giá tiềm năng LONGTV
               </h1>
               <p className="text-white/85 max-w-xl text-sm md:text-base leading-relaxed">
-                CTCP tư vấn FDI TQ→VN — Thái Nguyên & Hải Phòng · Logistics miền Bắc.
-                Mục tiêu: chứng minh thị trường có tiềm năng trước khi scale.
+                Công ty cổ phần tư vấn đầu tư nước ngoài (FDI) Trung Quốc → Việt Nam — Thái Nguyên & Hải Phòng ·
+                Hậu cần miền Bắc. Mục tiêu: chứng minh thị trường có tiềm năng trước khi mở rộng.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 shrink-0">
@@ -106,7 +106,7 @@ export default function Home() {
                 href="/docs/06-phases/00-1-feasibility-plan"
                 className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
               >
-                Kế hoạch 00-1
+                Kế hoạch đánh giá tiềm năng
               </Link>
               <Link
                 href="/operations"
@@ -128,7 +128,7 @@ export default function Home() {
             </div>
             <div className="text-4xl font-bold mb-1">
               {p0Done}/{p0Total}
-              <span className="text-lg font-normal text-[var(--muted)] ml-2">task</span>
+              <span className="text-lg font-normal text-[var(--muted)] ml-2">việc</span>
             </div>
             <div className="h-2 rounded-full bg-gray-100 mt-4 mb-2 overflow-hidden">
               <div
@@ -215,21 +215,33 @@ export default function Home() {
             <div>
               <h2 className="text-xl font-bold mb-2">Mô hình dịch vụ</h2>
               <p className="text-sm text-[var(--muted)] max-w-xl">
-                3 tầng phục vụ nhà máy Trung Quốc dịch chuyển về Việt Nam — catalog v0.2
+                3 tầng phục vụ nhà máy Trung Quốc dịch chuyển về Việt Nam
               </p>
             </div>
             <Link
               href="/services"
               className="shrink-0 text-sm px-4 py-2 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
             >
-              Xem catalog đầy đủ
+              Xem danh mục đầy đủ
             </Link>
           </div>
           <div className="grid md:grid-cols-3 gap-4">
             {[
-              { tier: "Hub", scope: "Toàn VN", items: "Pháp lý · Kế toán · Kết nối" },
-              { tier: "Mảng A", scope: "TN + Hải Phòng", items: "Khảo sát · Xin chính sách · Thiết lập NM" },
-              { tier: "Mảng B", scope: "Miền Bắc", items: "Hải quan · Logistics · Retainer XNK-SX" },
+              {
+                tier: "Trung tâm kết nối (hub)",
+                scope: "Toàn quốc",
+                items: "Pháp lý · Kế toán · Kết nối đối tác",
+              },
+              {
+                tier: "Mảng chính sách & đầu tư",
+                scope: "Thái Nguyên + Hải Phòng",
+                items: "Khảo sát · Xin ưu đãi · Thiết lập nhà máy",
+              },
+              {
+                tier: "Mảng hậu cần & hải quan",
+                scope: "Miền Bắc",
+                items: "Khai báo hải quan · Vận chuyển · Thuê ngoài theo tháng",
+              },
             ].map((t) => (
               <div key={t.tier} className="p-5 rounded-xl bg-[var(--accent-soft)] border border-red-100">
                 <div className="font-bold text-[var(--accent)]">{t.tier}</div>

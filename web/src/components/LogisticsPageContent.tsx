@@ -58,13 +58,13 @@ export function LogisticsPageContent() {
             href="/docs/03-departments/04-san-pham/service-catalog-v1"
             className="inline-flex items-center px-5 h-11 rounded-full bg-amber-600 text-white text-sm font-semibold hover:bg-amber-700"
           >
-            Catalog logistics (markdown) →
+            Catalog hậu cần (tài liệu) →
           </Link>
           <Link
             href="/services"
             className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] text-sm font-medium hover:bg-white"
           >
-            Toàn bộ dịch vụ G0–G8 →
+            Toàn bộ dịch vụ 9 giai đoạn →
           </Link>
           <Link
             href="/docs/03-departments/03-kinh-doanh/pricing-official"
@@ -77,10 +77,10 @@ export function LogisticsPageContent() {
 
       {/* Packages */}
       <section className="mb-14">
-        <h2 className="text-2xl font-bold mb-2">4 gói logistics & hải quan</h2>
+        <h2 className="text-2xl font-bold mb-2">4 gói hậu cần & hải quan</h2>
         <p className="text-sm text-[var(--muted)] mb-6 max-w-2xl">
           Mua lẻ từng gói hoặc kết hợp theo giai đoạn nhà máy. LONGTV điều phối — đối tác thực hiện khai báo / vận
-          chuyển khi cần GPLS.
+          chuyển khi cần giấy phép làm dịch vụ hải quan (GPLS).
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {packages.map((service) => (
@@ -92,7 +92,9 @@ export function LogisticsPageContent() {
       {/* Workflow */}
       <section className="mb-14 p-6 md:p-8 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 to-white">
         <h2 className="text-2xl font-bold mb-2">Chuỗi công việc điển hình</h2>
-        <p className="text-sm text-[var(--muted)] mb-8">Từ lúc chuẩn bị vào Việt Nam đến khi nhà máy chạy ổn định XNK.</p>
+        <p className="text-sm text-[var(--muted)] mb-8">
+          Từ lúc chuẩn bị vào Việt Nam đến khi nhà máy vận hành ổn định xuất nhập khẩu.
+        </p>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
           {LOGISTICS_WORKFLOW.map((item) => (
             <div key={item.step} className="relative p-4 rounded-xl bg-white border border-amber-100">
@@ -110,7 +112,9 @@ export function LogisticsPageContent() {
         </div>
         <p className="text-xs text-[var(--muted)] mt-6">
           Lộ trình bán điển hình:{" "}
-          <span className="font-mono text-amber-800">B1 → B1-ext → B2-log → B3 + H3</span>
+          <span className="font-mono text-amber-800">
+            Khởi động hải quan → Nhập máy → Vận chuyển → Thuê ngoài theo tháng
+          </span>
         </p>
       </section>
 
@@ -211,10 +215,11 @@ export function LogisticsPageContent() {
       <section className="p-6 md:p-8 rounded-2xl border-2 border-dashed border-amber-300 bg-amber-50/30">
         <h2 className="text-xl font-bold mb-2">Bắt đầu từ đâu?</h2>
         <p className="text-sm text-[var(--muted)] mb-5 max-w-2xl">
-          Chưa vào VN → kết hợp <strong>A1</strong> khảo sát + <strong>B1</strong> hải quan starter. NM đang chạy →{" "}
-          <strong>B3</strong> retainer. Cần MOU đại lý hải quan → Leader xử lý{" "}
+          Chưa vào Việt Nam → kết hợp <strong>A1</strong> khảo sát + <strong>B1</strong> khởi động hải quan. Nhà máy
+          đang chạy → <strong>B3</strong> dịch vụ thuê ngoài theo tháng. Cần thỏa thuận đại lý hải quan → Lãnh đạo xử
+          lý{" "}
           <Link href="/kim" className="text-amber-800 font-medium hover:underline">
-            KIM-076
+            việc KIM-076
           </Link>
           .
         </p>
@@ -223,13 +228,13 @@ export function LogisticsPageContent() {
             href="/docs/07-operations/sop-b1-on-site"
             className="text-sm font-medium text-amber-800 hover:underline"
           >
-            SOP on-site + hải quan →
+            Quy trình khảo sát hiện trường & hải quan →
           </Link>
           <Link
             href="/docs/03-departments/04-san-pham/factory-operations-playbook-vn"
             className="text-sm font-medium text-amber-800 hover:underline"
           >
-            Playbook vận hành G5 →
+            Sổ tay vận hành giai đoạn sản xuất →
           </Link>
           <Link
             href="/docs/03-departments/03-kinh-doanh/bundle-onepager-zh"
