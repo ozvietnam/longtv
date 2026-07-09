@@ -267,8 +267,18 @@ export function ServicesPageContent() {
                 <div className="inline-flex w-fit items-center rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold text-amber-900">
                   Logistics & hải quan
                 </div>
-                <h3 className="text-lg font-bold">{family.title}</h3>
-                <p className="text-sm text-[var(--muted)] max-w-3xl">{family.summary}</p>
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+                  <div>
+                    <h3 className="text-lg font-bold">{family.title}</h3>
+                    <p className="text-sm text-[var(--muted)] max-w-3xl">{family.summary}</p>
+                  </div>
+                  <Link
+                    href="/logistics"
+                    className="shrink-0 inline-flex items-center px-4 h-9 rounded-full bg-amber-600 text-white text-sm font-medium hover:bg-amber-700"
+                  >
+                    Landing logistics →
+                  </Link>
+                </div>
               </div>
               <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-4">
                 {familyServices.map((service) => (
