@@ -2,7 +2,7 @@
 2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T1e69,<h1>Memo tiềm năng thị trường</h1>
+3:T23c4,<h1>Memo tiềm năng thị trường</h1>
 <blockquote>
 <p><strong>Giai đoạn:</strong> 00-1 · <strong>Ngày:</strong> 2026-07-09 · <strong>Trạng thái:</strong> Draft hoàn thành — chờ Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></p>
 </blockquote>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td>Rủi ro lớn nhất</td>
-<td>Chưa verify trực tiếp Sở/KCN; cạnh tranh đối tác “ruột” tỉnh</td>
+<td>Chưa verify trực tiếp Sở/KCN; cạnh tranh đối tác “ruột” tỉnh; rủi ro xuất xứ/transshipment khi khách TQ xuất sang Mỹ/EU</td>
 </tr>
 <tr>
 <td>Điều kiện Go</td>
@@ -78,6 +78,39 @@
 </tbody>
 </table>
 <p>→ Dòng vốn TQ sang VN <strong>lớn và đang tăng tốc</strong>; manufacturing là trọng tâm.</p>
+<h3>2.1. Động lực China+1 — vì sao họ dịch chuyển</h3>
+<p>Từ góc nhìn LONGTV, nhà máy Trung Quốc sang Việt Nam không chỉ vì “giá rẻ”, mà vì một cụm động lực:</p>
+<table>
+<thead>
+<tr>
+<th>Động lực</th>
+<th>Ý nghĩa dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trade war / thuế quan Mỹ-Trung</td>
+<td>Cần B1 hải quan + kiểm tra rules of origin, tránh transshipment</td>
+</tr>
+<tr>
+<td>China+1</td>
+<td>Cần A1 khảo sát tỉnh và A2 làm việc chính quyền/KCN</td>
+</tr>
+<tr>
+<td>Gần Trung Quốc</td>
+<td>Cần B2 logistics pack cho tuyến TQ → Hải Phòng → KCN miền Bắc</td>
+</tr>
+<tr>
+<td>FTA/RCEP/CPTPP</td>
+<td>Cần H2 legal screening + checklist xuất xứ/BOM/quy trình sản xuất</td>
+</tr>
+<tr>
+<td>KCN/ready-built factory</td>
+<td>Cần shortlist site, giá đất/xưởng, timeline setup</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết: <a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam</a>.</p>
 <h3>SAM — miền Bắc, 2 tỉnh LONGTV</h3>
 <h3>2. Đọc đúng số liệu TN (quan trọng)</h3>
 <blockquote>
@@ -273,6 +306,11 @@
 <td>Cao</td>
 <td><a href="/docs/05-clarifications/00-team-input-requirements">Làm rõ</a></td>
 </tr>
+<tr>
+<td>Khách muốn “né thuế” nhưng không đủ xuất xứ VN</td>
+<td>Cao</td>
+<td>Bắt buộc thêm checklist rules of origin, substantial transformation, chứng từ BOM/quy trình</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -285,7 +323,7 @@
 <li>Không mở văn phòng riêng — virtual/co-working</li>
 </ol>
 <p>Scorecard đầy đủ: <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a>.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-market-memo"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Memo tiềm năng thị trường — Giai đoạn 00-1"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp TAM/SAM, đối thủ, phân khúc khách, kết luận tiềm năng LONGTV."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DEolcHRT4PbwnGu8XrwhE"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-market-memo"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Memo tiềm năng thị trường — Giai đoạn 00-1"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp TAM/SAM, đối thủ, phân khúc khách, kết luận tiềm năng LONGTV."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zPv3R99nr5KiTUvVqZyot"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data-deep-dive","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004b — Số liệu FDI đào sâu & mức tin cậy"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004 — Số liệu FDI TQ→VN & 2 tỉnh trọng tâm"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
