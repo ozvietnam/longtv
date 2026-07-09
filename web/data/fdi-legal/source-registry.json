@@ -270,6 +270,8 @@
       ],
       "priority": "P1",
       "status_to_verify": "collect official URLs and current incentive documents",
+      "collection_owner": "Hermes",
+      "collection_task": "KIM-081 / CL-008 — target ≥8 official URLs by 2026-07-25",
       "source_urls": [],
       "extraction_targets": [
         "Industrial park list",

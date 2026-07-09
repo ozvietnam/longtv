@@ -1,6 +1,8 @@
 # CL-GĐ2 — Script gọi Sở KH&ĐT & KCN
 
-> **Owner:** TGĐ hoặc Trưởng Chiến lược · **Chuẩn bị trước khi gọi:** Giới thiệu LONGTV 30 giây
+> **Owner:** **Hermes** (field verify) · Leader chỉ tham gia khi Sở yêu cầu gặp TGĐ.
+>
+> **Chuẩn bị trước khi gọi:** [Brief 1 trang](/docs/03-departments/01-chien-luoc/hermes-field-brief-template) (KIM-080) + giới thiệu LONGTV 30 giây
 
 ---
 
@@ -74,4 +76,4 @@
 - [ ] Mang danh thiếp + deck 5 slide tiếng Việt
 - [ ] Ghi âm / biên bản (xin phép)
 
-**Trạng thái:** Script sẵn sàng — chờ Leader thực hiện call.
+**Trạng thái:** Script sẵn sàng — **Hermes** thực hiện call (KIM-010–013). Xem [hermes-work-pack-2026-07](/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07).

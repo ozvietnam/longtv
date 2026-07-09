@@ -29,6 +29,13 @@ author: "Hermes + Cursor"
 | KD-002 | [gtm-channels](gtm-channels) | ✅ Done |
 | KD-004 | [pricing-draft](pricing-draft) | ✅ Done |
 | — | [hai-phong-fdi-policy](hai-phong-fdi-policy) | 🔄 Desk done · chờ gọi Sở |
+| **Hermes** | [hermes-work-pack-2026-07](/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07) | 🔄 Wave 2 — field + thu thập tài liệu |
+| CL-007 | Map 20 NM TQ (trong [fdi-data](fdi-data)) | 📋 Todo |
+| CL-008 | URL địa phương → [source-registry](/docs/data/fdi-legal/source-registry.json) | 📋 Todo |
+| CL-009 | [Brief field](/docs/03-departments/01-chien-luoc/hermes-field-brief-template) | 🔄 Doing |
+| CL-010 | Cập nhật fdi-data sau field | 📋 Todo |
+| CL-011 | Desk note EPE Thái Nguyên | 📋 Todo |
+| CL-012 | Verify nguồn P0 Cẩm nang | 📋 Todo |
 
 ## Giai đoạn 00-1 — Kết quả & đào sâu
 
