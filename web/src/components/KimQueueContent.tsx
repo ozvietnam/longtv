@@ -7,6 +7,7 @@ import {
   OWNER_GROUPS,
   type KimJob,
 } from "@/lib/kim-queue-shared";
+import { JOB_PRIORITY_LABELS, JOB_STATUS_LABELS } from "@/lib/ui-labels";
 
 const STATUS_STYLES: Record<string, string> = {
   done: "bg-green-100 text-green-800",
@@ -45,13 +46,13 @@ function JobCard({ job }: { job: KimJob }) {
           <span
             className={`font-mono text-xs font-bold px-2 py-0.5 rounded border ${PRIORITY_STYLES[job.priority] || ""}`}
           >
-            {job.priority}
+            {JOB_PRIORITY_LABELS[job.priority] ?? job.priority}
           </span>
           <span className="font-mono text-sm font-bold text-[var(--accent)]">{job.id}</span>
           <span
             className={`text-xs font-medium px-2 py-0.5 rounded-full ${STATUS_STYLES[job.status.toLowerCase()] || "bg-gray-100"}`}
           >
-            {job.status}
+            {JOB_STATUS_LABELS[job.status.toLowerCase()] ?? job.status}
           </span>
         </div>
         <OwnerBadge owner={job.owner} />
@@ -122,9 +123,9 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
 
       {/* Stats */}
       <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-        <StatCard label="Đang mở" value={String(openCount)} note="todo + doing" highlight />
-        <StatCard label="P0 còn lại" value={String(p0Open)} note="Ưu tiên tuần này" />
-        <StatCard label="Việc Leader" value={String(leaderOpen)} note="Anh xử lý" />
+        <StatCard label="Đang mở" value={String(openCount)} note="cần làm + đang làm" highlight />
+        <StatCard label="Ưu tiên cao (P0)" value={String(p0Open)} note="Tuần này" />
+        <StatCard label="Việc lãnh đạo" value={String(leaderOpen)} note="Anh xử lý" />
         <StatCard label="Tổng hàng chờ" value={String(jobs.length)} note="Trong file Kim" />
       </section>
 
@@ -133,9 +134,9 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
         {(
           [
             ["open", `Đang mở (${openCount})`],
-            ["p0", "P0"],
-            ["leader", "Leader"],
-            ["hermes", "Hermes"],
+            ["p0", "Ưu tiên cao (P0)"],
+            ["leader", "Lãnh đạo"],
+            ["hermes", "Nghiên cứu (Hermes)"],
             ["all", "Tất cả"],
           ] as const
         ).map(([key, label]) => (
@@ -191,10 +192,12 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
       <section className="p-6 rounded-xl border border-dashed border-[var(--border)] bg-amber-50/30">
         <h2 className="font-semibold mb-2">Quy trình Thư ký Kim</h2>
         <ol className="text-sm text-[var(--muted)] space-y-2 list-decimal list-inside">
-          <li>Leader mở trang này mỗi sáng — lọc <strong>P0</strong> hoặc <strong>Leader</strong></li>
-          <li>Làm việc → mở link script/tài liệu bên cạnh</li>
-          <li>Xong → sửa <code className="text-xs bg-white px-1 rounded">status: done</code> trong file markdown</li>
-          <li>Kết quả field (số liệu Sở, giá KCN) → cập nhật file research tương ứng</li>
+          <li>Lãnh đạo mở trang này mỗi sáng — lọc <strong>ưu tiên cao (P0)</strong> hoặc <strong>Lãnh đạo</strong></li>
+          <li>Làm việc → mở link kịch bản / tài liệu bên cạnh</li>
+          <li>Xong → sửa trạng thái thành <code className="text-xs bg-white px-1 rounded">done</code> trong file markdown</li>
+          <li>
+            Kết quả khảo sát thực địa (số liệu Sở, giá khu công nghiệp) → cập nhật file nghiên cứu tương ứng
+          </li>
         </ol>
       </section>
     </>

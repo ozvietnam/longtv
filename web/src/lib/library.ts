@@ -10,38 +10,38 @@ export { COLLECTION_STEPS, topicLabel } from "./library-shared";
 const SHELF_DEFS: Omit<LibraryShelf, "articles">[] = [
   {
     id: "lifecycle",
-    title: "Vòng đời FDI G0–G8",
-    description: "Hành trình nhà máy TQ từ quyết định sang VN đến vận hành và thoái vốn.",
+    title: "Vòng đời đầu tư (9 giai đoạn)",
+    description: "Hành trình nhà máy Trung Quốc từ quyết định sang Việt Nam đến vận hành và thoái vốn.",
     icon: "G",
   },
   {
     id: "market",
     title: "Thị trường & số liệu",
-    description: "FDI TQ→VN, Thái Nguyên, Hải Phòng — số liệu và phân tích desk.",
+    description: "Đầu tư nước ngoài Trung Quốc → Việt Nam, Thái Nguyên, Hải Phòng — số liệu và phân tích bàn.",
     icon: "📊",
   },
   {
     id: "site",
     title: "Chọn địa điểm & chính sách",
-    description: "TN vs HP, KCN, ưu đãi tỉnh, script gọi Sở/KCN.",
+    description: "Thái Nguyên vs Hải Phòng, khu công nghiệp, ưu đãi tỉnh, kịch bản gọi Sở.",
     icon: "📍",
   },
   {
     id: "legal",
     title: "Pháp lý & thành lập",
-    description: "IRC/ERC, pháp nhân, checklist hồ sơ, mô hình All-in-one.",
+    description: "Giấy đầu tư (IRC), giấy doanh nghiệp (ERC), pháp nhân, checklist hồ sơ, mô hình trọn gói.",
     icon: "⚖",
   },
   {
     id: "operations",
     title: "Vận hành nhà máy",
-    description: "Hải quan, sản xuất, logistics — playbook G5.",
+    description: "Hải quan, sản xuất, hậu cần — sổ tay vận hành giai đoạn sản xuất.",
     icon: "🏭",
   },
   {
     id: "investor",
     title: "Đầu tư & chiến lược",
-    description: "Investor pack, UNIDO 5 bước, mô hình dịch vụ tổng hợp.",
+    description: "Bộ hồ sơ nhà đầu tư, khung 5 bước, mô hình dịch vụ tổng hợp.",
     icon: "📈",
   },
 ];

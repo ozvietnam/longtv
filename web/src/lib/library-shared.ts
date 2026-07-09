@@ -57,7 +57,8 @@ export const COLLECTION_STEPS = [
   {
     step: 4,
     title: "Lập decision tree",
-    detail: "IRC → M&A approval → ĐTM → giấy phép môi trường → PCCC → xây dựng.",
+    detail:
+      "Giấy đầu tư (IRC) → phê duyệt mua cổ phần (M&A) → đánh giá môi trường (ĐTM) → giấy phép môi trường → phòng cháy chữa cháy (PCCC) → xây dựng.",
   },
   {
     step: 5,
@@ -77,16 +78,16 @@ export const COLLECTION_STEPS = [
 ] as const;
 
 const TOPIC_LABELS: Record<string, string> = {
-  "foreign-investment": "Đầu tư nước ngoài",
-  irc: "IRC",
-  erc: "ERC",
+  "foreign-investment": "Đầu tư nước ngoài (FDI)",
+  irc: "Giấy chứng nhận đầu tư (IRC)",
+  erc: "Giấy đăng ký doanh nghiệp (ERC)",
   "capital-contribution": "Góp vốn",
   "share-purchase": "Mua cổ phần",
   "market-access": "Tiếp cận thị trường",
   environment: "Môi trường",
-  eia: "ĐTM",
+  eia: "Đánh giá tác động môi trường (ĐTM)",
   manufacturing: "Sản xuất",
-  "industrial-zone": "KCN/KKT",
+  "industrial-zone": "Khu công nghiệp / khu kinh tế",
   land: "Đất đai",
 };
 

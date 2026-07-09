@@ -23,9 +23,9 @@ export const metadata: Metadata = {
 const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
   { href: "/kim", label: "Thư ký Kim", highlight: true },
   { href: "/cam-nang", label: "Cẩm nang", highlight: true },
-  { href: "/docs/06-phases/00-1-feasibility-plan", label: "00-1" },
+  { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng" },
   { href: "/services", label: "Dịch vụ" },
-  { href: "/logistics", label: "Logistics", highlight: true },
+  { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
   { href: "/operations", label: "Vận hành" },
   { href: "/roadmap", label: "Lộ trình" },
   { href: "/departments", label: "Phòng ban" },
@@ -87,7 +87,7 @@ function Footer() {
               </Link>
               <Link href="/services" className="hover:text-[var(--accent)]">Dịch vụ</Link>
               <Link href="/logistics" className="hover:text-[var(--accent)] font-medium text-amber-800">
-                Logistics & hải quan
+                Hậu cần & hải quan
               </Link>
               <Link href="/operations" className="hover:text-[var(--accent)]">Bảng vận hành</Link>
               <Link href="/docs/06-phases/00-1-feasibility-plan" className="hover:text-[var(--accent)]">Giai đoạn 00-1</Link>

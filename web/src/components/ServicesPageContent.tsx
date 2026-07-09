@@ -14,6 +14,7 @@ import {
   type LifecyclePhase,
   type ServiceItem,
 } from "@/lib/services";
+import { PHASE_JOURNEY_LABELS } from "@/lib/ui-labels";
 
 function docHref(slug?: string[]) {
   if (!slug?.length) return null;
@@ -69,7 +70,7 @@ function ServiceCard({ service }: { service: ServiceItem }) {
           <dd className="text-[var(--foreground)]">{service.when}</dd>
         </div>
         <div>
-          <dt className="text-[10px] font-semibold uppercase tracking-wide text-[var(--muted)]">Deliverable</dt>
+          <dt className="text-[10px] font-semibold uppercase tracking-wide text-[var(--muted)]">Sản phẩm bàn giao</dt>
           <dd className="text-[var(--muted)]">{service.deliverable}</dd>
         </div>
       </dl>
@@ -113,7 +114,7 @@ function PhaseSection({ phase, defaultOpen }: { phase: LifecyclePhase; defaultOp
               </div>
             </div>
             <p className="text-sm italic text-[var(--muted)] mb-2">"{phase.mindset}"</p>
-            <p className="text-xs font-medium text-[var(--muted)]">Thời gian typic: {phase.duration}</p>
+            <p className="text-xs font-medium text-[var(--muted)]">Thời gian điển hình: {phase.duration}</p>
           </div>
           {phaseDoc && (
             <Link
@@ -127,7 +128,7 @@ function PhaseSection({ phase, defaultOpen }: { phase: LifecyclePhase; defaultOp
       </div>
 
       {services.length === 0 ? (
-        <p className="text-sm text-[var(--muted)] px-2">Không có gói riêng — xem Hub hoặc giai đoạn liền kề.</p>
+        <p className="text-sm text-[var(--muted)] px-2">Không có gói riêng — xem trung tâm kết nối (hub) hoặc giai đoạn liền kề.</p>
       ) : (
         <div className="grid md:grid-cols-2 gap-4">
           {services.map((s) => (
@@ -153,7 +154,7 @@ export function ServicesPageContent() {
       {/* Hero */}
       <header className="mb-10">
         <div className="text-xs font-semibold tracking-wider uppercase text-[var(--accent)] mb-3">
-          Catalog v1 · Vòng đời 9 giai đoạn
+          Danh mục dịch vụ · 9 giai đoạn vòng đời
         </div>
         <h1 className="text-4xl font-bold tracking-tight mb-4">Dịch vụ theo vòng đời doanh nghiệp</h1>
         <p className="text-lg text-[var(--muted)] max-w-3xl leading-relaxed mb-6">
@@ -169,13 +170,19 @@ export function ServicesPageContent() {
             href="/docs/03-departments/04-san-pham/service-catalog-v1"
             className="inline-flex items-center px-4 h-10 rounded-full bg-[var(--accent)] text-white text-sm font-medium hover:opacity-90"
           >
-            Catalog đầy đủ (markdown) →
+            Danh mục đầy đủ (tài liệu) →
           </Link>
           <Link
             href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map"
             className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] text-sm font-medium hover:bg-white"
           >
-            Bản đồ vòng đời G0–G8 →
+            Bản đồ 9 giai đoạn →
+          </Link>
+          <Link
+            href="/logistics"
+            className="inline-flex items-center px-4 h-10 rounded-full border border-amber-300 bg-amber-50 text-sm font-medium text-amber-900 hover:bg-amber-100"
+          >
+            Hậu cần & hải quan →
           </Link>
         </div>
       </header>
@@ -183,7 +190,7 @@ export function ServicesPageContent() {
       {/* Lifecycle diagram */}
       <section className="mb-12 p-6 rounded-2xl border border-[var(--border)] bg-white overflow-x-auto">
         <h2 className="text-sm font-semibold uppercase tracking-wider text-[var(--muted)] mb-4">
-          Vòng đời nhà máy FDI Trung Quốc tại Việt Nam
+          Vòng đời nhà máy đầu tư nước ngoài (FDI) từ Trung Quốc tại Việt Nam
         </h2>
         <div className="flex items-stretch gap-1 min-w-[720px]">
           {LIFECYCLE_PHASES.map((p, i) => (
@@ -265,7 +272,7 @@ export function ServicesPageContent() {
             <div key={family.id} className="rounded-2xl border border-[var(--border)] bg-white p-6">
               <div className="flex flex-col gap-2 mb-5">
                 <div className="inline-flex w-fit items-center rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold text-amber-900">
-                  Logistics & hải quan
+                  Hậu cần & hải quan
                 </div>
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
                   <div>
@@ -276,7 +283,7 @@ export function ServicesPageContent() {
                     href="/logistics"
                     className="shrink-0 inline-flex items-center px-4 h-9 rounded-full bg-amber-600 text-white text-sm font-medium hover:bg-amber-700"
                   >
-                    Landing logistics →
+                    Xem trang chi tiết →
                   </Link>
                 </div>
               </div>
@@ -293,7 +300,9 @@ export function ServicesPageContent() {
       {/* By phase */}
       <section className="mb-12 space-y-12">
         <h2 className="text-xl font-bold">
-          {activePhase === "all" ? "Dịch vụ theo từng giai đoạn" : `Giai đoạn ${activePhase}`}
+          {activePhase === "all"
+            ? "Dịch vụ theo từng giai đoạn"
+            : LIFECYCLE_PHASES.find((p) => p.id === activePhase)?.name ?? "Giai đoạn"}
         </h2>
         {visiblePhases.map((phase) => (
           <PhaseSection key={phase.id} phase={phase} />
@@ -304,12 +313,14 @@ export function ServicesPageContent() {
       <section className="mb-12 p-6 rounded-2xl border border-[var(--border)] bg-gradient-to-br from-stone-50 to-white">
         <h2 className="text-xl font-bold mb-2">Lộ trình dịch vụ điển hình</h2>
         <p className="text-sm text-[var(--muted)] mb-6">
-          Một nhà máy Trung Quốc mới vào Việt Nam — từ tư vấn miễn phí đến retainer vận hành, và khi cần di dời hoặc về nước.
+          Một nhà máy Trung Quốc mới vào Việt Nam — từ tư vấn miễn phí đến dịch vụ thuê ngoài theo tháng, và khi cần di dời hoặc về nước.
         </p>
         <div className="space-y-4">
           {TYPICAL_JOURNEY.map((step) => (
             <div key={step.phase} className="flex flex-col sm:flex-row sm:items-center gap-3">
-              <div className="shrink-0 w-24 text-sm font-bold text-[var(--accent)]">{step.phase}</div>
+              <div className="shrink-0 sm:w-64 text-sm font-bold text-[var(--accent)] leading-snug">
+                {PHASE_JOURNEY_LABELS[step.phase] ?? step.phase}
+              </div>
               <div className="flex flex-wrap gap-2">
                 {step.services.map((id) => {
                   const s = SERVICES.find((x) => x.id === id);
@@ -329,7 +340,7 @@ export function ServicesPageContent() {
           ))}
         </div>
         <p className="text-xs text-[var(--muted)] mt-6">
-          Giá trị lifetime 1 khách (ước tính): 40.000 – 150.000 USD nếu giữ retainer G5.
+          Giá trị trọn đời một khách (ước tính): 40.000 – 150.000 USD nếu giữ dịch vụ thuê ngoài ở giai đoạn vận hành.
         </p>
       </section>
 
@@ -339,11 +350,11 @@ export function ServicesPageContent() {
           <div key={key} className={`p-4 rounded-xl border border-[var(--border)] ${style.className} bg-opacity-50`}>
             <div className="text-xs font-bold uppercase tracking-wide">{style.label}</div>
             <p className="text-[10px] mt-1 opacity-80">
-              {key === "entry" && "A0, làm quen"}
-              {key === "policy" && "TN, HP, IRC, setup"}
-              {key === "logistics" && "Hải quan, XNK, cảng"}
-              {key === "hub" && "Pháp lý, KT, kết nối"}
-              {key === "exit" && "G7 di dời, G8 thoái"}
+              {key === "entry" && "A0, làm quen khách"}
+              {key === "policy" && "Chính sách tỉnh, giấy đầu tư, setup"}
+              {key === "logistics" && "Hải quan, xuất nhập khẩu, cảng"}
+              {key === "hub" && "Pháp lý, kế toán, kết nối"}
+              {key === "exit" && "Di dời tỉnh, thoái vốn"}
             </p>
           </div>
         ))}
@@ -353,8 +364,9 @@ export function ServicesPageContent() {
       <section className="p-6 rounded-xl border border-dashed border-[var(--border)] bg-gray-50/50">
         <h2 className="font-semibold mb-2">Bắt đầu từ đâu?</h2>
         <p className="text-sm text-[var(--muted)] mb-4">
-          Chưa chắc vào Việt Nam → <strong>A0</strong> miễn phí. Đã có ý định → <strong>A1</strong> báo cáo desk.
-          NM đang chạy → <strong>B3 + H3</strong> retainer. Cần chuyển tỉnh / đóng NM → <strong>G7/G8-Pack</strong>.
+          Chưa chắc vào Việt Nam → <strong>A0</strong> miễn phí. Đã có ý định → <strong>A1</strong> báo cáo khảo sát.
+          Nhà máy đang chạy → <strong>B3 + H3</strong> dịch vụ thuê ngoài theo tháng. Cần chuyển tỉnh / đóng nhà máy →{" "}
+          <strong>gói di dời / giải thể</strong>.
         </p>
         <div className="flex flex-wrap gap-3">
           <Link href="/docs/03-departments/03-kinh-doanh/pricing-official" className="text-sm text-[var(--accent)] hover:underline">

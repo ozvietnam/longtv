@@ -1,9 +1,9 @@
 import { LogisticsPageContent } from "@/components/LogisticsPageContent";
 
 export const metadata = {
-  title: "Logistics & hải quan · LongTV",
+  title: "Hậu cần & hải quan · LongTV",
   description:
-    "Dịch vụ hải quan, khai báo XNK, nhập thiết bị, vận chuyển TQ→Hải Phòng và retainer chuỗi nhập–sản xuất–xuất khẩu cho nhà máy FDI miền Bắc.",
+    "Dịch vụ hải quan, khai báo xuất nhập khẩu, nhập thiết bị, vận chuyển Trung Quốc→Hải Phòng và dịch vụ thuê ngoài theo tháng cho nhà máy đầu tư nước ngoài miền Bắc.",
 };
 
 export default function LogisticsPage() {
