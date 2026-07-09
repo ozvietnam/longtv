@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T143d,<h1>TODO — Pháp lý &#x26; Chính sách</h1>
+3:T17a0,<h1>TODO — Pháp lý &#x26; Chính sách</h1>
 <h2>Tháng 2026-07 | Phòng: Pháp lý &#x26; Chính sách</h2>
 <table>
 <thead>
@@ -47,6 +47,16 @@
 <td>done</td>
 <td>2026-07-08</td>
 <td>/docs/05-clarifications/00-team-input-requirements</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>PL-008</td>
+<td>Lập thư viện pháp luật + kế hoạch cẩm nang FDI: 100% vốn nước ngoài, góp vốn/mua cổ phần, IRC/ERC, môi trường, giấy phép sản xuất</td>
+<td>V2.2</td>
+<td>@cursor</td>
+<td>review</td>
+<td>2026-07-09</td>
+<td>/docs/data/fdi-legal/legal-library</td>
 </tr>
 <tr>
 <td>P1</td>
@@ -146,7 +156,9 @@
 <p>Kiểm tra ngành nghề kinh doanh: mã ngành tư vấn quản lý (7020), tư vấn đầu tư. Xác định có cần sub-license không (tư vấn pháp lý, tài chính là ngành có điều kiện).</p>
 <h3>PL-003 — Timeline</h3>
 <p>Mẫu: Chuẩn bị hồ sơ (1 tuần) → Đăng ký DN (3–5 ngày) → Con dấu + tài khoản (1 tuần) → Giấy phép con (nếu có). Ghi chi phí từng bước.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Pháp lý & Chính sách"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Pháp lý & Chính sách."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+<h3>PL-008 — Thư viện pháp luật &#x26; cẩm nang FDI</h3>
+<p>Tạo thư viện pháp luật chia nhóm, kho dữ liệu nguồn và backlog bài viết cho trang chủ. Phạm vi gồm: văn bản pháp lý FDI, mô hình 100% vốn nước ngoài, góp vốn/mua cổ phần, quy trình IRC/ERC, khảo sát/đánh giá tác động môi trường, giấy phép môi trường và checklist giấy phép sản xuất. Mỗi bài phải có tham chiếu nguồn pháp luật và trạng thái review trước khi xuất bản.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Pháp lý & Chính sách"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Pháp lý & Chính sách."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7Gx334A2cMoQj6U-Qw7Mr"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/hermes-field-brief-template","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Template — Brief LONGTV 1 trang (gửi Sở/KCN)"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/hermes-directive-log","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nhật ký chỉ đạo Hermes"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
