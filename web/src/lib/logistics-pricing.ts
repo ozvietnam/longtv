@@ -181,14 +181,20 @@ export const LOGISTICS_6M_TOTALS = (() => {
   let revenueVnd = 0;
   let gpVnd = 0;
   let cont = 0;
+  let exportCont = 0;
+  let importCont = 0;
   for (const m of LOGISTICS_RAMP_MONTHS) {
     const pnl = monthLogisticsPnl(m.cont);
     revenueVnd += pnl.revenueVnd;
     gpVnd += pnl.gpVnd;
     cont += m.cont;
+    exportCont += pnl.exportCont;
+    importCont += pnl.importCont;
   }
   return {
     cont,
+    exportCont,
+    importCont,
     revenueVnd,
     gpVnd,
     marginPct: Math.round((gpVnd / revenueVnd) * 1000) / 10,

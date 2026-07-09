@@ -18,17 +18,29 @@ status: "desk-benchmark"
 
 ## 1. Tóm tắt cho Leader
 
-| Dịch vụ | Giá thị trường (VNĐ/cont hoặc/lần) | Biên gộp desk | LONGTV năm đầu |
-|---------|-----------------------------------|---------------|----------------|
-| **Khai báo hải quan** (FCL xuất SX) | 400k – 700k/cont | 35–55% trên phí dịch vụ | Điều phối qua đại lý GPLS |
-| **Khai báo nhập KD** (cont đầu) | 800k – 1,2M/cont | 25–40% | Cùng mô hình |
-| **Xin C/O xuất khẩu** | 1,2 – 1,5M/lần | 30–45% | Form E / ACFTA / RCEP |
-| **Trucking HP → TN** (20DC) | 5,3 – 5,8M/cont | 8–15% markup | Không sở hữu xe — đối tác |
-| **Trucking trong HP** (Đình Vũ) | 1,5 – 2,1M/cont | 10–15% | Tuyến ngắn |
+> **Đọc nhanh:** (1) LONGTV điều phối, không sở hữu xe · (2) Giá theo cont desk 07/2026 · (3) Mục tiêu **200 cont/tháng** tổng sau 6T, Oz 50 từ T8 · (4) Chi tiết UI: [/logistics](/logistics)
 
-**Biên lợi nhuận ngành (blended):** freight forwarder thuần **15–25% gross**; đại lý hải quan **35–55%** trên phí khai báo; trucking intermediary **10–20%**. CTCP logistics VN niêm yết (forwarding thuần): gross **~5–17%**, net **~4%**.
+### Chỉ số chính
 
-**Mục tiêu 200 cont/tháng (sau 6 tháng):** **Base chính thức** — tổng xuất + nhập, ramp từ **50 cont/tháng Oz (T8)** tăng đều đến **200 cont/tháng (T12)**. Cần MOU GPLS + 2–3 NM + đội điều phối 4–6 ops.
+| Chỉ số | Giá trị |
+|--------|---------|
+| Mục tiêu tháng 6 | **200 cont/tháng** (xuất + nhập) |
+| Phân bổ | **87 xuất + 113 nhập** (nhập +30%) |
+| GP / cont blended | **~820k VND** (~15,3%) |
+| Tích lũy 6T | **651 cont** · ~3,5 tỷ DT · ~534M GP |
+| Khởi điểm Oz | **50 cont/tháng** từ T8 |
+
+### Biên theo loại dịch vụ
+
+| Dịch vụ | Giá thị trường | Biên desk LONGTV | Ghi chú |
+|---------|----------------|------------------|---------|
+| Khai báo xuất FCL | 400k – 700k/cont | **33%** (750k bán) | Qua GPLS |
+| Khai báo nhập FCL | 800k – 1,2M/cont | **35%** (1M bán) | Cont đầu |
+| C/O Form E | 1,2 – 1,5M/lần | **38%** | ~32% lô xuất |
+| Trucking HP → TN | 5,3 – 5,8M/cont | **9–10%** | Điều phối |
+| Trucking nội HP | 1,5 – 2,1M/cont | **14%** | Tuyến ngắn |
+
+**Biên ngành tham chiếu:** forwarder blended 15–25% · đại lý HQ 35–55% · trucking intermediary 10–20%.
 
 ---
 
