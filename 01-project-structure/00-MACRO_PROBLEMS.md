@@ -45,11 +45,16 @@ Công ty dịch vụ tư vấn đầu tư — giúp nhà máy Trung Quốc dịc
 - V5.5 KPI
 
 ### V6. TÀI CHÍNH & DÒNG TIỀN
-- V6.1 Vốn khởi điểm
-- V6.2 Burn rate
-- V6.3 Break-even
-- V6.4 Nguồn doanh thu
-- V6.5 Kịch bản xấu
+- V6.1 Vốn khởi điểm → ✅ [use-of-funds-2b](/docs/03-departments/05-van-hanh-tc/use-of-funds-2b) (2 tỷ)
+- V6.2 Burn rate → ✅ [burn-tracker](/docs/03-departments/05-van-hanh-tc/burn-tracker) + [startup-budget](/docs/04-research/2026-07/startup-budget)
+- V6.3 Break-even → ✅ [break-even-analysis](/docs/03-departments/05-van-hanh-tc/break-even-analysis)
+- V6.4 Nguồn doanh thu → ✅ [financial-model-3yr](/docs/03-departments/05-van-hanh-tc/financial-model-3yr) (6T/1N/2N)
+- V6.5 Kịch bản xấu → ✅ [plan-b-no-revenue](/docs/04-research/2026-07/plan-b-no-revenue)
+
+**Giai đoạn 1 — Yêu cầu đánh giá đầu tư (bổ sung 2026-07-09):**
+- Có nên đầu tư 2 tỷ? → [investment-verdict](/docs/06-phases/investor-pack/00-investment-verdict)
+- Chiến lược dài hạn → [strategy-3yr](/docs/03-departments/01-chien-luoc/strategy-3yr)
+- Pitch kêu gọi vốn / C-level → [investor-pitch-deck](/docs/03-departments/03-kinh-doanh/investor-pitch-deck) + [pitch-gap-checklist](/docs/06-phases/investor-pack/02-pitch-gap-checklist)
 
 ### V7. RỦI RO & PHÒNG HỜ
 - V7.1 Rủi ro pháp lý

@@ -45,6 +45,12 @@ author: "Cursor"
 | P1 | KIM-051 | **Đàm phán MOU** Ban QLKCN (giới thiệu NĐT) | Leader | todo | 2026-08-31 | /docs/03-departments/02-phap-ly/templates/mou-kcn |
 | P2 | KIM-060 | Kết nối **Vercel** auto-deploy từ GitHub | Leader | todo | — | /docs/DEPLOY |
 | P2 | KIM-061 | Chọn **virtual office** & ký HĐ thuê địa chỉ | Leader | todo | 2026-08-01 | /docs/04-research/2026-07/plan-b-no-revenue |
+| P1 | KIM-070 | **Làm slide deck investor** 15 slide từ outline | Leader | todo | 2026-07-20 | /docs/03-departments/03-kinh-doanh/investor-pitch-deck |
+| P1 | KIM-071 | **Dry-run pitch** 15 phút + ghi hình | Leader | todo | 2026-07-25 | /docs/06-phases/investor-pack/01-executive-summary |
+| P1 | KIM-072 | **Chốt cap table** % cổ đông VN/TQ | Leader | todo | 2026-07-15 | /docs/05-clarifications/cap-table-v1 |
+| P2 | KIM-073 | **JD + equity** Phó TGĐ / Trưởng KD (tuyển C-level) | Leader | todo | 2026-08-15 | /docs/05-clarifications/cap-table-v1 |
+| P2 | KIM-074 | **Setup data room** folder due diligence | VT | todo | 2026-08-01 | /docs/06-phases/investor-pack/02-pitch-gap-checklist |
+| P1 | KIM-075 | **Review financial model** — chọn Bear/Base/Bull năm 1 | Leader | todo | 2026-07-12 | /docs/03-departments/05-van-hanh-tc/financial-model-3yr |
 
 ---
 
@@ -59,6 +65,7 @@ author: "Cursor"
 | Thành lập CTCP | KIM-031 |
 | Bán hàng / khách thật | KIM-040, 041 |
 | Hạ tầng web | KIM-030, 060 |
+| Đầu tư & pitch | KIM-070 – 075, 072 |
 
 ---
 

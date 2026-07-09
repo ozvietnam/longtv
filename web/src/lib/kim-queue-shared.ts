@@ -15,6 +15,7 @@ export const OWNER_GROUPS: Record<string, { label: string; className: string }> 
   Sales: { label: "Sales", className: "bg-emerald-100 text-emerald-800" },
   "Leader + Luật": { label: "Leader + Luật", className: "bg-amber-100 text-amber-900" },
   "Leader / KD": { label: "Leader / KD", className: "bg-amber-100 text-amber-900" },
+  VT: { label: "VT", className: "bg-sky-100 text-sky-800" },
 };
 
 export const JOB_CATEGORIES = [
@@ -52,5 +53,10 @@ export const JOB_CATEGORIES = [
     id: "infra",
     label: "Web & văn phòng",
     ids: ["KIM-030", "KIM-060", "KIM-061"],
+  },
+  {
+    id: "invest",
+    label: "Đầu tư & pitch",
+    ids: ["KIM-070", "KIM-071", "KIM-072", "KIM-073", "KIM-074", "KIM-075"],
   },
 ];

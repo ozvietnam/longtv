@@ -308,6 +308,7 @@ A0 → A1 → B1 → B2 → B1-ext → B3 + H3 (retainer)
 
 ## Việc tiếp theo
 
+- [x] Trang web `/services` — [services-page-source](services-page-source)
 - [ ] Leader duyệt catalog v1 làm chuẩn bán hàng
 - [ ] PL: memo pháp lý G7/G8 (thủ tục chi tiết)
 - [ ] KD: one-pager G7/G8 tiếng Trung (niche ít đối thủ)

@@ -12,8 +12,9 @@ author: "Cursor"
 
 | Giai đoạn | Tên | Trạng thái | Mục tiêu |
 |-----------|-----|------------|----------|
-| **00-1** | [Đánh giá tiềm năng & khả thi](00-1-feasibility-plan) | **✅ HOÀN THÀNH** | Thị trường + catalog đủ + Go/No-Go |
+| **00-1** | [Đánh giá tiềm năng & khả thi](00-1-feasibility-plan) | **✅ HOÀN THÀNH** | Thị trường + catalog + Go/No-Go + **Investor Pack** |
 | **2** | [Xây hệ thống chi tiết](02-giai-doan-2-overview) | **ĐANG TRIỂN KHAI** | SOP, sales, CTCP, pilot A1 |
+| **Investor** | [Bộ đánh giá đầu tư](investor-pack/00-index) | **✅ DESK** | DT 6T/1N/2N · pitch · cap table mẫu |
 | P1–P5 | Khung cây vấn đề V1–V7 | Song song | Xem [Các pha](/phases) trên web |
 
 **Giai đoạn hiện tại:** [Giai đoạn 2 — Kế hoạch](02-giai-doan-2-plan)

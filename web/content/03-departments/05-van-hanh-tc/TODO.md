@@ -22,6 +22,9 @@ author: "Sếp Thắng"
 | P2 | VT-006 | Đề xuất KPI tháng cho 5 phòng ban (1–2 KPI/phòng) | V5.5 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/kpi-thang |
 | P0 | VT-G2-01 | Burn tracker template | V6.2 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/burn-tracker |
 | P0 | VT-G2-02 | Báo cáo burn tuần (thực tế) | V6.2 | VT | doing | 2026-08-31 | |
+| P0 | VT-007 | Mô hình tài chính 3 năm (6T/1N/2N — Bear/Base/Bull) | V6.4 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/financial-model-3yr |
+| P0 | VT-008 | Use of funds 2 tỷ + break-even | V6.1/V6.3 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/use-of-funds-2b |
+| P1 | VT-009 | Leader chọn kịch bản năm 1 (Bear/Base/Bull) | V6.4 | Leader | todo | 2026-07-12 | KIM-075 |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
@@ -33,6 +36,7 @@ author: "Sếp Thắng"
 - [x] Hoàn thiện **Scorecard 10 tiêu chí** — [00-1-scorecard](/docs/06-phases/00-1-scorecard)
 - [x] Điền điểm #8, #10
 - [x] Tổng hợp đề xuất **Go + Adjust** → [QĐ #005](/docs/decisions/005-phase-00-1-go)
+- [x] **Investor Pack** — financial model, use of funds, break-even → [investor-pack](/docs/06-phases/investor-pack/00-index)
 
 ## Giai đoạn 2 — KPI & tài chính
 

@@ -40,8 +40,14 @@ author: "Cursor · Sếp Thắng"
 └────────┬────────┘   └────────┬────────┘   └────────┬────────┘
          │                     │                     │
          └─────────────────────┼─────────────────────┘
-                               ▼
-                    MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+              MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+   TRỤ CỘT 4 — ĐÁNH GIÁ ĐẦU TƯ & GỌI VỐN (bổ sung 2026-07-09)
 ```
 
 | Trụ cột | Câu hỏi then chốt | Phòng chủ trì | Deliverable |
@@ -49,6 +55,27 @@ author: "Cursor · Sếp Thắng"
 | **1. Thị trường** | Có bao nhiêu NM TQ thực sự muốn vào TN/HP? Họ trả bao nhiêu? | Chiến lược + Kinh doanh | Memo thị trường + persona |
 | **2. Catalog dịch vụ** | LONGTV phủ hết hành trình FDI chưa? Thiếu gì? | Sản phẩm | [Bản đồ hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
 | **3. Khả thi triển khai** | 2 tỷ vốn + team bootstrap có đủ không? Rủi ro chính? | Pháp lý + Vận hành | Scorecard + kịch bản xấu |
+| **4. Đánh giá đầu tư** | Với 2 tỷ, team & VP ảo — **có nên đầu tư?** DT/khách 6T/1N/2N? Pitch thiếu gì? | Vận hành + Chiến lược + KD | [Investor Pack](/docs/06-phases/investor-pack/00-index) |
+
+### Trụ cột 4 — Đánh giá đầu tư & gọi vốn
+
+> **Yêu cầu bổ sung (Leader, 2026-07-09):** Đủ thông tin để quyết định **có nên đầu tư**; dự phóng **doanh số & khách** sau 6 tháng, 1 năm, 2 năm; **chiến lược dài hạn**; và bộ tài liệu **thuyết trình kêu gọi vốn / tìm C-level**.
+
+| Câu hỏi | Tài liệu trả lời | Trạng thái |
+|---------|------------------|------------|
+| Có nên đầu tư 2 tỷ? | [Investment verdict](/docs/06-phases/investor-pack/00-investment-verdict) | ✅ Go có điều kiện |
+| Phân bổ vốn? | [Use of funds 2B](/docs/03-departments/05-van-hanh-tc/use-of-funds-2b) | ✅ Đề xuất |
+| DT & khách 6T/1N/2N? | [Financial model 3yr](/docs/03-departments/05-van-hanh-tc/financial-model-3yr) | ✅ Bear/Base/Bull |
+| Hòa vốn khi nào? | [Break-even](/docs/03-departments/05-van-hanh-tc/break-even-analysis) | ✅ ~tháng 15 (base) |
+| Chiến lược 3 năm? | [Strategy 3yr](/docs/03-departments/01-chien-luoc/strategy-3yr) | ✅ |
+| Pitch thiếu gì? | [Pitch gap checklist](/docs/06-phases/investor-pack/02-pitch-gap-checklist) | ✅ |
+| Cap table? | [cap-table-v1](/docs/05-clarifications/cap-table-v1) | 🟡 Chờ Leader điền |
+
+**Kết luận trụ cột 4:** Đủ cho **cổ đông chiến lược** quyết định; **chưa đủ** cho investor thứ ba nếu chưa có ≥1 HĐ + cap table ký.
+
+---
+
+## Ba trụ cột đánh giá (bảng chi tiết)
 
 ---
 
@@ -139,6 +166,7 @@ Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/r
 | 2 | **Catalog dịch vụ v1** | Map đủ [6 giai đoạn hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
 | 3 | **Scorecard điền đủ 10 tiêu chí** | Bảng trên, có điểm số + giải thích |
 | 4 | **Quyết định Go/No-Go** | Leader ký — mở Giai đoạn 2 hoặc điều chỉnh |
+| 5 | **Investor Pack (trụ cột 4)** | Verdict đầu tư + financial model 3yr + strategy 3yr + pitch gap — [index](/docs/06-phases/investor-pack/00-index) |
 
 ---
 
@@ -157,6 +185,7 @@ Khi **Go** từ 00-1 → xem [Overview Giai đoạn 2](02-giai-doan-2-overview).
 | Memo tiềm năng | [00-1-market-memo](00-1-market-memo) |
 | Scorecard 38/50 | [00-1-scorecard](00-1-scorecard) |
 | Quyết định Go | [QĐ #005](/docs/decisions/005-phase-00-1-go) |
+| **Investor Pack** | [investor-pack/00-index](investor-pack/00-index) |
 
 **Còn field (Leader):** Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ
 
