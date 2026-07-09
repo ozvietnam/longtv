@@ -10,17 +10,23 @@ author: "Cursor"
 
 # Hộp việc Thư ký Kim
 
-> **Quy tắc:** Chỉ ghi việc cần **tương tác con người** (gọi điện, ký, gặp, nộp hồ sơ, bán hàng thật). Việc desk/AI đã xong → link Evidence, không đưa vào đây.
+> **Định nghĩa đầy đủ:** [Kim là gì?](/docs/05-clarifications/what-is-kim) — đọc trước khi thêm việc.
 >
-> **Leader:** Xử lý tập trung tại [trang /kim](/kim) trên web.
+> **Kim = việc chỉ con người thật tự hoàn thiện và đi làm.** Gọi điện, ký, gặp, nộp hồ sơ, chốt khách, field thật. **AI/Cursor không thay thế** và **không tick `done` thay owner**.
+>
+> Việc desk/AI (research, build web, soạn markdown) → [/operations](/operations) hoặc `04-research/` — **không** đưa vào Kim.
+>
+> **Xem & xử lý:** [trang /kim](/kim) — mỗi owner người (Leader, Hermes, Sales, Luật…) tự nhận việc của mình.
 
 ---
 
 ## Cách cập nhật
 
-1. Thêm/sửa dòng bảng dưới đây
-2. `status`: `todo` · `doing` · `done` · `blocked`
-3. Commit → deploy → trang `/kim` tự cập nhật
+1. Đọc [Kim là gì?](/docs/05-clarifications/what-is-kim) — chỉ thêm việc **người thật phải đi làm**
+2. Thêm/sửa dòng bảng dưới đây
+3. `status`: `todo` · `doing` · `done` · `blocked` — **chỉ owner người** đổi sang `done` sau khi đã làm thật
+4. Commit → deploy → trang `/kim` tự cập nhật
+5. Cursor cập nhật research/evidence **sau** khi người báo kết quả — không thay bước 3
 
 ---
 

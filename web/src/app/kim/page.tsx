@@ -2,9 +2,9 @@ import { KimQueueContent } from "@/components/KimQueueContent";
 import { getKimQueue } from "@/lib/kim-queue";
 
 export const metadata = {
-  title: "Giao Thư ký Kim · LongTV",
+  title: "Thư ký Kim — việc cần người thật · LongTV",
   description:
-    "Hộp việc cần người thật — gọi Sở, ký quyết định, khách hàng, pháp lý. Leader xử lý tập trung tại đây.",
+    "Hàng chờ việc chỉ con người tự hoàn thiện và đi làm: gọi Sở, ký, gặp khách, nộp hồ sơ. AI không thay thế.",
 };
 
 export default function KimPage() {

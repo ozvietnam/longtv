@@ -62,7 +62,7 @@ Sau Wave 1 (desk research 00-1), LONGTV cần **xác minh thực địa** (Sở,
 
 - Rà soát [/kim](/kim) filter **Nghiên cứu (Hermes)** mỗi lần cập nhật repo
 - Ghi chỉ đạo mới vào [hermes-directive-log](/docs/03-departments/01-chien-luoc/hermes-directive-log)
-- Mở PR khi Hermes xong evidence; không tick `done` thay Hermes
+- Mở PR khi Hermes xong evidence; **không tick `done` thay Hermes** ([Kim là gì?](/docs/05-clarifications/what-is-kim))
 
 ---
 

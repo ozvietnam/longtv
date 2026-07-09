@@ -13,7 +13,8 @@ author: "Cursor"
 > **Ai đọc:** Hermes (thực hiện) · Leader (duyệt) · Cursor (điều phối)  
 > **Gói việc gốc:** [hermes-work-pack-2026-07](/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07)  
 > **Duyệt chính thức:** [QĐ #006](/docs/decisions/006-hermes-wave2-approval)  
-> **Hộp việc:** [/kim](/kim) → lọc **Nghiên cứu (Hermes)**
+> **Hộp việc:** [/kim](/kim) → lọc **Nghiên cứu (Hermes)**  
+> **Lưu ý Kim:** Việc Hermes trong Kim = **người Hermes tự gọi/đi field** — AI chỉ chuẩn bị script. Xem [Kim là gì?](/docs/05-clarifications/what-is-kim)
 
 ---
 

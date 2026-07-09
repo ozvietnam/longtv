@@ -13,11 +13,7 @@ author: "Cursor"
 > **Trạng thái:** ✅ **Đã duyệt** — [QĐ #006](/docs/decisions/006-hermes-wave2-approval) · 2026-07-09  
 > **Chỉ đạo mới nhất:** [hermes-directive-log](/docs/03-departments/01-chien-luoc/hermes-directive-log) (#002, #003)
 
-> **Vai trò:** Nghiên cứu sâu + field verify + thu thập tài liệu cho LONGTV (CTCP tư vấn FDI TQ→VN, trọng tâm Thái Nguyên & Hải Phòng).
->
-> **Leader xử lý:** KIM-001–004, 030, 060, 070–075 — tại [/kim](/kim).
->
-> **Hermes xử lý:** Field call, desk research mở rộng, nguồn địa phương, số liệu FDI — bảng dưới.
+> **Vai trò:** Nghiên cứu sâu + field verify + thu thập tài liệu — **người Hermes** tự thực hiện các mục trong [Kim](/kim). AI chỉ điều phối & soạn tài liệu hỗ trợ ([Kim là gì?](/docs/05-clarifications/what-is-kim)).
 
 ---
 

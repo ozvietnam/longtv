@@ -136,6 +136,7 @@ Khai vấn tháng (Tổng GD)
 | Ký hợp đồng khách | **A** | C | **R** | — | I |
 | Nghiên cứu đối thủ/pháp lý | I | C | — | **R** | A |
 | Cập nhật TODO & web | I | **R** | R | R | **A** |
+| **Kim — việc người thật** | **A/R** | I | **R** | **R** | **I** (chỉ chuẩn bị tài liệu, không làm thay) |
 | Catalog & pricing | A | C | C | C | **R** |
 
 *A = Accountable · R = Responsible · C = Consulted · I = Informed*

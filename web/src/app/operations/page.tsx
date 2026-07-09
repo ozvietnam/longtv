@@ -94,7 +94,13 @@ export default function OperationsPage() {
             href="/kim"
             className="text-sm px-4 py-2 rounded-full bg-[var(--accent-soft)] border border-[var(--accent)]/30 text-[var(--accent)] font-semibold hover:bg-white"
           >
-            → Thư ký Kim — việc cần người
+            → Thư ký Kim — người thật tự làm (không AI)
+          </Link>
+          <Link
+            href="/docs/05-clarifications/what-is-kim"
+            className="text-sm px-4 py-2 rounded-full border border-[var(--border)] hover:border-[var(--accent)]"
+          >
+            Kim là gì?
           </Link>
           <Link
             href="/docs/03-departments/00-org-model"

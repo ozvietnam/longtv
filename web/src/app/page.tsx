@@ -7,8 +7,8 @@ const HUB_LINKS = [
   {
     href: "/kim",
     title: "Thư ký Kim",
-    subtitle: "Việc cần người thật",
-    desc: "Ký, gọi cơ quan & khu công nghiệp, khách hàng, pháp lý — Lãnh đạo xử lý tại đây",
+    subtitle: "Chỉ việc người thật làm",
+    desc: "Gọi, ký, gặp, nộp hồ sơ — AI không thay thế. Mỗi owner tự nhận việc",
     accent: true,
     icon: "★",
   },
