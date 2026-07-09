@@ -26,6 +26,7 @@ const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
+  { href: "/hermes", label: "Hermes", highlight: true },
   { href: "/operations", label: "Vận hành" },
   { href: "/roadmap", label: "Lộ trình" },
   { href: "/departments", label: "Phòng ban" },
