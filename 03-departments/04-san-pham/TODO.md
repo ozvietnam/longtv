@@ -16,8 +16,8 @@ author: "Sếp Thắng"
 |---|-----|------|---------|----------|--------|----------|----------|
 | P0 | SP-001 | Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc) | V4.1, V4.2 | @cursor | done | 2026-07-18 | /docs/03-departments/04-san-pham/service-catalog-v0.2 |
 | P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | @cursor | done | 2026-07-21 | /docs/03-departments/04-san-pham/build-vs-partner |
-| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
-| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
+| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | @cursor | done | 2026-07-25 | /docs/03-departments/04-san-pham/product-bundles |
+| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | @cursor | done | 2026-07-28 | /docs/03-departments/04-san-pham/package-a1-deliverable |
 | P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
@@ -25,11 +25,11 @@ author: "Sếp Thắng"
 - [x] SP-001: Catalog v0.2 (2 mảng + Hub)
 - [x] SP-002: Bảng tự làm vs đối tác
 - [x] Map hành trình FDI 6 giai đoạn — [fdi-journey-service-map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
-- [ ] SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)
-- [ ] SP-003: 3–5 sản phẩm đi kèm (checklist, HS code, logistics intro)
-- [ ] Chốt gap list: hạng mục ⬜ trong journey map → tự làm / đối tác / bỏ
-- [ ] Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝
-- [ ] Điền điểm scorecard #6
+- [x] SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)
+- [x] SP-003: 3 bundle + add-on (checklist, logistics intro)
+- [x] Chốt gap list — ~82% ✅/🤝 trên journey map
+- [x] Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝
+- [x] Điền điểm scorecard #6 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
 
 ## Hướng dẫn thực hiện
 

@@ -1,25 +1,35 @@
 ---
 title: "Nghiên cứu tháng 7/2026"
 description: "Kho báo cáo nghiên cứu — thị trường, pháp lý, đối thủ, tài chính."
-date: 2026-07-08
+date: 2026-07-09
 category: "research"
 order: 30
 tags: ["research", "2026-07"]
-author: "Hermes"
+author: "Hermes + Cursor"
 ---
 
 # Nghiên cứu tháng 7/2026
 
-| Task ID | File | Issue | Trạng thái |
-|---------|------|-------|------------|
-| PL-001 | [legal-entity-comparison](legal-entity-comparison) | #6 | ✅ Done |
-| VT-001 | [startup-budget](startup-budget) | #9 | ✅ Done |
-| CL-001 | [competitors](competitors) | #3 | ✅ Done |
-| CL-002 | [thai-nguyen-fdi-policy](thai-nguyen-fdi-policy) | #4 | 🔄 Desk done · chờ gọi Sở |
-| CL-004 | [fdi-data](fdi-data) | #5 | 🔄 Draft |
-| PL-004 | provincial-incentives | #7 | Chưa bắt đầu |
-| KD-004 | pricing-research | #8 | Chưa bắt đầu |
+> **Giai đoạn 00-1:** Desk research **hoàn thành** — field verify (call Sở/KCN) chuyển sang Giai đoạn 2.
 
-## Giai đoạn 00-1
+| Task ID | File | Trạng thái |
+|---------|------|------------|
+| PL-001 | [legal-entity-comparison](legal-entity-comparison) | ✅ Done |
+| VT-001 | [startup-budget](startup-budget) | ✅ Done |
+| CL-001 | [competitors](competitors) | ✅ Done |
+| CL-002 | [thai-nguyen-fdi-policy](thai-nguyen-fdi-policy) | 🔄 Desk done · chờ gọi Sở |
+| CL-003 | [kcn-desk-research](kcn-desk-research) | 🔄 Desk done · chờ call KCN |
+| CL-004 | [fdi-data](fdi-data) | 🔄 Draft |
+| CL-005 | [why-tn-hp](why-tn-hp) | ✅ Done |
+| CL-006 | [plan-b-no-revenue](plan-b-no-revenue) | ✅ Done |
+| PL-004/005 | [provincial-incentives](provincial-incentives) | ✅ Done |
+| PL-002/006 | [legal-licenses](legal-licenses) | ✅ Done |
+| KD-002 | [gtm-channels](gtm-channels) | ✅ Done |
+| KD-004 | [pricing-draft](pricing-draft) | ✅ Done |
+| — | [hai-phong-fdi-policy](hai-phong-fdi-policy) | 🔄 Desk done · chờ gọi Sở |
 
-Nghiên cứu phục vụ [đánh giá tiềm năng](/docs/06-phases/00-1-feasibility-plan) — ưu tiên CL-002, CL-004, PL-004/005, KD-004.
+## Giai đoạn 00-1 — Kết quả
+
+- [Memo tiềm năng](/docs/06-phases/00-1-market-memo)
+- [Scorecard 38/50](/docs/06-phases/00-1-scorecard)
+- [QĐ #005 Go Giai đoạn 2](/docs/decisions/005-phase-00-1-go) — chờ Leader ký

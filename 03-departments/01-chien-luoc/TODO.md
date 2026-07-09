@@ -16,10 +16,10 @@ author: "Sếp Thắng"
 |---|-----|------|---------|----------|--------|----------|----------|
 | P0 | CL-001 | Nghiên cứu và lập bảng so sánh 10 đối thủ tư vấn FDI TQ→VN (tên, dịch vụ, giá, điểm mạnh/yếu) | V1.4 | @hermes | done | 2026-07-18 | /docs/04-research/2026-07/competitors |
 | P0 | CL-002 | Liên hệ và lấy thông tin từ Sở KH&ĐT Thái Nguyên về chính sách thu hút FDI TQ | V1.2 | @hermes | doing | 2026-07-21 | /docs/04-research/2026-07/thai-nguyen-fdi-policy |
-| P0 | CL-003 | Phỏng vấn/tham quan ít nhất 1 KCN tại Thái Nguyên hoặc Hải Phòng | V1.2 | — | todo | 2026-07-25 | |
+| P0 | CL-003 | Phỏng vấn/tham quan ít nhất 1 KCN tại Thái Nguyên hoặc Hải Phòng | V1.2 | @cursor | doing | 2026-07-25 | /docs/04-research/2026-07/kcn-desk-research |
 | P1 | CL-004 | Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026) | V1.3 | @cursor | doing | 2026-07-28 | /docs/04-research/2026-07/fdi-data |
-| P1 | CL-005 | Viết memo tại sao chọn Thái Nguyên & Hải Phòng (so với Bắc Ninh, Hưng Yên) | V1.2 | — | todo | 2026-07-28 | |
-| P2 | CL-006 | Draft Plan B nếu không có khách trong 3 tháng đầu | V7.5 | — | todo | 2026-07-31 | |
+| P1 | CL-005 | Viết memo tại sao chọn Thái Nguyên & Hải Phòng (so với Bắc Ninh, Hưng Yên) | V1.2 | @cursor | done | 2026-07-28 | /docs/04-research/2026-07/why-tn-hp |
+| P2 | CL-006 | Draft Plan B nếu không có khách trong 3 tháng đầu | V7.5 | @cursor | done | 2026-07-31 | /docs/04-research/2026-07/plan-b-no-revenue |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
@@ -27,12 +27,12 @@ author: "Sếp Thắng"
 
 - [x] CL-001: Bảng 10 đối thủ
 - [x] CL-002: Desk research Thái Nguyên (chờ gọi Sở)
-- [ ] CL-003: Tham quan / call 1 KCN (TN hoặc HP)
+- [x] CL-003: Desk KCN Yên Bình + Nam Đình Vũ — **chờ call KCN**
 - [x] CL-004: Số liệu FDI sơ bộ (desk) — chờ verify Sở
-- [ ] CL-005: Memo tại sao TN & HP (vs Bắc Ninh, Hưng Yên)
-- [ ] CL-006: Plan B nếu 3 tháng không có khách
-- [ ] Điền điểm scorecard #1, #2, #3, #10
-- [ ] Góp phần **Memo tiềm năng thị trường** (tuần 4)
+- [x] CL-005: Memo tại sao TN & HP (vs Bắc Ninh, Hưng Yên)
+- [x] CL-006: Plan B nếu 3 tháng không có khách
+- [x] Điền điểm scorecard #1, #2, #3, #10 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
+- [x] Góp phần **Memo tiềm năng thị trường** → [00-1-market-memo](/docs/06-phases/00-1-market-memo)
 
 ## Hướng dẫn thực hiện
 
