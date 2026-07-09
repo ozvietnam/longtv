@@ -2,7 +2,7 @@
 2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T7d66,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+3:T8473,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
 <blockquote>
 <p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
 <p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
@@ -157,6 +157,10 @@
     <strong>Vì sao nhà máy TQ sang Việt Nam</strong>
     <span>8 động lực China+1, trade war, FTA, logistics và rules of origin.</span>
   </a>
+  <a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">
+    <strong>Góc nhìn ông chủ xưởng TQ</strong>
+    <span>Tâm lý sinh tồn, kênh Baidu/WeChat/Zhihu/36Kr và bẫy thông tin.</span>
+  </a>
 </div>
 <h2>Góc nhìn bổ sung — China+1 không chỉ là “dịch chuyển nhà máy”</h2>
 <table>
@@ -197,6 +201,44 @@
 </table>
 <p><strong>Thông điệp bán hàng mới:</strong> <em>China+1 vào Việt Nam không chỉ là lập công ty — phải chọn tỉnh đúng, tránh rủi ro xuất xứ và thiết lập hải quan từ ngày đầu.</em></p>
 <p>Nguồn chi tiết: <a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam</a>.</p>
+<h2>Góc nhìn người mua — Lý Tổng không thiếu thông tin, mà thiếu bộ lọc đáng tin</h2>
+<table>
+<thead>
+<tr>
+<th>Tâm lý của chủ xưởng TQ</th>
+<th>Hệ quả khi tìm thông tin</th>
+<th>LONGTV cần làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Không ra đi thì mất đơn hàng”</td>
+<td>Quyết định vội, dễ nghe môi giới nói dễ</td>
+<td>A0/A1 phải giúp dừng lại và kiểm tra đúng thứ tự</td>
+</tr>
+<tr>
+<td>Không dùng Google/tiếng Việt</td>
+<td>Phụ thuộc Baidu, WeChat, Zhihu, 36Kr, hội nhóm</td>
+<td>Content tiếng Trung + nguồn Việt Nam đã lọc</td>
+</tr>
+<tr>
+<td>Sợ bị lừa đất/xưởng</td>
+<td>Cần người đứng về phía nhà đầu tư</td>
+<td>LONGTV định vị PM độc lập, không chỉ bán đất</td>
+</tr>
+<tr>
+<td>Không hiểu rules of origin</td>
+<td>Nghĩ “sang VN là né thuế”</td>
+<td>B1 + Oz HS/XNK core + checklist C/O/BOM/quy trình</td>
+</tr>
+<tr>
+<td>Lo sau vận hành</td>
+<td>Sợ lỗ ban đầu, lao động/văn hóa/thuế/hải quan</td>
+<td>B3 retainer + kế toán/CPA + SOP vận hành</td>
+</tr>
+</tbody>
+</table>
+<p>Nguồn chi tiết: <a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">CL-016 — Ông chủ xưởng Trung Quốc ra quyết định sang Việt Nam như thế nào</a>.</p>
 <h2>Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu</h2>
 <table>
 <thead>
@@ -338,6 +380,11 @@
 <td>CL-015</td>
 <td>Vì sao NM TQ sang Việt Nam</td>
 <td><a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">china-to-vietnam-manufacturing-shift</a></td>
+</tr>
+<tr>
+<td>CL-016</td>
+<td>Persona sâu Lý Tổng + kênh thông tin TQ</td>
+<td><a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">chinese-factory-owner-decision-journey</a></td>
 </tr>
 </tbody>
 </table>
@@ -866,7 +913,7 @@
 <li class="task-list-item"><input type="checkbox" disabled> Theo dõi tiến độ tại <a href="/hermes">/hermes</a> và <a href="/kim?filter=hermes">/kim?filter=hermes</a></li>
 <li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP (sau ký QĐ)</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zPv3R99nr5KiTUvVqZyot"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

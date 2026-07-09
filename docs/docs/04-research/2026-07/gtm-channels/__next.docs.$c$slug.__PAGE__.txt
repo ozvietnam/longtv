@@ -2,7 +2,7 @@
 2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:Tfee,<h1>KD-002 — Kênh GTM (Go-to-Market) v1</h1>
+3:T17b1,<h1>KD-002 — Kênh GTM (Go-to-Market) v1</h1>
 <blockquote>
 <p><strong>Phòng:</strong> Kinh doanh | <strong>Giai đoạn:</strong> 00-1 | <strong>Ngày:</strong> 2026-07-09</p>
 </blockquote>
@@ -32,6 +32,20 @@
 <td>Thấp</td>
 <td>2–4 tháng</td>
 <td>Sales + VT</td>
+</tr>
+<tr>
+<td><strong>P0</strong></td>
+<td>Baidu / Zhihu / 36Kr 出海 content seeding</td>
+<td>Thấp–TB</td>
+<td>2–5 tháng</td>
+<td>KD + Content</td>
+</tr>
+<tr>
+<td><strong>P0</strong></td>
+<td>Hiệp hội TQ tại VN / WeChat groups ngành</td>
+<td>Thấp</td>
+<td>1–4 tháng</td>
+<td>TGĐ + Sales</td>
 </tr>
 <tr>
 <td><strong>P1</strong></td>
@@ -95,6 +109,50 @@
 </tbody>
 </table>
 <p><strong>KPI tháng 1–3:</strong> 50 kết nối mới, 10 cuộc hội thoại qualified, 2 proposal</p>
+<h3>2.3. Hệ sinh thái thông tin Trung Quốc</h3>
+<table>
+<thead>
+<tr>
+<th>Kênh</th>
+<th>Vai trò</th>
+<th>Cách LONGTV dùng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baidu</td>
+<td>Search tổng quát khi Lý Tổng mới nghe về Việt Nam</td>
+<td>Tối ưu bài tiếng Trung: “越南建厂 原产地 海关 工业园”</td>
+</tr>
+<tr>
+<td>Zhihu</td>
+<td>Hỏi đáp trải nghiệm người đi trước</td>
+<td>Seed bài phân tích rủi ro thật, không chỉ quảng bá cơ hội</td>
+</tr>
+<tr>
+<td>36Kr 出海 / media出海</td>
+<td>Cộng đồng China outbound, event, case</td>
+<td>Dùng insight để chọn chủ đề content và hội thảo</td>
+</tr>
+<tr>
+<td>WeChat Official Account</td>
+<td>Kênh nuôi dưỡng định kỳ</td>
+<td>Bản tin 2 tỉnh + checklist xuất xứ/hải quan</td>
+</tr>
+<tr>
+<td>WeChat Groups</td>
+<td>Lead nóng, hỏi nhanh, referral</td>
+<td>Sales phản hồi nhanh, đưa vào A0/A1, tránh tư vấn miệng quá sâu</td>
+</tr>
+<tr>
+<td>越南中国总商会 / hiệp hội</td>
+<td>Trust &#x26; cộng đồng người đã vào VN</td>
+<td>Dùng làm kênh field verify và đối tác sự kiện</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nguyên tắc nội dung:</strong> đánh vào bẫy thông tin mà khách TQ đang gặp: “Việt Nam không còn chỉ là giá rẻ”, “không thể chỉ né thuế bằng dán nhãn”, “môi giới đất không thay được pháp lý/hải quan/vận hành”.</p>
+<p>Nguồn persona/kênh: <a href="chinese-factory-owner-decision-journey">CL-016 — Chinese factory owner decision journey</a>.</p>
 <hr>
 <h2>3. P1 — Hội thảo &#x26; đối tác</h2>
 <h3>3.1. Hội thảo</h3>
@@ -134,7 +192,7 @@
 <h2>4. P2 — Digital dài hạn</h2>
 <ul>
 <li><strong>Website:</strong> longtv (GitHub Pages / Vercel) — landing + form lead</li>
-<li><strong>SEO:</strong> "投资 越南 太原", "海防 工业园", "越南 FDI 咨询"</li>
+<li><strong>SEO:</strong> "投资 越南 太原", "海防 工业园", "越南 FDI 咨询", "越南建厂 原产地", "越南 海关 HS code"</li>
 <li><strong>Ads:</strong> Chỉ bật khi có <strong>1 case study</strong> + landing tiếng Trung</li>
 </ul>
 <hr>
@@ -179,7 +237,7 @@
 <li>❌ Tuyển sales TQ full-time trước khi có 2 HĐ</li>
 <li>❌ Quảng cáo mass không target ngành</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"gtm-channels"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"gtm-channels"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zPv3R99nr5KiTUvVqZyot"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"gtm-channels"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"gtm-channels"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QswpECjHA_uBUdh3_m9Nn"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/field-call-scripts","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"field-call-scripts"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/hai-phong-fdi-policy","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"hai-phong-fdi-policy"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
