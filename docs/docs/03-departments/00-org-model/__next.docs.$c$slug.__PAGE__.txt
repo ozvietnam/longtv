@@ -2,7 +2,7 @@
 2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T2486,<h1>Mô hình tổ chức — Giai đoạn khởi động</h1>
+3:T257a,<h1>Mô hình tổ chức — Giai đoạn khởi động</h1>
 <blockquote>
 <p><strong>Trạng thái:</strong> Đề xuất v0.1 — Leader review &#x26; chỉnh số liệu khi tuyển thật.
 Tham chiếu <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a>: CTCP, vốn 2 tỷ VND, cổ đông gồm tập đoàn TQ.</p>
@@ -313,6 +313,14 @@ Tham chiếu <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a>: CTCP
 <td><strong>A</strong></td>
 </tr>
 <tr>
+<td><strong>Kim — việc người thật</strong></td>
+<td><strong>A/R</strong></td>
+<td>I</td>
+<td><strong>R</strong></td>
+<td><strong>R</strong></td>
+<td><strong>I</strong> (chỉ chuẩn bị tài liệu, không làm thay)</td>
+</tr>
+<tr>
 <td>Catalog &#x26; pricing</td>
 <td>A</td>
 <td>C</td>
@@ -331,7 +339,7 @@ Tham chiếu <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a>: CTCP
 <li class="task-list-item"><input type="checkbox" disabled> Điền <a href="/docs/05-clarifications/00-team-input-requirements">yêu cầu làm rõ</a> — tên CTCP, % cổ đông TQ</li>
 <li class="task-list-item"><input type="checkbox" disabled> Link mô hình này vào task VT-004 khi hoàn thành</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-org-model"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Đề xuất cơ cấu giám đốc, 5 phòng ban, đội sales và phân luồng công việc vận hành LONGTV (vốn 2 tỷ, QĐ #003)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VLFYUB-fDEBmTwj0wAKWH"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-org-model"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Đề xuất cơ cấu giám đốc, 5 phòng ban, đội sales và phân luồng công việc vận hành LONGTV (vốn 2 tỷ, QĐ #003)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Investor Pack — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/decisions/005-phase-00-1-go","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #005 — Go Giai đoạn 2 (sau 00-1)"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

@@ -2,17 +2,21 @@
 2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T2895,<h1>Hộp việc Thư ký Kim</h1>
+3:T2bc4,<h1>Hộp việc Thư ký Kim</h1>
 <blockquote>
-<p><strong>Quy tắc:</strong> Chỉ ghi việc cần <strong>tương tác con người</strong> (gọi điện, ký, gặp, nộp hồ sơ, bán hàng thật). Việc desk/AI đã xong → link Evidence, không đưa vào đây.</p>
-<p><strong>Leader:</strong> Xử lý tập trung tại <a href="/kim">trang /kim</a> trên web.</p>
+<p><strong>Định nghĩa đầy đủ:</strong> <a href="/docs/05-clarifications/what-is-kim">Kim là gì?</a> — đọc trước khi thêm việc.</p>
+<p><strong>Kim = việc chỉ con người thật tự hoàn thiện và đi làm.</strong> Gọi điện, ký, gặp, nộp hồ sơ, chốt khách, field thật. <strong>AI/Cursor không thay thế</strong> và <strong>không tick <code>done</code> thay owner</strong>.</p>
+<p>Việc desk/AI (research, build web, soạn markdown) → <a href="/operations">/operations</a> hoặc <code>04-research/</code> — <strong>không</strong> đưa vào Kim.</p>
+<p><strong>Xem &#x26; xử lý:</strong> <a href="/kim">trang /kim</a> — mỗi owner người (Leader, Hermes, Sales, Luật…) tự nhận việc của mình.</p>
 </blockquote>
 <hr>
 <h2>Cách cập nhật</h2>
 <ol>
+<li>Đọc <a href="/docs/05-clarifications/what-is-kim">Kim là gì?</a> — chỉ thêm việc <strong>người thật phải đi làm</strong></li>
 <li>Thêm/sửa dòng bảng dưới đây</li>
-<li><code>status</code>: <code>todo</code> · <code>doing</code> · <code>done</code> · <code>blocked</code></li>
+<li><code>status</code>: <code>todo</code> · <code>doing</code> · <code>done</code> · <code>blocked</code> — <strong>chỉ owner người</strong> đổi sang <code>done</code> sau khi đã làm thật</li>
 <li>Commit → deploy → trang <code>/kim</code> tự cập nhật</li>
+<li>Cursor cập nhật research/evidence <strong>sau</strong> khi người báo kết quả — không thay bước 3</li>
 </ol>
 <hr>
 <h2>Hàng chờ (bảng chính)</h2>
@@ -432,7 +436,7 @@
 <li>Ghi kết quả ngắn vào file research liên quan (hoặc comment PR)</li>
 <li>Việc desk tương ứng → tick TODO phòng ban tại <a href="/operations">/operations</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kim-secretary-queue"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Hộp việc — Thư ký Kim"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Danh sách công việc cần người thật xử lý — Leader tập trung tại /kim trên web."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VLFYUB-fDEBmTwj0wAKWH"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kim-secretary-queue"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Hộp việc — Thư ký Kim"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Danh sách công việc cần người thật xử lý — Leader tập trung tại /kim trên web."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-overview","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Xây hệ thống vận hành (overview)"}]]}],["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-07","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
