@@ -59,4 +59,9 @@ export const JOB_CATEGORIES = [
     label: "Đầu tư & pitch",
     ids: ["KIM-070", "KIM-071", "KIM-072", "KIM-073", "KIM-074", "KIM-075"],
   },
+  {
+    id: "allinone",
+    label: "All-in-one / UNIDO",
+    ids: ["KIM-076", "KIM-077", "KIM-078"],
+  },
 ];

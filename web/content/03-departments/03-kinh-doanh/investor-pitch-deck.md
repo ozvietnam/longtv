@@ -18,8 +18,8 @@ author: "Cursor · Tư vấn nội bộ"
 
 ## Slide 1 — Cover
 
-- **LONGTV** — CTCP Tư vấn FDI TQ → Việt Nam
-- Tagline: *Thái Nguyên & Hải Phòng · Logistics miền Bắc*
+- **LONGTV** — Tổ hợp **All-in-one**: Tư vấn · Pháp lý · Logistics
+- Tagline: *FDI Trung Quốc → Thái Nguyên & Hải Phòng · 6 tháng → 3 tháng*
 - Ngày · Liên hệ Leader · **Confidential**
 
 ---
@@ -34,13 +34,14 @@ author: "Cursor · Tư vấn nội bộ"
 
 ---
 
-## Slide 3 — Giải pháp (Solution)
+## Slide 3 — Giải pháp (Solution) — All-in-one
 
-- Hub 2 mảng: **Chính sách FDI** + **Logistics/HQ**
-- Cửa vào thấp: A1 desk $2.5–4k → upsell B1/B2
-- Cổ đông TQ + team VN >51%
+- **Một cửa** thay 3 vendor (luật + HQ + forwarder)
+- Hub: PM song ngữ + đối tác có **GPLS / GP hải quan**
+- HP: cảng · customs · kho | TN: lao động · on-spot XNK · phụ trợ điện tử
+- Bundle Full Setup $14–18k · mục tiêu **12 tuần** IRC→HQ
 
-*Visual: sơ đồ QĐ #003 (hub → 2 mảng)*
+*Ref: [all-in-one-service-complex](/docs/03-departments/01-chien-luoc/all-in-one-service-complex)*
 
 ---
 

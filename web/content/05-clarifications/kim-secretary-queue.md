@@ -51,6 +51,9 @@ author: "Cursor"
 | P2 | KIM-073 | **JD + equity** Phó TGĐ / Trưởng KD (tuyển C-level) | Leader | todo | 2026-08-15 | /docs/05-clarifications/cap-table-v1 |
 | P2 | KIM-074 | **Setup data room** folder due diligence | VT | todo | 2026-08-01 | /docs/06-phases/investor-pack/02-pitch-gap-checklist |
 | P1 | KIM-075 | **Review financial model** — chọn Bear/Base/Bull năm 1 | Leader | todo | 2026-07-12 | /docs/03-departments/05-van-hanh-tc/financial-model-3yr |
+| P1 | KIM-076 | **MOU đại lý hải quan** có GPLS (All-in-one logistics) | Leader | todo | 2026-08-15 | /docs/03-departments/02-phap-ly/all-in-one-licensed-entities |
+| P2 | KIM-077 | **Verify CIT** KKT Đình Vũ–Cát Hải 2026 | Hermes | todo | 2026-07-21 | /docs/06-phases/investor-pack/03-investment-project-5-steps |
+| P2 | KIM-078 | **Pilot Full Setup** — đo timeline thực vs 3 tháng | Leader / KD | todo | 2026-09-30 | /docs/03-departments/01-chien-luoc/all-in-one-service-complex |
 
 ---
 
@@ -66,6 +69,7 @@ author: "Cursor"
 | Bán hàng / khách thật | KIM-040, 041 |
 | Hạ tầng web | KIM-030, 060 |
 | Đầu tư & pitch | KIM-070 – 075, 072 |
+| All-in-one / UNIDO | KIM-076 – 078 |
 
 ---
 

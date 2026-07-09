@@ -27,6 +27,10 @@ author: "Cursor · Tư vấn nội bộ"
 | 7 | [Chiến lược 3 năm](/docs/03-departments/01-chien-luoc/strategy-3yr) | Chiến lược, C-level |
 | 8 | [Investor pitch deck (outline)](/docs/03-departments/03-kinh-doanh/investor-pitch-deck) | Gọi vốn, tuyển TGĐ phó |
 | 9 | [Cap table v1 (mẫu)](/docs/05-clarifications/cap-table-v1) | Pháp lý, cổ đông |
+| 10 | [**All-in-one** — Tư vấn · Pháp lý · Logistics](/docs/03-departments/01-chien-luoc/all-in-one-service-complex) | Định vị chiến lược |
+| 11 | [Quy trình 5 bước UNIDO/World Bank](03-investment-project-5-steps) | Lập dự án đầu tư chuẩn |
+| 12 | [NPV / IRR / Payback (FS)](/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics) | Thẩm định tài chính |
+| 13 | [Pháp nhân & giấy phép All-in-one](/docs/03-departments/02-phap-ly/all-in-one-licensed-entities) | Compliance VN |
 
 ---
 
@@ -41,6 +45,7 @@ author: "Cursor · Tư vấn nội bộ"
 | Cap table | 🟡 Mẫu | Điền tên, %, vesting |
 | Traction / case study | 🔴 Trống | ≥1 HĐ A1 + testimonial |
 | Pitch deck slide deck | 🟡 Outline | Leader record / design |
+| **All-in-one UNIDO 5 bước** | ✅ Desk | MOU luật/HQ + field CIT |
 
 **Kết luận nhanh:** Đủ để **cổ đông chiến lược (TQ tập đoàn + founder VN)** quyết định đầu tư **có điều kiện**. **Chưa đủ** cho nhà đầu tư thứ ba (VC/PE) nếu chưa có hợp đồng thật và cap table ký.
 

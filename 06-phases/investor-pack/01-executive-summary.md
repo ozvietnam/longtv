@@ -8,9 +8,9 @@ tags: ["executive-summary", "investor", "pitch"]
 author: "Cursor · Tư vấn nội bộ"
 ---
 
-# Executive Summary — LONGTV
+# LONGTV — CTCP Tư vấn FDI Trung Quốc → Việt Nam
 
-**CTCP tư vấn FDI Trung Quốc → Việt Nam** · Thái Nguyên & Hải Phòng · Logistics miền Bắc  
+**Tổ hợp All-in-one:** Tư vấn · Pháp lý (đối tác) · Logistics (đối tác) · **Thái Nguyên & Hải Phòng**  
 **Ngày:** 2026-07-09 · **Giai đoạn:** 00-1 hoàn thành (desk) → Giai đoạn 2 lean launch
 
 ---
@@ -21,12 +21,14 @@ Hàng nghìn nhà máy Trung Quốc (Tier 2–3, 50–300 nhân sự) đang dị
 
 ## Giải pháp
 
-**LONGTV** — hub tư vấn 2 mảng:
+**LONGTV** — hub tư vấn **All-in-one** (một cửa A-Z):
 
 | Mảng | Phạm vi | Dịch vụ cửa vào |
 |------|---------|-----------------|
 | **A** Chính sách & FDI | Thái Nguyên + Hải Phòng | A1 Desk research ($2.5–4k) → B2 Thành lập CTCP → A3 Thiết lập NM |
-| **B** Logistics & HQ | Miền Bắc | B1 On-site + hải quan ($8–12k) → retainer C1 |
+| **B** Logistics & HQ | Miền Bắc (HP cảng, TN on-spot) | B1 On-site + hải quan ($8–12k) → retainer C1 |
+
+**Cam kết định vị:** Rút ngắn time-to-market **6 → ~3 tháng** (bundle Full Setup) — [all-in-one](/docs/03-departments/01-chien-luoc/all-in-one-service-complex)
 
 **Khác biệt:** Cổ đông tập đoàn TQ + đội VN >51% · chuyên 2 tỉnh · tích hợp Oz tools hải quan · vòng đời G0–G8 (từ sang VN đến di dời/về TQ).
 
