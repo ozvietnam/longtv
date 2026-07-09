@@ -14,11 +14,37 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | SP-001 | Draft service catalog v0.1 — 3 gói: Khảo sát / Thiết lập / Vận hành (mô tả, deliverable, thời gian) | V4.1, V4.2 | — | todo | 2026-07-18 | |
-| P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | — | todo | 2026-07-21 | |
-| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
-| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
-| P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
+| P0 | SP-001 | Service catalog v0.2 — 2 mảng + Hub (chính sách 2 tỉnh, logistics miền Bắc) | V4.1, V4.2 | @cursor | done | 2026-07-18 | /docs/03-departments/04-san-pham/service-catalog-v0.2 |
+| P0 | SP-002 | Lập bảng "Tự làm vs Đối tác" cho từng hạng mục dịch vụ | V4.4 | @cursor | done | 2026-07-21 | /docs/03-departments/04-san-pham/build-vs-partner |
+| P0 | SP-006 | Tách dịch vụ tư vấn pháp lý kinh doanh & đầu tư thành trang dịch vụ riêng | V4.2, V4.4 | @cursor | review | 2026-07-09 | /docs/services/legal-consulting |
+| P0 | SP-007 | Tách dịch vụ chính sách & chính quyền 2 tỉnh thành trang dịch vụ riêng | V4.2 | @cursor | review | 2026-07-09 | /docs/services/policy-government |
+| P0 | SP-008 | Tạo trang đánh giá tiềm năng & khả thi để trình cổ đông, có sơ đồ và liên kết nội bộ | V4.2, V7 | @cursor | review | 2026-07-09 | /docs/06-phases/00-1-feasibility-plan |
+| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | @cursor | done | 2026-07-25 | /docs/03-departments/04-san-pham/product-bundles |
+| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | @cursor | done | 2026-07-28 | /docs/03-departments/04-san-pham/package-a1-deliverable |
+| P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-08-31 | |
+| P0 | SP-G2-01 | SOP A1 vận hành | V4.2 | @cursor | done | 2026-07-09 | /docs/07-operations/sop-a1-desk-research |
+| P0 | SP-G2-02 | SOP B1 on-site | V4.2 | @cursor | done | 2026-07-09 | /docs/07-operations/sop-b1-on-site |
+
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] SP-001: Catalog v0.2 (2 mảng + Hub)
+- [x] SP-002: Bảng tự làm vs đối tác
+- [x] Map hành trình FDI 6 giai đoạn — [fdi-journey-service-map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
+- [x] SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)
+- [x] SP-003: 3 bundle + add-on (checklist, logistics intro)
+- [x] Chốt gap list — ~82% ✅/🤝 trên journey map
+- [x] Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝
+- [x] Điền điểm scorecard #6 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
+
+## Giai đoạn 2 — SOP giao hàng
+
+- [x] SOP A1 desk research
+- [x] SOP B1 on-site
+- [ ] Chạy thử SOP A1 với khách pilot đầu tiên
+- [ ] SP-005: Tích hợp Oz tools (B1/B3)
+- [x] Vòng đời 9 giai đoạn (G0–G8) — [fdi-lifecycle-full-map](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map)
+- [x] Catalog v1 theo vòng đời — [service-catalog-v1](/docs/03-departments/04-san-pham/service-catalog-v1)
+- [x] Playbook G5 vận hành SX — [factory-operations-playbook-vn](/docs/03-departments/04-san-pham/factory-operations-playbook-vn)
 
 ## Hướng dẫn thực hiện
 
@@ -33,3 +59,15 @@ author: "Sếp Thắng"
 ### SP-002 — Tự làm vs Đối tác
 
 Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = đối tác luật · Customs = tự làm (có công cụ Oz) · Thuê đất = đối tác KCN.
+
+### SP-006 — Tách trang dịch vụ pháp lý
+
+Tách H2 khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ phạm vi LONGTV tự làm, phần nào cần luật sư/đối tác đủ điều kiện, deliverable theo từng gói, input khách hàng cần cung cấp và liên kết sang thư viện pháp luật FDI.
+
+### SP-007 — Tách trang dịch vụ chính sách
+
+Tách Mảng A khỏi catalog tổng thành trang dịch vụ riêng. Trang phải nêu rõ A1/A2/A3, deliverable bán hàng, input khách hàng cần cung cấp, ranh giới giữa LONGTV điều phối và phần cần xác nhận từ cơ quan/đối tác chuyên môn.
+
+### SP-008 — Trang đánh giá tiềm năng & khả thi
+
+Tạo dashboard trình cổ đông tại `/docs/06-phases/00-1-feasibility-plan`, gồm kết luận nhanh, scorecard, sơ đồ mô hình 2 mảng + hub, ma trận tiềm năng/khả thi, rủi ro/đối sách và liên kết nội bộ sang các trang dịch vụ, thư viện pháp luật, service catalog, quyết định chiến lược. Các trang nguồn liên quan cần có nút quay lại dashboard.

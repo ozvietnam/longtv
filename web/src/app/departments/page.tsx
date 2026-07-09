@@ -1,55 +1,9 @@
 import Link from "next/link";
+import { DEPARTMENTS } from "@/lib/departments";
 import { getAllDocs } from "@/lib/docs";
+import { countTasksByStatus, parseTodoTable } from "@/lib/tasks";
 
 export const metadata = { title: "Phòng ban · LongTV" };
-
-const DEPARTMENTS = [
-  {
-    id: "01-chien-luoc",
-    name: "Chiến lược & Rủi ro",
-    vLayer: "V1, V7",
-    color: "border-blue-200",
-  },
-  {
-    id: "02-phap-ly",
-    name: "Pháp lý & Chính sách",
-    vLayer: "V2",
-    color: "border-purple-200",
-  },
-  {
-    id: "03-kinh-doanh",
-    name: "Kinh doanh & GTM",
-    vLayer: "V3",
-    color: "border-green-200",
-  },
-  {
-    id: "04-san-pham",
-    name: "Sản phẩm dịch vụ",
-    vLayer: "V4",
-    color: "border-orange-200",
-  },
-  {
-    id: "05-van-hanh-tc",
-    name: "Vận hành & Tài chính",
-    vLayer: "V5, V6",
-    color: "border-gray-300",
-  },
-];
-
-function countP0Tasks(content: string): number {
-  const lines = content.split("\n");
-  let inTable = false;
-  let count = 0;
-  for (const line of lines) {
-    if (line.startsWith("| P |")) {
-      inTable = true;
-      continue;
-    }
-    if (inTable && line.startsWith("| P0 |")) count++;
-    if (inTable && line.startsWith("## ") && !line.includes("Tháng")) break;
-  }
-  return count;
-}
 
 export default function DepartmentsIndex() {
   const docs = getAllDocs();
@@ -63,12 +17,29 @@ export default function DepartmentsIndex() {
           Mục tiêu tháng được <strong>chia thẳng</strong> cho từng phòng. Mỗi phòng có bảng TODO ưu tiên P0/P1/P2 —
           lắp nhân sự vào là chạy ngay.
         </p>
+        <div className="flex gap-3 flex-wrap mt-5">
+          <Link
+            href="/operations"
+            className="text-sm px-4 py-2 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
+          >
+            Bảng vận hành tổng
+          </Link>
+          <Link
+            href="/docs/03-departments/00-org-model"
+            className="text-sm px-4 py-2 rounded-full border border-[var(--border)] hover:border-[var(--accent)]"
+          >
+            Mô hình tổ chức
+          </Link>
+        </div>
       </header>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {DEPARTMENTS.map((dept) => {
-          const todoDoc = todoDocs.find((d) => d.meta.slug.join("/").includes(dept.id));
-          const p0Count = todoDoc ? countP0Tasks(todoDoc.content) : 0;
+          const todoDoc = todoDocs.find((d) => d.meta.slug.join("/") === dept.todoSlug);
+          const tasks = todoDoc ? parseTodoTable(todoDoc.content) : [];
+          const p0Count = tasks.filter((t) => t.priority === "P0").length;
+          const p0Done = tasks.filter((t) => t.priority === "P0" && t.status === "done").length;
+          const counts = countTasksByStatus(tasks);
 
           return (
             <div
@@ -80,16 +51,27 @@ export default function DepartmentsIndex() {
               </div>
               <h2 className="text-lg font-bold mb-3">{dept.name}</h2>
               {todoDoc && (
-                <div className="text-sm text-[var(--muted)] mb-4">
-                  <span className="font-semibold text-[var(--foreground)]">{p0Count}</span> task P0 tháng 7
+                <div className="text-sm text-[var(--muted)] mb-4 space-y-1">
+                  <div>
+                    P0: <span className="font-semibold text-[var(--foreground)]">{p0Done}/{p0Count}</span> hoàn thành
+                  </div>
+                  <div className="text-xs">
+                    {counts.done} done · {counts.doing} doing · {counts.todo} todo
+                  </div>
                 </div>
               )}
               <div className="flex gap-2 flex-wrap">
                 <Link
-                  href={`/docs/03-departments/${dept.id}/TODO`}
+                  href={`/docs/${dept.todoSlug}`}
                   className="text-sm px-3 py-1.5 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
                 >
                   Xem TODO
+                </Link>
+                <Link
+                  href={`/operations#${dept.id}`}
+                  className="text-sm px-3 py-1.5 rounded-full border border-[var(--border)] hover:border-[var(--accent)]"
+                >
+                  Bảng vận hành
                 </Link>
                 <Link
                   href={`/docs/03-departments/${dept.id}/00-profile`}

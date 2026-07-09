@@ -1,0 +1,201 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+f:I[68027,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0x5crff4xoj7b.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","04-research","2026-07","kcn-desk-research",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","04-research/2026-07/kcn-desk-research","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3y9azk3x7brqd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":["$L6","$L7","$L8"]}],"$L9"]}]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HREDl5iKe8YIbj_LGYYT6"}
+12:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+18:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+8:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+9:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+d:"$W15"
+e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:T1483,<h1>CL-003 — Desk research KCN: Yên Bình (TN) &#x26; Nam Đình Vũ (HP)</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Chiến lược | <strong>Giai đoạn:</strong> 00-1 | <strong>Trạng thái:</strong> Desk hoàn thành — call KCN pending<br>
+<strong>Ngày:</strong> 2026-07-09</p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt</h2>
+<table>
+<thead>
+<tr>
+<th>KCN</th>
+<th>Tỉnh</th>
+<th>Diện tích</th>
+<th>Ngành ưu tiên</th>
+<th>Giá đất (desk)</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Yên Bình</strong></td>
+<td>Thái Nguyên</td>
+<td>~2.000 ha</td>
+<td>Điện tử, cơ khí, dệt may</td>
+<td>70–120 USD/m²</td>
+<td>Còn quỹ</td>
+</tr>
+<tr>
+<td><strong>Nam Đình Vũ</strong></td>
+<td>Hải Phòng</td>
+<td>~1.329 ha</td>
+<td>Logistics, điện tử, chế biến</td>
+<td>100–150 USD/m²</td>
+<td>Còn quỹ (một số lô)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. KCN Yên Bình — Thái Nguyên</h2>
+<h3>2.1. Thông tin chung</h3>
+<ul>
+<li><strong>Vị trí:</strong> Huyện Phú Bình, Thái Nguyên (~80 km Hà Nội)</li>
+<li><strong>Chủ đầu tư:</strong> Tổng Công ty Viglacera (một phần) + đối tác</li>
+<li><strong>Hạ tầng:</strong> Điện 110kV, nước sạch, xử lý nước thải tập trung</li>
+<li><strong>Liên kết:</strong> Gần KCN Samsung Thái Nguyên → thu hút supplier</li>
+</ul>
+<h3>2.2. Ưu đãi (desk — cần xác nhận Sở)</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu đãi</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thuế TNDN</td>
+<td>Miễn 4 năm, giảm 50% 9 năm tiếp (vùng khó khăn — cần verify)</td>
+</tr>
+<tr>
+<td>Thuê đất</td>
+<td>Giảm / miễn một phần (theo quyết định tỉnh)</td>
+</tr>
+<tr>
+<td>Hỗ trợ hạ tầng</td>
+<td>Một số lô có sẵn nhà xưởng cho thuê</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Phù hợp khách TQ</h3>
+<ul>
+<li>✅ Cơ khí chính xác, linh kiện (chuỗi Samsung)</li>
+<li>✅ Dệt may (lao động dồi dào tỉnh)</li>
+<li>⚠️ Logistics cảng: cần kết hợp HP hoặc Hải Phòng port route</li>
+</ul>
+<h3>2.4. Việc cần call</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Bảng giá thuê đất <strong>Q3/2026</strong> (USD/m²/năm)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Quỹ đất còn lại theo ngành</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thủ tục GPMB / thời gian cấp GCN</li>
+<li class="task-list-item"><input type="checkbox" disabled> Liên hệ: Ban QLKCN Yên Bình (lấy SĐT qua Sở KH&#x26;ĐT TN)</li>
+</ul>
+<hr>
+<h2>3. KCN Nam Đình Vũ — Hải Phòng</h2>
+<h3>3.1. Thông tin chung</h3>
+<ul>
+<li><strong>Vị trí:</strong> Quận Hải An, Hải Phòng — <strong>gần cảng Lạch Huyện</strong></li>
+<li><strong>Diện tích:</strong> ~1.329 ha</li>
+<li><strong>Ngành:</strong> Logistics, kho bãi, điện tử, ô tô, thực phẩm</li>
+</ul>
+<h3>3.2. Ưu điểm logistics</h3>
+<table>
+<thead>
+<tr>
+<th>Yếu tố</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cảng</td>
+<td>15–25 km đến Lạch Huyện</td>
+</tr>
+<tr>
+<td>Đường bộ</td>
+<td>Quốc lộ 5, cao tốc HN–HP</td>
+</tr>
+<tr>
+<td>ICD</td>
+<td>Có depot container trong KCN</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3. Giá &#x26; quỹ (ước tính desk)</h3>
+<ul>
+<li>Giá thuê đất: <strong>100–150 USD/m²</strong> (tùy vị trí, thời hạn)</li>
+<li>Một số lô <strong>built-to-suit</strong> cho FDI lớn — ít lô nhỏ &#x3C; 5.000 m²</li>
+</ul>
+<h3>3.4. Phù hợp khách TQ</h3>
+<ul>
+<li>✅ Xuất khẩu điện tử, linh kiện</li>
+<li>✅ Kho vận, phân phối ASEAN</li>
+<li>⚠️ Giá cao hơn TN — target khách có volume xuất khẩu</li>
+</ul>
+<h3>3.5. Việc cần call</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Giá lô 5.000–10.000 m² cho FDI mới</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thời gian cấp phép môi trường</li>
+<li class="task-list-item"><input type="checkbox" disabled> Liên hệ: Ban QLKCN Nam Đình Vũ / Sở KH&#x26;ĐT HP</li>
+</ul>
+<hr>
+<h2>4. So sánh nhanh cho tư vấn</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>Yên Bình</th>
+<th>Nam Đình Vũ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chi phí đất</td>
+<td>Thấp hơn</td>
+<td>Cao hơn</td>
+</tr>
+<tr>
+<td>Cảng biển</td>
+<td>Xa</td>
+<td>Gần</td>
+</tr>
+<tr>
+<td>Chuỗi cung ứng điện tử</td>
+<td>Samsung TN</td>
+<td>Đa dạng + xuất khẩu</td>
+</tr>
+<tr>
+<td>Khách TQ typic</td>
+<td>Supplier, dệt may</td>
+<td>Exporter, logistics</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Gợi ý pitch:</strong> Khách chỉ sản xuất nội địa / cung ứng Samsung → <strong>Yên Bình</strong>. Khách xuất khẩu Mỹ/EU → <strong>Nam Đình Vũ</strong> hoặc combo TN sản xuất + HP logistics.</p>
+<hr>
+<h2>5. Nguồn &#x26; disclaimer</h2>
+<ul>
+<li>Website KCN, báo cáo Sở KH&#x26;ĐT, media 2024–2025</li>
+<li><strong>Số liệu giá là ước tính desk</strong> — bắt buộc xác nhận trước khi đưa vào báo giá khách</li>
+</ul>
+11:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kcn-desk-research"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"kcn-desk-research"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b"]}]
+1b:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/hd-dich-vu-tu-van","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"hd-dich-vu-tu-van"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/kpi-thang","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"kpi-thang"}]]}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"kcn-desk-research · LongTV"}],["$","link","1",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1c","2",{}]]

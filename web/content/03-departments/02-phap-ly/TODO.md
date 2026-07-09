@@ -14,12 +14,36 @@ author: "Sếp Thắng"
 
 | P | ID | Task | V-layer | Assignee | Status | Deadline | Evidence |
 |---|-----|------|---------|----------|--------|----------|----------|
-| P0 | PL-001 | So sánh TNHH 1 thành viên vs TNHH 2+ thành viên vs Cổ phần — chốt loại pháp nhân | V2.1 | — | todo | 2026-07-14 | |
-| P0 | PL-002 | Liệt kê đầy đủ giấy phép/con giấy phép cần cho hoạt động tư vấn đầu tư | V2.2 | — | todo | 2026-07-18 | |
-| P0 | PL-003 | Lập timeline thành lập công ty (từng bước, thời gian, chi phí ước tính) | V2.4 | — | todo | 2026-07-21 | |
-| P1 | PL-004 | Thu thập bảng ưu đãi đầu tư tỉnh Thái Nguyên (thuế, đất, hỗ trợ hạ tầng) | V2.3 | — | todo | 2026-07-25 | |
-| P1 | PL-005 | Thu thập bảng ưu đãi đầu tư tỉnh Hải Phòng | V2.3 | — | todo | 2026-07-25 | |
-| P2 | PL-006 | Nghiên cứu trách nhiệm pháp lý nghề nghiệp khi tư vấn FDI (bảo hiểm, hợp đồng) | V2.5 | — | todo | 2026-07-31 | |
+| P0 | PL-001 | So sánh TNHH vs CP — **Leader chốt CTCP + tập đoàn TQ** | V2.1 | @hermes | done | 2026-07-14 | [QĐ #003](/docs/decisions/003-strategy-july-2026) |
+| P0 | PL-003 | Lập timeline thành lập **CTCP** + cơ cấu cổ đông TQ/VN | V2.4 | @cursor | done | 2026-07-21 | /docs/03-departments/02-phap-ly/ctcp-timeline |
+| P0 | PL-007 | Tạo trang yêu cầu làm rõ để team cung cấp tên công ty, tổ chức tham gia, tỷ lệ vốn, phạm vi hoạt động | V2.4 | @cursor | done | 2026-07-08 | /docs/05-clarifications/00-team-input-requirements |
+| P0 | PL-008 | Lập thư viện pháp luật + kế hoạch cẩm nang FDI: 100% vốn nước ngoài, góp vốn/mua cổ phần, IRC/ERC, môi trường, giấy phép sản xuất | V2.2 | @cursor | review | 2026-07-09 | /docs/data/fdi-legal/legal-library |
+| P1 | PL-004 | Thu thập bảng ưu đãi đầu tư tỉnh Thái Nguyên (thuế, đất, hỗ trợ hạ tầng) | V2.3 | @cursor | done | 2026-07-25 | /docs/04-research/2026-07/provincial-incentives |
+| P1 | PL-005 | Thu thập bảng ưu đãi đầu tư tỉnh Hải Phòng | V2.3 | @cursor | done | 2026-07-25 | /docs/04-research/2026-07/provincial-incentives |
+| P2 | PL-006 | Nghiên cứu trách nhiệm pháp lý nghề nghiệp khi tư vấn FDI (bảo hiểm, hợp đồng) | V2.5 | @cursor | done | 2026-07-31 | /docs/04-research/2026-07/legal-licenses |
+| P0 | PL-G2-01 | Template HĐ + NDA + MOU luật | V2.5 | @cursor | done | 2026-07-09 | /docs/03-departments/02-phap-ly/templates/00-index |
+| P0 | PL-G2-02 | Checklist hồ sơ CTCP | V2.4 | @cursor | done | 2026-07-09 | /docs/03-departments/02-phap-ly/ctcp-ho-so-checklist |
+| P0 | PL-G2-03 | Luật sư review templates | V2.5 | — | todo | 2026-08-15 | |
+| P0 | PL-G2-04 | Nộp hồ sơ đăng ký CTCP | V2.4 | Leader | todo | 2026-08-31 | |
+
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] PL-001: Chốt hướng CTCP + tập đoàn TQ
+- [x] PL-003: Timeline thành lập CTCP
+- [x] PL-007: Trang làm rõ thông tin cổ đông
+- [x] PL-004: Bảng ưu đãi Thái Nguyên
+- [x] PL-005: Bảng ưu đãi Hải Phòng
+- [x] PL-006: Rủi ro pháp lý nghề nghiệp tư vấn FDI
+- [x] PL-002: Rà soát giấy phép kinh doanh tư vấn → [legal-licenses](/docs/04-research/2026-07/legal-licenses)
+- [x] Điền điểm scorecard #7 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
+- [x] Xác nhận rào cản pháp lý — **không chặn** mô hình tư vấn (luật qua đối tác)
+
+## Giai đoạn 2 — CTCP & hợp đồng
+
+- [x] Template HĐ dịch vụ + NDA + MOU
+- [x] Checklist hồ sơ CTCP
+- [ ] Luật sư review mẫu HĐ
+- [ ] Nộp đăng ký CTCP (chờ % cổ đông TQ)
 
 ## Hướng dẫn thực hiện
 
@@ -34,3 +58,7 @@ Kiểm tra ngành nghề kinh doanh: mã ngành tư vấn quản lý (7020), tư
 ### PL-003 — Timeline
 
 Mẫu: Chuẩn bị hồ sơ (1 tuần) → Đăng ký DN (3–5 ngày) → Con dấu + tài khoản (1 tuần) → Giấy phép con (nếu có). Ghi chi phí từng bước.
+
+### PL-008 — Thư viện pháp luật & cẩm nang FDI
+
+Tạo thư viện pháp luật chia nhóm, kho dữ liệu nguồn và backlog bài viết cho trang chủ. Phạm vi gồm: văn bản pháp lý FDI, mô hình 100% vốn nước ngoài, góp vốn/mua cổ phần, quy trình IRC/ERC, khảo sát/đánh giá tác động môi trường, giấy phép môi trường và checklist giấy phép sản xuất. Mỗi bài phải có tham chiếu nguồn pháp luật và trạng thái review trước khi xuất bản.

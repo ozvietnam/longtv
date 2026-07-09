@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T11a9,<h1>Cap table v1 — LONGTV CTCP</h1>
+<blockquote>
+<p><strong>Nguyên tắc:</strong> <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a> — VN <strong>>51%</strong> · TQ <strong>&#x3C;49%</strong><br>
+<strong>Trạng thái:</strong> 🟡 Mẫu — <strong>chưa ký</strong></p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Giá trị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn điều lệ</td>
+<td><strong>2.000.000.000 VND</strong></td>
+</tr>
+<tr>
+<td>Mệnh giá / cổ phần</td>
+<td>___ VND/cp <em>(điền)</em></td>
+</tr>
+<tr>
+<td>Tổng cổ phần</td>
+<td>___ cp</td>
+</tr>
+<tr>
+<td>Loại hình</td>
+<td>CTCP</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Cơ cấu cổ đông (đề xuất — chỉnh khi điền)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Cổ đông</th>
+<th>Quốc tịch / loại</th>
+<th>%</th>
+<th>Số tiền (VND)</th>
+<th>Vai trò</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>___</strong> (Founder VN)</td>
+<td>Cá nhân VN</td>
+<td><strong>___%</strong></td>
+<td>___</td>
+<td>TGĐ, đại diện pháp luật</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>___</strong> (Nhóm VN)</td>
+<td>Cá nhân/CTCP VN</td>
+<td><strong>___%</strong></td>
+<td>___</td>
+<td>Đảm bảo VN >51%</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>___</strong> (Tập đoàn TQ)</td>
+<td>CTCP TQ</td>
+<td><strong>___%</strong></td>
+<td>___</td>
+<td>Cổ đông chiến lược, referral</td>
+</tr>
+<tr>
+<td>4</td>
+<td><em>(Dự phòng)</em></td>
+<td>Cổ đông chiến lược / ESOP</td>
+<td><strong>___%</strong></td>
+<td>___</td>
+<td>Advisor, C-level</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TỔNG</strong></td>
+<td></td>
+<td><strong>100%</strong></td>
+<td><strong>2 tỷ</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ràng buộc kiểm tra:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Tổng % VN = ___% ≥ <strong>51%</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> Tổng % TQ = ___% ≤ <strong>49%</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> ≥ <strong>3 cổ đông</strong> (yêu cầu CTCP)</li>
+</ul>
+<hr>
+<h2>3. Quyền &#x26; governance</h2>
+<table>
+<thead>
+<tr>
+<th>Chủ đề</th>
+<th>Thỏa thuận</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đại diện pháp luật</td>
+<td>___</td>
+</tr>
+<tr>
+<td>Quyền phủ quyết (veto)</td>
+<td>VN: ___ · TQ: ___</td>
+</tr>
+<tr>
+<td>HĐQT / HĐTV</td>
+<td>___ thành viên</td>
+</tr>
+<tr>
+<td>Chia lợi nhuận</td>
+<td>Tối thiểu ___% reinvest Y1–Y2</td>
+</tr>
+<tr>
+<td>Chuyển nhượng cổ phần</td>
+<td>Right of first refusal ___ tháng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Vesting (nếu có ESOP / founder)</h2>
+<table>
+<thead>
+<tr>
+<th>Người</th>
+<th>%</th>
+<th>Cliff</th>
+<th>Vesting</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>___</td>
+<td>___%</td>
+<td>12 tháng</td>
+<td>36 tháng</td>
+<td></td>
+</tr>
+<tr>
+<td>Pool ESOP</td>
+<td>5–10%</td>
+<td>—</td>
+<td>—</td>
+<td>C-level tương lai</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Lịch góp vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Cổ đông</th>
+<th>M1 (MOU)</th>
+<th>M2 (ERC)</th>
+<th>M3 (1 HĐ)</th>
+<th>M4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>___</td>
+<td>___%</td>
+<td>___%</td>
+<td>___%</td>
+<td>___%</td>
+</tr>
+</tbody>
+</table>
+<p><em>Khớp <a href="/docs/03-departments/05-van-hanh-tc/use-of-funds-2b">use-of-funds</a></em></p>
+<hr>
+<h2>6. ESOP — khung tuyển C-level (draft)</h2>
+<table>
+<thead>
+<tr>
+<th>Vai trò</th>
+<th>Equity range</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phó TGĐ (KD/Ops)</td>
+<td>2–5%</td>
+<td>4 năm vesting</td>
+</tr>
+<tr>
+<td>Trưởng KD</td>
+<td>1–3%</td>
+<td>+ bonus theo DT</td>
+</tr>
+<tr>
+<td>Advisor (board)</td>
+<td>0.5–1%</td>
+<td>2 năm</td>
+</tr>
+</tbody>
+</table>
+<p><em>Chỉ áp dụng sau khi cap table cổ đông chính chốt.</em></p>
+<hr>
+<h2>Việc Leader</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Điền tên tập đoàn TQ chính xác (tiếng Anh + 中文)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chốt % với luật sư — file MOU cổ đông</li>
+<li class="task-list-item"><input type="checkbox" disabled> Scan MOU → data room (không public repo)</li>
+</ul>
+<p><strong>Liên kết:</strong> <a href="00-team-input-requirements">team-input-requirements</a> · <a href="/kim">KIM-002</a></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"cap-table-v1"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Cap table v1 — LONGTV CTCP"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Mẫu cơ cấu cổ đông — VN >51%, tập đoàn TQ <49%. Leader điền tên và % trước pitch."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/00-1-thuc-trang","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Thực trạng Giai đoạn 00-1 — Đã làm rõ & chưa rõ"}]]}],["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Investor Pack — LONGTV"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

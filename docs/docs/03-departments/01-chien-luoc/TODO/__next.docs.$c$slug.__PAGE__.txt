@@ -1,0 +1,223 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1e12,<h1>TODO — Chiến lược &#x26; Rủi ro</h1>
+<h2>Tháng 2026-07 | Phòng: Chiến lược &#x26; Rủi ro</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Task</th>
+<th>V-layer</th>
+<th>Assignee</th>
+<th>Status</th>
+<th>Deadline</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>CL-001</td>
+<td>Nghiên cứu và lập bảng so sánh 10 đối thủ tư vấn FDI TQ→VN (tên, dịch vụ, giá, điểm mạnh/yếu)</td>
+<td>V1.4</td>
+<td>@hermes</td>
+<td>done</td>
+<td>2026-07-18</td>
+<td>/docs/04-research/2026-07/competitors</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>CL-002</td>
+<td>Liên hệ và lấy thông tin từ Sở KH&#x26;ĐT Thái Nguyên về chính sách thu hút FDI TQ</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>doing</td>
+<td>2026-07-21</td>
+<td>/docs/04-research/2026-07/thai-nguyen-fdi-policy</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>CL-003</td>
+<td>Phỏng vấn/tham quan ít nhất 1 KCN tại Thái Nguyên hoặc Hải Phòng</td>
+<td>V1.2</td>
+<td>@cursor</td>
+<td>doing</td>
+<td>2026-07-25</td>
+<td>/docs/04-research/2026-07/kcn-desk-research</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-004</td>
+<td>Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026)</td>
+<td>V1.3</td>
+<td>@cursor</td>
+<td>doing</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-005</td>
+<td>Viết memo tại sao chọn Thái Nguyên &#x26; Hải Phòng (so với Bắc Ninh, Hưng Yên)</td>
+<td>V1.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/why-tn-hp</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>CL-006</td>
+<td>Draft Plan B nếu không có khách trong 3 tháng đầu</td>
+<td>V7.5</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-31</td>
+<td>/docs/04-research/2026-07/plan-b-no-revenue</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>CL-G2-01</td>
+<td>Script + thực hiện call Sở KH&#x26;ĐT TN &#x26; HP</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>doing</td>
+<td>2026-07-21</td>
+<td>/docs/03-departments/01-chien-luoc/field-call-scripts</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-G2-02</td>
+<td>Đàm phán MOU KCN</td>
+<td>V1.2</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-31</td>
+<td>/docs/03-departments/02-phap-ly/templates/mou-kcn</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>CL-007</td>
+<td>Map 20 nhà máy TQ đã đầu tư tại TN + HP</td>
+<td>V1.3</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-30</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-008</td>
+<td>Thu thập URL &#x26; tài liệu địa phương vào source-registry</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td>/docs/data/fdi-legal/source-registry.json</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>CL-009</td>
+<td>Soạn brief LONGTV 1 trang cho field call</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>doing</td>
+<td>2026-07-12</td>
+<td>/docs/03-departments/01-chien-luoc/hermes-field-brief-template</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-010</td>
+<td>Cập nhật fdi-data sau field verify (số liệu theo quốc gia)</td>
+<td>V1.3</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/fdi-data</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-011</td>
+<td>Desk note quy trình EPE tại Thái Nguyên</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/04-research/2026-07/thai-nguyen-fdi-policy</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-012</td>
+<td>Verify hiệu lực 3 nguồn pháp luật P0 (Cẩm nang)</td>
+<td>V2.3</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/docs/cam-nang</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-013</td>
+<td>Desk danh sách đối tác forwarder &#x26; đại lý hải quan GPLS</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-28</td>
+<td>/logistics</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>CL-014</td>
+<td>Bảng giá desk tuyến vận chuyển TQ → HP → TN</td>
+<td>V1.2</td>
+<td>@hermes</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td>/logistics</td>
+</tr>
+</tbody>
+</table>
+<h2>Giai đoạn 00-1 — Checklist đánh giá tiềm năng</h2>
+<blockquote>
+<p>Tick dần — phục vụ <a href="/docs/06-phases/00-1-feasibility-plan">Kế hoạch 00-1</a>. Không cần xong hết tuần 1.</p>
+</blockquote>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-001: Bảng 10 đối thủ</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-002: Desk research Thái Nguyên (chờ gọi Sở)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-003: Desk KCN Yên Bình + Nam Đình Vũ — <strong>chờ call KCN</strong></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-004: Số liệu FDI sơ bộ (desk) — chờ verify Sở</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-005: Memo tại sao TN &#x26; HP (vs Bắc Ninh, Hưng Yên)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> CL-006: Plan B nếu 3 tháng không có khách</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Điền điểm scorecard #1, #2, #3, #10 → <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Góp phần <strong>Memo tiềm năng thị trường</strong> → <a href="/docs/06-phases/00-1-market-memo">00-1-market-memo</a></li>
+</ul>
+<h2>Giai đoạn 2 — Vận hành &#x26; field</h2>
+<blockquote>
+<p><strong>Gói việc Hermes Wave 2:</strong> <a href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07">hermes-work-pack-2026-07</a></p>
+</blockquote>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> Script call Sở/KCN → <a href="/docs/03-departments/01-chien-luoc/field-call-scripts">field-call-scripts</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Brief LONGTV 1 trang (Hermes — CL-009 / KIM-080)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT Thái Nguyên (Hermes — KIM-010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT Hải Phòng (Hermes — KIM-011)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Ban QLKCN Yên Bình + Nam Đình Vũ (Hermes — KIM-012, 013)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Verify CIT KKT Đình Vũ–Cát Hải (Hermes — KIM-077)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Map 20 NM TQ + cập nhật fdi-data (Hermes — CL-007, 010)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thu thập URL địa phương → Cẩm nang (Hermes — CL-008)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Ban QLKCN + MOU ký (Leader — CL-G2-02)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cập nhật research sau field</li>
+</ul>
+<h2>Hướng dẫn thực hiện</h2>
+<h3>CL-001 — Nghiên cứu đối thủ</h3>
+<p>Tìm 10 đơn vị: luật FDI, tư vấn đầu tư địa phương, đại lý KCN, Big4 có nhánh VN. Ghi vào bảng: tên, website, dịch vụ chính, giá (nếu có), khách hàng mục tiêu, điểm khác biệt.</p>
+<h3>CL-002 — Sở KH&#x26;ĐT Thái Nguyên</h3>
+<p>Gọi/email phòng đầu tư. Hỏi: số dự án TQ đăng ký 2025–2026, ưu đãi hiện hành, quy trình giới thiệu nhà đầu tư, đối tác tư vấn họ đang dùng.</p>
+<h3>CL-003 — KCN</h3>
+<p>Chọn 1 KCN: Yên Bình (Thái Nguyên) hoặc Nam Đình Vũ (Hải Phòng). Hỏi: diện tích trống, giá thuê, ngành ưu tiên, quy trình onboarding nhà đầu tư TQ.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Chiến lược & Rủi ro"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Chiến lược & Rủi ro."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Chiến lược & Rủi ro"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Gói công việc Hermes — Wave 2 (tháng 7/2026)"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

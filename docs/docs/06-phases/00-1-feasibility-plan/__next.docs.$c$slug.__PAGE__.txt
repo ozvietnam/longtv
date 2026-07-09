@@ -1,0 +1,461 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T3ae3,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+<blockquote>
+<p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
+<p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
+</blockquote>
+<hr>
+<h2>Vì sao cần Giai đoạn 00-1</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro nếu bỏ qua</th>
+<th>Cách 00-1 giảm rủi ro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đầu tư CTCP + văn phòng khi thị trường hẹp</td>
+<td>Số liệu FDI + phỏng vấn trước khi cam kết vốn lớn</td>
+</tr>
+<tr>
+<td>Catalog dịch vụ thiếu mảng → mất khách giữa chừng</td>
+<td>Map đủ hành trình khách FDI, đánh dấu có/thiếu/đối tác</td>
+</tr>
+<tr>
+<td>Cạnh tranh mạnh, margin thấp</td>
+<td>Bảng đối thủ + điểm khác biệt có bằng chứng</td>
+</tr>
+<tr>
+<td>Không biết ai trả tiền cho gì</td>
+<td>Persona + pricing sơ bộ + 3 gói bán thử</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nguyên tắc:</strong> <em>Thu thập &#x26; checklist dần</em> — mỗi phòng ghi nhận, không cần hoàn hảo ngày 1. Đủ bằng chứng để <strong>Go / No-Go / Điều chỉnh</strong>.</p>
+<hr>
+<h2>Ba trụ cột đánh giá</h2>
+<pre><code>┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
+│  1. THỊ TRƯỜNG  │   │ 2. CATALOG DỊCH │   │ 3. KHẢ THI      │
+│  Có nhu cầu?    │   │ VỤ ĐỦ CHƯA?     │   │ TRIỂN KHAI?     │
+│  Ai trả tiền?   │   │ Hành trình FDI  │   │ Vốn · team ·    │
+│  Đối thủ?       │   │ TQ → VN         │   │ đối tác · pháp  │
+└────────┬────────┘   └────────┬────────┘   └────────┬────────┘
+         │                     │                     │
+         └─────────────────────┼─────────────────────┘
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+              MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+   TRỤ CỘT 4 — ĐÁNH GIÁ ĐẦU TƯ &#x26; GỌI VỐN (bổ sung 2026-07-09)
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Trụ cột</th>
+<th>Câu hỏi then chốt</th>
+<th>Phòng chủ trì</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Thị trường</strong></td>
+<td>Có bao nhiêu NM TQ thực sự muốn vào TN/HP? Họ trả bao nhiêu?</td>
+<td>Chiến lược + Kinh doanh</td>
+<td>Memo thị trường + persona</td>
+</tr>
+<tr>
+<td><strong>2. Catalog dịch vụ</strong></td>
+<td>LONGTV phủ hết hành trình FDI chưa? Thiếu gì?</td>
+<td>Sản phẩm</td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">Bản đồ hành trình FDI</a></td>
+</tr>
+<tr>
+<td><strong>3. Khả thi triển khai</strong></td>
+<td>2 tỷ vốn + team bootstrap có đủ không? Rủi ro chính?</td>
+<td>Pháp lý + Vận hành</td>
+<td>Scorecard + kịch bản xấu</td>
+</tr>
+<tr>
+<td><strong>4. Đánh giá đầu tư</strong></td>
+<td>Với 2 tỷ, team &#x26; VP ảo — <strong>có nên đầu tư?</strong> DT/khách 6T/1N/2N? Pitch thiếu gì?</td>
+<td>Vận hành + Chiến lược + KD</td>
+<td><a href="/docs/06-phases/investor-pack/00-index">Investor Pack</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Trụ cột 4 — Đánh giá đầu tư &#x26; gọi vốn</h3>
+<blockquote>
+<p><strong>Yêu cầu bổ sung (Leader, 2026-07-09):</strong> Đủ thông tin để quyết định <strong>có nên đầu tư</strong>; dự phóng <strong>doanh số &#x26; khách</strong> sau 6 tháng, 1 năm, 2 năm; <strong>chiến lược dài hạn</strong>; và bộ tài liệu <strong>thuyết trình kêu gọi vốn / tìm C-level</strong>.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Câu hỏi</th>
+<th>Tài liệu trả lời</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Có nên đầu tư 2 tỷ?</td>
+<td><a href="/docs/06-phases/investor-pack/00-investment-verdict">Investment verdict</a></td>
+<td>✅ Go có điều kiện</td>
+</tr>
+<tr>
+<td>Phân bổ vốn?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/use-of-funds-2b">Use of funds 2B</a></td>
+<td>✅ Đề xuất</td>
+</tr>
+<tr>
+<td>DT &#x26; khách 6T/1N/2N?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">Financial model 3yr</a></td>
+<td>✅ Bear/Base/Bull</td>
+</tr>
+<tr>
+<td>Hòa vốn khi nào?</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/break-even-analysis">Break-even</a></td>
+<td>✅ ~tháng 15 (base)</td>
+</tr>
+<tr>
+<td>Chiến lược 3 năm?</td>
+<td><a href="/docs/03-departments/01-chien-luoc/strategy-3yr">Strategy 3yr</a></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Pitch thiếu gì?</td>
+<td><a href="/docs/06-phases/investor-pack/02-pitch-gap-checklist">Pitch gap checklist</a></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Cap table?</td>
+<td><a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a></td>
+<td>🟡 Chờ Leader điền</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận trụ cột 4:</strong> Đủ cho <strong>cổ đông chiến lược</strong> quyết định; <strong>chưa đủ</strong> cho investor thứ ba nếu chưa có ≥1 HĐ + cap table ký.</p>
+<hr>
+<h2>Ba trụ cột đánh giá (bảng chi tiết)</h2>
+<hr>
+<h2>Lộ trình 4 tuần (đề xuất)</h2>
+<table>
+<thead>
+<tr>
+<th>Tuần</th>
+<th>Trọng tâm</th>
+<th>Việc chính</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T1</strong></td>
+<td>Thị trường sơ bộ</td>
+<td>Đối thủ ✅ · Sở KH&#x26;ĐT · 1 KCN · số liệu FDI draft</td>
+<td>Checklist Chiến lược ≥50%</td>
+</tr>
+<tr>
+<td><strong>T2</strong></td>
+<td>Khách hàng &#x26; giá</td>
+<td>Persona · 5 kênh · pricing 3 gói draft · phỏng vấn 1–2 nguồn</td>
+<td>Memo persona + khung giá</td>
+</tr>
+<tr>
+<td><strong>T3</strong></td>
+<td>Catalog đầy đủ</td>
+<td>Map hành trình FDI 6 giai đoạn · đánh dấu có/thiếu · tự làm vs đối tác</td>
+<td>Catalog v1 + gap list</td>
+</tr>
+<tr>
+<td><strong>T4</strong></td>
+<td>Chốt tiềm năng</td>
+<td>Scorecard · kịch bản xấu · họp Go/No-Go Leader</td>
+<td><strong>Memo tiềm năng 00-1</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em>Có thể trùng với lộ trình tháng 7 — 00-1 là khung mục tiêu, tháng 7 là lịch thực thi.</em></p>
+<hr>
+<h2>Bảng chấm điểm tiềm năng (Scorecard)</h2>
+<p>Chấm <strong>1–5</strong> mỗi tiêu chí (1 = yếu, 5 = mạnh). Tổng ≥ <strong>35/50</strong> → đề xuất <strong>Go</strong> sang Giai đoạn 2.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tiêu chí</th>
+<th>Nguồn bằng chứng</th>
+<th>Điểm (1–5)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quy mô thị trường FDI TQ→VN (miền Bắc)</td>
+<td>CL-004, báo cáo FDI</td>
+<td><strong>4</strong></td>
+<td>TQ #2 nguồn vốn 2025</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nhu cầu cụ thể tại TN + HP</td>
+<td>CL-002, CL-003</td>
+<td><strong>4</strong></td>
+<td>TN #1 FDI mới; desk KCN</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Khoảng trống vs đối thủ</td>
+<td>CL-001 competitors</td>
+<td><strong>3</strong></td>
+<td>Niche Tier 2–3 TQ</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Khách mục tiêu rõ (persona)</td>
+<td>KD-001</td>
+<td><strong>4</strong></td>
+<td><a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sẵn sàng trả phí (pricing)</td>
+<td>KD-004</td>
+<td><strong>3</strong></td>
+<td>Draft — chưa validate khách</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Catalog phủ ≥80% hành trình FDI</td>
+<td>FDI journey map</td>
+<td><strong>4</strong></td>
+<td>~82% ✅/🤝</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Pháp lý &#x26; giấy phép khả thi</td>
+<td>PL-001, PL-003</td>
+<td><strong>4</strong></td>
+<td>CTCP path rõ</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vốn 2 tỷ đủ 6–12 tháng</td>
+<td>VT-001, VT-005</td>
+<td><strong>5</strong></td>
+<td>Burn &#x3C;&#x3C; 2 tỷ</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Lợi thế CTCP + tập đoàn TQ</td>
+<td>QĐ #003, Leader input</td>
+<td><strong>3</strong></td>
+<td>% cổ đông chưa điền</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Rủi ro chấp nhận được</td>
+<td>CL-006, VT-005</td>
+<td><strong>4</strong></td>
+<td>Plan B có</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TỔNG</strong></td>
+<td></td>
+<td><strong>38/50</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận (2026-07-09):</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> <strong>Go + Adjust</strong> — Sang <a href="02-giai-doan-2-overview">Giai đoạn 2</a> (xây hệ thống lean)</li>
+<li class="task-list-item"><input type="checkbox" disabled> <strong>No-Go</strong> — Dừng hoặc pivot mô hình</li>
+<li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+</ul>
+<hr>
+<h2>Ý tưởng triển khai khả thi (bootstrap)</h2>
+<blockquote>
+<p>Đây là <strong>mô hình thử nghiệm</strong> trong 00-1 — chưa cam kết tuyển dụng scale.</p>
+</blockquote>
+<h3>Cách tiếp cận “Lean validation”</h3>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Làm gì</th>
+<th>Chi phí ước tính</th>
+<th>Ai làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Nghiên cứu desk + Hermes issues</td>
+<td>Thấp (thời gian)</td>
+<td>Hermes + Cursor</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3 cuộc gọi: Sở KH&#x26;ĐT, 1 KCN, 1 đối thủ/khách tiềm năng</td>
+<td>~0</td>
+<td>Leader + Chiến lược</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Catalog trên giấy + web nội bộ</td>
+<td>~0</td>
+<td>Sản phẩm</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Offer thử</strong> 1 gói A1 cho 1 lead TQ (nếu có) — chưa cần CTCP</td>
+<td>Hợp đồng qua đối tác luật</td>
+<td>Kinh doanh</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chốt CTCP <strong>sau</strong> khi scorecard ≥ ngưỡng</td>
+<td>~2 tỷ vốn (đã chốt hướng)</td>
+<td>Pháp lý</td>
+</tr>
+</tbody>
+</table>
+<h3>Thứ tự ưu tiên dịch vụ bán thử (nếu Go)</h3>
+<ol>
+<li><strong>A1 Khảo sát 2 tỉnh</strong> — chứng minh giá trị, ít rủi ro pháp lý</li>
+<li><strong>B1 Hải quan starter</strong> — tận dụng công cụ Oz, khách đã vào VN</li>
+<li><strong>H2/H3 Hub</strong> — giữ khách sau deal A</li>
+</ol>
+<p><em>Không bán A3 (thiết lập NM) cho đến khi có uy tín + đối tác luật/đất chắc.</em></p>
+<hr>
+<h2>Phân công 5 phòng — checklist 00-1</h2>
+<p>Mỗi phòng có section <strong>Giai đoạn 00-1</strong> trong file TODO — tick dần, không quên.</p>
+<table>
+<thead>
+<tr>
+<th>Phòng</th>
+<th>File checklist</th>
+<th>Trọng tâm 00-1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chiến lược &#x26; Rủi ro</td>
+<td><a href="/docs/03-departments/01-chien-luoc/TODO">TODO Chiến lược</a></td>
+<td>Thị trường, đối thủ, Sở, KCN, Plan B</td>
+</tr>
+<tr>
+<td>Pháp lý &#x26; Chính sách</td>
+<td><a href="/docs/03-departments/02-phap-ly/TODO">TODO Pháp lý</a></td>
+<td>CTCP, ưu đãi 2 tỉnh, rào cản giấy phép</td>
+</tr>
+<tr>
+<td>Kinh doanh &#x26; GTM</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/TODO">TODO Kinh doanh</a></td>
+<td>Persona, kênh, pricing, lead thử</td>
+</tr>
+<tr>
+<td>Sản phẩm dịch vụ</td>
+<td><a href="/docs/03-departments/04-san-pham/TODO">TODO Sản phẩm</a></td>
+<td>Catalog đầy đủ, hành trình FDI, gap</td>
+</tr>
+<tr>
+<td>Vận hành &#x26; TC</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/TODO">TODO Vận hành</a></td>
+<td>Vốn, burn, scorecard, kịch bản xấu</td>
+</tr>
+</tbody>
+</table>
+<p>Theo dõi tổng: <a href="/operations">Bảng vận hành</a> · <a href="/roadmap">Lộ trình tháng 7</a>.</p>
+<hr>
+<h2>Deliverable bắt buộc cuối 00-1</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tài liệu</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Memo tiềm năng thị trường</strong></td>
+<td>5–10 trang: TAM/SAM, đối thủ, kết luận có/không nhu cầu</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Catalog dịch vụ v1</strong></td>
+<td>Map đủ <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">6 giai đoạn hành trình FDI</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Scorecard điền đủ 10 tiêu chí</strong></td>
+<td>Bảng trên, có điểm số + giải thích</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Quyết định Go/No-Go</strong></td>
+<td>Leader ký — mở Giai đoạn 2 hoặc điều chỉnh</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Investor Pack (trụ cột 4)</strong></td>
+<td>Verdict đầu tư + financial model 3yr + strategy 3yr + pitch gap — <a href="/docs/06-phases/investor-pack/00-index">index</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Giai đoạn 2</h2>
+<p>Khi <strong>Go</strong> từ 00-1 → xem <a href="02-giai-doan-2-overview">Overview Giai đoạn 2</a>.</p>
+<p><em>Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.</em></p>
+<hr>
+<h2>Trạng thái 00-1: ✅ HOÀN THÀNH (desk)</h2>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Memo tiềm năng</td>
+<td><a href="00-1-market-memo">00-1-market-memo</a></td>
+</tr>
+<tr>
+<td>Scorecard 38/50</td>
+<td><a href="00-1-scorecard">00-1-scorecard</a></td>
+</tr>
+<tr>
+<td>Quyết định Go</td>
+<td><a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></td>
+</tr>
+<tr>
+<td><strong>Investor Pack</strong></td>
+<td><a href="investor-pack/00-index">investor-pack/00-index</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Còn field (Leader):</strong> Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ</p>
+<hr>
+<h2>Việc ngay (Giai đoạn 2)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Sở KH&#x26;ĐT Thái Nguyên (CL-002)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -4,11 +4,31 @@
 
 Repo này vừa là **kho tri thức nội bộ**, vừa là **hệ thống vận hành**: khai vấn định hướng → phân công phòng ban → thực thi trên web.
 
+## Quy ước nền tảng để làm mượt
+
+- **Tài liệu business viết ở repo root**: `04-research/`, `decisions/`, `03-departments/`, `05-clarifications/`...
+- **Web không đọc trực tiếp root**: trước khi dev/build, script `sync-content` copy toàn bộ markdown root sang `web/content/`
+- **Không edit tay `web/content/`** trừ khi debug rất đặc biệt
+
+Chi tiết: [decisions/004-content-pipeline.md](decisions/004-content-pipeline.md)
+
 ## Bắt đầu nhanh
 
 ### Đọc trên web
 
-Web deploy trên Vercel (Next.js). Sau mỗi lần push lên `main`, web tự cập nhật.
+**Live (sau khi bật Pages 1 lần — xem [DEPLOY.md](DEPLOY.md)):**
+
+**https://ozvietnam.github.io/longtv/**
+
+| Trang | Link |
+|-------|------|
+| Dashboard | https://ozvietnam.github.io/longtv/ |
+| Giai đoạn 00-1 | https://ozvietnam.github.io/longtv/docs/06-phases/00-1-feasibility-plan/ |
+| Dịch vụ | https://ozvietnam.github.io/longtv/services/ |
+| Vận hành | https://ozvietnam.github.io/longtv/operations/ |
+
+> Link 404? → [DEPLOY.md](DEPLOY.md) — bật GitHub Pages: Settings → Pages → `main` / `/docs`
+
 
 ```bash
 cd web
@@ -105,5 +125,6 @@ author: "Tên"
 - [Nguyên tắc làm việc](00-WORKING_PRINCIPLES.md)
 - [Lộ trình tháng 7/2026](02-monthly-roadmap/2026-07.md)
 - [Yêu cầu làm rõ từ team](05-clarifications/00-team-input-requirements.md)
+- [Pipeline content → web](decisions/004-content-pipeline.md)
 - [Cây vấn đề V1–V7](01-project-structure/00-MACRO_PROBLEMS.md)
 - [GitHub](https://github.com/ozvietnam/longtv)

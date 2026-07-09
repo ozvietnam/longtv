@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+4:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T66f,<h1>HD-02 — Thỏa thuận bảo mật thông tin (NDA)</h1>
+<blockquote>
+<p><strong>Dùng khi:</strong> Chia sẻ tài liệu DN TQ trước khi ký HĐ dịch vụ</p>
+</blockquote>
+<hr>
+<h1>THỎA THUẬN BẢO MẬT THÔNG TIN (NDA)</h1>
+<p><strong>Số:</strong> LONGTV-NDA-____/2026 · <strong>Ngày:</strong> <em><strong>/</strong></em>/2026</p>
+<p><strong>BÊN TIẾT LỘ:</strong> _________________ ("Bên A")<br>
+<strong>BÊN NHẬN:</strong> CÔNG TY _________________ / LONGTV ("Bên B")</p>
+<h2>1. Định nghĩa</h2>
+<p>"Thông tin mật" gồm: kế hoạch đầu tư, tài chính, công nghệ, danh sách khách hàng, hồ sơ pháp lý — dù ở dạng văn bản, điện tử hay lời nói.</p>
+<h2>2. Nghĩa vụ Bên B</h2>
+<ul>
+<li>Chỉ dùng thông tin mật để thực hiện dịch vụ tư vấn đã thỏa thuận</li>
+<li>Không tiết lộ cho bên thứ ba (trừ nhân viên/đối tác cần biết, có ràng buộc tương tự)</li>
+<li>Bảo quản tài liệu an toàn; xóa/trả khi kết thúc hoặc theo yêu cầu</li>
+</ul>
+<h2>3. Loại trừ</h2>
+<p>Không coi là mật nếu: (a) đã công khai; (b) Bên B đã biết trước; (c) thu được hợp pháp từ bên khác; (d) pháp luật yêu cầu công bố.</p>
+<h2>4. Thời hạn</h2>
+<p>03 năm kể từ ngày ký. Nghĩa vụ bảo mật vẫn hiệu lực sau khi chấm dứt quan hệ tư vấn.</p>
+<h2>5. Bồi thường</h2>
+<p>Bên vi phạm chịu trách nhiệm theo pháp luật Việt Nam và thiệt hại thực tế.</p>
+<hr>
+<p><strong>BÊN TIẾT LỘ</strong>        <strong>BÊN NHẬN</strong></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"templates"}]]}],["$","span","3",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"nda-bao-mat"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"nda-bao-mat"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/templates/mou-kcn","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"mou-kcn"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/package-a1-deliverable","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"package-a1-deliverable"}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+6:null

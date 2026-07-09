@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1e69,<h1>Memo tiềm năng thị trường</h1>
+<blockquote>
+<p><strong>Giai đoạn:</strong> 00-1 · <strong>Ngày:</strong> 2026-07-09 · <strong>Trạng thái:</strong> Draft hoàn thành — chờ Leader ký <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></p>
+</blockquote>
+<hr>
+<h2>1. Kết luận điều hành (1 trang)</h2>
+<table>
+<thead>
+<tr>
+<th>Câu hỏi</th>
+<th>Trả lời</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LONGTV có tiềm năng?</td>
+<td><strong>Có</strong> — đủ điều kiện <strong>Go</strong> sang Giai đoạn 2</td>
+</tr>
+<tr>
+<td>Phân khúc nên nhắm</td>
+<td>NM TQ <strong>Tier 2–3</strong> (50–300 CN), supply chain điện tử/linh kiện, dịch chuyển miền Bắc VN</td>
+</tr>
+<tr>
+<td>2 tỉnh trọng tâm</td>
+<td><strong>Thái Nguyên</strong> (#1 FDI mới 6T/2026) + <strong>Hải Phòng</strong> (#3, cảng biển) — hợp lý</td>
+</tr>
+<tr>
+<td>Gói bán đầu</td>
+<td><strong>A1 Khảo sát</strong> + <strong>B1 Hải quan</strong> — chưa scale A3/B3</td>
+</tr>
+<tr>
+<td>Rủi ro lớn nhất</td>
+<td>Chưa verify trực tiếp Sở/KCN; cạnh tranh đối tác “ruột” tỉnh</td>
+</tr>
+<tr>
+<td>Điều kiện Go</td>
+<td>Leader chốt % cổ đông TQ; 1 cuộc gọi Sở TN trong 30 ngày</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Đề xuất:</strong> <strong>Go + Adjust</strong> — triển khai lean, thu hẹp phạm vi 6 tháng đầu (không bán thiết lập NM full).</p>
+<hr>
+<h2>2. Quy mô thị trường (TAM / SAM)</h2>
+<h3>Toàn quốc</h3>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI đăng ký 2025</td>
+<td>38,42 tỷ USD</td>
+<td>NSO</td>
+</tr>
+<tr>
+<td>FDI đăng ký 6T/2026</td>
+<td>34,65 tỷ USD (+61%)</td>
+<td>GSO</td>
+</tr>
+<tr>
+<td>Trung Quốc — vốn mới 2025</td>
+<td>3,64 tỷ USD (<strong>#2</strong>)</td>
+<td>VietnamPlus</td>
+</tr>
+<tr>
+<td>SX chế biến — tỷ trọng</td>
+<td>~56–83% vốn FDI</td>
+<td>NSO</td>
+</tr>
+</tbody>
+</table>
+<p>→ Dòng vốn TQ sang VN <strong>lớn và đang tăng tốc</strong>; manufacturing là trọng tâm.</p>
+<h3>SAM — miền Bắc, 2 tỉnh LONGTV</h3>
+<h3>2. Đọc đúng số liệu TN (quan trọng)</h3>
+<blockquote>
+<p>Q1/2026 TN #1 FDI chủ yếu do <strong>Samsung bán dẫn (~4B USD)</strong> và dự án lớn Hàn/Đài — <strong>không đồng nghĩa</strong> hàng trăm NM TQ nhỏ. Phân khúc LONGTV: NM TQ <strong>Tier 2–3</strong>, 2–50M USD. Chi tiết: <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a>.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Tỉnh</th>
+<th>FDI mới 6T/2026</th>
+<th>Vai trò LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Thái Nguyên</strong></td>
+<td>~5,7 tỷ USD (#1)</td>
+<td>Mảng A: chính sách, KCN Yên Bình</td>
+</tr>
+<tr>
+<td><strong>Hải Phòng</strong></td>
+<td>~1,7 tỷ USD (#3)</td>
+<td>Mảng A + cửa ngõ cảng (B)</td>
+</tr>
+<tr>
+<td>Bắc Ninh, Hưng Yên</td>
+<td>Đã đông đúc</td>
+<td>Đối thủ so sánh — không mở rộng</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SAM ước tính (desk):</strong> 200–400 NM TQ/năm cân nhắc miền Bắc; 20–40 deal/năm phù hợp profile LONGTV (50–300 CN, cần tư vấn site + hải quan).</p>
+<p>Chi tiết: <a href="/docs/04-research/2026-07/fdi-data">fdi-data</a>, <a href="/docs/04-research/2026-07/thai-nguyen-fdi-policy">thai-nguyen-fdi-policy</a>.</p>
+<hr>
+<h2>3. Phân khúc khách &#x26; pain point</h2>
+<table>
+<thead>
+<tr>
+<th>Phân khúc</th>
+<th>Quy mô</th>
+<th>Pain</th>
+<th>LONGTV fit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A — NM TQ Tier 2–3</strong></td>
+<td>50–300 CN</td>
+<td>Chọn tỉnh, chính sách, hải quan</td>
+<td><strong>Cao</strong> — A1, B1</td>
+</tr>
+<tr>
+<td>B — FDI lớn (Samsung tier)</td>
+<td>>500 CN</td>
+<td>Đã có Big4/luật lớn</td>
+<td>Thấp — không đua</td>
+</tr>
+<tr>
+<td>C — NM TQ đã vào VN</td>
+<td>Đang chạy</td>
+<td>Retainer XNK, kế toán</td>
+<td>Trung — B3, H3 (sau)</td>
+</tr>
+<tr>
+<td>D — Supply chain cho Hàn/Đài</td>
+<td>Linh kiện</td>
+<td>Giới thiệu từ anchor NM</td>
+<td>Trung — qua KCN</td>
+</tr>
+</tbody>
+</table>
+<p>Persona chi tiết: <a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a>.</p>
+<hr>
+<h2>4. Đối thủ &#x26; khoảng trống</h2>
+<p>Từ <a href="/docs/04-research/2026-07/competitors">competitors</a>:</p>
+<table>
+<thead>
+<tr>
+<th>Loại đối thủ</th>
+<th>Điểm mạnh</th>
+<th>Khoảng trống LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Luật FDI (Vision, Betalaw…)</td>
+<td>Pháp lý sâu</td>
+<td>Ít kết hợp logistics + công cụ số</td>
+</tr>
+<tr>
+<td>Đại lý KCN</td>
+<td>Quan hệ Sở</td>
+<td>Không song ngữ TQ sâu, không Hub</td>
+</tr>
+<tr>
+<td>Big4</td>
+<td>Uy tín</td>
+<td>Giá cao, không làm NM nhỏ</td>
+</tr>
+<tr>
+<td>Forwarder</td>
+<td>Logistics</td>
+<td>Không tư vấn chính sách 2 tỉnh</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Differentiator LONGTV:</strong> CTCP + tập đoàn TQ (2 đầu) · chính sách sâu 2 tỉnh · Hub pháp lý/kế toán · công cụ Oz hải quan.</p>
+<hr>
+<h2>5. Khả năng trả phí (sơ bộ)</h2>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>Giá draft</th>
+<th>Validation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1 Khảo sát 2 tỉnh</td>
+<td>80–150 tr</td>
+<td>Cần 2–3 quote đối thủ — <a href="/docs/04-research/2026-07/pricing-draft">pricing-draft</a></td>
+</tr>
+<tr>
+<td>B1 Hải quan starter</td>
+<td>30–60 tr</td>
+<td>So sánh dịch vụ hải quan thuê ngoài</td>
+</tr>
+<tr>
+<td>H3 Kế toán (giới thiệu)</td>
+<td>Commission</td>
+<td>Qua đối tác CPA</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Chưa phỏng vấn khách thật</strong> — điểm yếu của memo; đề xuất Leader/KD làm 1–2 call trong Giai đoạn 2 tuần 1.</p>
+<hr>
+<h2>6. Khả thi triển khai</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Đánh giá</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vốn 2 tỷ vs burn 6–9 tháng (~270–750 tr)</td>
+<td><strong>Đủ</strong></td>
+</tr>
+<tr>
+<td>Pháp nhân CTCP + TQ cổ đông</td>
+<td><strong>Khả thi</strong> — <a href="/docs/03-departments/02-phap-ly/ctcp-timeline">ctcp-timeline</a></td>
+</tr>
+<tr>
+<td>Team bootstrap 8–10 người kiêm</td>
+<td><strong>Khả thi</strong> — <a href="/docs/03-departments/00-org-model">org-model</a></td>
+</tr>
+<tr>
+<td>Catalog phủ hành trình FDI</td>
+<td><strong>~82%</strong> có/đối tác — <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-map</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Rủi ro chính &#x26; Plan B</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Mức</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 tháng không có khách</td>
+<td>Cao</td>
+<td><a href="/docs/04-research/2026-07/plan-b-no-revenue">Plan B</a></td>
+</tr>
+<tr>
+<td>Sở có đối tác ruột</td>
+<td>Trung</td>
+<td>Positioning bổ sung, không thay thế</td>
+</tr>
+<tr>
+<td>FDI lớn không phải TQ trực tiếp</td>
+<td>Trung</td>
+<td>Nhắm supply chain Tier 2–3</td>
+</tr>
+<tr>
+<td>Leader chưa chốt % cổ đông TQ</td>
+<td>Cao</td>
+<td><a href="/docs/05-clarifications/00-team-input-requirements">Làm rõ</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>8. Khuyến nghị Giai đoạn 2 (tóm tắt)</h2>
+<ol>
+<li>Chốt CTCP + gọi Sở KH&#x26;ĐT Thái Nguyên</li>
+<li>Bán thử 1 gói A1 (offer letter mẫu)</li>
+<li>Tuyển 1 sales song ngữ</li>
+<li>SOP gói A1 + hợp đồng mẫu</li>
+<li>Không mở văn phòng riêng — virtual/co-working</li>
+</ol>
+<p>Scorecard đầy đủ: <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a>.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-market-memo"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Memo tiềm năng thị trường — Giai đoạn 00-1"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp TAM/SAM, đối thủ, phân khúc khách, kết luận tiềm năng LONGTV."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data-deep-dive","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004b — Số liệu FDI đào sâu & mức tin cậy"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004 — Số liệu FDI TQ→VN & 2 tỉnh trọng tâm"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

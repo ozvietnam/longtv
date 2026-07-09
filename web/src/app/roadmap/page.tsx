@@ -10,7 +10,7 @@ const CATEGORY_LABELS: Record<string, string> = {
 export default function RoadmapIndex() {
   const roadmaps = getAllDocs()
     .filter((d) => d.meta.category === "roadmap")
-    .sort((a, b) => (b.meta.date || "").localeCompare(a.meta.date || ""));
+    .sort((a, b) => String(b.meta.date || "").localeCompare(String(a.meta.date || "")));
 
   const current = roadmaps[0];
 

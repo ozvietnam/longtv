@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+f:I[68027,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0x5crff4xoj7b.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","04-research","2026-07","pricing-draft",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","04-research/2026-07/pricing-draft","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3y9azk3x7brqd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":["$L6","$L7","$L8"]}],"$L9"]}]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HREDl5iKe8YIbj_LGYYT6"}
+12:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+18:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+8:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+9:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+d:"$W15"
+e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:T10e9,<h1>KD-004 — Bảng giá dịch vụ (draft v0.1)</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Kinh doanh + Sản phẩm | <strong>Giai đoạn:</strong> 00-1 | <strong>Ngày:</strong> 2026-07-09<br>
+<strong>Lưu ý:</strong> Giá draft — cần Leader duyệt trước khi đưa khách</p>
+</blockquote>
+<hr>
+<h2>1. Nguyên tắc định giá</h2>
+<ul>
+<li><strong>Anchor:</strong> Rẻ hơn Big4 / luật quốc tế 40–60%, cao hơn freelancer địa phương (positioning chuyên TQ–VN)</li>
+<li><strong>Tiền tệ:</strong> Báo giá <strong>USD</strong> hoặc <strong>CNY</strong> cho khách TQ; thu <strong>VND</strong> khi ký HĐ</li>
+<li><strong>Thanh toán:</strong> 30% ký HĐ — 40% giao milestone — 30% hoàn tất</li>
+</ul>
+<hr>
+<h2>2. Gói dịch vụ</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Tên</th>
+<th>Phạm vi</th>
+<th>Giá (USD)</th>
+<th>Thời gian</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A0</strong></td>
+<td>Tư vấn sơ bộ</td>
+<td>30 phút call + checklist PDF</td>
+<td><strong>Miễn phí</strong></td>
+<td>1 tuần</td>
+</tr>
+<tr>
+<td><strong>A1</strong></td>
+<td>Desk research</td>
+<td>Báo cáo 15–20 trang: KCN, chính sách, pháp lý sơ bộ</td>
+<td><strong>2.500 – 4.000</strong></td>
+<td>2–3 tuần</td>
+</tr>
+<tr>
+<td><strong>A2</strong></td>
+<td>So sánh địa điểm</td>
+<td>TN vs HP vs 1 địa phương khách chọn</td>
+<td><strong>4.000 – 6.000</strong></td>
+<td>3–4 tuần</td>
+</tr>
+<tr>
+<td><strong>B1</strong></td>
+<td>On-site + đối tác</td>
+<td>2 ngày TN hoặc HP + meeting Sở/KCN</td>
+<td><strong>8.000 – 12.000</strong> + chi phí đi lại</td>
+<td>4–6 tuần</td>
+</tr>
+<tr>
+<td><strong>B2</strong></td>
+<td>Thành lập CTCP</td>
+<td>IRC, MST, con dấu, tài khoản (phí nhà nước riêng)</td>
+<td><strong>6.000 – 10.000</strong></td>
+<td>6–10 tuần</td>
+</tr>
+<tr>
+<td><strong>C1</strong></td>
+<td>Retainer tháng</td>
+<td>1 cố vấn + 4h hỗ trợ/tháng</td>
+<td><strong>1.500 / tháng</strong></td>
+<td>Ongoing</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Chi tiết gói A1 (bán chạy dự kiến)</h2>
+<p>Bao gồm:</p>
+<ol>
+<li>Báo cáo tiềm năng ngành tại TN/HP</li>
+<li>So sánh 2 KCN (desk + giá tham chiếu)</li>
+<li>Tóm tắt ưu đãi thuế / đất</li>
+<li>Checklist thủ tục FDI 6 bước</li>
+<li>1 buổi trình bày online (60 phút, song ngữ)</li>
+</ol>
+<p><strong>Không bao gồm:</strong> Phí luật chi tiết, due diligence đất, dịch thuật công chứng</p>
+<p>Spec: <a href="../../03-departments/04-san-pham/package-a1-deliverable.md">package-a1-deliverable.md</a></p>
+<hr>
+<h2>4. Add-on</h2>
+<table>
+<thead>
+<tr>
+<th>Add-on</th>
+<th>Giá (USD)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dịch thuật công chứng (mỗi bộ)</td>
+<td>200 – 500</td>
+</tr>
+<tr>
+<td>Thủ tục visa / giấy phép lao động NN</td>
+<td>500 – 1.500 / người</td>
+</tr>
+<tr>
+<td>Due diligence pháp lý đất (qua đối tác luật)</td>
+<td>3.000 – 8.000</td>
+</tr>
+<tr>
+<td>Pitch deck tiếng Trung custom</td>
+<td>800 – 1.500</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. So sánh đối thủ (desk)</h2>
+<table>
+<thead>
+<tr>
+<th>Đối thủ</th>
+<th>Gói tương đương A1</th>
+<th>Giá ước tính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Luật TN địa phương</td>
+<td>Báo cáo đầu tư</td>
+<td>1.500 – 3.000 USD</td>
+</tr>
+<tr>
+<td>Tư vấn quốc tế (HN)</td>
+<td>Feasibility</td>
+<td>8.000 – 15.000 USD</td>
+</tr>
+<tr>
+<td><strong>LONGTV A1</strong></td>
+<td>Desk + pitch</td>
+<td><strong>2.500 – 4.000 USD</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Nguồn: <a href="./competitors.md">competitors.md</a></p>
+<hr>
+<h2>6. Pilot &#x26; Plan B</h2>
+<ul>
+<li><strong>3 khách pilot đầu:</strong> Giảm 30% A1 đổi case study + testimonial</li>
+<li><strong>Plan B:</strong> Kích hoạt A0 miễn phí + giảm A1 — xem <a href="./plan-b-no-revenue.md">plan-b-no-revenue.md</a></li>
+</ul>
+<hr>
+<h2>7. Việc còn lại</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader duyệt bảng giá</li>
+<li class="task-list-item"><input type="checkbox" disabled> Template HĐ + invoice (PL)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bảng giá tiếng Trung (VT)</li>
+</ul>
+11:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"pricing-draft"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"pricing-draft"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b"]}]
+1b:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/plan-b-no-revenue","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"plan-b-no-revenue"}]]}],["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/pricing-official","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"pricing-official"}]]}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"pricing-draft · LongTV"}],["$","link","1",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1c","2",{}]]

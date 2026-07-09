@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+7:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T8a8,<h1>VT-GĐ2 — KPI tháng 5 phòng (v1)</h1>
+<blockquote>
+<p><strong>Chu kỳ review:</strong> Cuối mỗi tháng · <strong>Owner:</strong> TGĐ + Trưởng Vận hành</p>
+</blockquote>
+<hr>
+<h2>KPI theo phòng</h2>
+<table>
+<thead>
+<tr>
+<th>Phòng</th>
+<th>KPI 1</th>
+<th>Mục tiêu T8</th>
+<th>KPI 2</th>
+<th>Mục tiêu T8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Chiến lược</strong></td>
+<td>Call Sở/KCN hoàn thành</td>
+<td>2 cuộc</td>
+<td>Cập nhật FDI data</td>
+<td>1 lần/tháng</td>
+</tr>
+<tr>
+<td><strong>Pháp lý</strong></td>
+<td>Template HĐ luật duyệt</td>
+<td>1 bộ</td>
+<td>CTCP hồ sơ nộp</td>
+<td>1 <em>(nếu Leader ready)</em></td>
+</tr>
+<tr>
+<td><strong>Kinh doanh</strong></td>
+<td>Lead mới</td>
+<td>15</td>
+<td>Won A1</td>
+<td>1 (trong 60 ngày)</td>
+</tr>
+<tr>
+<td><strong>Sản phẩm</strong></td>
+<td>Giao A1 on-time</td>
+<td>≥90%</td>
+<td>SOP cập nhật</td>
+<td>0 incident</td>
+</tr>
+<tr>
+<td><strong>Vận hành</strong></td>
+<td>Burn vs budget</td>
+<td>≤100%</td>
+<td>Báo cáo pipeline</td>
+<td>4/tuần</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>KPI công ty (dashboard)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Mục tiêu Q3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Doanh thu ký HĐ</td>
+<td>≥ 1 A1</td>
+</tr>
+<tr>
+<td>Pipeline qualified</td>
+<td>≥ 5</td>
+</tr>
+<tr>
+<td>Cash runway</td>
+<td>≥ 6 tháng</td>
+</tr>
+<tr>
+<td>Chi phí sales / doanh thu</td>
+<td>&#x3C; 40%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Template review tháng</h2>
+<pre><code>Tháng ___/2026
+1. Doanh thu ký: ___ USD
+2. Pipeline: ___ lead / ___ qualified / ___ proposal
+3. Burn thực tế: ___ VND (vs kế hoạch ___)
+4. Đạt KPI phòng: CL __ / PL __ / KD __ / SP __ / VT __
+5. Blocker: ___
+6. Việc tháng sau: ___
+</code></pre>
+<hr>
+<h2>Escalation</h2>
+<table>
+<thead>
+<tr>
+<th>Tình huống</th>
+<th>Hành động</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 proposal sau 30 ngày</td>
+<td>Kích hoạt <a href="/docs/04-research/2026-07/plan-b-no-revenue">Plan B</a></td>
+</tr>
+<tr>
+<td>Burn >120%</td>
+<td>Freeze marketing + review headcount</td>
+</tr>
+<tr>
+<td>Lost 3 deal liên tiếp</td>
+<td>Họp review pricing / persona</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-van-hanh-tc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kpi-thang"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"kpi-thang"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/kcn-desk-research","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],"$L4"]}],"$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"kcn-desk-research"}]
+5:["$","$L2",null,{"href":"/docs/04-research/2026-07/legal-licenses","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"legal-licenses"}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

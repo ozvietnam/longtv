@@ -41,6 +41,7 @@ Khai vấn tháng mới (ngày 1–3)
 ## Nguyên tắc phụ (vận hành)
 
 - **Một nguồn sự thật:** Git repo = kế hoạch + thực thi; web chỉ là giao diện đọc/cập nhật.
+- **Content viết ở root repo:** Research, decisions, roadmap, clarifications đều viết ở root; `web/content/` chỉ là bản mirror tự sync trước build.
 - **Không làm việc ngoài khung V1–V7:** Mọi việc phải map về 1 tầng V (tránh lan man). Xem [Cây vấn đề lớn](/docs/01-project-structure/00-MACRO_PROBLEMS).
 - **Chốt trước, làm sau:** Tháng mới bắt đầu bằng khai vấn (30–60 phút), không nhảy thẳng vào làm.
 - **Done = có bằng chứng:** Mỗi task `done` phải có link/file/kết quả đính kèm ở cột Evidence.
@@ -94,4 +95,5 @@ Khai vấn tháng mới (ngày 1–3)
 
 - [Phương pháp Top-Down · Multi-Option](/docs/00-methodology)
 - [Lộ trình tháng 7/2026](/docs/02-monthly-roadmap/2026-07)
+- [QĐ #004 — Pipeline content](/docs/decisions/004-content-pipeline)
 - [Cây vấn đề V1–V7](/docs/01-project-structure/00-MACRO_PROBLEMS)

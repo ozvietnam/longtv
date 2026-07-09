@@ -72,6 +72,29 @@ rmrf(DEST);
 mkdirp(DEST);
 copyDir(REPO_ROOT, DEST);
 
+// Mirror web/data/*.md into content/data/ (FDI legal handbook planning docs)
+function copyWebDataMarkdown() {
+  const src = path.join(WEB_DIR, 'data');
+  const dst = path.join(DEST, 'data');
+  if (!fs.existsSync(src)) return;
+  function walk(dir, rel = '') {
+    for (const entry of fs.readdirSync(dir)) {
+      const sp = path.join(dir, entry);
+      const relPath = rel ? `${rel}/${entry}` : entry;
+      const st = fs.statSync(sp);
+      if (st.isDirectory()) {
+        walk(sp, relPath);
+      } else if (entry.endsWith('.md')) {
+        const dp = path.join(dst, relPath);
+        mkdirp(path.dirname(dp));
+        fs.copyFileSync(sp, dp);
+      }
+    }
+  }
+  walk(src);
+}
+copyWebDataMarkdown();
+
 let count = 0;
 function countFiles(dir) {
   for (const e of fs.readdirSync(dir)) {

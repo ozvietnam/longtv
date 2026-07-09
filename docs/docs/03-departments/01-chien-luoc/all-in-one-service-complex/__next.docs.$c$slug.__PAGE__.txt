@@ -1,0 +1,406 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T3250,<h1>Tổ hợp dịch vụ All-in-one — LONGTV</h1>
+<blockquote>
+<p><strong>Ý tưởng chiến lược:</strong> Xây dựng <strong>một tổ hợp dịch vụ</strong> (Tư vấn – Pháp lý – Logistics) phục vụ riêng làn sóng <strong>FDI Trung Quốc</strong> tại <strong>Hải Phòng</strong> và <strong>Thái Nguyên</strong> — thay vì để NĐT phải làm việc với 3 bên rời rạc.</p>
+<p><strong>Cam kết định vị (mục tiêu):</strong> Rút ngắn <strong>time-to-market</strong> từ ~<strong>6 tháng</strong> (tự làm / nhiều vendor) xuống ~<strong>3 tháng</strong> (một đầu mối LONGTV + đối tác có giấy phép).</p>
+</blockquote>
+<hr>
+<h2>1. Vì sao 2 tỉnh này?</h2>
+<table>
+<thead>
+<tr>
+<th>Tỉnh</th>
+<th>Vai trò trong chuỗi cung ứng</th>
+<th>Ngành trọng tâm FDI TQ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hải Phòng</strong></td>
+<td>Thủ phủ cảng biển Bắc Bộ · logistics · công nghiệp nặng</td>
+<td>Linh kiện ô tô, cơ khí, logistics XNK</td>
+</tr>
+<tr>
+<td><strong>Thái Nguyên</strong></td>
+<td>Trung tâm công nghệ cao · vệ tinh Samsung</td>
+<td>Điện tử, linh kiện, công nghiệp phụ trợ</td>
+</tr>
+</tbody>
+</table>
+<p>LONGTV <strong>không</strong> cạnh tranh mega-project (Samsung supply chain tier-1) ngay từ đầu — tập trung <strong>Tier 2–3 NM TQ</strong> (50–300 lao động) từ Thâm Quyến, Quảng Đông, Chiết Giang… (<a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a>).</p>
+<hr>
+<h2>2. Mô hình All-in-one vs 3 vendor</h2>
+<pre><code>TRUYỀN THỐNG (6+ tháng)                    LONGTV ALL-IN-ONE (mục tiêu 3 tháng)
+┌─────────┐ ┌─────────┐ ┌─────────┐          ┌──────────────────────────────┐
+│ Công ty │ │ Đại lý  │ │ Forwarder│          │         LONGTV Hub          │
+│  luật   │ │ hải quan│ │ / kho   │          │  PM một cửa · song ngữ TQ   │
+└────┬────┘ └────┬────┘ └────┬────┘          └───────┬──────────┬───────────┘
+     │           │           │                      │          │
+     └───────────┴───────────┘                      ▼          ▼
+           Khách TQ tự phối hợp              Đối tác luật   Đối tác logistics
+                                             (có GPLS)      (có GP WTO)
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>3 bên rời</th>
+<th>All-in-one LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đầu mối</td>
+<td>3+ contact</td>
+<td><strong>1 PM</strong></td>
+</tr>
+<tr>
+<td>Ngôn ngữ</td>
+<td>Lệch chuẩn</td>
+<td><strong>Việt–Trung thương mại</strong></td>
+</tr>
+<tr>
+<td>Timeline IRC→vận hành</td>
+<td>5–8 tháng</td>
+<td><strong>Mục tiêu 3–4 tháng</strong> (bundle)</td>
+</tr>
+<tr>
+<td>Trách nhiệm khi trễ</td>
+<td>Đổ lỗi chéo</td>
+<td><strong>Một HĐ</strong> + SLA milestone</td>
+</tr>
+<tr>
+<td>Chi phí nhận thức</td>
+<td>Rải rác</td>
+<td>Gói <strong>Full Setup</strong> $14–18k + retainer</td>
+</tr>
+</tbody>
+</table>
+<p><em>Timeline 3 tháng là <strong>mục tiêu</strong> với điều kiện: hồ sơ TQ đầy đủ, ngành không thuộc loại hình đặc biệt (hóa chất, DTM nặng), đất thuê qua KCN có sẵn quỹ.</em></p>
+<hr>
+<h2>3. Ba trụ cột dịch vụ</h2>
+<h3>3.1. Tư vấn &#x26; chính sách (LONGTV trực tiếp)</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Mã</th>
+<th>Giai đoạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khảo sát 2 tỉnh / chọn điểm</td>
+<td>A1, A2</td>
+<td>G0–G2</td>
+</tr>
+<tr>
+<td>Làm việc Sở KH&#x26;ĐT, Ban QLKCN</td>
+<td>A1+</td>
+<td>G1–G3</td>
+</tr>
+<tr>
+<td>So sánh ưu đãi CIT KKT Đình Vũ–Cát Hải vs KCN TN</td>
+<td>A1</td>
+<td>G1</td>
+</tr>
+<tr>
+<td>Retainer tư vấn chính sách</td>
+<td>C1</td>
+<td>G4–G5</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2. Pháp lý (white-label đối tác có GPLS)</h3>
+<table>
+<thead>
+<tr>
+<th>Thủ tục</th>
+<th>LONGTV vai trò</th>
+<th>Đối tác</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IRC, ERC</td>
+<td>Điều phối, checklist</td>
+<td><strong>Công ty luật</strong></td>
+</tr>
+<tr>
+<td>Giấy phép môi trường, PCCC</td>
+<td>PM hồ sơ</td>
+<td>Luật + tư vấn môi trường</td>
+</tr>
+<tr>
+<td>HĐ lao động, NDA song ngữ</td>
+<td>Template + review</td>
+<td>Luật sư ký</td>
+</tr>
+</tbody>
+</table>
+<p>→ Chi tiết: <a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></p>
+<h3>3.3. Logistics (đối tác / Oz tools — giai đoạn 1)</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>HP trọng tâm</th>
+<th>TN trọng tâm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hải quan, HS code</td>
+<td>✅ <strong>Core</strong></td>
+<td>On-spot XNK</td>
+</tr>
+<tr>
+<td>Kho / ICD gần Lạch Huyện</td>
+<td>✅ Mục tiêu Y2</td>
+<td>Consolidation warehouse</td>
+</tr>
+<tr>
+<td>Vận chuyển nội địa</td>
+<td>Cảng → KCN</td>
+<td>Cao tốc HN–TN</td>
+</tr>
+<tr>
+<td>Demurrage / detention tối ưu</td>
+<td>✅</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giai đoạn bootstrap:</strong> LONGTV <strong>không</strong> tự sở hữu kho/đội xe — <strong>MOU</strong> forwarder + đại lý HQ có giấy phép. Scale Y2–Y3 mới xem xét CAPEX kho/ICD.</p>
+<hr>
+<h2>4. Khảo sát thực địa: Hải Phòng vs Thái Nguyên</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th><strong>Hải Phòng</strong></th>
+<th><strong>Thái Nguyên</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Lợi thế địa lý</strong></td>
+<td>Cảng biển lớn nhất Bắc Bộ; đường biển tới cảng Nam Trung Quốc</td>
+<td>Sát biên Lạng Sơn; hành lang Nanning–Hà Nội–Hải Phòng</td>
+</tr>
+<tr>
+<td><strong>Dịch vụ trọng tâm</strong></td>
+<td>Customs brokerage, warehousing, tối ưu lưu kho (demurrage/detention)</td>
+<td>Tuyển dụng LĐ/kỹ sư, on-spot XNK cho chuỗi phụ trợ</td>
+</tr>
+<tr>
+<td><strong>KCN / KKT then chốt</strong></td>
+<td>Nam Đình Vũ, Đình Vũ–Cát Hải (KKT), Deep C</td>
+<td>Yên Bình, Sông Công, KCN Samsung ecosystem</td>
+</tr>
+<tr>
+<td><strong>Ưu đãi CIT</strong></td>
+<td>KKT Đình Vũ–Cát Hải — cần field verify 🟡</td>
+<td>KCN TN — ưu đãi theo ngành 🟡</td>
+</tr>
+<tr>
+<td><strong>Rào cản pháp lý</strong></td>
+<td>Điều kiện DN logistics FDI (WTO, vốn tối thiểu)</td>
+<td>Quy hoạch đất, <strong>DTM</strong> nước thải (kiểm soát chặt)</td>
+</tr>
+<tr>
+<td><strong>Đối thủ in-house</strong></td>
+<td>Deep C, VSIP hỗ trợ thủ tục ban đầu</td>
+<td>Ban QLKCN + Samsung vendor network</td>
+</tr>
+<tr>
+<td><strong>Persona TQ phù hợp</strong></td>
+<td>Xuất nhập qua cảng, cơ khí, ô tô phụ trợ</td>
+<td>Điện tử, linh kiện, dệt may dịch chuyển</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Luồng dịch vụ theo địa lý:</strong></p>
+<pre><code class="language-mermaid">flowchart LR
+  TQ[Nha may TQ] --> Hub[LONGTV Hub]
+  Hub --> HP[Hai Phong: HQ + kho + cang]
+  Hub --> TN[Thai Nguyen: GP + lao dong + on-spot]
+  HP --> Sea[Lat Huyen / ICD]
+  TN --> Hwy[Cao toc HN-TN]
+</code></pre>
+<p>Field verify: KIM-010 (TN), KIM-011–013 (HP/KCN) · <a href="/docs/03-departments/01-chien-luoc/field-call-scripts">field-call-scripts</a></p>
+<hr>
+<h2>5. PESTEL rút gọn (Bước 1 — Pre-FS)</h2>
+<table>
+<thead>
+<tr>
+<th>Yếu tố</th>
+<th>Tóm tắt</th>
+<th>Độ tin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P</strong> Political</td>
+<td>FDI TQ được khuyến khích; quan hệ VN–TQ ổn định</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td><strong>E</strong> Economic</td>
+<td>FDI mới 6T/2026 +61% y/y; TQ #2 nguồn vốn</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td><strong>S</strong> Social</td>
+<td>Cầu lao động kỹ năng tại TN; HP đa dạng cảng</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>T</strong> Technology</td>
+<td>Oz HQ tools; WMS đối tác Y2</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>E</strong> Environmental</td>
+<td>DTM TN chặt; HP cảng xanh</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>L</strong> Legal</td>
+<td>WTO logistics; Luật Luật sư cho tư vấn pháp lý</td>
+<td>🟡 desk</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Time-to-market — lộ trình 3 tháng (mục tiêu)</h2>
+<table>
+<thead>
+<tr>
+<th>Tuần</th>
+<th>Milestone</th>
+<th>Trụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1–2</td>
+<td>A0 + A1 kickoff, chọn TN/HP</td>
+<td>Tư vấn</td>
+</tr>
+<tr>
+<td>3–4</td>
+<td>IRC hồ sơ nộp (qua luật)</td>
+<td>Pháp lý</td>
+</tr>
+<tr>
+<td>5–8</td>
+<td>ERC, MST, tài khoản HQ</td>
+<td>Pháp lý</td>
+</tr>
+<tr>
+<td>9–10</td>
+<td>HĐ thuê KCN / nhà xưởng</td>
+<td>Tư vấn + KCN</td>
+</tr>
+<tr>
+<td>11–12</td>
+<td>Tờ khai HQ đầu tiên, lô hàng pilot</td>
+<td>Logistics</td>
+</tr>
+</tbody>
+</table>
+<p><strong>So sánh DIY:</strong> 20–26 tuần thông thường → <strong>12 tuần</strong> mục tiêu LONGTV (giảm ~50%).</p>
+<p>SOP: <a href="/docs/07-operations/sop-a1-desk-research">sop-a1-desk-research</a> · <a href="/docs/07-operations/sop-b1-on-site">sop-b1-on-site</a> · Bundle <a href="/docs/03-departments/03-kinh-doanh/pricing-official">Full Setup</a></p>
+<hr>
+<h2>7. Nhân sự cốt lõi All-in-one</h2>
+<table>
+<thead>
+<tr>
+<th>Vai trò</th>
+<th>Yêu cầu</th>
+<th>Số (Y1)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PM dự án một cửa</td>
+<td>Song ngữ, hiểu IRC→HQ</td>
+<td>1–2</td>
+</tr>
+<tr>
+<td>Chuyên gia chính sách TN/HP</td>
+<td>Làm việc Sở/KCN</td>
+<td>TGĐ + Hermes</td>
+</tr>
+<tr>
+<td>Pháp lý PM</td>
+<td>Không hành nghề luật — điều phối</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Logistics coordinator</td>
+<td>HS code, Oz tools</td>
+<td>1 (kiêm)</td>
+</tr>
+<tr>
+<td>Biên dịch TQ thương mại</td>
+<td>Chuyên ngành XNK</td>
+<td>Part-time / đối tác</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/docs/03-departments/00-org-model">org-model</a> · 2 sales TQ outbound</p>
+<hr>
+<h2>8. Liên kết quy trình 5 bước UNIDO</h2>
+<table>
+<thead>
+<tr>
+<th>Bước UNIDO</th>
+<th>Tài liệu LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 Pre-feasibility</td>
+<td>Tài liệu này + <a href="/docs/06-phases/00-1-market-memo">00-1-market-memo</a></td>
+</tr>
+<tr>
+<td>2 Technical &#x26; ops design</td>
+<td><a href="/docs/07-operations/all-in-one-operational-manual"><strong>Operational Manual</strong></a></td>
+</tr>
+<tr>
+<td>3 Detailed FS</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> + <a href="/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics">fs-metrics</a></td>
+</tr>
+<tr>
+<td>4 Risk</td>
+<td><a href="../investor-pack/03-investment-project-5-steps">investor-pack/03-investment-project-5-steps</a> § Bước 4</td>
+</tr>
+<tr>
+<td>5 Appraisal</td>
+<td><a href="/docs/06-phases/investor-pack/00-investment-verdict">investment-verdict</a> + QĐ #005</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Chi tiết xương sống:</strong> <a href="/docs/03-departments/04-san-pham/all-in-one-service-portfolio">Service portfolio</a> · <a href="/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix">Headcount</a> · <a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">Tech</a> · <a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">HP/TN matrix</a></p>
+<hr>
+<h2>9. Lưu ý pháp lý cốt lõi</h2>
+<p>LONGTV CTCP <strong>không</strong> tự thay Công ty Luật hay công ty logistics có GP — mô hình <strong>hub + đối tác có giấy phép</strong>. Xem chi tiết:</p>
+<p>→ <a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></p>
+<hr>
+<h2>Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Hermes: verify CIT KKT Đình Vũ–Cát Hải 2026 (HP)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Call Ban QLKCN Yên Bình + Nam Đình Vũ (KIM-012, 013)</li>
+<li class="task-list-item"><input type="checkbox" disabled> MOU 1 công ty luật + 1 đại lý HQ (KIM-020, 050)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pilot 1 khách Full Setup — đo timeline thực vs 3 tháng (KIM-078)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Operational Manual: <a href="/docs/07-operations/all-in-one-operational-manual">all-in-one-operational-manual</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-service-complex"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Tổ hợp dịch vụ All-in-one — Tư vấn · Pháp lý · Logistics"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Định vị chiến lược phục vụ làn sóng FDI Trung Quốc tại Hải Phòng & Thái Nguyên — một cửa A-Z, rút ngắn time-to-market."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-08","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 8/2026 — Chốt sản phẩm & vận hành"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Ma trận vận hành thực địa — Hải Phòng vs Thái Nguyên"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

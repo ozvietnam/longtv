@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tb03,<h1>SP-003 — Gói sản phẩm (Product Bundles) v1</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Sản phẩm | <strong>Giai đoạn:</strong> 00-1 | <strong>Ngày:</strong> 2026-07-09</p>
+</blockquote>
+<hr>
+<h2>1. Cấu trúc 3 tầng</h2>
+<pre><code>Tầng 1 — Insight     A0, A1, A2        (desk / remote)
+Tầng 2 — Execution   B1, B2             (on-site / thành lập)
+Tầng 3 — Ongoing     C1, C2             (retainer / vận hành)
+</code></pre>
+<hr>
+<h2>2. Bundle đề xuất</h2>
+<h3>Bundle "Khởi đầu" — TN</h3>
+<table>
+<thead>
+<tr>
+<th>Thành phần</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desk research Thái Nguyên</td>
+<td>A1-TN</td>
+</tr>
+<tr>
+<td>Checklist FDI PDF</td>
+<td>(A0+)</td>
+</tr>
+<tr>
+<td>1 buổi pitch online</td>
+<td>included</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giá bundle:</strong> 3.200 USD (tiết kiệm ~15% vs lẻ)</p>
+<h3>Bundle "Xuất khẩu" — HP</h3>
+<table>
+<thead>
+<tr>
+<th>Thành phần</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desk research Hải Phòng</td>
+<td>A1-HP</td>
+</tr>
+<tr>
+<td>So sánh Nam Đình Vũ vs 1 KCN</td>
+<td>A2 partial</td>
+</tr>
+<tr>
+<td>Giới thiệu đối tác logistics</td>
+<td>referral</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giá bundle:</strong> 4.500 USD</p>
+<h3>Bundle "Full Setup"</h3>
+<table>
+<thead>
+<tr>
+<th>Thành phần</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1 (TN hoặc HP)</td>
+<td>A1</td>
+</tr>
+<tr>
+<td>On-site 2 ngày</td>
+<td>B1</td>
+</tr>
+<tr>
+<td>Thành lập CTCP khách</td>
+<td>B2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giá bundle:</strong> 14.000 – 18.000 USD (chiết khấu 10%)</p>
+<hr>
+<h2>3. Ma trận bundle × persona</h2>
+<table>
+<thead>
+<tr>
+<th>Persona</th>
+<th>Bundle khuyến nghị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lý Tổng (sản xuất)</td>
+<td>Khởi đầu TN → Full Setup</td>
+</tr>
+<tr>
+<td>Wang PM</td>
+<td>A2 so sánh địa điểm</td>
+</tr>
+<tr>
+<td>Chen Logistics</td>
+<td>Xuất khẩu HP</td>
+</tr>
+</tbody>
+</table>
+<p>Persona: <a href="../03-kinh-doanh/persona-v1.md">persona-v1.md</a></p>
+<hr>
+<h2>4. Không bundle (bán lẻ)</h2>
+<ul>
+<li>Add-on dịch thuật, visa, due diligence</li>
+<li>Retainer C1 sau khi nhà máy vận hành</li>
+</ul>
+<hr>
+<h2>5. Catalog đầy đủ</h2>
+<ul>
+<li><a href="./service-catalog-v0.2.md">service-catalog-v0.2.md</a></li>
+<li><a href="./fdi-journey-service-map.md">fdi-journey-service-map.md</a></li>
+<li>Giá: <a href="../../04-research/2026-07/pricing-draft.md">pricing-draft.md</a></li>
+</ul>
+<hr>
+<h2>6. Việc Giai đoạn 2</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> One-pager tiếng Trung cho từng bundle (VT)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Slide deck bán hàng (KD)</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"product-bundles"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"product-bundles"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/pricing-official","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"pricing-official"}]]}],["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/proposal-template-a1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"proposal-template-a1"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

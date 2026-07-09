@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Ta55,<h1>Tháng 8/2026 — Chốt sản phẩm &#x26; vận hành</h1>
+<blockquote>
+<p><strong>Chủ đề:</strong> Gói nào bán trước? Hệ thống nào cần chạy trước khi scale?<br>
+<strong>Giai đoạn:</strong> <a href="/docs/06-phases/02-giai-doan-2-plan">2 — Kế hoạch chi tiết</a></p>
+</blockquote>
+<hr>
+<h2>Mục tiêu tháng 8</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Mục tiêu</th>
+<th>Phòng</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Hồ sơ CTCP sẵn sàng / nộp</td>
+<td>Pháp lý</td>
+<td><a href="/docs/03-departments/02-phap-ly/ctcp-ho-so-checklist">ctcp-ho-so-checklist</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>SOP A1 chạy thử</td>
+<td>Sản phẩm</td>
+<td><a href="/docs/07-operations/sop-a1-desk-research">SOP-A1</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Pipeline hoạt động</td>
+<td>Kinh doanh</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/sales-pipeline">sales-pipeline</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Call Sở + KCN</td>
+<td>Chiến lược</td>
+<td><a href="/docs/03-departments/01-chien-luoc/field-call-scripts">field-call-scripts</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>1 proposal A1 gửi khách</td>
+<td>Kinh doanh</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/proposal-template-a1">proposal-template</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Lịch tháng 8</h2>
+<table>
+<thead>
+<tr>
+<th>Tuần</th>
+<th>Việc chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>W1</strong></td>
+<td>Leader duyệt giá · Điền contact · Luật review HĐ mẫu</td>
+</tr>
+<tr>
+<td><strong>W2</strong></td>
+<td>Setup CRM sheet · Pitch deck design · WeChat content ×2</td>
+</tr>
+<tr>
+<td><strong>W3</strong></td>
+<td>Call Sở TN · Call KCN Yên Bình · Cập nhật research</td>
+</tr>
+<tr>
+<td><strong>W4</strong></td>
+<td>Gửi ≥2 proposal · Review burn · KPI tháng 8</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Tiêu chí hoàn thành tháng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Templates pháp lý được luật sư comment (dù chưa final)</li>
+<li class="task-list-item"><input type="checkbox" disabled> CRM có ≥10 lead</li>
+<li class="task-list-item"><input type="checkbox" disabled> ≥2 proposal A1 đã gửi</li>
+<li class="task-list-item"><input type="checkbox" disabled> ≥1 call Sở hoặc KCN hoàn thành</li>
+<li class="task-list-item"><input type="checkbox" disabled> Burn tracker tuần 1–4 có số liệu</li>
+</ul>
+<hr>
+<h2>Xem trước tháng 9</h2>
+<p><strong>Chủ đề:</strong> Pilot &#x26; case study — Chốt 1 khách A1, chuẩn bị testimonial tiếng Trung.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-monthly-roadmap"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-08"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"roadmap"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Lộ trình tháng 8/2026 — Chốt sản phẩm & vận hành"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Giai đoạn 2: CTCP, SOP, sales pilot, field calls."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-plan","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Kế hoạch triển khai chi tiết"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/all-in-one-service-complex","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Tổ hợp dịch vụ All-in-one — Tư vấn · Pháp lý · Logistics"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,329 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+d:I[68027,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0x5crff4xoj7b.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","04-research","2026-07","thai-nguyen-fdi-policy",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","04-research/2026-07/thai-nguyen-fdi-policy","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3y9azk3x7brqd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":["$L6","$L7"]}]}]]}]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HREDl5iKe8YIbj_LGYYT6"}
+10:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+16:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}]
+7:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}]
+13:[]
+b:"$W13"
+c:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0x5crff4xoj7b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+18:T3507,<h1>CL-002 — Chính sách FDI Thái Nguyên &#x26; đối tác Sở KH&#x26;ĐT</h1>
+<blockquote>
+<p><strong>Mục đích:</strong> Map chính sách thu hút FDI Trung Quốc của Thái Nguyên — để LONGTV biết phải tiếp cận Sở KH&#x26;ĐT thế nào, ưu đãi nào có thể "bán" cho khách, quy trình giới thiệu nhà đầu tư ra sao.</p>
+<p><strong>Task ID:</strong> CL-002 · <strong>V-layer:</strong> V1.2 (Tại sao chọn 2 tỉnh) · <strong>Deadline:</strong> 2026-07-21
+<strong>Refs:</strong> Closes #4</p>
+</blockquote>
+<hr>
+<h2>1. Bức tranh FDI Thái Nguyên (số liệu)</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Thời điểm</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tổng dự án FDI còn hiệu lực</td>
+<td><strong>246 dự án</strong></td>
+<td>Quý 1/2026</td>
+<td><a href="https://www.vietnamplus.vn/thai-nguyen-day-manh-co-hoi-hop-tac-voi-doanh-nghiep-trung-quoc-post1120242.vnp">VietnamPlus</a></td>
+</tr>
+<tr>
+<td>Tổng vốn đăng ký FDI</td>
+<td><strong>>19 tỷ USD</strong></td>
+<td>Quý 1/2026</td>
+<td>VietnamPlus</td>
+</tr>
+<tr>
+<td>Vốn FDI thu hút thêm 6 tháng đầu 2026</td>
+<td><strong>8,05 tỷ USD</strong></td>
+<td>6T/2026</td>
+<td>VietnamPlus</td>
+</tr>
+<tr>
+<td>Số dự án FDI hiệu lực (cập nhật)</td>
+<td>234 dự án (~11,4 tỷ USD)</td>
+<td>Tháng 2/2026</td>
+<td><a href="https://congly.vn/thai-nguyen-dan-dau-thu-hut-fdi-trong-thang-2-nam-2026-512727.html">Công Lý</a></td>
+</tr>
+<tr>
+<td>Vốn FDI đăng ký mới Q1/2026</td>
+<td><strong>1,6 tỷ USD</strong></td>
+<td>Q1/2026</td>
+<td><a href="https://vnexpress.net/thai-nguyen-dan-dau-ca-nuoc-ve-thu-hut-fdi-dau-nam-2026-5047492.html">VnExpress</a></td>
+</tr>
+<tr>
+<td>Tỷ lệ lấp đầy KCN</td>
+<td><strong>~72%</strong></td>
+<td>Hết 2024 (5/11 KCN hoạt động)</td>
+<td><a href="https://laodong.vn/bat-dong-san/suc-hut-tu-loat-khu-cong-nghiep-nghin-ti-dong-o-thai-nguyen-1530478.ldo">Lao Động</a></td>
+</tr>
+<tr>
+<td>Dự kiến vốn ngoài ngân sách 2025</td>
+<td>~90.000 tỷ VNĐ</td>
+<td>2025</td>
+<td><a href="https://nhandan.vn/lan-song-moi-dau-tu-vao-thai-nguyen-post885136.html">Nhân Dân</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nhận xét:</strong> Thái Nguyên đang <strong>dẫn đầu cả nước</strong> về thu hút FDI đầu năm 2026 (vượt Hà Nội, TP.HCM). Làn sóng FDI Trung Quốc là 1 động lực chính, đặc biệt tập trung vào <strong>KCN Yên Bình</strong> (Phổ Yên).</p>
+<hr>
+<h2>2. Khu công nghiệp trọng điểm</h2>
+<h3>KCN Yên Bình (Phổ Yên) — flagship</h3>
+<ul>
+<li>Vị trí: Phổ Yên, giáp Hà Nội (~50km)</li>
+<li>Số dự án FDI: <strong>48 dự án</strong> + 10 dự án DDI</li>
+<li>Nhà đầu tư lớn: <strong>Samsung Electro-Mechanics</strong> (Hàn Quốc), tăng vốn thêm <strong>920 triệu USD</strong></li>
+<li>Trụ cột công nghệ cao, điện tử</li>
+<li>Nguồn: <a href="https://baothainguyen.vn/kinh-te/202205/khu-cong-nghiep-yen-binh-ben-do-cua-nhieu-nha-dau-tu-fdi-367782D">Báo Thái Nguyên</a>, <a href="https://diendandoanhnghiep.vn/thu-hut-dau-tu-vao-khu-cong-nghiep-tinh-thai-nguyen-10160052.html">Diễn đàn DN</a></li>
+</ul>
+<h3>KCN Sông Công 2</h3>
+<ul>
+<li>Mở rộng công nghệ cao, tiếp nhận Samsung Display, Dowoo Insys</li>
+<li>Nguồn: TikTok <a href="https://www.tiktok.com/@trungtamcongnghephiabac/video/7605672744570637590">trungtamcongnghephiabac</a></li>
+</ul>
+<h3>Các KCN khác (tổng 11 KCN, 5 đang hoạt động)</h3>
+<ul>
+<li>Tỷ lệ lấp đầy ~72% (2024)</li>
+<li>Nhiều KCN quy mô nghìn tỉ đồng đang khởi động (2025-2026)</li>
+</ul>
+<h3>Đối tượng FDI Trung Quốc đã có</h3>
+<ul>
+<li><strong>Samsung</strong> (Hàn Quốc nhưng supply chain TQ rất lớn)</li>
+<li><strong>Foxconn</strong> (Đài Loan, supply chain TQ)</li>
+<li><strong>Panasonic</strong> (Nhật, nhưng supply chain TQ)</li>
+</ul>
+<blockquote>
+<p>⚠️ <strong>Caveat cho LONGTV:</strong> Đa số FDI công nghệ cao lớn ở Thái Nguyên là Hàn Quốc/Đài Loan/Nhật, <strong>không trực tiếp là TQ</strong>. Tuy nhiên <strong>supply chain Tier 2-3</strong> của họ rất nhiều nhà máy TQ — đây là phân khúc LONGTV có thể nhắm.</p>
+</blockquote>
+<hr>
+<h2>3. Chính sách ưu đãi (cần verify chi tiết từ Sở KH&#x26;ĐT)</h2>
+<h3>Đã biết (từ thông cáo + báo chí):</h3>
+<table>
+<thead>
+<tr>
+<th>Ưu đãi</th>
+<th>Mô tả</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thuế TNDN ưu đãi</td>
+<td>Áp dụng theo luật chung cho KCN (miễn/giảm 2-4 năm đầu, 50% những năm sau)</td>
+<td>Theo Luật Đầu tư 2020</td>
+</tr>
+<tr>
+<td>Đất công nghiệp</td>
+<td>Quỹ đất lớn, mở rộng không gian phát triển</td>
+<td><a href="https://baoquocte.vn/thai-nguyen-xung-danh-diem-hen-cua-cac-nha-dau-tu-335729.html">Báo Quốc Tế</a></td>
+</tr>
+<tr>
+<td>Hạ tầng đồng bộ</td>
+<td>KCN có hạ tầng kỹ thuật hoàn chỉnh</td>
+<td>VietnamPlus</td>
+</tr>
+<tr>
+<td>Hỗ trợ thủ tục hành chính</td>
+<td>"Môi trường kinh doanh minh bạch, cải cách hành chính mạnh mẽ"</td>
+<td>Báo Quốc Tế</td>
+</tr>
+<tr>
+<td>Đề án ưu tiên</td>
+<td>Phát triển công nghiệp công nghệ cao 2026-2030 (chuỗi giá trị liên vùng)</td>
+<td>Báo Quốc Tế</td>
+</tr>
+</tbody>
+</table>
+<h3>Cần verify trực tiếp từ Sở KH&#x26;ĐT (CHO LONGTV):</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Mức thuế TNDN cụ thể cho từng ngành</li>
+<li class="task-list-item"><input type="checkbox" disabled> Giá thuê đất KCN (VNĐ/m²/năm, có cam kết tối thiểu)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chính sách hỗ trợ tiền thuê nhà ở cho công nhân TQ</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thủ tục cấp Giấy chứng nhận đầu tư (IRC) trong bao lâu</li>
+<li class="task-list-item"><input type="checkbox" disabled> Có chương trình "matchmaking" giữa Sở và nhà đầu tư TQ không</li>
+<li class="task-list-item"><input type="checkbox" disabled> Đối tác tư vấn FDI nào đã được Sở chỉ định (Big4, công ty luật)</li>
+</ul>
+<hr>
+<h2>4. Quy trình giới thiệu nhà đầu tư (CHO LONGTV)</h2>
+<p><strong>Dựa trên workflow chuẩn của Sở KH&#x26;ĐT các tỉnh + workflow <code>00-team-workflow.md</code> của team:</strong></p>
+<pre><code>Nhà đầu tư TQ quan tâm Thái Nguyên
+   ↓
+LONGTV tiếp cận (qua mạng lưới riêng / hội chợ / Zalo WeChat)
+   ↓
+LONGTV gửi brief dự án cho Sở KH&#x26;ĐT (qua phòng Kế hoạch - Đầu tư)
+   ↓
+Sở mời nhà đầu tư đến khảo sát (thường có đoàn công tác dẫn đi KCN)
+   ↓
+Nhà đầu tư chọn KCN, đàm phán giá đất với Chủ đầu tư KCN
+   ↓
+LONGTV hỗ trợ soạn hồ sơ xin IRC (Investment Registration Certificate)
+   ↓
+Sở KH&#x26;ĐT thẩm tra + Ban Quản lý KCN ký duyệt
+   ↓
+Cấp IRC (thường 15-30 ngày làm việc nếu hồ sơ đầy đủ)
+   ↓
+Nhà đầu tư ký hợp đồng thuê đất + xin Giấy phép xây dựng
+   ↓
+Khởi công
+</code></pre>
+<p><strong>LONGTV vai trò:</strong></p>
+<ul>
+<li>Bước 1-2: Tìm khách + brief dự án</li>
+<li>Bước 5: Hỗ trợ pháp lý</li>
+<li>Bước 6: Theo dõi tiến độ</li>
+</ul>
+<p><strong>Fee LONGTV có thể tính:</strong></p>
+<ul>
+<li>Phí tư vấn trọn gói: <strong>150-300 triệu/khách</strong> (ước tính sơ bộ, cần pricing research #8)</li>
+<li>Hoặc % giá trị dự án FDI (0.5-2%)</li>
+<li>Hoặc retainer hàng tháng cho Sở (ít khả thi)</li>
+</ul>
+<hr>
+<h2>5. Đối tác tư vấn FDI hiện có của Sở</h2>
+<table>
+<thead>
+<tr>
+<th>Loại</th>
+<th>Tên (nếu biết)</th>
+<th>Quan hệ với Sở</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Big4</td>
+<td>KPMG, PwC, EY, Deloitte</td>
+<td>Thường có MOU với nhiều Sở KH&#x26;ĐT — cần verify</td>
+</tr>
+<tr>
+<td>Công ty luật FDI</td>
+<td>LuatVietAn, Betalaw, Vision &#x26; Associates</td>
+<td>Có thể đã list trên website Sở</td>
+</tr>
+<tr>
+<td>Tư vấn đầu tư TQ-VN</td>
+<td>ICOGroup, InCorp Vietnam</td>
+<td>Phổ biến</td>
+</tr>
+<tr>
+<td>Sàn TMĐT BĐS công nghiệp</td>
+<td>VNIC, Batdongsan.com.vn</td>
+<td>Đăng tin KCN</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>LONGTV cần verify:</strong> Liệt kê chính xác các đối tác Sở đã chỉ định → tránh cạnh tranh trực tiếp, tìm cách <strong>bổ sung</strong> thay vì thay thế.</p>
+</blockquote>
+<hr>
+<h2>6. Action items cho LONGTV</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Hành động</th>
+<th>Owner</th>
+<th>Deadline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Gọi điện Sở KH&#x26;ĐT Thái Nguyên xin lịch họp</td>
+<td>Sếp Thắng / Hermes</td>
+<td>2026-07-15</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Chuẩn bị bộ brief dự án LONGTV (1 trang A4)</td>
+<td>Hermes</td>
+<td>2026-07-17</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Verify danh sách đối tác tư vấn FDI của Sở</td>
+<td>Hermes (research #3)</td>
+<td>2026-07-21</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Xây quan hệ với Ban Quản lý các KCN Yên Bình, Sông Công</td>
+<td>Sếp Thắng</td>
+<td>2026-07-30</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Rủi ro &#x26; lưu ý</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Tác động</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thái Nguyên đã "no" vì FDI lớn chiếm hết KCN</td>
+<td>Khó chen chân với khách TQ nhỏ</td>
+<td>Nhắm vào nhà máy vừa và nhỏ, ngành nghề ít cạnh tranh</td>
+</tr>
+<tr>
+<td>Sở có đối tác tư vấn FDI "ruột"</td>
+<td>LONGTV bị bỏ qua</td>
+<td>Chứng minh giá trị gia tăng: hiểu TQ, có mạng lưới nhà máy TQ</td>
+</tr>
+<tr>
+<td>Chính sách ưu đãi có thể thay đổi sau bầu cử địa phương</td>
+<td>Rủi ro dài hạn</td>
+<td>Theo dõi sát Nghị quyết HĐND tỉnh hàng quý</td>
+</tr>
+<tr>
+<td>Phần lớn FDI công nghệ cao là Hàn/Đài Loan, không phải TQ trực tiếp</td>
+<td>Nhắm sai đối tượng</td>
+<td>Nhắm vào supply chain TQ của Samsung/Foxconn/Panasonic</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>8. Nguồn tham khảo</h2>
+<ol>
+<li>VietnamPlus — Thái Nguyên đẩy mạnh hợp tác đầu tư TQ: <a href="https://www.vietnamplus.vn/thai-nguyen-day-manh-co-hoi-hop-tac-voi-doanh-nghiep-trung-quoc-post1120242.vnp">https://www.vietnamplus.vn/thai-nguyen-day-manh-co-hoi-hop-tac-voi-doanh-nghiep-trung-quoc-post1120242.vnp</a></li>
+<li>Công Lý — Thái Nguyên dẫn đầu FDI T2/2026: <a href="https://congly.vn/thai-nguyen-dan-dau-thu-hut-fdi-trong-thang-2-nam-2026-512727.html">https://congly.vn/thai-nguyen-dan-dau-thu-hut-fdi-trong-thang-2-nam-2026-512727.html</a></li>
+<li>VnExpress — Thái Nguyên dẫn đầu FDI đầu năm 2026: <a href="https://vnexpress.net/thai-nguyen-dan-dau-ca-nuoc-ve-thu-hut-fdi-dau-nam-2026-5047492.html">https://vnexpress.net/thai-nguyen-dan-dau-ca-nuoc-ve-thu-hut-fdi-dau-nam-2026-5047492.html</a></li>
+<li>VietnamNet — Vốn FDI Q1/2026: <a href="https://vietnamnet.vn/thai-nguyen-dan-dau-ca-nuoc-ve-thu-hut-dong-von-fdi-moi-nghe-an-thu-hai-2503434.html">https://vietnamnet.vn/thai-nguyen-dan-dau-ca-nuoc-ve-thu-hut-dong-von-fdi-moi-nghe-an-thu-hai-2503434.html</a></li>
+<li>Báo Thái Nguyên — KCN Yên Bình: <a href="https://baothainguyen.vn/kinh-te/202205/khu-cong-nghiep-yen-binh-ben-do-cua-nhieu-nha-dau-tu-fdi-367782D">https://baothainguyen.vn/kinh-te/202205/khu-cong-nghiep-yen-binh-ben-do-cua-nhieu-nha-dau-tu-fdi-367782D</a></li>
+<li>Diễn đàn Doanh nghiệp — Thu hút đầu tư KCN Thái Nguyên: <a href="https://diendandoanhnghiep.vn/thu-hut-dau-tu-vao-khu-cong-nghiep-tinh-thai-nguyen-10160052.html">https://diendandoanhnghiep.vn/thu-hut-dau-tu-vao-khu-cong-nghiep-tinh-thai-nguyen-10160052.html</a></li>
+<li>Báo Quốc Tế — Thái Nguyên điểm hẹn NĐT: <a href="https://baoquocte.vn/thai-nguyen-xung-danh-diem-hen-cua-cac-nha-dau-tu-335729.html">https://baoquocte.vn/thai-nguyen-xung-danh-diem-hen-cua-cac-nha-dau-tu-335729.html</a></li>
+<li>Sở Tài chính Thái Nguyên — Hoạt động đầu tư: <a href="https://sotaichinh.thainguyen.gov.vn/hoat-dong-dau-tu/thai-nguyen-day-manh-thu-hut-dau-tu-177942">https://sotaichinh.thainguyen.gov.vn/hoat-dong-dau-tu/thai-nguyen-day-manh-thu-hut-dau-tu-177942</a></li>
+<li>Lao Động — Sức hút KCN nghìn tỉ ở Thái Nguyên: <a href="https://laodong.vn/bat-dong-san/suc-hut-tu-loat-khu-cong-nghiep-nghin-ti-dong-o-thai-nguyen-1530478.ldo">https://laodong.vn/bat-dong-san/suc-hut-tu-loat-khu-cong-nghiep-nghin-ti-dong-o-thai-nguyen-1530478.ldo</a></li>
+<li>Nhân Dân — Làn sóng đầu tư Thái Nguyên: <a href="https://nhandan.vn/lan-song-moi-dau-tu-vao-thai-nguyen-post885136.html">https://nhandan.vn/lan-song-moi-dau-tu-vao-thai-nguyen-post885136.html</a></li>
+<li>VNIC — Báo cáo thị trường BĐS công nghiệp Thái Nguyên: <a href="https://vnic.com.vn/bao-cao-thi-truong-bds-cong-nghiep-thai-nguyen">https://vnic.com.vn/bao-cao-thi-truong-bds-cong-nghiep-thai-nguyen</a></li>
+</ol>
+<hr>
+<p><strong>Trạng thái:</strong> Draft v1 — chờ Cur review và Sếp Thắng duyệt.
+<strong>TODO Evidence:</strong> Sẽ update sau khi PR merge.</p>
+f:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"thai-nguyen-fdi-policy"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"CL-002 — Chính sách FDI Thái Nguyên & đối tác Sở KH&ĐT"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Thu thập chính sách thu hút FDI Trung Quốc của Sở KH&ĐT Thái Nguyên: số liệu dự án 2025-2026, ưu đãi, quy trình, đối tác tư vấn."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19"]}]
+19:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/001-platform","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #001 — Chọn Next.js + Vercel cho nền tảng nội bộ"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/fdi-data-deep-dive","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-004b — Số liệu FDI đào sâu & mức tin cậy"}]]}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+12:null
+17:[["$","title","0",{"children":"CL-002 — Chính sách FDI Thái Nguyên & đối tác Sở KH&ĐT · LongTV"}],["$","meta","1",{"name":"description","content":"Thu thập chính sách thu hút FDI Trung Quốc của Sở KH&ĐT Thái Nguyên: số liệu dự án 2025-2026, ưu đãi, quy trình, đối tác tư vấn."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","3",{}]]

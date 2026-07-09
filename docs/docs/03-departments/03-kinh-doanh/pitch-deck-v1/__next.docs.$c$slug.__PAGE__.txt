@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Td43,<h1>KD-GĐ2 — Pitch deck v1 (10 slide)</h1>
+<blockquote>
+<p><strong>Ngôn ngữ:</strong> Tiếng Trung chính + Việt phụ · <strong>Format:</strong> PowerPoint / Google Slides<br>
+<strong>Owner:</strong> VT thiết kế · KD nội dung</p>
+</blockquote>
+<hr>
+<h2>Slide 1 — Cover</h2>
+<p><strong>LONGTV</strong><br>
+越南投资咨询 · Thái Nguyên &#x26; Hải Phòng<br>
+投资泰国 Nguyen &#x26; 海防 — 您的东盟制造门户<br>
+<em>Logo · Ngày · Contact WeChat</em></p>
+<hr>
+<h2>Slide 2 — Vấn đề khách đang gặp</h2>
+<ul>
+<li>中国成本上升 · 关税压力</li>
+<li>不熟悉越南政策和手续</li>
+<li>担心土地中介 / 信息不对称</li>
+<li>需要靠近三星供应链 + 出口港口</li>
+</ul>
+<hr>
+<h2>Slide 3 — LONGTV là ai</h2>
+<ul>
+<li>CTCP tư vấn FDI — cổ đông VN + tập đoàn TQ</li>
+<li><strong>2 trụ:</strong> Chính sách 2 tỉnh + Logistics miền Bắc</li>
+<li><strong>Hub:</strong> Pháp lý · Kế toán · Kết nối KCN</li>
+<li>Không phải môi giới đất — <strong>tư vấn minh bạch</strong></li>
+</ul>
+<hr>
+<h2>Slide 4 — Vì sao Thái Nguyên &#x26; Hải Phòng</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>太原 Thái Nguyên</th>
+<th>海防 Hải Phòng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>优势</td>
+<td>地价低 · 三星链</td>
+<td>港口 · 出口</td>
+</tr>
+<tr>
+<td>适合</td>
+<td>零部件 · 纺织</td>
+<td>电子出口 · 物流</td>
+</tr>
+</tbody>
+</table>
+<p><em>Nguồn: <a href="/docs/04-research/2026-07/why-tn-hp">why-tn-hp</a></em></p>
+<hr>
+<h2>Slide 5 — Dịch vụ / Gói sản phẩm</h2>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>内容</th>
+<th>价格起</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A1</strong> 考察报告</td>
+<td>15–20页 + 路演</td>
+<td>$2,500</td>
+</tr>
+<tr>
+<td><strong>B1</strong> 实地考察</td>
+<td>2天 + 政府对接</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td><strong>B2</strong> 公司设立</td>
+<td>IRC/营业执照</td>
+<td>$6,000</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Slide 6 — Quy trình 6 bước FDI</h2>
+<ol>
+<li>意向 · 2. 考察 A1 · 3. 选址 B1 · 4. 设立 B2 · 5. 运营 · 6. 扩展</li>
+</ol>
+<p><em>Sơ đồ từ <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-service-map</a></em></p>
+<hr>
+<h2>Slide 7 — Case / Social proof</h2>
+<p><em>(Điền sau pilot đầu tiên)</em></p>
+<ul>
+<li>Placeholder: "服务中客户" / testimonial</li>
+<li>Số liệu FDI TN #1 (6M/2026)</li>
+</ul>
+<hr>
+<h2>Slide 8 — Đội ngũ &#x26; đối tác</h2>
+<ul>
+<li>TGĐ + 2 sales song ngữ</li>
+<li>Đối tác luật VN</li>
+<li>Kết nối Sở KH&#x26;ĐT · KCN</li>
+</ul>
+<hr>
+<h2>Slide 9 — Bước tiếp theo</h2>
+<ol>
+<li>免费 30 分钟咨询 (A0)</li>
+<li>签订 A1 考察合同</li>
+<li>2–3 周交付报告 + 在线路演</li>
+</ol>
+<hr>
+<h2>Slide 10 — Contact</h2>
+<ul>
+<li>WeChat: _______________</li>
+<li>Email: _______________</li>
+<li>Website: _______________</li>
+</ul>
+<p><strong>Cảm ơn / 谢谢</strong></p>
+<hr>
+<h2>Việc VT</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Thiết kế template slide thương hiệu</li>
+<li class="task-list-item"><input type="checkbox" disabled> Xuất PDF tiếng Trung</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bản Việt cho meeting Sở</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"pitch-deck-v1"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"pitch-deck-v1"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/persona-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"persona-v1"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/plan-b-no-revenue","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"plan-b-no-revenue"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

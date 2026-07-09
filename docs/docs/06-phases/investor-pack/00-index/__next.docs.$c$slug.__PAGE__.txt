@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T12a7,<h1>Investor Pack — LONGTV</h1>
+<blockquote>
+<p><strong>Mục đích:</strong> Trả lời câu hỏi <em>“Với 2 tỷ vốn, team &#x26; văn phòng như vậy — có nên đầu tư không? Doanh số &#x26; khách sau 6 tháng / 1 năm / 2 năm ra sao?”</em> và chuẩn bị <strong>thuyết trình kêu gọi vốn / tìm C-level đồng hành</strong>.</p>
+</blockquote>
+<hr>
+<h2>Chỉ mục</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tài liệu</th>
+<th>Đối tượng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="00-investment-verdict">Kết luận: Có nên đầu tư?</a></td>
+<td>Founder, cổ đông TQ/VN</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="01-executive-summary">Executive Summary (2 trang)</a></td>
+<td>Investor, advisor</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="02-pitch-gap-checklist">Checklist thiếu sót pitch</a></td>
+<td>Leader trước khi gặp nhà đầu tư</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">Mô hình tài chính 3 năm</a></td>
+<td>CFO, investor</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/use-of-funds-2b">Phân bổ vốn 2 tỷ</a></td>
+<td>Cap table, board</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/break-even-analysis">Phân tích hòa vốn</a></td>
+<td>Vận hành</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/docs/03-departments/01-chien-luoc/strategy-3yr">Chiến lược 3 năm</a></td>
+<td>Chiến lược, C-level</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/investor-pitch-deck">Investor pitch deck (outline)</a></td>
+<td>Gọi vốn, tuyển TGĐ phó</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/docs/05-clarifications/cap-table-v1">Cap table v1 (mẫu)</a></td>
+<td>Pháp lý, cổ đông</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex"><strong>All-in-one</strong> — Tư vấn · Pháp lý · Logistics</a></td>
+<td>Định vị chiến lược</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="03-investment-project-5-steps">Quy trình 5 bước UNIDO/World Bank</a></td>
+<td>Lập dự án đầu tư chuẩn</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics">NPV / IRR / Payback (FS)</a></td>
+<td>Thẩm định tài chính</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">Pháp nhân &#x26; giấy phép All-in-one</a></td>
+<td>Compliance VN</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="/docs/07-operations/all-in-one-operational-manual"><strong>Operational Manual</strong> All-in-One</a></td>
+<td>Xương sống vận hành I–IV</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/capex-opex-year1-medium-scale">CAPEX/OPEX năm 1 — quy mô tầm trung</a></td>
+<td><strong>6,65 tỷ</strong> · <a href="https://github.com/ozvietnam/longtv/blob/main/03-departments/05-van-hanh-tc/financial-plan-all-in-one-year1.xlsx">Excel</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Trạng thái bộ tài liệu</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Desk (Cursor)</th>
+<th>Cần Leader / field</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thị trường &#x26; đối thủ</td>
+<td>✅</td>
+<td>Call Sở/KCN xác minh</td>
+</tr>
+<tr>
+<td>Scorecard 38/50</td>
+<td>✅</td>
+<td>Ký QĐ #005</td>
+</tr>
+<tr>
+<td>Dự phóng 6T/1N/2N</td>
+<td>✅ (3 kịch bản)</td>
+<td>Validate pricing 1–2 khách</td>
+</tr>
+<tr>
+<td>Use of funds 2B</td>
+<td>✅ (đề xuất)</td>
+<td>Chốt % cổ đông</td>
+</tr>
+<tr>
+<td>Cap table</td>
+<td>🟡 Mẫu</td>
+<td>Điền tên, %, vesting</td>
+</tr>
+<tr>
+<td>Traction / case study</td>
+<td>🔴 Trống</td>
+<td>≥1 HĐ A1 + testimonial</td>
+</tr>
+<tr>
+<td>Pitch deck slide deck</td>
+<td>🟡 Outline</td>
+<td>Leader record / design</td>
+</tr>
+<tr>
+<td><strong>All-in-one UNIDO 5 bước</strong></td>
+<td>✅ Desk</td>
+<td>MOU luật/HQ + field CIT</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận nhanh:</strong> Đủ để <strong>cổ đông chiến lược (TQ tập đoàn + founder VN)</strong> quyết định đầu tư <strong>có điều kiện</strong>. <strong>Chưa đủ</strong> cho nhà đầu tư thứ ba (VC/PE) nếu chưa có hợp đồng thật và cap table ký.</p>
+<hr>
+<h2>Liên kết giai đoạn</h2>
+<ul>
+<li>Yêu cầu bổ sung: <a href="../00-1-feasibility-plan#tr%E1%BB%A5-c%E1%BB%99t-4--%C4%91%C3%A1nh-gi%C3%A1-%C4%91%E1%BA%A7u-t%C6%B0--g%E1%BB%8Di-v%E1%BB%91n">Giai đoạn 00-1 — Trụ cột 4</a></li>
+<li>Cây vấn đề V6: <a href="/docs/01-project-structure/00-MACRO_PROBLEMS">MACRO_PROBLEMS V6</a></li>
+<li>Việc cần người: <a href="/kim">/kim</a> · KIM-070–075</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"investor-pack"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Investor Pack — LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bộ tài liệu đánh giá đầu tư, dự phóng tài chính và pitch kêu gọi vốn / nhân sự cấp cao."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/05-clarifications/cap-table-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Cap table v1 — LONGTV CTCP"}]]}],["$","$L2",null,{"href":"/docs/03-departments/00-org-model","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

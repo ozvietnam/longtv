@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+4:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T81c,<h1>朗视通 LONGTV — 投资服务一页纸</h1>
+<blockquote>
+<p><strong>版本:</strong> v1 · 2026年7月</p>
+</blockquote>
+<hr>
+<h2>我们是谁</h2>
+<p><strong>朗视通 LONGTV</strong> — 越南股份公司，专注服务中国企业投资 <strong>太原（Thái Nguyên）</strong> 与 <strong>海防（Hải Phòng）</strong>。</p>
+<ul>
+<li>政策咨询 + 园区对接</li>
+<li>物流 / 海关入门</li>
+<li>法律 · 会计合作伙伴网络</li>
+</ul>
+<p><strong>我们不是土地中介</strong> — 透明咨询，可验证数据来源。</p>
+<hr>
+<h2>为什么选择太原 &#x26; 海防？</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>太原</th>
+<th>海防</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>优势</td>
+<td>地价低 · 三星供应链</td>
+<td>北部最大港口 · 出口</td>
+</tr>
+<tr>
+<td>适合</td>
+<td>零部件 · 机械 · 纺织</td>
+<td>电子组装 · 物流仓储</td>
+</tr>
+</tbody>
+</table>
+<p>比北宁 / 兴安：<strong>咨询竞争少 · 成本更低</strong></p>
+<hr>
+<h2>服务套餐</h2>
+<table>
+<thead>
+<tr>
+<th>套餐</th>
+<th>内容</th>
+<th>起价 (USD)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A0</strong></td>
+<td>30分钟免费咨询 + 清单</td>
+<td>免费</td>
+</tr>
+<tr>
+<td><strong>A1</strong></td>
+<td>15–20页投资报告 + 路演</td>
+<td>$2,500 起</td>
+</tr>
+<tr>
+<td><strong>B1</strong></td>
+<td>2天实地考察 + 政府/KCN对接</td>
+<td>$8,000 起</td>
+</tr>
+<tr>
+<td><strong>B2</strong></td>
+<td>越南公司设立 (IRC/营业执照)</td>
+<td>$6,000 起</td>
+</tr>
+</tbody>
+</table>
+<p><strong>付款:</strong> 签约30% · 中期40% · 验收30%</p>
+<hr>
+<h2>流程六步</h2>
+<pre><code>意向 → A1报告 → B1考察 → B2设立 → 运营 → 扩展
+</code></pre>
+<hr>
+<h2>联系我们</h2>
+<ul>
+<li>微信 WeChat: _______________</li>
+<li>邮箱: _______________</li>
+<li>网站: _______________</li>
+</ul>
+<p><strong>前3家客户签约A1享30%试点折扣（换取案例授权）</strong></p>
+<hr>
+<p><em>本页信息仅供参考，优惠政策以越南主管机关最终批复为准。</em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"bundle-onepager-zh"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"bundle-onepager-zh"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/01-project-structure/00-MACRO_PROBLEMS","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"00-MACRO_PROBLEMS"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/burn-tracker","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"burn-tracker"}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+6:null

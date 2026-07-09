@@ -19,9 +19,32 @@ author: "Sếp Thắng"
 | P0 | SP-006 | Tách dịch vụ tư vấn pháp lý kinh doanh & đầu tư thành trang dịch vụ riêng | V4.2, V4.4 | @cursor | review | 2026-07-09 | /docs/services/legal-consulting |
 | P0 | SP-007 | Tách dịch vụ chính sách & chính quyền 2 tỉnh thành trang dịch vụ riêng | V4.2 | @cursor | review | 2026-07-09 | /docs/services/policy-government |
 | P0 | SP-008 | Tạo trang đánh giá tiềm năng & khả thi để trình cổ đông, có sơ đồ và liên kết nội bộ | V4.2, V7 | @cursor | review | 2026-07-09 | /docs/06-phases/00-1-feasibility-plan |
-| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | — | todo | 2026-07-25 | |
-| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | — | todo | 2026-07-28 | |
-| P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-07-31 | |
+| P1 | SP-003 | Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro) | V4.3 | @cursor | done | 2026-07-25 | /docs/03-departments/04-san-pham/product-bundles |
+| P1 | SP-004 | Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?) | V4.2 | @cursor | done | 2026-07-28 | /docs/03-departments/04-san-pham/package-a1-deliverable |
+| P2 | SP-005 | Đánh giá khả năng tích hợp công cụ Oz (hs-code-api, xnk-webapp) vào gói dịch vụ | V4.3 | — | todo | 2026-08-31 | |
+| P0 | SP-G2-01 | SOP A1 vận hành | V4.2 | @cursor | done | 2026-07-09 | /docs/07-operations/sop-a1-desk-research |
+| P0 | SP-G2-02 | SOP B1 on-site | V4.2 | @cursor | done | 2026-07-09 | /docs/07-operations/sop-b1-on-site |
+
+## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
+
+- [x] SP-001: Catalog v0.2 (2 mảng + Hub)
+- [x] SP-002: Bảng tự làm vs đối tác
+- [x] Map hành trình FDI 6 giai đoạn — [fdi-journey-service-map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
+- [x] SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)
+- [x] SP-003: 3 bundle + add-on (checklist, logistics intro)
+- [x] Chốt gap list — ~82% ✅/🤝 trên journey map
+- [x] Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝
+- [x] Điền điểm scorecard #6 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
+
+## Giai đoạn 2 — SOP giao hàng
+
+- [x] SOP A1 desk research
+- [x] SOP B1 on-site
+- [ ] Chạy thử SOP A1 với khách pilot đầu tiên
+- [ ] SP-005: Tích hợp Oz tools (B1/B3)
+- [x] Vòng đời 9 giai đoạn (G0–G8) — [fdi-lifecycle-full-map](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map)
+- [x] Catalog v1 theo vòng đời — [service-catalog-v1](/docs/03-departments/04-san-pham/service-catalog-v1)
+- [x] Playbook G5 vận hành SX — [factory-operations-playbook-vn](/docs/03-departments/04-san-pham/factory-operations-playbook-vn)
 
 ## Hướng dẫn thực hiện
 

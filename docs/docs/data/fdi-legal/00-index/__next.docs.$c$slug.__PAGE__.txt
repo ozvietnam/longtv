@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T236d,<h1>Data — Cẩm nang pháp lý FDI Việt Nam</h1>
+<blockquote>
+<p>Mục tiêu: xây một kho dữ liệu pháp lý có kiểm chứng để LONGTV phát triển phần cẩm nang hướng dẫn trên trang chủ cho nhà đầu tư nước ngoài, đặc biệt nhóm nhà máy Trung Quốc dịch chuyển sản xuất về Việt Nam.</p>
+</blockquote>
+<h2>1. Rà soát yêu cầu</h2>
+<table>
+<thead>
+<tr>
+<th>Nhóm yêu cầu</th>
+<th>Nội dung cần làm rõ</th>
+<th>Output cần tạo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Văn bản pháp lý nền tảng</td>
+<td>Luật Đầu tư, Luật Doanh nghiệp, văn bản hướng dẫn, điều kiện tiếp cận thị trường với nhà đầu tư nước ngoài</td>
+<td>Thư viện nguồn pháp luật có URL, điều khoản trọng tâm, trạng thái hiệu lực</td>
+</tr>
+<tr>
+<td>Mô hình 100% vốn nước ngoài</td>
+<td>Điều kiện lập tổ chức kinh tế mới, IRC, ERC, góp vốn, tài khoản vốn đầu tư, nghĩa vụ sau thành lập</td>
+<td>Bài hướng dẫn + checklist hồ sơ + decision tree</td>
+</tr>
+<tr>
+<td>Mô hình góp vốn/mua cổ phần</td>
+<td>Khi nào cần đăng ký M&#x26;A approval, ngưỡng sở hữu nước ngoài, điều kiện ngành nghề, đất đai/quốc phòng an ninh</td>
+<td>Bài hướng dẫn + checklist điều kiện + timeline</td>
+</tr>
+<tr>
+<td>Quy trình xin giấy phép đầu tư</td>
+<td>Chủ trương đầu tư nếu có, IRC, ERC, điều chỉnh IRC/ERC, thời hạn pháp lý và rủi ro thực tế</td>
+<td>Bài quy trình + bảng cơ quan xử lý</td>
+</tr>
+<tr>
+<td>Môi trường</td>
+<td>Phân loại dự án, đánh giá sơ bộ tác động môi trường, ĐTM, giấy phép môi trường, đăng ký môi trường</td>
+<td>Bài hướng dẫn ĐTM/môi trường cho dự án sản xuất</td>
+</tr>
+<tr>
+<td>Giấy phép sản xuất</td>
+<td>Khu công nghiệp, thuê đất/xưởng, xây dựng, PCCC, môi trường, ngành nghề có điều kiện theo loại sản phẩm</td>
+<td>Checklist giấy phép theo ngành sản xuất</td>
+</tr>
+<tr>
+<td>Trang chủ/cẩm nang</td>
+<td>Chuyển nghiên cứu thành bài viết dễ đọc cho khách hàng</td>
+<td>Backlog bài viết, outline, trạng thái kiểm chứng</td>
+</tr>
+</tbody>
+</table>
+<h2>2. Nguyên tắc nghiên cứu</h2>
+<ol>
+<li><strong>Nguồn chính thống trước</strong>: ưu tiên Cổng thông tin văn bản pháp luật, Công báo Chính phủ, Bộ KH&#x26;ĐT, Bộ TN&#x26;MT, ban quản lý khu công nghiệp, UBND tỉnh.</li>
+<li><strong>Tách luật gốc và diễn giải</strong>: mỗi kết luận phải trỏ về điều khoản/văn bản; bài viết dịch sang ngôn ngữ khách hàng nhưng không thay thế tư vấn luật.</li>
+<li><strong>Ghi trạng thái hiệu lực</strong>: mỗi nguồn cần có ngày kiểm tra, tình trạng còn hiệu lực/sửa đổi/thay thế, và người kiểm chứng.</li>
+<li><strong>Tạo dữ liệu trước khi viết bài</strong>: không viết bài cẩm nang nếu chưa có source record trong <code>source-registry.json</code>.</li>
+<li><strong>Chia theo hành trình nhà đầu tư</strong>: bài viết phải trả lời "tôi là nhà đầu tư nước ngoài, muốn lập/mua/góp vốn/sản xuất thì đi bước nào trước?".</li>
+</ol>
+<h2>3. Cấu trúc thư mục</h2>
+<pre><code class="language-text">web/data/fdi-legal/
+├── 00-index.md              # Kế hoạch nghiên cứu và quy trình vận hành
+├── source-registry.json     # Registry nguồn pháp luật để team tiếp tục bổ sung
+└── article-backlog.md       # Hạng mục bài viết cẩm nang cần sản xuất
+</code></pre>
+<h2>4. Ma trận nghiên cứu chính</h2>
+<table>
+<thead>
+<tr>
+<th>Chủ đề</th>
+<th>Câu hỏi nghiên cứu</th>
+<th>Nguồn bắt buộc đối chiếu</th>
+<th>Ghi chú kiểm chứng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Greenfield FDI</td>
+<td>Nhà đầu tư nước ngoài lập công ty mới tại Việt Nam cần IRC/ERC trong trường hợp nào?</td>
+<td>Luật Đầu tư 2020; Nghị định 31/2021/NĐ-CP; Luật Doanh nghiệp 2020</td>
+<td>Cần cập nhật mọi nghị định sửa đổi sau 2024/2025 nếu có</td>
+</tr>
+<tr>
+<td>100% vốn nước ngoài</td>
+<td>Ngành sản xuất/dịch vụ nào cho phép 100% vốn nước ngoài, ngành nào hạn chế?</td>
+<td>Danh mục ngành nghề tiếp cận thị trường có điều kiện; cam kết WTO/FTA; cổng MPI</td>
+<td>Cần lập bảng theo ngành mục tiêu của khách hàng</td>
+</tr>
+<tr>
+<td>Góp vốn/mua cổ phần</td>
+<td>Khi nào phải đăng ký việc góp vốn/mua cổ phần trước khi đổi cổ đông?</td>
+<td>Luật Đầu tư 2020 Điều 24-26; Nghị định 31/2021/NĐ-CP</td>
+<td>Đặc biệt kiểm tra ngưỡng trên 50%, ngành có điều kiện, đất ở khu nhạy cảm</td>
+</tr>
+<tr>
+<td>IRC/ERC</td>
+<td>Hồ sơ, cơ quan tiếp nhận, thời hạn xử lý và điểm dễ bị hỏi bổ sung là gì?</td>
+<td>Luật Đầu tư; Luật Doanh nghiệp; biểu mẫu của cơ quan đăng ký đầu tư/kinh doanh</td>
+<td>Tách dự án trong KCN và ngoài KCN</td>
+</tr>
+<tr>
+<td>Môi trường</td>
+<td>Dự án sản xuất nào cần ĐTM, giấy phép môi trường hoặc đăng ký môi trường?</td>
+<td>Luật BVMT 2020; Nghị định 08/2022/NĐ-CP; văn bản sửa đổi; Thông tư 02/2022/TT-BTNMT</td>
+<td>Phải phân loại theo nhóm I/II/III/IV và phụ lục ngành</td>
+</tr>
+<tr>
+<td>Sản xuất</td>
+<td>Ngoài IRC/ERC, dự án sản xuất cần giấy phép/điều kiện nào trước vận hành?</td>
+<td>Môi trường, xây dựng, PCCC, khu công nghiệp, lao động, hóa chất/an toàn nếu có</td>
+<td>Làm checklist theo loại nhà máy, không gom chung một câu trả lời</td>
+</tr>
+<tr>
+<td>Địa phương</td>
+<td>Thái Nguyên/Hải Phòng có ưu đãi, khu công nghiệp, đầu mối cơ quan nào phù hợp?</td>
+<td>Website tỉnh, ban quản lý KCN/KKT, quyết định ưu đãi địa phương</td>
+<td>Liên kết với research PL-004/PL-005</td>
+</tr>
+</tbody>
+</table>
+<h2>5. Quy trình tạo một bài cẩm nang</h2>
+<ol>
+<li><strong>Chốt câu hỏi khách hàng</strong>: ví dụ "Có thể lập công ty 100% vốn Trung Quốc để sản xuất linh kiện ở Hải Phòng không?".</li>
+<li><strong>Tạo source record</strong> trong <code>source-registry.json</code> cho mọi văn bản liên quan.</li>
+<li><strong>Trích điều khoản trọng tâm</strong>: ghi rõ số điều/khoản, yêu cầu, điều kiện áp dụng, ngoại lệ.</li>
+<li><strong>Lập decision tree</strong>: điều kiện nào dẫn tới IRC, M&#x26;A approval, ĐTM, giấy phép môi trường, PCCC, xây dựng.</li>
+<li><strong>Viết bài nháp</strong> trong backlog với cảnh báo "không phải tư vấn pháp lý chính thức".</li>
+<li><strong>Review pháp lý</strong>: luật sư/đối tác xác nhận trước khi đưa lên trang chủ.</li>
+<li><strong>Gắn ngày cập nhật</strong>: bài phải có "last reviewed" để tránh dùng sai khi luật thay đổi.</li>
+</ol>
+<h2>6. Definition of Done cho phần cẩm nang</h2>
+<ul>
+<li>Có tối thiểu 10 nguồn pháp luật nền tảng trong registry.</li>
+<li>Mỗi bài có ít nhất 3 tham chiếu nguồn hoặc đủ căn cứ pháp lý theo phạm vi bài.</li>
+<li>Có decision tree riêng cho: lập mới 100% vốn nước ngoài, góp vốn/mua cổ phần, dự án sản xuất cần ĐTM/giấy phép môi trường.</li>
+<li>Có checklist hồ sơ theo từng bước: trước đầu tư, nộp IRC/ERC, sau thành lập, trước vận hành sản xuất.</li>
+<li>Có cảnh báo rủi ro: ngành nghề có điều kiện, đất/quốc phòng an ninh, môi trường, PCCC, xây dựng, ngành sản xuất đặc thù.</li>
+</ul>
+<h2>7. Việc tiếp theo đề xuất</h2>
+<table>
+<thead>
+<tr>
+<th>Ưu tiên</th>
+<th>Việc</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Điền đủ registry nguồn pháp luật nền tảng và xác minh hiệu lực</td>
+<td><code>source-registry.json</code> cập nhật, có ngày kiểm tra</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Viết bài decision tree "100% vốn nước ngoài vs góp vốn/mua cổ phần"</td>
+<td>Bài cẩm nang số 1</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Viết checklist IRC/ERC cho dự án sản xuất trong KCN</td>
+<td>Bài cẩm nang số 2</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Viết bài phân loại môi trường/ĐTM/giấy phép môi trường</td>
+<td>Bài cẩm nang số 3</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Lập bảng giấy phép sản xuất theo ngành</td>
+<td>Data table + bài tổng hợp</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Thu thập ưu đãi địa phương Thái Nguyên/Hải Phòng</td>
+<td>Kết nối PL-004/PL-005</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"data"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-legal"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-index"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"data"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Data — Cẩm nang pháp lý FDI Việt Nam"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Khung thu thập dữ liệu nguồn để xây cẩm nang FDI: 100% vốn nước ngoài, góp vốn/mua cổ phần, IRC/ERC, môi trường và giấy phép sản xuất."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/competitors","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"10 đối thủ tư vấn FDI TQ→VN"}]]}],["$","$L2",null,{"href":"/docs/05-clarifications/00-team-input-requirements","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Yêu cầu làm rõ từ team"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1ba8,<h1>LONGTV — CTCP Tư vấn FDI Trung Quốc → Việt Nam</h1>
+<p><strong>Tổ hợp All-in-one:</strong> Tư vấn · Pháp lý (đối tác) · Logistics (đối tác) · <strong>Thái Nguyên &#x26; Hải Phòng</strong><br>
+<strong>Ngày:</strong> 2026-07-09 · <strong>Giai đoạn:</strong> 00-1 hoàn thành (desk) → Giai đoạn 2 lean launch</p>
+<hr>
+<h2>Vấn đề</h2>
+<p>Hàng nghìn nhà máy Trung Quốc (Tier 2–3, 50–300 nhân sự) đang dịch chuyển sản xuất sang Việt Nam để giảm chi phí và tránh rủi ro thuế. Họ cần <strong>một đối tác song ngữ</strong> hiểu chính sách địa phương (Sở KH&#x26;ĐT, KCN), pháp lý thành lập và chuỗi hải quan–logistics — không chỉ một công ty luật hay forwarder đơn lẻ.</p>
+<h2>Giải pháp</h2>
+<p><strong>LONGTV</strong> — hub tư vấn <strong>All-in-one</strong> (một cửa A-Z):</p>
+<table>
+<thead>
+<tr>
+<th>Mảng</th>
+<th>Phạm vi</th>
+<th>Dịch vụ cửa vào</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong> Chính sách &#x26; FDI</td>
+<td>Thái Nguyên + Hải Phòng</td>
+<td>A1 Desk research ($2.5–4k) → B2 Thành lập CTCP → A3 Thiết lập NM</td>
+</tr>
+<tr>
+<td><strong>B</strong> Logistics &#x26; HQ</td>
+<td>Miền Bắc (HP cảng, TN on-spot)</td>
+<td>B1 On-site + hải quan ($8–12k) → retainer C1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cam kết định vị:</strong> Rút ngắn time-to-market <strong>6 → ~3 tháng</strong> (bundle Full Setup) — <a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one</a></p>
+<p><strong>Khác biệt:</strong> Cổ đông tập đoàn TQ + đội VN >51% · chuyên 2 tỉnh · tích hợp Oz tools hải quan · vòng đời G0–G8 (từ sang VN đến di dời/về TQ).</p>
+<h2>Thị trường</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Số liệu</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI mới VN 6T/2026</td>
+<td>34,65 tỷ USD (+61% y/y)</td>
+<td>Desk 🟢</td>
+</tr>
+<tr>
+<td>Thái Nguyên</td>
+<td>#1 FDI mới ~5,7 tỷ USD</td>
+<td>Desk 🟢</td>
+</tr>
+<tr>
+<td>Trung Quốc</td>
+<td>#2 nguồn vốn FDI 2025 (~21%)</td>
+<td>Desk 🟢</td>
+</tr>
+<tr>
+<td>SAM LONGTV</td>
+<td>~200–400 NM TQ Tier 2–3 quan tâm miền Bắc/năm</td>
+<td>Ước desk 🟡</td>
+</tr>
+</tbody>
+</table>
+<h2>Mô hình kinh doanh</h2>
+<ul>
+<li><strong>Revenue:</strong> Project fee (A1, B1, B2) + bundle + retainer 4h/tháng</li>
+<li><strong>Gross margin mục tiêu:</strong> 55–65% (dịch vụ tư vấn, COGS = đi lại + white-label luật)</li>
+<li><strong>CAC thấp giai đoạn 1:</strong> Referral cổ đông TQ, WeChat, sự kiện KCN</li>
+<li><strong>LTV desk:</strong> $40k–150k/khách nếu giữ G5 retainer (<a href="/docs/03-departments/04-san-pham/service-catalog-v1">catalog</a>)</li>
+</ul>
+<h2>Traction (hiện tại)</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Market research &#x26; scorecard 38/50</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Catalog 22 dịch vụ, SOP A1/B1</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Sales kit (pitch, proposal, pricing v1)</td>
+<td>✅ chờ duyệt</td>
+</tr>
+<tr>
+<td>Hợp đồng khách</td>
+<td>🔴 0</td>
+</tr>
+<tr>
+<td>MOU KCN / luật</td>
+<td>🔴 Chưa ký</td>
+</tr>
+<tr>
+<td>Field verification Sở/KCN</td>
+<td>🟡 Đang làm (Hermes)</td>
+</tr>
+</tbody>
+</table>
+<h2>Team &#x26; vận hành</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Giai đoạn 1 (T7–T12/2026)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TGĐ</td>
+<td>1 (Sếp Thắng, kiêm Chiến lược)</td>
+</tr>
+<tr>
+<td>Sales</td>
+<td>2 FTE (BD Manager + Exec song ngữ)</td>
+</tr>
+<tr>
+<td>Phòng ban</td>
+<td>5 phòng, ~8–10 FTE tương đương (nhiều kiêm)</td>
+</tr>
+<tr>
+<td>Văn phòng</td>
+<td><strong>Virtual office</strong> 3–5M/tháng; co-working khi họp khách</td>
+</tr>
+<tr>
+<td>Công cụ</td>
+<td>Kho tri thức web, CRM Sheet, Hermes research</td>
+</tr>
+</tbody>
+</table>
+<h2>Tài chính — The Ask</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Giá trị</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vốn điều lệ đề xuất</strong></td>
+<td><strong>2 tỷ VND</strong> (~$80k)</td>
+</tr>
+<tr>
+<td>Cơ cấu cổ đông</td>
+<td>VN <strong>>51%</strong> · TQ tập đoàn &#x3C;49%</td>
+</tr>
+<tr>
+<td>Phân bổ</td>
+<td>50% vốn DN · 25% vận hành 6–9T · 10% GTM · 15% dự phóng</td>
+</tr>
+</tbody>
+</table>
+<h3>Dự phóng doanh thu (kịch bản Base)</h3>
+<table>
+<thead>
+<tr>
+<th>Mốc</th>
+<th>Khách (tích lũy)</th>
+<th>Doanh thu USD</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6 tháng</td>
+<td>3–4</td>
+<td>$12–18k</td>
+<td>2–3 A1 + 1 B1 partial</td>
+</tr>
+<tr>
+<td>1 năm</td>
+<td>8–12</td>
+<td>$55–80k</td>
+<td>Mix A1/B1/bundle</td>
+</tr>
+<tr>
+<td>2 năm</td>
+<td>25–35</td>
+<td>$180–250k</td>
+<td>+15% retainer</td>
+</tr>
+</tbody>
+</table>
+<p><em>Chi tiết 3 kịch bản Bear/Base/Bull: <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a></em></p>
+<h3>Hòa vốn</h3>
+<ul>
+<li>Burn full lean: <strong>~100M VND/tháng</strong></li>
+<li>Hòa vốn vận hành (base): <strong>tháng 14–18</strong> (~Q2/2027) với ~2 deal/tháng quy đổi A1</li>
+<li>Năm 1: <strong>vẫn net burn</strong> — bình thường với mô hình consulting bootstrap</li>
+</ul>
+<h2>Chiến lược 3 năm (headline)</h2>
+<table>
+<thead>
+<tr>
+<th>Năm</th>
+<th>Trọng tâm</th>
+<th>Headcount</th>
+<th>Doanh thu mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Y1</strong> (2026–27)</td>
+<td>Chứng minh A1+B1, 2 tỉnh</td>
+<td>12–15</td>
+<td>$55–80k</td>
+</tr>
+<tr>
+<td><strong>Y2</strong> (2027–28)</td>
+<td>Scale B1, MOU KCN, retainer</td>
+<td>18–25</td>
+<td>$180–250k</td>
+</tr>
+<tr>
+<td><strong>Y3</strong> (2028–29)</td>
+<td>Hub logistics HP, mở tỉnh thứ 3</td>
+<td>25–35</td>
+<td>$400–600k</td>
+</tr>
+</tbody>
+</table>
+<p><em>Chi tiết: <a href="/docs/03-departments/01-chien-luoc/strategy-3yr">strategy-3yr</a></em></p>
+<h2>Rủi ro chính &#x26; Plan B</h2>
+<ul>
+<li><strong>Không bán được 90 ngày</strong> → cắt marketing 50%, delay hire, pivot white-label luật</li>
+<li><strong>0 doanh thu 6 tháng</strong> → burn ~425M, vẫn còn >1,5 tỷ nếu không over-hire</li>
+<li><strong>Pháp lý CTCP chậm</strong> → bán A1 qua đối tác luật tạm</li>
+</ul>
+<h2>Kết luận đầu tư</h2>
+<p><strong>Go có điều kiện</strong> cho cổ đông chiến lược. Khuyến nghị giải ngân theo mốc; hoàn thành cap table + 1 HĐ pilot trước khi mời nhà đầu tư thứ ba.</p>
+<p><strong>Liên hệ / tài liệu:</strong> <a href="00-index">Investor pack index</a> · <a href="00-investment-verdict">Verdict đầy đủ</a> · Web <a href="/kim">/kim</a></p>
+<hr>
+<p><em>Tài liệu nội bộ — không phải prospectus. Số liệu desk có nhãn 🟡 cần xác minh field trước khi phát hành ra ngoài.</em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"investor-pack"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-executive-summary"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Executive Summary — LONGTV (Investor)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tóm tắt 2 trang cho cổ đông, nhà đầu tư và ứng viên C-level."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/006-hermes-wave2-approval","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #006 — Duyệt gói công việc Hermes Wave 2"}]]}],["$","$L2",null,{"href":"/docs/06-phases/investor-pack/02-pitch-gap-checklist","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Checklist thiếu sót — Pitch kêu gọi vốn & tuyển C-level"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

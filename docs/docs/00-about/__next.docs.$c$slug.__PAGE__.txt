@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+7:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T82c,<h1>LongTV</h1>
+<blockquote>
+<p><strong>Trung tâm kết nối</strong> — tư vấn đầu tư, chính sách, pháp lý, kế toán và logistics cho nhà đầu tư nước ngoài tại Việt Nam.</p>
+</blockquote>
+<h2>Chúng tôi là ai</h2>
+<p><strong>LongTV</strong> là công ty <strong>cổ phần</strong>, có sự tham gia của <strong>tập đoàn Trung Quốc</strong>, trong đó <strong>phía Việt Nam giữ trên 51%</strong> — vừa bảo đảm quyền chi phối trong nước, vừa tăng uy tín và hỗ trợ 2 đầu TQ↔VN.</p>
+<h3>Hai mảng dịch vụ</h3>
+<table>
+<thead>
+<tr>
+<th>Mảng</th>
+<th>Phạm vi</th>
+<th>Trọng tâm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A — Chính sách &#x26; chính quyền</strong></td>
+<td>Thái Nguyên + Hải Phòng</td>
+<td>Tư vấn chính sách, xin ưu đãi, dịch chuyển nhà máy TQ</td>
+</tr>
+<tr>
+<td><strong>B — Logistics &#x26; hải quan</strong></td>
+<td><strong>Miền Bắc</strong></td>
+<td>Xuất · nhập · sản xuất — KCN và ngoài KCN</td>
+</tr>
+</tbody>
+</table>
+<h3>Vai trò hub</h3>
+<ul>
+<li>Kết nối thông tin &#x26; mạng lưới đối tác</li>
+<li>Tư vấn pháp lý kinh doanh, đầu tư tại VN</li>
+<li>Kế toán · kiểm toán · hạch toán sản xuất theo pháp luật VN</li>
+</ul>
+<p><strong>Vốn điều lệ:</strong> ~2 tỷ VND · Xem <a href="/docs/decisions/003-strategy-july-2026">Quyết định #003</a></p>
+<h2>Kho tri thức này dùng để làm gì</h2>
+<p>Mọi tài liệu, nghiên cứu, quyết định được lưu dưới dạng <strong>markdown</strong> → web tự cập nhật khi push GitHub.</p>
+<h2>Quy tắc chung</h2>
+<ul>
+<li><strong>Một nguồn sự thật</strong> — repo = kế hoạch + thực thi</li>
+<li><strong>Không xoá lịch sử</strong> — quyết định cũ giữ để tham chiếu</li>
+<li><strong>Top-down · Multi-option</strong> — chẻ nhỏ + khai vấn trước khi hành động</li>
+</ul>
+<hr>
+<p><em>Cập nhật: 2026-07-08 · v0.2 · Đã chốt chiến lược QĐ #003</em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-about"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"about"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"LongTV — Về chúng tôi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"CTCP tư vấn đầu tư & logistics — cổ đông VN + tập đoàn TQ. Chính sách 2 tỉnh, hải quan miền Bắc."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Các giai đoạn triển khai LONGTV"}]]}],["$","$L2",null,{"href":"/docs/00-methodology","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+4:["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}]
+5:["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phương pháp Top-Down · Multi-Option"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

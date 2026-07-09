@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LongTV Web
+
+Next.js app for the LongTV internal knowledge base.
+
+## Content architecture
+
+- Business docs are authored in the **repository root**
+- `npm run sync-content` mirrors root markdown into `web/content/`
+- The app reads docs only from `web/content/`
+
+Do not manually edit `web/content/` unless debugging the sync pipeline.
 
 ## Getting Started
 
@@ -6,19 +16,19 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+`npm run dev` automatically runs `sync-content` first.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Build
+
+```bash
+npm run build
+```
+
+`npm run build` also runs `sync-content` first, so Vercel gets the latest mirrored content.
 
 ## Learn More
 
