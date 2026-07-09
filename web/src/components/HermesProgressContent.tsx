@@ -133,7 +133,7 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
         </div>
       </header>
 
-      <Phase001Banner />
+      <Phase001Banner compact />
       <StickyPageNav sections={HERMES_SECTIONS} />
 
       {/* Summary stats */}

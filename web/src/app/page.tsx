@@ -6,15 +6,6 @@ import { HOME_HUB_GROUPS } from "@/lib/site-pages";
 
 const HUB_LINKS = [
   {
-    id: "kim",
-    href: "/kim",
-    title: "Thư ký Kim",
-    subtitle: "Chỉ việc người thật làm",
-    desc: "Gọi, ký, gặp, nộp hồ sơ — AI không thay thế. Mỗi owner tự nhận việc",
-    accent: true,
-    icon: "★",
-  },
-  {
     id: "cam-nang",
     href: "/cam-nang",
     title: "Cẩm nang tri thức",
@@ -62,8 +53,9 @@ const HUB_LINKS = [
     id: "operations",
     href: "/operations",
     title: "Bảng vận hành",
-    subtitle: "5 phòng ban",
-    desc: "TODO P0/P1 · assignee · tiến độ",
+    subtitle: "5 phòng ban · Thư ký Kim",
+    desc: "TODO P0/P1 · việc người thật (Kim) · tiến độ từng phòng",
+    accent: true,
     icon: "03",
   },
   {
@@ -125,16 +117,10 @@ export default function Home() {
             </div>
             <div className="flex flex-col sm:flex-row gap-3 shrink-0">
               <Link
-                href="/kim"
+                href="/assessment"
                 className="inline-flex items-center justify-center px-5 h-11 rounded-full bg-white text-[var(--accent)] font-semibold text-sm hover:bg-white/90"
               >
-                Giao Thư ký Kim →
-              </Link>
-              <Link
-                href="/assessment"
-                className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
-              >
-                Dashboard 00-1
+                Dashboard 00-1 →
               </Link>
               <Link
                 href="/operations"
@@ -147,7 +133,7 @@ export default function Home() {
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-6 py-10 md:py-14 space-y-14">
+      <div className="max-w-7xl mx-auto px-6 py-10 md:py-14 space-y-10">
         {/* Progress + insights */}
         <section className="grid lg:grid-cols-3 gap-6">
           <div className="lg:col-span-1 p-6 rounded-2xl border-2 border-[var(--accent)] bg-white shadow-sm">
@@ -220,84 +206,97 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Department progress */}
-        <section>
-          <div className="flex items-baseline justify-between mb-6 flex-wrap gap-2">
-            <h2 className="text-xl font-bold">Tiến độ theo phòng ban</h2>
-            <Link href="/operations" className="text-sm text-[var(--accent)] hover:underline">
-              Chi tiết bảng vận hành →
-            </Link>
-          </div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-3">
-            {deptTasks.map((dept) => {
-              const meta = DEPARTMENTS.find((d) => d.id === dept.deptId);
-              const p0 = dept.tasks.filter((t) => t.priority === "P0");
-              const done = p0.filter((t) => t.status === "done").length;
-              const pct = p0.length > 0 ? Math.round((done / p0.length) * 100) : 0;
-
-              return (
-                <Link
-                  key={dept.deptId}
-                  href={`/operations#${dept.deptId}`}
-                  className={`p-4 rounded-xl border bg-white hover:shadow-sm transition ${meta?.color || "border-[var(--border)]"}`}
-                >
-                  <div className="text-xs text-[var(--muted)] mb-1">{meta?.vLayer}</div>
-                  <div className="font-semibold text-sm leading-tight mb-3 min-h-[2.5rem]">{dept.deptName}</div>
-                  <div className="text-lg font-bold">
-                    {done}/{p0.length}
-                    <span className="text-xs font-normal text-[var(--muted)] ml-1">P0</span>
-                  </div>
-                  <div className="h-1.5 rounded-full bg-gray-100 mt-2 overflow-hidden">
-                    <div className="h-full bg-[var(--accent)] rounded-full" style={{ width: `${pct}%` }} />
-                  </div>
-                </Link>
-              );
-            })}
-          </div>
-        </section>
-
-        {/* Service tiers summary */}
-        <section className="p-6 md:p-8 rounded-2xl border border-[var(--border)] bg-white">
-          <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-6">
+        {/* Department progress — mở rộng khi cần chi tiết */}
+        <details className="rounded-2xl border border-[var(--border)] bg-white">
+          <summary className="flex items-center justify-between gap-4 p-6 cursor-pointer list-none [&::-webkit-details-marker]:hidden">
             <div>
-              <h2 className="text-xl font-bold mb-2">Mô hình dịch vụ</h2>
-              <p className="text-sm text-[var(--muted)] max-w-xl">
-                3 tầng phục vụ nhà máy Trung Quốc dịch chuyển về Việt Nam
+              <h2 className="text-xl font-bold">Tiến độ theo phòng ban</h2>
+              <p className="text-sm text-[var(--muted)] mt-1">
+                {p0Done}/{p0Total} P0 xong · 5 phòng — Kim & TODO chi tiết trong bảng vận hành
               </p>
             </div>
-            <Link
-              href="/services"
-              className="shrink-0 text-sm px-4 py-2 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
-            >
-              Xem danh mục đầy đủ
-            </Link>
+            <span className="text-sm text-[var(--muted)] shrink-0">Mở rộng ↓</span>
+          </summary>
+          <div className="px-6 pb-6 pt-0">
+            <div className="flex justify-end mb-4">
+              <Link href="/operations" className="text-sm text-[var(--accent)] font-medium hover:underline">
+                Bảng vận hành →
+              </Link>
+            </div>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-3">
+              {deptTasks.map((dept) => {
+                const meta = DEPARTMENTS.find((d) => d.id === dept.deptId);
+                const p0 = dept.tasks.filter((t) => t.priority === "P0");
+                const done = p0.filter((t) => t.status === "done").length;
+                const pct = p0.length > 0 ? Math.round((done / p0.length) * 100) : 0;
+
+                return (
+                  <Link
+                    key={dept.deptId}
+                    href={`/operations#${dept.deptId}`}
+                    className={`p-4 rounded-xl border bg-white hover:shadow-sm transition ${meta?.color || "border-[var(--border)]"}`}
+                  >
+                    <div className="text-xs text-[var(--muted)] mb-1">{meta?.vLayer}</div>
+                    <div className="font-semibold text-sm leading-tight mb-3 min-h-[2.5rem]">{dept.deptName}</div>
+                    <div className="text-lg font-bold">
+                      {done}/{p0.length}
+                      <span className="text-xs font-normal text-[var(--muted)] ml-1">P0</span>
+                    </div>
+                    <div className="h-1.5 rounded-full bg-gray-100 mt-2 overflow-hidden">
+                      <div className="h-full bg-[var(--accent)] rounded-full" style={{ width: `${pct}%` }} />
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
           </div>
-          <div className="grid md:grid-cols-3 gap-4">
-            {[
-              {
-                tier: "Trung tâm kết nối (hub)",
-                scope: "Toàn quốc",
-                items: "Pháp lý · Kế toán · Kết nối đối tác",
-              },
-              {
-                tier: "Mảng chính sách & đầu tư",
-                scope: "Thái Nguyên + Hải Phòng",
-                items: "Khảo sát · Xin ưu đãi · Thiết lập nhà máy",
-              },
-              {
-                tier: "Mảng hậu cần & hải quan",
-                scope: "Miền Bắc",
-                items: "Khai báo hải quan · Vận chuyển · Thuê ngoài theo tháng",
-              },
-            ].map((t) => (
-              <div key={t.tier} className="p-5 rounded-xl bg-[var(--accent-soft)] border border-red-100">
-                <div className="font-bold text-[var(--accent)]">{t.tier}</div>
-                <div className="text-xs text-[var(--muted)] mb-2">{t.scope}</div>
-                <div className="text-sm">{t.items}</div>
-              </div>
-            ))}
+        </details>
+
+        {/* Service tiers summary */}
+        <details className="rounded-2xl border border-[var(--border)] bg-white">
+          <summary className="flex items-center justify-between gap-4 p-6 cursor-pointer list-none [&::-webkit-details-marker]:hidden">
+            <div>
+              <h2 className="text-xl font-bold">Mô hình dịch vụ</h2>
+              <p className="text-sm text-[var(--muted)] mt-1">3 tầng phục vụ nhà máy Trung Quốc dịch chuyển về Việt Nam</p>
+            </div>
+            <span className="text-sm text-[var(--muted)] shrink-0">Mở rộng ↓</span>
+          </summary>
+          <div className="px-6 pb-6 pt-0">
+            <div className="flex justify-end mb-4">
+              <Link
+                href="/services"
+                className="shrink-0 text-sm px-4 py-2 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
+              >
+                Danh mục đầy đủ →
+              </Link>
+            </div>
+            <div className="grid md:grid-cols-3 gap-4">
+              {[
+                {
+                  tier: "Trung tâm kết nối (hub)",
+                  scope: "Toàn quốc",
+                  items: "Pháp lý · Kế toán · Kết nối đối tác",
+                },
+                {
+                  tier: "Mảng chính sách & đầu tư",
+                  scope: "Thái Nguyên + Hải Phòng",
+                  items: "Khảo sát · Xin ưu đãi · Thiết lập nhà máy",
+                },
+                {
+                  tier: "Mảng hậu cần & hải quan",
+                  scope: "Miền Bắc",
+                  items: "Khai báo hải quan · Vận chuyển · Thuê ngoài theo tháng",
+                },
+              ].map((t) => (
+                <div key={t.tier} className="p-5 rounded-xl bg-[var(--accent-soft)] border border-red-100">
+                  <div className="font-bold text-[var(--accent)]">{t.tier}</div>
+                  <div className="text-xs text-[var(--muted)] mb-2">{t.scope}</div>
+                  <div className="text-sm">{t.items}</div>
+                </div>
+              ))}
+            </div>
           </div>
-        </section>
+        </details>
 
         {/* Latest research */}
         <section>

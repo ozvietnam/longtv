@@ -145,7 +145,7 @@ export function KimQueueContent({
         </div>
       </header>
 
-      <Phase001Banner />
+      <Phase001Banner compact />
 
       {/* Stats */}
       <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">

@@ -77,7 +77,7 @@ export const HOME_HUB_GROUPS = [
   },
   {
     label: "Vận hành nội bộ",
-    ids: ["kim", "operations", "cam-nang"],
+    ids: ["operations", "cam-nang"],
   },
   {
     label: "Dịch vụ & thị trường",

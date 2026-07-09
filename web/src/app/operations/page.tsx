@@ -131,7 +131,7 @@ export default function OperationsPage() {
         </div>
       </header>
 
-      <Phase001Banner />
+      <Phase001Banner compact />
       <StickyPageNav sections={OPS_SECTIONS} />
 
       {/* Org snapshot */}
