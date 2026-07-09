@@ -108,6 +108,20 @@ author: "Cursor · Tư vấn nội bộ"
 
 ---
 
+## 7. Kịch bản scale — quy mô tầm trung (tham chiếu)
+
+Khi triển khai **2 chi nhánh vật lý + kho + ~16–18 FTE** (không phải bootstrap 2 tỷ):
+
+| | Giá trị |
+|---|--------|
+| Tổng nhu cầu năm 1 | **6.650.000.000 VND** |
+| CAPEX | 1.460 tỷ (22%) |
+| OPEX | 5.190 tỷ (78%) |
+
+→ Chi tiết + file Excel: [capex-opex-year1-medium-scale](capex-opex-year1-medium-scale.md)
+
+---
+
 ## Việc Leader chốt
 
 - [ ] Xác nhận % A/B/C/D hoặc điều chỉnh

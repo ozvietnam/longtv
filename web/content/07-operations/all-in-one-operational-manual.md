@@ -109,6 +109,7 @@ Chi tiết công ty: [kpi-thang](/docs/03-departments/05-van-hanh-tc/kpi-thang)
 | Tech & scalability | § III |
 | Legal compliance | § Pháp lý |
 | Financials | [fs-metrics](/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics) |
+| CAPEX/OPEX Excel 6,65 tỷ | [capex-opex-year1](/docs/03-departments/05-van-hanh-tc/capex-opex-year1-medium-scale) |
 
 ---
 
