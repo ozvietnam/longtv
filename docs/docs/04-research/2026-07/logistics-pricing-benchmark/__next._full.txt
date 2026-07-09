@@ -1,0 +1,614 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","04-research","2026-07","logistics-pricing-benchmark",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","04-research/2026-07/logistics-pricing-benchmark","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/1ofqupkjos_v6.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/assessment",{"href":"/assessment","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Đánh giá 00-1"}],["$","$L2","/co-dong",{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6"]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"URii_kKhvlrmQu9BrYQMO"}
+f:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/co-dong","className":"hover:text-[var(--accent)] font-medium","children":"Cổ đông"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/assessment","className":"hover:text-[var(--accent)] font-medium","children":"Dashboard 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/1xwzyx5b6rcm6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T3f61,<h1>Khảo sát giá dịch vụ logistics (desk · 07/2026)</h1>
+<blockquote>
+<p><strong>Mục đích:</strong> Chuẩn bị <a href="/kim">KIM-090</a> · đối chiếu <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> · định giá <a href="/logistics">/logistics</a><br>
+<strong>Ký hiệu:</strong> 🟢 Bảng giá công khai · 🟡 Tham khảo thị trường · 🔴 Đề xuất LONGTV (chưa validate đối tác)</p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt cho Leader</h2>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Giá thị trường (VNĐ/cont hoặc/lần)</th>
+<th>Biên gộp desk</th>
+<th>LONGTV năm đầu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Khai báo hải quan</strong> (FCL xuất SX)</td>
+<td>400k – 700k/cont</td>
+<td>35–55% trên phí dịch vụ</td>
+<td>Điều phối qua đại lý GPLS</td>
+</tr>
+<tr>
+<td><strong>Khai báo nhập KD</strong> (cont đầu)</td>
+<td>800k – 1,2M/cont</td>
+<td>25–40%</td>
+<td>Cùng mô hình</td>
+</tr>
+<tr>
+<td><strong>Xin C/O xuất khẩu</strong></td>
+<td>1,2 – 1,5M/lần</td>
+<td>30–45%</td>
+<td>Form E / ACFTA / RCEP</td>
+</tr>
+<tr>
+<td><strong>Trucking HP → TN</strong> (20DC)</td>
+<td>5,3 – 5,8M/cont</td>
+<td>8–15% markup</td>
+<td>Không sở hữu xe — đối tác</td>
+</tr>
+<tr>
+<td><strong>Trucking trong HP</strong> (Đình Vũ)</td>
+<td>1,5 – 2,1M/cont</td>
+<td>10–15%</td>
+<td>Tuyến ngắn</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Biên lợi nhuận ngành (blended):</strong> freight forwarder thuần <strong>15–25% gross</strong>; đại lý hải quan <strong>35–55%</strong> trên phí khai báo; trucking intermediary <strong>10–20%</strong>. CTCP logistics VN niêm yết (forwarding thuần): gross <strong>~5–17%</strong>, net <strong>~4%</strong>.</p>
+<p><strong>Mục tiêu 500 cont/tháng (sau 6 tháng):</strong> là <strong>đỉnh stretch</strong> — cần 3–5 NM xuất khẩu lớn + MOU GPLS + đội điều phối. <strong>Base tháng 6 thực tế:</strong> 50–120 cont/tháng nếu có 2–3 khách vận hành.</p>
+<hr>
+<h2>2. Dịch vụ khai báo hải quan</h2>
+<h3>2.1. Bảng giá thị trường (🟢 công khai 2025–2026)</h3>
+<table>
+<thead>
+<tr>
+<th>Loại hình</th>
+<th>FCL 20' (luồng xanh)</th>
+<th>FCL 40'</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Xuất khẩu — SX</strong></td>
+<td>400k – 700k</td>
+<td>650k – 700k</td>
+<td>Phổ biến cho NM chế xuất/EPE</td>
+</tr>
+<tr>
+<td><strong>Nhập khẩu — KD</strong> (cont đầu)</td>
+<td>800k – 1,0M</td>
+<td>800k – 1,0M</td>
+<td>Cont tiếp: 400–450k</td>
+</tr>
+<tr>
+<td><strong>LCL</strong></td>
+<td>750k – 900k</td>
+<td>—</td>
+<td>Theo lô</td>
+</tr>
+<tr>
+<td><strong>Luồng vàng</strong></td>
+<td>+600k – 1,0M</td>
+<td>+600k – 1,0M</td>
+<td>Phụ thu so với xanh</td>
+</tr>
+<tr>
+<td><strong>Luồng đỏ</strong></td>
+<td>+1,5 – 2,5M/cont</td>
+<td>+1,5 – 2,5M</td>
+<td>Nhân sự túc trực cảng</td>
+</tr>
+</tbody>
+</table>
+<p>Nguồn desk: <a href="https://vantainamsao.vn/bang-bao-gia-dich-vu-khai-thue-hai-quan/">Vận Tải Năm Sao</a>, <a href="https://thue.man.net.vn/en/bang-bao-gia-dich-vu-khai-thue-hai-quan/">MAN</a>, <a href="https://proship.vn/news/dich-vu-khai-bao-hai-quan-tron-goi/">Proship</a>, <a href="https://doortodoorviet.com/gia-dich-vu-khai-thue-hai-quan/">Door to Door</a> — Hải Phòng &#x26; toàn quốc.</p>
+<p><strong>Không bao gồm:</strong> phí cảng (THC, nâng hạ, lưu bãi), thuế NK/VAT, kiểm tra chuyên ngành — LONGTV thu <strong>chi hộ</strong> + quản lý.</p>
+<h3>2.2. Đề xuất giá LONGTV (🔴)</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Dịch vụ</th>
+<th>Giá bán (VND)</th>
+<th>Cost đối tác (ước)</th>
+<th>Biên</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L-HQ-01</td>
+<td>Khai báo xuất FCL (xanh, SX)</td>
+<td><strong>750.000/cont</strong></td>
+<td>500.000</td>
+<td>~33%</td>
+</tr>
+<tr>
+<td>L-HQ-02</td>
+<td>Khai báo nhập FCL (cont đầu)</td>
+<td><strong>1.000.000/cont</strong></td>
+<td>650.000</td>
+<td>~35%</td>
+</tr>
+<tr>
+<td>L-HQ-03</td>
+<td>Cont tiếp theo (cùng DN, cùng ngày)</td>
+<td><strong>450.000/cont</strong></td>
+<td>300.000</td>
+<td>~33%</td>
+</tr>
+<tr>
+<td>L-HQ-04</td>
+<td>Phụ thu luồng đỏ</td>
+<td><strong>+1.800.000/cont</strong></td>
+<td>+1.500.000</td>
+<td>~17%</td>
+</tr>
+<tr>
+<td>L-HQ-05</td>
+<td>Sửa tờ khai (lỗi khách)</td>
+<td><strong>700.000/lần</strong></td>
+<td>500.000</td>
+<td>~29%</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>LONGTV <strong>không</strong> tự khai nếu chưa có GPLS — giá trên là <strong>điều phối + QA + Oz tools</strong> trên nền đại lý.</p>
+</blockquote>
+<hr>
+<h2>3. Dịch vụ xe tải / điều phối container</h2>
+<h3>3.1. Bảng giá trucking (🟢 TTL Cargo · 07/2026)</h3>
+<table>
+<thead>
+<tr>
+<th>Tuyến</th>
+<th>20DC (VND)</th>
+<th>40DC (VND)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cảng HP → KCN Yên Bình (TN)</td>
+<td><strong>5.347.500</strong></td>
+<td><strong>5.635.000</strong></td>
+<td><a href="https://mlc-ttl.com/bang-gia-trucking-container-khu-vuc-hai-phong-moi-nhat/">TTL bảng giá 07/2026</a></td>
+</tr>
+<tr>
+<td>Cảng HP → KCN Phổ Yên / Sông Công</td>
+<td>5.347.500</td>
+<td>5.635.000</td>
+<td>Cùng zone</td>
+</tr>
+<tr>
+<td>Cảng HP → TP Thái Nguyên</td>
+<td>5.750.000</td>
+<td>6.095.000</td>
+<td>Xa hơn ~400k</td>
+</tr>
+<tr>
+<td>Cảng HP → KCN Đình Vũ</td>
+<td>1.495.000</td>
+<td>1.495.000</td>
+<td>Trong HP</td>
+</tr>
+<tr>
+<td>Cảng HP → KCN Tràng Duệ</td>
+<td>1.897.500</td>
+<td>1.897.500</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Giá <strong>chưa gồm:</strong> phí nâng hạ tại cảng, lưu cont, surcharge dầu biến động.</p>
+<p>Tham chiếu USD (Nitoda): HP → Phú Lương TN ~<strong>230 USD/20DC</strong> (~5,75 triệu VND) trucking only.</p>
+<h3>3.2. Đề xuất giá LONGTV (🔴) — mô hình điều phối</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Dịch vụ</th>
+<th>Giá bán</th>
+<th>Cost xe</th>
+<th>Biên LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L-TR-01</td>
+<td>Trucking HP → TN (20DC)</td>
+<td><strong>5.900.000</strong></td>
+<td>5.350.000</td>
+<td>~10%</td>
+</tr>
+<tr>
+<td>L-TR-02</td>
+<td>Trucking HP → TN (40DC)</td>
+<td><strong>6.200.000</strong></td>
+<td>5.635.000</td>
+<td>~10%</td>
+</tr>
+<tr>
+<td>L-TR-03</td>
+<td>Trucking nội HP (Đình Vũ)</td>
+<td><strong>1.750.000</strong></td>
+<td>1.500.000</td>
+<td>~14%</td>
+</tr>
+<tr>
+<td>L-TR-04</td>
+<td>Phí điều phối &#x26; tracking</td>
+<td><strong>300.000/cont</strong></td>
+<td>—</td>
+<td>100% (nếu tách)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lưu ý:</strong> Biên trucking thấp hơn hải quan — doanh thu lớn nhưng <strong>không</strong> dùng margin 58% chung cho mảng này.</p>
+<hr>
+<h2>4. Dịch vụ xin C/O (Certificate of Origin) — hàng xuất khẩu</h2>
+<h3>4.1. Thị trường</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Giá tham khảo (VND)</th>
+<th>Nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C/O Form E, D, ACFTA, RCEP…</td>
+<td><strong>1.200.000 – 1.500.000</strong> / bộ</td>
+<td>MAN, Vận Tải Năm Sao</td>
+</tr>
+<tr>
+<td>Kiểm tra chất lượng (nếu có)</td>
+<td>1.000.000 – 2.000.000</td>
+<td>Phụ thuộc trung tâm</td>
+</tr>
+<tr>
+<td>Dịch thuật / công chứng chứng từ</td>
+<td>200.000 – 500.000</td>
+<td>Add-on</td>
+</tr>
+</tbody>
+</table>
+<p>C/O thường tính <strong>theo lô / theo tờ khai</strong>, không phải mỗi cont — nhưng NM xuất khẩu thường <strong>1 C/O / shipment</strong> hoặc theo hợp đồng tháng.</p>
+<h3>4.2. Đề xuất giá LONGTV (🔴)</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Dịch vụ</th>
+<th>Giá bán</th>
+<th>Cost</th>
+<th>Biên</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L-CO-01</td>
+<td>C/O Form E (ASEAN)</td>
+<td><strong>1.600.000</strong></td>
+<td>1.000.000</td>
+<td>37%</td>
+</tr>
+<tr>
+<td>L-CO-02</td>
+<td>C/O Form ACFTA / RCEP</td>
+<td><strong>1.800.000</strong></td>
+<td>1.200.000</td>
+<td>33%</td>
+</tr>
+<tr>
+<td>L-CO-03</td>
+<td>Gói C/O + khai báo xuất</td>
+<td><strong>2.200.000</strong></td>
+<td>1.500.000</td>
+<td>32%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tần suất ước tính:</strong> ~25–35% lô xuất khẩu sang thị trường có FTA cần C/O riêng.</p>
+<hr>
+<h2>5. Biên lợi nhuận ngành logistics</h2>
+<table>
+<thead>
+<tr>
+<th>Phân khúc</th>
+<th>Gross margin tham chiếu</th>
+<th>Net margin</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Đại lý hải quan</strong> (phí khai báo thuần)</td>
+<td>35–55%</td>
+<td>15–25%</td>
+<td>GoFreight benchmark</td>
+</tr>
+<tr>
+<td><strong>Trucking / drayage</strong> (intermediary)</td>
+<td>10–20%</td>
+<td>5–10%</td>
+<td>Markup trên cước xe</td>
+</tr>
+<tr>
+<td><strong>Freight forwarder blended</strong></td>
+<td>15–25%</td>
+<td>8–15%</td>
+<td>Mix FCL + customs + trucking</td>
+</tr>
+<tr>
+<td><strong>CTCP forwarding VN</strong> (VNL, VNT…)</td>
+<td>5–17%</td>
+<td><strong>~4%</strong></td>
+<td>Cạnh tranh giá, pass-through cao</td>
+</tr>
+<tr>
+<td><strong>Cảng / asset-heavy</strong> (GMD)</td>
+<td>40–50%</td>
+<td>20–30%</td>
+<td>Không comparable — LONGTV không sở hữu cảng</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận cho LONGTV:</strong> Mô hình <strong>không tài sản</strong> (điều phối GPLS + forwarder + Oz) → target <strong>gross 18–28%</strong> trên doanh thu logistics giao dịch; <strong>45–55%</strong> trên gói setup (B1/B3 retainer).</p>
+<blockquote>
+<p>Financial model cũ dùng <strong>58% gross chung</strong> — <strong>quá cao</strong> cho mảng cont pass-through. Cần tách dòng <strong>Consulting</strong> vs <strong>Logistics transactional</strong>.</p>
+</blockquote>
+<hr>
+<h2>6. Mô hình doanh thu theo cont (desk)</h2>
+<h3>6.1. Một cont xuất khẩu điển hình (NM TN, HP → KCN)</h3>
+<table>
+<thead>
+<tr>
+<th>Dòng thu</th>
+<th>Giá bán</th>
+<th>Cost</th>
+<th>GP LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khai báo xuất (L-HQ-01)</td>
+<td>750.000</td>
+<td>500.000</td>
+<td>250.000</td>
+</tr>
+<tr>
+<td>Trucking HP→TN (L-TR-01)</td>
+<td>5.900.000</td>
+<td>5.350.000</td>
+<td>550.000</td>
+</tr>
+<tr>
+<td>C/O (30% xác suất × 1,6M)</td>
+<td>480.000</td>
+<td>300.000</td>
+<td>180.000</td>
+</tr>
+<tr>
+<td><strong>Tổng / cont (blended)</strong></td>
+<td><strong>~7.130.000</strong></td>
+<td><strong>~6.150.000</strong></td>
+<td><strong>~980.000 (~14%)</strong></td>
+</tr>
+</tbody>
+</table>
+<h3>6.2. Mục tiêu 500 cont/tháng — phân tích thực tế</h3>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>500 cont/tháng</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Doanh thu/tháng</td>
+<td><strong>~3,6 tỷ VND</strong> (~144k USD)</td>
+<td>Nếu full stack HQ+trucking</td>
+</tr>
+<tr>
+<td>Gross profit (~14%)</td>
+<td><strong>~500 triệu VND/tháng</strong></td>
+<td>Chưa trừ OPEX điều phối</td>
+</tr>
+<tr>
+<td>Số tờ khai HQ/tháng</td>
+<td>500+</td>
+<td>Cần ≥2 đại lý GPLS + 4–6 ops</td>
+</tr>
+<tr>
+<td>Số chuyến xe/tháng</td>
+<td>500</td>
+<td>Hợp đồng ≥3 hãng vận tải</td>
+</tr>
+<tr>
+<td>NM cần có</td>
+<td><strong>3–8 NM</strong> xuất 60–150 cont/tháng</td>
+<td>Tương đương Samsung tier supplier</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Đánh giá:</strong> 500 cont/tháng sau <strong>6 tháng</strong> = <strong>Stretch (Bull logistics)</strong> — khả thi chỉ khi LONGTV <strong>không</strong> bắt đầu từ zero mà có sẵn 1–2 khách Oz/anchor hoặc hợp đồng white-label với forwarder lớn.</p>
+<table>
+<thead>
+<tr>
+<th>Kịch bản</th>
+<th>Cont/tháng (tháng 6)</th>
+<th>Cont tích lũy 6T</th>
+<th>GP logistics 6T</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bear</strong></td>
+<td>10–20</td>
+<td>60–90</td>
+<td>60–90 triệu</td>
+</tr>
+<tr>
+<td><strong>Base</strong></td>
+<td>50–80</td>
+<td>200–350</td>
+<td>200–350 triệu</td>
+</tr>
+<tr>
+<td><strong>Stretch (mục tiêu anh)</strong></td>
+<td><strong>500</strong></td>
+<td><strong>~2.000</strong></td>
+<td><strong>~2 tỷ</strong></td>
+</tr>
+<tr>
+<td><strong>Bull hợp lý</strong></td>
+<td>120–200</td>
+<td>500–900</td>
+<td>500–900 triệu</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Đối chiếu financial model hiện tại</h2>
+<h3>Trước (chỉ consulting)</h3>
+<table>
+<thead>
+<tr>
+<th>6 tháng Base</th>
+<th>Giá trị</th>
+<th>Vấn đề</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Doanh thu</td>
+<td>300–450M VND</td>
+<td>Chỉ A1/B1 — <strong>bỏ qua logistics transactional</strong></td>
+</tr>
+<tr>
+<td>Gross 58%</td>
+<td>174–261M</td>
+<td>Margin consulting — không áp cho cont</td>
+</tr>
+<tr>
+<td>Khách</td>
+<td>3–4</td>
+<td>Không model khách logistics-only</td>
+</tr>
+</tbody>
+</table>
+<h3>Sau (consulting + logistics) — đề xuất cập nhật</h3>
+<table>
+<thead>
+<tr>
+<th>6 tháng</th>
+<th>Bear</th>
+<th>Base</th>
+<th>Stretch 500 cont</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consulting USD</td>
+<td>2–8k</td>
+<td>12–18k</td>
+<td>12–18k</td>
+</tr>
+<tr>
+<td>Logistics cont (tích lũy 6T)</td>
+<td>60</td>
+<td>280</td>
+<td>2.000</td>
+</tr>
+<tr>
+<td><strong>Tổng doanh thu VND</strong></td>
+<td><strong>120–200M</strong></td>
+<td><strong>450–750M</strong></td>
+<td><strong>~12–14 tỷ</strong></td>
+</tr>
+<tr>
+<td><strong>GP blended (~22%)</strong></td>
+<td>25–45M</td>
+<td>100–165M</td>
+<td>1,7–2,0 tỷ</td>
+</tr>
+<tr>
+<td>OPEX 6T</td>
+<td>~400M</td>
+<td>~480M</td>
+<td>~700M+ (cần team ops)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận:</strong> Giai đoạn đầu <strong>có thể</strong> phát sinh doanh thu logistics độc lập (không cần chờ A3) — nhưng <strong>Base 6T</strong> nên cộng <strong>+150–300M VND</strong> từ logistics, không phải +3 tỷ. Mục tiêu <strong>500 cont/tháng</strong> đặt làm <strong>mốc 12–18 tháng</strong> hoặc <strong>Bull có sẵn khách anchor</strong>.</p>
+<hr>
+<h2>8. Lộ trình tích hợp logistics (6 tháng)</h2>
+<table>
+<thead>
+<tr>
+<th>Tháng</th>
+<th>Mục tiêu cont</th>
+<th>Việc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T7–T8</td>
+<td>5–15</td>
+<td>Ký MOU đại lý GPLS · pilot 1 NM · bảng giá L-HQ/L-TR/L-CO</td>
+</tr>
+<tr>
+<td>T9–T10</td>
+<td>20–50</td>
+<td>2 NM retainer B3 · Oz vào quy trình khai báo</td>
+</tr>
+<tr>
+<td>T11–T12</td>
+<td>50–120 (Base) / 500 (Stretch)</td>
+<td>Scale đối tác xe · dashboard cont/tháng</td>
+</tr>
+</tbody>
+</table>
+<p>Kim: <a href="/kim">KIM-089</a> desk đối tác · <a href="/kim">KIM-090</a> bảng giá tuyến · <a href="/kim">KIM-076</a> MOU đại lý GPLS</p>
+<hr>
+<h2>9. Nguồn tham khảo</h2>
+<ol>
+<li><a href="https://mlc-ttl.com/bang-gia-trucking-container-khu-vuc-hai-phong-moi-nhat/">TTL Cargo — bảng giá trucking HP 07/2026</a></li>
+<li><a href="https://vantainamsao.vn/bang-bao-gia-dich-vu-khai-thue-hai-quan/">Vận Tải Năm Sao — khai thuê HQ 2026</a></li>
+<li><a href="https://thue.man.net.vn/en/bang-bao-gia-dich-vu-khai-thue-hai-quan/">MAN — bảng giá HQ trọn gói</a></li>
+<li><a href="https://gofreight.com/glossary/what-is-the-gross-margin-of-freight-forwarders.html">GoFreight — gross margin freight forwarders</a></li>
+<li><a href="https://3alogistics.vn/profit-divergence-in-logistics-businesses/">3A Logistics — biên lợi nhuận DN logistics VN</a></li>
+</ol>
+<hr>
+<h2>10. Việc tiếp theo</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Hermes: verify giá với 2 đại lý GPLS + 1 hãng xe HP (field)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Leader: duyệt bảng giá L-HQ / L-TR / L-CO</li>
+<li class="task-list-item"><input type="checkbox" disabled> VT: cập nhật <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> — tách margin consulting vs logistics</li>
+<li class="task-list-item"><input type="checkbox" disabled> KD: gói <strong>Logistics Quick Start</strong> — không cần A1 trước</li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"logistics-pricing-benchmark"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Khảo sát giá logistics — hải quan, xe tải, C/O"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Desk benchmark tháng 7/2026: phí khai báo, trucking miền Bắc, xin C/O xuất khẩu; biên lợi nhuận ngành; đề xuất giá LONGTV."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Investor Pack — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/03-departments/00-org-model","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Khảo sát giá logistics — hải quan, xe tải, C/O · LongTV"}],["$","meta","1",{"name":"description","content":"Desk benchmark tháng 7/2026: phí khai báo, trucking miền Bắc, xin C/O xuất khẩu; biên lợi nhuận ngành; đề xuất giá LONGTV."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]
