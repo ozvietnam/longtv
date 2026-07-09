@@ -21,10 +21,10 @@ const HUB_LINKS = [
     icon: "📚",
   },
   {
-    href: "/docs/06-phases/00-1-feasibility-plan",
+    href: "/assessment",
     title: "Giai đoạn đánh giá tiềm năng",
-    subtitle: "Bước khởi đầu (00-1)",
-    desc: "Thị trường · danh mục dịch vụ · quyết định tiếp tục",
+    subtitle: "Dashboard 00-1 · Biểu đồ",
+    desc: "Scorecard 38/50 · FDI xác minh · kết luận Go — trình cổ đông",
     accent: true,
     icon: "01",
   },
@@ -111,10 +111,10 @@ export default function Home() {
                 Giao Thư ký Kim →
               </Link>
               <Link
-                href="/docs/06-phases/00-1-feasibility-plan"
+                href="/assessment"
                 className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
               >
-                Kế hoạch đánh giá tiềm năng
+                Dashboard 00-1
               </Link>
               <Link
                 href="/operations"

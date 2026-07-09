@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
   { href: "/kim", label: "Thư ký Kim", highlight: true },
   { href: "/cam-nang", label: "Cẩm nang", highlight: true },
-  { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng" },
+  { href: "/assessment", label: "Đánh giá 00-1", highlight: true },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
   { href: "/hermes", label: "Hermes", highlight: true },
