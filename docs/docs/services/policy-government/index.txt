@@ -1,0 +1,208 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+c:I[68027,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","services","policy-government",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","services/policy-government","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/cam-nang",{"href":"/cam-nang","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Cẩm nang"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"Đánh giá tiềm năng"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/logistics",{"href":"/logistics","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hậu cần & hải quan"}],["$","$L2","/hermes",{"href":"/hermes","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Hermes"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":"$L6"}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"T2s-nJdfA-3oTQQlH0BXH"}
+f:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc người thật (không AI)"}],["$","$L2",null,{"href":"/docs/05-clarifications/what-is-kim","className":"hover:text-[var(--accent)] font-medium","children":"Kim là gì?"}],["$","$L2",null,{"href":"/cam-nang","className":"hover:text-[var(--accent)] font-medium","children":"Cẩm nang tri thức"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/logistics","className":"hover:text-[var(--accent)] font-medium text-amber-800","children":"Hậu cần & hải quan"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]]}],["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/0u5y5hoqx3u2_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:T1828,<h1>Dịch vụ chính sách &#x26; chính quyền 2 tỉnh</h1>
+<blockquote>
+<p>Đây là mảng core của LONGTV: giúp nhà đầu tư nước ngoài, đặc biệt nhà máy Trung Quốc, hiểu chính sách địa phương và chuẩn bị lộ trình làm việc với Thái Nguyên/Hải Phòng trước khi quyết định đầu tư.</p>
+</blockquote>
+<h2>1. Dành cho ai?</h2>
+<table>
+<thead>
+<tr>
+<th>Nhóm khách hàng</th>
+<th>Nhu cầu thường gặp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chủ nhà máy Trung Quốc đang cân nhắc Việt Nam</td>
+<td>So sánh Thái Nguyên vs Hải Phòng, chi phí, KCN, ưu đãi, rủi ro</td>
+</tr>
+<tr>
+<td>Nhà đầu tư đã chọn tỉnh</td>
+<td>Cần biết cơ quan nào gặp trước, hồ sơ nào chuẩn bị, chính sách nào có thể xin</td>
+</tr>
+<tr>
+<td>Doanh nghiệp muốn dịch chuyển một phần sản xuất</td>
+<td>Cần lộ trình khảo sát, site visit, timeline IRC/ERC, đất/xưởng, môi trường</td>
+</tr>
+<tr>
+<td>Đối tác Trung Quốc/VN đang chuẩn bị JV hoặc CTCP</td>
+<td>Cần bộ thông tin chính sách để thuyết phục cổ đông và lập kế hoạch vốn</td>
+</tr>
+</tbody>
+</table>
+<h2>2. Phạm vi dịch vụ</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Gói dịch vụ</th>
+<th>LONGTV tự làm</th>
+<th>Đối tác/cơ quan phối hợp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1</td>
+<td>Khảo sát &#x26; định vị 2 tỉnh</td>
+<td>Thu thập dữ liệu KCN, chính sách, chi phí, logistics, rủi ro; lập báo cáo so sánh</td>
+<td>Ban QLKCN/KKT, môi giới KCN, nguồn địa phương</td>
+</tr>
+<tr>
+<td>A2</td>
+<td>Xin chính sách &#x26; làm việc chính quyền</td>
+<td>Chuẩn bị agenda, checklist hồ sơ, brief dự án, điều phối lịch làm việc</td>
+<td>Sở KH&#x26;ĐT, Ban QLKCN/KKT, UBND/đầu mối xúc tiến</td>
+</tr>
+<tr>
+<td>A3</td>
+<td>Thiết lập &#x26; dịch chuyển nhà máy</td>
+<td>PM lộ trình tổng thể: IRC/ERC, đất/xưởng, môi trường, PCCC, vận hành ban đầu</td>
+<td>Luật sư, tư vấn môi trường/PCCC/xây dựng, chủ hạ tầng KCN</td>
+</tr>
+</tbody>
+</table>
+<h2>3. Gói dịch vụ bán hàng</h2>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>Phù hợp với</th>
+<th>Deliverable</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Policy Quick Scan</td>
+<td>Khách mới hỏi "nên vào tỉnh nào?"</td>
+<td>Brief 5-10 trang: tỉnh phù hợp, KCN gợi ý, rủi ro chính, next steps</td>
+<td>Dùng để qualification khách hàng</td>
+</tr>
+<tr>
+<td>2-Province Site &#x26; Policy Report</td>
+<td>Khách nghiêm túc so sánh Thái Nguyên/Hải Phòng</td>
+<td>Báo cáo 20-30 trang + bảng so sánh KCN, chi phí, ưu đãi, logistics</td>
+<td>Core package A1</td>
+</tr>
+<tr>
+<td>Government Meeting Desk</td>
+<td>Khách đã có dự án/địa điểm sơ bộ</td>
+<td>Agenda, pitch brief, checklist hồ sơ, biên bản làm việc, action tracker</td>
+<td>Core package A2</td>
+</tr>
+<tr>
+<td>Factory Setup PM</td>
+<td>Khách đã cam kết triển khai</td>
+<td>Timeline dự án, RACI, điều phối IRC/ERC/đất/môi trường/PCCC/khởi động</td>
+<td>Core package A3; phần giấy phép chuyên môn qua đối tác</td>
+</tr>
+</tbody>
+</table>
+<h2>4. Quy trình làm việc</h2>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>Nội dung</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Intake dự án: ngành, công suất, vốn, lao động, nhu cầu đất/xưởng, timeline</td>
+<td>Project intake form</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Chọn hướng khảo sát: Thái Nguyên, Hải Phòng hoặc so sánh 2 tỉnh</td>
+<td>Scope khảo sát</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rà dữ liệu KCN, chính sách, ưu đãi, logistics, nhân lực, rủi ro pháp lý/môi trường</td>
+<td>Data pack + source list</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lập báo cáo/brief cho nhà đầu tư và cổ đông</td>
+<td>Policy/site report</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nếu khách đi tiếp: chuẩn bị hồ sơ làm việc chính quyền/KCN</td>
+<td>Meeting deck + checklist hồ sơ</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Theo dõi action sau cuộc họp</td>
+<td>Action tracker + timeline bước tiếp theo</td>
+</tr>
+</tbody>
+</table>
+<h2>5. Input cần khách hàng cung cấp</h2>
+<ul>
+<li>Sản phẩm/ngành sản xuất và công suất dự kiến.</li>
+<li>Quốc tịch, pháp nhân và năng lực tài chính của nhà đầu tư.</li>
+<li>Vốn đầu tư, vốn điều lệ dự kiến, tỷ lệ cổ đông nước ngoài/VN nếu có.</li>
+<li>Nhu cầu đất/xưởng: diện tích, điện/nước, xử lý thải, cảng/kho/logistics.</li>
+<li>Timeline mong muốn: khảo sát, quyết định đầu tư, nộp hồ sơ, vận hành.</li>
+<li>Yêu cầu đặc biệt: ưu đãi thuế, thuê đất, lao động, xuất nhập khẩu, chuỗi cung ứng.</li>
+</ul>
+<h2>6. Ranh giới trách nhiệm</h2>
+<table>
+<thead>
+<tr>
+<th>LONGTV làm</th>
+<th>Cần đối tác/cơ quan xác nhận</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rà dữ liệu, lập báo cáo so sánh, chuẩn bị brief, điều phối làm việc</td>
+<td>Cam kết ưu đãi chính thức, giấy phép đầu tư, giấy phép môi trường/PCCC/xây dựng</td>
+</tr>
+<tr>
+<td>Kết nối đúng đầu mối và quản lý action list</td>
+<td>Legal opinion, hồ sơ chính thức cần chữ ký luật sư/đơn vị đủ điều kiện</td>
+</tr>
+<tr>
+<td>PM tổng thể để khách không bị rối giữa nhiều bên</td>
+<td>Quyết định cuối cùng của cơ quan nhà nước hoặc chủ hạ tầng KCN</td>
+</tr>
+</tbody>
+</table>
+<h2>7. Liên kết nội bộ</h2>
+<ul>
+<li><a href="/docs/services/00-index">Tổng quan dịch vụ LONGTV</a></li>
+<li><a href="/docs/data/fdi-legal/legal-library">Thư viện pháp luật FDI</a></li>
+<li><a href="/docs/data/fdi-legal/library/04-industrial-zones-local">Nhóm 4 — KCN, đất đai &#x26; địa phương</a></li>
+<li><a href="/docs/services/legal-consulting">Dịch vụ tư vấn pháp lý kinh doanh &#x26; đầu tư</a></li>
+</ul>
+e:["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"services"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"policy-government"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"services"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Dịch vụ chính sách & chính quyền 2 tỉnh"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Trang dịch vụ riêng cho khảo sát chính sách, ưu đãi, KCN và làm việc chính quyền tại Thái Nguyên, Hải Phòng."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]
+18:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Chiến lược & Rủi ro"}]]}],["$","$L2",null,{"href":"/docs/services/legal-consulting","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Dịch vụ tư vấn pháp lý kinh doanh & đầu tư"}]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"Dịch vụ chính sách & chính quyền 2 tỉnh · LongTV"}],["$","meta","1",{"name":"description","content":"Trang dịch vụ riêng cho khảo sát chính sách, ưu đãi, KCN và làm việc chính quyền tại Thái Nguyên, Hải Phòng."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","3",{}]]
