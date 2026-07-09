@@ -5,6 +5,14 @@ import { getAllDepartmentTasks } from "@/lib/tasks";
 
 const HUB_LINKS = [
   {
+    href: "/kim",
+    title: "Thư ký Kim",
+    subtitle: "Việc cần người thật",
+    desc: "Ký, gọi Sở/KCN, khách hàng, pháp lý — Leader xử lý tại đây",
+    accent: true,
+    icon: "★",
+  },
+  {
     href: "/docs/06-phases/00-1-feasibility-plan",
     title: "Giai đoạn 00-1",
     subtitle: "Đánh giá tiềm năng",
@@ -73,10 +81,16 @@ export default function Home() {
             </div>
             <div className="flex flex-col sm:flex-row gap-3 shrink-0">
               <Link
-                href="/docs/06-phases/00-1-feasibility-plan"
+                href="/kim"
                 className="inline-flex items-center justify-center px-5 h-11 rounded-full bg-white text-[var(--accent)] font-semibold text-sm hover:bg-white/90"
               >
-                Xem kế hoạch 00-1 →
+                Giao Thư ký Kim →
+              </Link>
+              <Link
+                href="/docs/06-phases/00-1-feasibility-plan"
+                className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
+              >
+                Kế hoạch 00-1
               </Link>
               <Link
                 href="/operations"

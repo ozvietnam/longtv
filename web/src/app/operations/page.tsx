@@ -91,6 +91,12 @@ export default function OperationsPage() {
         </p>
         <div className="flex gap-3 flex-wrap mt-5">
           <Link
+            href="/kim"
+            className="text-sm px-4 py-2 rounded-full bg-[var(--accent-soft)] border border-[var(--accent)]/30 text-[var(--accent)] font-semibold hover:bg-white"
+          >
+            → Thư ký Kim — việc cần người
+          </Link>
+          <Link
             href="/docs/03-departments/00-org-model"
             className="text-sm px-4 py-2 rounded-full border border-[var(--border)] hover:border-[var(--accent)]"
           >
