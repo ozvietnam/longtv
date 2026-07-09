@@ -2,57 +2,91 @@
 2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T46fe,<h1>Khảo sát giá dịch vụ logistics (desk · 07/2026)</h1>
+3:T47dc,<h1>Khảo sát giá dịch vụ logistics (desk · 07/2026)</h1>
 <blockquote>
 <p><strong>Mục đích:</strong> Chuẩn bị <a href="/kim">KIM-090</a> · đối chiếu <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> · định giá <a href="/logistics">/logistics</a><br>
 <strong>Ký hiệu:</strong> 🟢 Bảng giá công khai · 🟡 Tham khảo thị trường · 🔴 Đề xuất LONGTV (chưa validate đối tác)</p>
 </blockquote>
 <hr>
 <h2>1. Tóm tắt cho Leader</h2>
+<blockquote>
+<p><strong>Đọc nhanh:</strong> (1) LONGTV điều phối, không sở hữu xe · (2) Giá theo cont desk 07/2026 · (3) Mục tiêu <strong>200 cont/tháng</strong> tổng sau 6T, Oz 50 từ T8 · (4) Chi tiết UI: <a href="/logistics">/logistics</a></p>
+</blockquote>
+<h3>Chỉ số chính</h3>
 <table>
 <thead>
 <tr>
-<th>Dịch vụ</th>
-<th>Giá thị trường (VNĐ/cont hoặc/lần)</th>
-<th>Biên gộp desk</th>
-<th>LONGTV năm đầu</th>
+<th>Chỉ số</th>
+<th>Giá trị</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Khai báo hải quan</strong> (FCL xuất SX)</td>
+<td>Mục tiêu tháng 6</td>
+<td><strong>200 cont/tháng</strong> (xuất + nhập)</td>
+</tr>
+<tr>
+<td>Phân bổ</td>
+<td><strong>87 xuất + 113 nhập</strong> (nhập +30%)</td>
+</tr>
+<tr>
+<td>GP / cont blended</td>
+<td><strong>~820k VND</strong> (~15,3%)</td>
+</tr>
+<tr>
+<td>Tích lũy 6T</td>
+<td><strong>651 cont</strong> · ~3,5 tỷ DT · ~534M GP</td>
+</tr>
+<tr>
+<td>Khởi điểm Oz</td>
+<td><strong>50 cont/tháng</strong> từ T8</td>
+</tr>
+</tbody>
+</table>
+<h3>Biên theo loại dịch vụ</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Giá thị trường</th>
+<th>Biên desk LONGTV</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khai báo xuất FCL</td>
 <td>400k – 700k/cont</td>
-<td>35–55% trên phí dịch vụ</td>
-<td>Điều phối qua đại lý GPLS</td>
+<td><strong>33%</strong> (750k bán)</td>
+<td>Qua GPLS</td>
 </tr>
 <tr>
-<td><strong>Khai báo nhập KD</strong> (cont đầu)</td>
+<td>Khai báo nhập FCL</td>
 <td>800k – 1,2M/cont</td>
-<td>25–40%</td>
-<td>Cùng mô hình</td>
+<td><strong>35%</strong> (1M bán)</td>
+<td>Cont đầu</td>
 </tr>
 <tr>
-<td><strong>Xin C/O xuất khẩu</strong></td>
+<td>C/O Form E</td>
 <td>1,2 – 1,5M/lần</td>
-<td>30–45%</td>
-<td>Form E / ACFTA / RCEP</td>
+<td><strong>38%</strong></td>
+<td>~32% lô xuất</td>
 </tr>
 <tr>
-<td><strong>Trucking HP → TN</strong> (20DC)</td>
+<td>Trucking HP → TN</td>
 <td>5,3 – 5,8M/cont</td>
-<td>8–15% markup</td>
-<td>Không sở hữu xe — đối tác</td>
+<td><strong>9–10%</strong></td>
+<td>Điều phối</td>
 </tr>
 <tr>
-<td><strong>Trucking trong HP</strong> (Đình Vũ)</td>
+<td>Trucking nội HP</td>
 <td>1,5 – 2,1M/cont</td>
-<td>10–15%</td>
+<td><strong>14%</strong></td>
 <td>Tuyến ngắn</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Biên lợi nhuận ngành (blended):</strong> freight forwarder thuần <strong>15–25% gross</strong>; đại lý hải quan <strong>35–55%</strong> trên phí khai báo; trucking intermediary <strong>10–20%</strong>. CTCP logistics VN niêm yết (forwarding thuần): gross <strong>~5–17%</strong>, net <strong>~4%</strong>.</p>
-<p><strong>Mục tiêu 200 cont/tháng (sau 6 tháng):</strong> <strong>Base chính thức</strong> — tổng xuất + nhập, ramp từ <strong>50 cont/tháng Oz (T8)</strong> tăng đều đến <strong>200 cont/tháng (T12)</strong>. Cần MOU GPLS + 2–3 NM + đội điều phối 4–6 ops.</p>
+<p><strong>Biên ngành tham chiếu:</strong> forwarder blended 15–25% · đại lý HQ 35–55% · trucking intermediary 10–20%.</p>
 <hr>
 <h2>2. Dịch vụ khai báo hải quan</h2>
 <h3>2.1. Bảng giá thị trường (🟢 công khai 2025–2026)</h3>
@@ -704,7 +738,7 @@
 <li class="task-list-item"><input type="checkbox" disabled> VT: cập nhật <a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">financial-model-3yr</a> — tách margin consulting vs logistics</li>
 <li class="task-list-item"><input type="checkbox" disabled> KD: gói <strong>Logistics Quick Start</strong> — không cần A1 trước</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"logistics-pricing-benchmark"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Khảo sát giá logistics — hải quan, xe tải, C/O"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Desk benchmark tháng 7/2026: phí khai báo, trucking miền Bắc, xin C/O xuất khẩu; biên lợi nhuận ngành; đề xuất giá LONGTV."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-r8AC7VXCCPYuuG-bhQmy"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"logistics-pricing-benchmark"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Khảo sát giá logistics — hải quan, xe tải, C/O"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Desk benchmark tháng 7/2026: phí khai báo, trucking miền Bắc, xin C/O xuất khẩu; biên lợi nhuận ngành; đề xuất giá LONGTV."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X29fjurwujJoiuGRhy-lZ"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Investor Pack — LONGTV"}]]}],["$","$L2",null,{"href":"/docs/03-departments/00-org-model","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
