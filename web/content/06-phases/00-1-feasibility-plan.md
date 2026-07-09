@@ -71,22 +71,23 @@ Chấm **1–5** mỗi tiêu chí (1 = yếu, 5 = mạnh). Tổng ≥ **35/50** 
 
 | # | Tiêu chí | Nguồn bằng chứng | Điểm (1–5) | Ghi chú |
 |---|----------|------------------|------------|---------|
-| 1 | Quy mô thị trường FDI TQ→VN (miền Bắc) | CL-004, báo cáo FDI | | |
-| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003 | | |
-| 3 | Khoảng trống vs đối thủ | CL-001 competitors | | |
-| 4 | Khách mục tiêu rõ (persona) | KD-001 | | |
-| 5 | Sẵn sàng trả phí (pricing) | KD-004 | | |
-| 6 | Catalog phủ ≥80% hành trình FDI | FDI journey map | | |
-| 7 | Pháp lý & giấy phép khả thi | PL-001, PL-003 | | |
-| 8 | Vốn 2 tỷ đủ 6–12 tháng | VT-001, VT-005 | | |
-| 9 | Lợi thế CTCP + tập đoàn TQ | QĐ #003, Leader input | | |
-| 10 | Rủi ro chấp nhận được | CL-006, VT-005 | | |
+| 1 | Quy mô thị trường FDI TQ→VN (miền Bắc) | CL-004, báo cáo FDI | **4** | TQ #2 nguồn vốn 2025 |
+| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003 | **4** | TN #1 FDI mới; desk KCN |
+| 3 | Khoảng trống vs đối thủ | CL-001 competitors | **3** | Niche Tier 2–3 TQ |
+| 4 | Khách mục tiêu rõ (persona) | KD-001 | **4** | [persona-v1](/docs/03-departments/03-kinh-doanh/persona-v1) |
+| 5 | Sẵn sàng trả phí (pricing) | KD-004 | **3** | Draft — chưa validate khách |
+| 6 | Catalog phủ ≥80% hành trình FDI | FDI journey map | **4** | ~82% ✅/🤝 |
+| 7 | Pháp lý & giấy phép khả thi | PL-001, PL-003 | **4** | CTCP path rõ |
+| 8 | Vốn 2 tỷ đủ 6–12 tháng | VT-001, VT-005 | **5** | Burn << 2 tỷ |
+| 9 | Lợi thế CTCP + tập đoàn TQ | QĐ #003, Leader input | **3** | % cổ đông chưa điền |
+| 10 | Rủi ro chấp nhận được | CL-006, VT-005 | **4** | Plan B có |
+| | **TỔNG** | | **38/50** | |
 
-**Kết luận (điền cuối tuần 4):**
+**Kết luận (2026-07-09):**
 
-- [ ] **Go** — Sang Giai đoạn 2 (xây hệ thống chi tiết)
-- [ ] **Adjust** — Thu hẹp phạm vi (VD: chỉ A1+A2, chưa B3)
+- [x] **Go + Adjust** — Sang [Giai đoạn 2](02-giai-doan-2-overview) (xây hệ thống lean)
 - [ ] **No-Go** — Dừng hoặc pivot mô hình
+- [ ] Leader ký [QĐ #005](/docs/decisions/005-phase-00-1-go)
 
 ---
 
@@ -141,22 +142,28 @@ Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/r
 
 ---
 
-## Giai đoạn 2 (chưa triển khai — bàn sau)
+## Giai đoạn 2
 
-Khi **Go** từ 00-1:
+Khi **Go** từ 00-1 → xem [Overview Giai đoạn 2](02-giai-doan-2-overview).
 
-- Org model chi tiết + tuyển dụng theo pipeline
-- SOP từng gói dịch vụ · CRM · hợp đồng mẫu
-- Triển khai sales scale · MOU KCN/Sở
-- KPI phòng ban · dashboard vận hành
-
-*Anh sẽ bàn cụ thể Giai đoạn 2 sau khi có Memo tiềm năng.*
+*Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.*
 
 ---
 
-## Việc ngay (tuần này)
+## Trạng thái 00-1: ✅ HOÀN THÀNH (desk)
 
-- [ ] Leader đọc & xác nhận khung 00-1
-- [ ] Hermes: CL-002, CL-004 (issues #4, #5)
-- [ ] Cursor: hoàn thiện [FDI journey map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
-- [ ] Bắt đầu tick checklist trong 5 file TODO
+| Deliverable | Link |
+|-------------|------|
+| Memo tiềm năng | [00-1-market-memo](00-1-market-memo) |
+| Scorecard 38/50 | [00-1-scorecard](00-1-scorecard) |
+| Quyết định Go | [QĐ #005](/docs/decisions/005-phase-00-1-go) |
+
+**Còn field (Leader):** Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ
+
+---
+
+## Việc ngay (Giai đoạn 2)
+
+- [ ] Leader ký [QĐ #005](/docs/decisions/005-phase-00-1-go)
+- [ ] Call Sở KH&ĐT Thái Nguyên (CL-002)
+- [ ] Bắt đầu [Giai đoạn 2](02-giai-doan-2-overview) — SOP A1, đăng ký CTCP

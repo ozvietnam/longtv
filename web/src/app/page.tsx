@@ -15,8 +15,8 @@ const HUB_LINKS = [
   {
     href: "/services",
     title: "Dịch vụ công ty",
-    subtitle: "2 mảng + Hub",
-    desc: "Chính sách TN/HP · Logistics miền Bắc",
+    subtitle: "Vòng đời G0–G8",
+    desc: "Từ sang VN → vận hành → di dời / về TQ",
     icon: "02",
   },
   {
