@@ -28,7 +28,7 @@ status: "desk-benchmark"
 
 **Biên lợi nhuận ngành (blended):** freight forwarder thuần **15–25% gross**; đại lý hải quan **35–55%** trên phí khai báo; trucking intermediary **10–20%**. CTCP logistics VN niêm yết (forwarding thuần): gross **~5–17%**, net **~4%**.
 
-**Mục tiêu 500 cont/tháng (sau 6 tháng):** là **đỉnh stretch** — cần 3–5 NM xuất khẩu lớn + MOU GPLS + đội điều phối. **Base tháng 6 thực tế:** 50–120 cont/tháng nếu có 2–3 khách vận hành.
+**Mục tiêu 200 cont/tháng (sau 6 tháng):** **Base chính thức** — tổng xuất + nhập, ramp từ **50 cont/tháng Oz (T8)** tăng đều đến **200 cont/tháng (T12)**. Cần MOU GPLS + 2–3 NM + đội điều phối 4–6 ops.
 
 ---
 
@@ -135,31 +135,57 @@ C/O thường tính **theo lô / theo tờ khai**, không phải mỗi cont — 
 
 ### 6.1. Một cont xuất khẩu điển hình (NM TN, HP → KCN)
 
-| Dòng thu | Giá bán | Cost | GP LONGTV |
-|----------|---------|------|-----------|
-| Khai báo xuất (L-HQ-01) | 750.000 | 500.000 | 250.000 |
-| Trucking HP→TN (L-TR-01) | 5.900.000 | 5.350.000 | 550.000 |
-| C/O (30% xác suất × 1,6M) | 480.000 | 300.000 | 180.000 |
-| **Tổng / cont (blended)** | **~7.130.000** | **~6.150.000** | **~980.000 (~14%)** |
+| Dòng thu | Giá bán | Cost | GP LONGTV | Biên |
+|----------|---------|------|-----------|------|
+| Khai báo xuất (L-HQ-01) | 750.000 | 500.000 | 250.000 | 33% |
+| Trucking blended (60% HP→TN + 40% nội HP) | 4.240.000 | 3.810.000 | 430.000 | 10% |
+| C/O (32% × 1,6M) | 512.000 | 320.000 | 192.000 | 38% |
+| **Tổng / cont xuất** | **~5,50 triệu** | **~4,63 triệu** | **~0,87 triệu (~16%)** | |
 
-### 6.2. Mục tiêu 500 cont/tháng — phân tích thực tế
+### 6.1b. Một cont nhập khẩu điển hình
 
-| Chỉ số | 500 cont/tháng | Ghi chú |
-|--------|----------------|---------|
-| Doanh thu/tháng | **~3,6 tỷ VND** (~144k USD) | Nếu full stack HQ+trucking |
-| Gross profit (~14%) | **~500 triệu VND/tháng** | Chưa trừ OPEX điều phối |
-| Số tờ khai HQ/tháng | 500+ | Cần ≥2 đại lý GPLS + 4–6 ops |
-| Số chuyến xe/tháng | 500 | Hợp đồng ≥3 hãng vận tải |
-| NM cần có | **3–8 NM** xuất 60–150 cont/tháng | Tương đương Samsung tier supplier |
+| Dòng thu | Giá bán | Cost | GP LONGTV | Biên |
+|----------|---------|------|-----------|------|
+| Khai báo nhập (L-HQ-02) | 1.000.000 | 650.000 | 350.000 | 35% |
+| Trucking blended | 4.240.000 | 3.810.000 | 430.000 | 10% |
+| **Tổng / cont nhập** | **~5,24 triệu** | **~4,46 triệu** | **~0,78 triệu (~15%)** | |
 
-**Đánh giá:** 500 cont/tháng sau **6 tháng** = **Stretch (Bull logistics)** — khả thi chỉ khi LONGTV **không** bắt đầu từ zero mà có sẵn 1–2 khách Oz/anchor hoặc hợp đồng white-label với forwarder lớn.
+### 6.1c. Blended — nhập nhiều hơn xuất 30% (~43% xuất / ~57% nhập)
+
+> NM FDI thường nhập máy/NVL nhiều hơn xuất thành phẩm giai đoạn đầu. Tại **200 cont/tháng**: **87 xuất + 113 nhập**.
+
+| Chỉ số | Giá trị |
+|--------|---------|
+| Doanh thu / cont | **~5,35 triệu VND** |
+| GP / cont | **~0,82 triệu VND** |
+| Biên gộp | **~15,3%** |
+
+### 6.2. Mục tiêu 200 cont/tháng — ramp 6 tháng (Oz anchor)
+
+| Tháng | Cont/tháng | Ghi chú |
+|-------|------------|---------|
+| T7 (tháng 1) | 25 | Pilot Oz · MOU GPLS |
+| **T8 (tháng 2)** | **50** | **Khởi điểm Oz — nguồn có sẵn** |
+| T9 | 88 | Tăng đều (+38) |
+| T10 | 125 | Tăng đều (+37) |
+| T11 | 163 | Tăng đều (+38) |
+| **T12 (tháng 6)** | **200** | **Mục tiêu Base** |
+
+| Chỉ số | Tháng 6 (200 cont) | Tích lũy 6T (651 cont) |
+|--------|-------------------|------------------------|
+| Phân bổ xuất / nhập | **87 / 113** | ~283 xuất · ~368 nhập |
+| Doanh thu logistics | **~1,07 tỷ VND/tháng** | **~3,5 tỷ VND** |
+| Gross profit (~15%) | **~164 triệu VND/tháng** | **~534 triệu VND** |
+| Số tờ khai HQ/tháng | 200+ | Cần ≥2 đại lý GPLS + 4–6 ops |
+| Số chuyến xe/tháng | 200 | Hợp đồng ≥2 hãng vận tải |
+
+**Đánh giá:** 200 cont/tháng sau **6 tháng** = **Base khả thi** với nguồn Oz 50 cont/tháng từ tháng 2 + mở rộng 1–2 NM mới.
 
 | Kịch bản | Cont/tháng (tháng 6) | Cont tích lũy 6T | GP logistics 6T |
 |----------|----------------------|------------------|-----------------|
-| **Bear** | 10–20 | 60–90 | 60–90 triệu |
-| **Base** | 50–80 | 200–350 | 200–350 triệu |
-| **Stretch (mục tiêu anh)** | **500** | **~2.000** | **~2 tỷ** |
-| **Bull hợp lý** | 120–200 | 500–900 | 500–900 triệu |
+| **Bear** | 25 | 100–120 | 80–100 triệu |
+| **Base (mục tiêu)** | **200** (87 xuất + 113 nhập) | **651** | **~534 triệu** |
+| **Bull** | 300+ | 900+ | 750M+ |
 
 ---
 
@@ -173,27 +199,30 @@ C/O thường tính **theo lô / theo tờ khai**, không phải mỗi cont — 
 | Gross 58% | 174–261M | Margin consulting — không áp cho cont |
 | Khách | 3–4 | Không model khách logistics-only |
 
-### Sau (consulting + logistics) — đề xuất cập nhật
+### Sau (consulting + logistics) — cập nhật Base 200 cont
 
-| 6 tháng | Bear | Base | Stretch 500 cont |
-|---------|------|------|------------------|
-| Consulting USD | 2–8k | 12–18k | 12–18k |
-| Logistics cont (tích lũy 6T) | 60 | 280 | 2.000 |
-| **Tổng doanh thu VND** | **120–200M** | **450–750M** | **~12–14 tỷ** |
-| **GP blended (~22%)** | 25–45M | 100–165M | 1,7–2,0 tỷ |
-| OPEX 6T | ~400M | ~480M | ~700M+ (cần team ops) |
+| 6 tháng | Bear | Base (200 cont ramp) | Bull |
+|---------|------|----------------------|------|
+| Consulting USD | 2–8k | 12–18k | 22–30k |
+| Logistics cont (tích lũy 6T) | 100–120 | **651** | 900+ |
+| **Tổng doanh thu VND** | **150–200M** | **~3,9–4,2 tỷ** | **5–6 tỷ** |
+| **GP blended (~25–30%)** | 30–50M | **~650–750M** | 900M+ |
+| OPEX 6T | ~400M | ~550–650M | ~700M+ |
 
-**Kết luận:** Giai đoạn đầu **có thể** phát sinh doanh thu logistics độc lập (không cần chờ A3) — nhưng **Base 6T** nên cộng **+150–300M VND** từ logistics, không phải +3 tỷ. Mục tiêu **500 cont/tháng** đặt làm **mốc 12–18 tháng** hoặc **Bull có sẵn khách anchor**.
+**Kết luận:** Với nguồn Oz 50 cont/tháng từ tháng 2, logistics Base 6T mang **~3,5 tỷ DT + ~541M GP** — đủ bù OPEX bootstrap và tạo dòng tiền sớm. Consulting vẫn cần cho margin cao và retainer dài hạn.
 
 ---
 
 ## 8. Lộ trình tích hợp logistics (6 tháng)
 
-| Tháng | Mục tiêu cont | Việc |
-|-------|---------------|------|
-| T7–T8 | 5–15 | Ký MOU đại lý GPLS · pilot 1 NM · bảng giá L-HQ/L-TR/L-CO |
-| T9–T10 | 20–50 | 2 NM retainer B3 · Oz vào quy trình khai báo |
-| T11–T12 | 50–120 (Base) / 500 (Stretch) | Scale đối tác xe · dashboard cont/tháng |
+| Tháng | Cont/tháng | Việc |
+|-------|------------|------|
+| T7 | 25 | Ký MOU đại lý GPLS · pilot Oz · bảng giá L-HQ/L-TR/L-CO |
+| **T8** | **50** | **Oz khởi điểm — nguồn cont có sẵn** |
+| T9 | 88 | Mở rộng NM thứ 2 · Oz vào quy trình khai báo |
+| T10 | 125 | 2 NM retainer B3 · scale đối tác xe |
+| T11 | 163 | Dashboard cont/tháng · QA đối soát |
+| **T12** | **200** | **Mục tiêu Base — tổng xuất + nhập** |
 
 Kim: [KIM-089](/kim) desk đối tác · [KIM-090](/kim) bảng giá tuyến · [KIM-076](/kim) MOU đại lý GPLS
 
