@@ -20,4 +20,4 @@ author: "Cursor"
 
 **Giai đoạn hiện tại:** [Giai đoạn 2 — Kế hoạch](02-giai-doan-2-plan)
 
-**Kết quả 00-1:** Scorecard **38/50** · Đề xuất **Go + Adjust** · [Memo](00-1-market-memo) · [Thực trạng](00-1-thuc-trang) · [QĐ #005](/docs/decisions/005-phase-00-1-go) (chờ ký)
+**Kết quả 00-1:** Scorecard **38/50** · Dashboard [/assessment](/assessment) · [Memo](00-1-market-memo) · [QĐ #005](/docs/decisions/005-phase-00-1-go) (chờ ký)

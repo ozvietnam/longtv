@@ -187,8 +187,8 @@ export default function ShareholdersPage() {
           <Link href="/logistics" className="inline-flex h-10 items-center rounded-full bg-[var(--accent)] px-4 text-sm font-semibold text-white hover:opacity-90">
             Xem dịch vụ hậu cần →
           </Link>
-          <Link href="/docs/06-phases/00-1-feasibility-plan" className="inline-flex h-10 items-center rounded-full border border-[var(--border)] px-4 text-sm font-semibold hover:border-[var(--accent)]">
-            Xem giai đoạn 00-1 →
+          <Link href="/assessment" className="inline-flex h-10 items-center rounded-full border border-[var(--border)] px-4 text-sm font-semibold hover:border-[var(--accent)]">
+            Dashboard 00-1 →
           </Link>
         </div>
       </section>

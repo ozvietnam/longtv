@@ -8,8 +8,9 @@ const PHASES = [
     title: "00-1 · Đánh giá tiềm năng",
     status: "done-desk",
     desc: "Desk research + scorecard 38/50 → Go + Adjust. Field verify chuyển Hermes Wave 2.",
-    href: "/docs/06-phases/00-1-feasibility-plan",
+    href: "/assessment",
     links: [
+      { href: "/docs/06-phases/00-1-feasibility-plan", label: "Kế hoạch markdown" },
       { href: "/hermes", label: "Tiến độ Hermes" },
       { href: "/docs/06-phases/00-1-thuc-trang", label: "Thực trạng 00-1" },
     ],
@@ -45,9 +46,12 @@ export default function PhasesIndex() {
           <strong>Giai đoạn 00-1</strong> desk hoàn thành (38/50 · Go + Adjust). Đang chuyển sang{" "}
           <strong>Giai đoạn 2</strong> — field verify qua Hermes Wave 2.
         </p>
-        <Link href="/hermes" className="inline-block mt-3 text-sm text-violet-700 font-medium hover:underline">
-          Xem tiến độ Hermes →
-        </Link>
+          <Link
+            href="/assessment"
+            className="inline-block mt-3 text-sm text-[var(--accent)] font-medium hover:underline"
+          >
+            Dashboard biểu đồ 00-1 →
+          </Link>
       </header>
 
       {current && current.href && (
@@ -73,10 +77,10 @@ export default function PhasesIndex() {
         </p>
         <div className="flex flex-wrap gap-2">
           <Link
-            href="/docs/06-phases/00-1-feasibility-plan"
-            className="text-sm px-3 py-1.5 rounded-full bg-white border border-green-200 font-medium hover:border-green-400"
+            href="/assessment"
+            className="text-sm px-3 py-1.5 rounded-full bg-[var(--accent)] text-white font-medium hover:opacity-90"
           >
-            Kế hoạch 00-1 →
+            Dashboard 00-1 →
           </Link>
           <Link
             href="/docs/06-phases/00-1-thuc-trang"
