@@ -20,7 +20,7 @@ author: "Cursor"
 | Khai báo hải quan / HS code | B | ✅ Oz | | Differentiator |
 | Logistics TQ→VN, nội địa Bắc | B | Điều phối | ✅ Forwarder | Scale miền Bắc |
 | Chuỗi xuất-nhập-sản xuất | B | ✅ SOP | Forwarder, kho | Retainer |
-| Tư vấn pháp lý KD & đầu tư | Hub | ✅ cơ bản | ✅ Luật sư | Giấy phép hành nghề |
+| [Tư vấn pháp lý KD & đầu tư](/docs/services/legal-consulting) | Hub | ✅ PM + legal screening cơ bản | ✅ Luật sư | Giấy phép hành nghề; legal opinion/hồ sơ chính thức phải qua đối tác đủ điều kiện |
 | Kế toán · kiểm toán · hạch toán SX | Hub | PM | ✅ CPA | Bắt buộc CPA |
 | Kết nối thông tin / mạng lưới | Hub | ✅ | | Web + quan hệ |
 

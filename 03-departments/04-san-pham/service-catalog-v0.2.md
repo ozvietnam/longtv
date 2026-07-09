@@ -29,9 +29,24 @@ author: "Cursor · Sếp Thắng"
 | ID | Dịch vụ | Deliverable | Tự làm / Đối tác |
 |----|---------|-------------|------------------|
 | H1 | Kho tri thức & cập nhật chính sách | Bản tin, web nội bộ, brief tháng | ✅ Tự làm |
-| H2 | Tư vấn pháp lý kinh doanh & đầu tư | Memo pháp lý, review hợp đồng | ✅ + luật sư đối tác |
+| H2 | [Tư vấn pháp lý kinh doanh & đầu tư](/docs/services/legal-consulting) | Legal scan, roadmap IRC/ERC, checklist góp vốn/M&A, giấy phép sản xuất | LONGTV PM + luật sư/đối tác đủ điều kiện |
 | H3 | Kế toán · kiểm toán · hạch toán SX | BCTC, quyết toán thuế, cost accounting NM | Đối tác CPA + PM LONGTV |
 | H4 | Kết nối mạng lưới (KCN, Sở, đối tác) | Giới thiệu, MOU, pipeline | ✅ Tự làm |
+
+---
+
+### H2 — Tư vấn pháp lý kinh doanh & đầu tư
+
+H2 đã được tách thành trang dịch vụ riêng vì có ranh giới giấy phép hành nghề rõ ràng. LONGTV không tự nhận phần cần chữ ký/ý kiến pháp lý chính thức nếu chưa có luật sư hoặc đối tác đủ điều kiện.
+
+| Nhóm | LONGTV tự làm | Chuyển luật sư/đối tác khi |
+|---|---|---|
+| Legal screening FDI | Intake dự án, rà sơ bộ ngành nghề, tỷ lệ vốn, địa điểm, red flags | Cần legal opinion chính thức |
+| IRC/ERC roadmap | Lập timeline, checklist hồ sơ, cơ quan xử lý | Soạn/nộp hồ sơ pháp lý, đại diện làm việc chính thức |
+| Góp vốn/mua cổ phần | Decision tree M&A approval, checklist due diligence | Soạn giao dịch, review hợp đồng, cập nhật IRC/ERC |
+| Giấy phép sản xuất | Điều phối checklist môi trường, PCCC, xây dựng, ngành nghề | Hồ sơ cần đơn vị chuyên môn đủ điều kiện |
+
+Trang chi tiết: [Dịch vụ tư vấn pháp lý kinh doanh & đầu tư](/docs/services/legal-consulting)
 
 ---
 
