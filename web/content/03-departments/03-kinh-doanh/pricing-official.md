@@ -36,7 +36,22 @@ Chi tiết: [product-bundles](/docs/03-departments/04-san-pham/product-bundles)
 
 ---
 
-## Add-on
+## Dịch vụ logistics giao dịch (VND)
+
+> Desk benchmark: [logistics-pricing-benchmark](/docs/04-research/2026-07/logistics-pricing-benchmark) · Chờ MOU GPLS [KIM-076](/kim)
+
+| Mã | Dịch vụ | Giá bán (VND) | Ghi chú |
+|----|---------|---------------|---------|
+| L-HQ-01 | Khai báo xuất FCL (luồng xanh) | 750.000/cont | Qua đại lý GPLS |
+| L-HQ-02 | Khai báo nhập FCL (cont đầu) | 1.000.000/cont | |
+| L-TR-01 | Trucking cảng HP → TN (20DC) | 5.900.000/cont | Điều phối, không sở hữu xe |
+| L-TR-02 | Trucking HP → TN (40DC) | 6.200.000/cont | |
+| L-CO-01 | Xin C/O Form E (xuất khẩu) | 1.600.000/lần | ~30% lô cần C/O |
+| **B3** | Retainer XNK (≥10 tờ khai/tháng) | **40–80 triệu VND/tháng** | PM + đối soát BOM |
+
+**Gói nhanh giai đoạn đầu:** Logistics Quick Start — không bắt buộc mua A1 trước (NM đã có IRC).
+
+---
 
 | Dịch vụ | USD |
 |---------|-----|
