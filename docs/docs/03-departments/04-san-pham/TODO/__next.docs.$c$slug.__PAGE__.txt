@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/444ldcmxstgm0.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:Te19,<h1>TODO — Sản phẩm dịch vụ</h1>
+3:T1466,<h1>TODO — Sản phẩm dịch vụ</h1>
 <h2>Tháng 2026-07 | Phòng: Sản phẩm dịch vụ</h2>
 <table>
 <thead>
@@ -43,20 +43,20 @@
 <td>SP-003</td>
 <td>Brainstorm 3–5 sản phẩm đi kèm (customs checklist, HS code lookup, logistics intro)</td>
 <td>V4.3</td>
-<td>—</td>
-<td>todo</td>
+<td>@cursor</td>
+<td>done</td>
 <td>2026-07-25</td>
-<td></td>
+<td>/docs/03-departments/04-san-pham/product-bundles</td>
 </tr>
 <tr>
 <td>P1</td>
 <td>SP-004</td>
 <td>Định nghĩa deliverable cụ thể cho gói Khảo sát (báo cáo gồm những gì?)</td>
 <td>V4.2</td>
-<td>—</td>
-<td>todo</td>
+<td>@cursor</td>
+<td>done</td>
 <td>2026-07-28</td>
-<td></td>
+<td>/docs/03-departments/04-san-pham/package-a1-deliverable</td>
 </tr>
 <tr>
 <td>P2</td>
@@ -65,8 +65,28 @@
 <td>V4.3</td>
 <td>—</td>
 <td>todo</td>
-<td>2026-07-31</td>
+<td>2026-08-31</td>
 <td></td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-G2-01</td>
+<td>SOP A1 vận hành</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/07-operations/sop-a1-desk-research</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>SP-G2-02</td>
+<td>SOP B1 on-site</td>
+<td>V4.2</td>
+<td>@cursor</td>
+<td>done</td>
+<td>2026-07-09</td>
+<td>/docs/07-operations/sop-b1-on-site</td>
 </tr>
 </tbody>
 </table>
@@ -75,11 +95,21 @@
 <li class="task-list-item"><input type="checkbox" checked disabled> SP-001: Catalog v0.2 (2 mảng + Hub)</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> SP-002: Bảng tự làm vs đối tác</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> Map hành trình FDI 6 giai đoạn — <a href="/docs/03-departments/04-san-pham/fdi-journey-service-map">fdi-journey-service-map</a></li>
-<li class="task-list-item"><input type="checkbox" disabled> SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)</li>
-<li class="task-list-item"><input type="checkbox" disabled> SP-003: 3–5 sản phẩm đi kèm (checklist, HS code, logistics intro)</li>
-<li class="task-list-item"><input type="checkbox" disabled> Chốt gap list: hạng mục ⬜ trong journey map → tự làm / đối tác / bỏ</li>
-<li class="task-list-item"><input type="checkbox" disabled> Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝</li>
-<li class="task-list-item"><input type="checkbox" disabled> Điền điểm scorecard #6</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-004: Deliverable chi tiết gói A1 (mục lục báo cáo khảo sát)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SP-003: 3 bundle + add-on (checklist, logistics intro)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Chốt gap list — ~82% ✅/🤝 trên journey map</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Đạt ≥80% ô G1–G5 có ✅ hoặc 🤝</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Điền điểm scorecard #6 → <a href="/docs/06-phases/00-1-scorecard">00-1-scorecard</a></li>
+</ul>
+<h2>Giai đoạn 2 — SOP giao hàng</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> SOP A1 desk research</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> SOP B1 on-site</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chạy thử SOP A1 với khách pilot đầu tiên</li>
+<li class="task-list-item"><input type="checkbox" disabled> SP-005: Tích hợp Oz tools (B1/B3)</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Vòng đời 9 giai đoạn (G0–G8) — <a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Catalog v1 theo vòng đời — <a href="/docs/03-departments/04-san-pham/service-catalog-v1">service-catalog-v1</a></li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Playbook G5 vận hành SX — <a href="/docs/03-departments/04-san-pham/factory-operations-playbook-vn">factory-operations-playbook-vn</a></li>
 </ul>
 <h2>Hướng dẫn thực hiện</h2>
 <h3>SP-001 — Service catalog v0.1</h3>
@@ -115,7 +145,7 @@
 </table>
 <h3>SP-002 — Tự làm vs Đối tác</h3>
 <p>Ví dụ: Khảo sát thị trường = tự làm · Thành lập pháp nhân = đối tác luật · Customs = tự làm (có công cụ Oz) · Thuê đất = đối tác KCN.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Sản phẩm dịch vụ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Sản phẩm dịch vụ."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3vDKTxeQbhu7SsJenGJya"}
-4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v0.2","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v0.2 — 2 mảng + Hub"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Vận hành & Tài chính"}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"TODO"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"TODO — Sản phẩm dịch vụ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bảng phân công công việc tháng 7/2026 — Phòng Sản phẩm dịch vụ."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v0.2","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v0.2 — 2 mảng + Hub"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"FS Metrics — NPV, IRR, Payback (Detailed Feasibility)"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

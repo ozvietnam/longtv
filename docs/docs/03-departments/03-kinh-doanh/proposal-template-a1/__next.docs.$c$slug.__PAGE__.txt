@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Tad7,<h1>Proposal — Gói A1 Khảo sát desk (mẫu)</h1>
+<blockquote>
+<p><strong>Gửi cho:</strong> [Tên công ty TQ] · <strong>Ngày:</strong> <em><strong>/</strong></em>/2026<br>
+<strong>Sales:</strong> _______________</p>
+</blockquote>
+<hr>
+<p>Kính gửi <strong>_______________</strong> (李总 / Quý Công ty),</p>
+<p>Cảm ơn Quý công ty đã quan tâm đến thị trường Việt Nam. LONGTV trân trọng gửi đề xuất dịch vụ <strong>Gói A1 — Báo cáo khảo sát đầu tư</strong> tại <strong>[Thái Nguyên / Hải Phòng]</strong>.</p>
+<hr>
+<h2>1. Bối cảnh</h2>
+<p>Theo trao đổi ngày ___, Quý công ty đang tìm hiểu:</p>
+<ul>
+<li>Ngành: _______________</li>
+<li>Quy mô đầu tư dự kiến: _______________ USD</li>
+<li>Timeline: _______________</li>
+</ul>
+<h2>2. Phạm vi dịch vụ A1</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Báo cáo 15–20 trang (Việt–Trung)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>So sánh 2 KCN + chính sách ưu đãi</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Lộ trình thủ tục FDI 6 bước</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Slide 10 trang + buổi trình bày online 60 phút</td>
+</tr>
+<tr>
+<td>5</td>
+<td>01 vòng chỉnh sửa nhỏ</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thời gian:</strong> 2–3 tuần kể từ ký HĐ và thanh toán đặt cọc.</p>
+<p><strong>Không bao gồm:</strong> Phí nhà nước, due diligence đất, phí luật chi tiết B2.</p>
+<p><em>Chi tiết: <a href="/docs/03-departments/04-san-pham/package-a1-deliverable">package-a1-deliverable</a></em></p>
+<h2>3. Giá trị đề xuất</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>USD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gói A1 — [TN/HP]</td>
+<td><strong>3,200</strong></td>
+</tr>
+<tr>
+<td>Pilot discount (-30%) <em>(nếu áp dụng)</em></td>
+<td>-960</td>
+</tr>
+<tr>
+<td><strong>Tổng</strong></td>
+<td><strong>2,240</strong> <em>(hoặc 3,200)</em></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thanh toán:</strong> 30% ký HĐ · 40% giao draft · 30% nghiệm thu</p>
+<h2>4. Tại sao chọn LONGTV</h2>
+<ul>
+<li>Chuyên <strong>nhà đầu tư Trung Quốc</strong> → Thái Nguyên &#x26; Hải Phòng</li>
+<li>Báo cáo có nguồn, disclaimer pháp lý rõ ràng</li>
+<li>Không cam kết ảo về ưu đãi — hỗ trợ làm việc Sở/KCN</li>
+</ul>
+<h2>5. Bước tiếp theo</h2>
+<ol>
+<li>Xác nhận proposal qua email / WeChat</li>
+<li>Ký HĐ + NDA (nếu cần)</li>
+<li>Chuyển deposit 30% — lên lịch kickoff trong 48h</li>
+</ol>
+<hr>
+<p>Trân trọng,</p>
+<p><strong>_______________</strong><br>
+LONGTV — Kinh doanh<br>
+WeChat: _______________</p>
+<p><em>Đính kèm: HĐ mẫu · One-pager tiếng Trung</em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"proposal-template-a1"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"proposal-template-a1"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/product-bundles","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"product-bundles"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/provincial-incentives","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"provincial-incentives"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

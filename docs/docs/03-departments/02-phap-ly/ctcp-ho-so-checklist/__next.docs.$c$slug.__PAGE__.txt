@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T10ec,<h1>PL-GĐ2 — Checklist hồ sơ thành lập CTCP</h1>
+<blockquote>
+<p><strong>Giai đoạn 2 · W1</strong> — Chuẩn bị trước khi nộp Sở KH&#x26;ĐT<br>
+Tham chiếu: <a href="/docs/03-departments/02-phap-ly/ctcp-timeline">ctcp-timeline</a> · <a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a></p>
+</blockquote>
+<hr>
+<h2>A. Thông tin cần Leader chốt</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Tên công ty (3 phương án dự phòng)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Địa chỉ trụ sở (virtual office / coworking)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bảng cổ đông: VN >51%, tập đoàn TQ ___%</li>
+<li class="task-list-item"><input type="checkbox" disabled> Người đại diện pháp luật</li>
+<li class="task-list-item"><input type="checkbox" disabled> Vốn điều lệ: 2.000.000.000 VND</li>
+</ul>
+<h2>B. Hồ sơ cổ đông Việt Nam</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> CMND/CCCD (bản sao công chứng)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Sổ hộ khẩu / tạm trú (nếu yêu cầu)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Giấy tờ chứng minh địa chỉ liên hệ</li>
+</ul>
+<h2>C. Hồ sơ cổ đông / nhà đầu tư nước ngoài (TQ)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Giấy phép đăng ký DN TQ (bản sao + dịch công chứng)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hợp đồng / quyết định thành lập</li>
+<li class="task-list-item"><input type="checkbox" disabled> Báo cáo tài chính 2 năm gần nhất (nếu IRC yêu cầu)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hộ chiếu người đại diện</li>
+<li class="task-list-item"><input type="checkbox" disabled> <strong>Hợp pháp hóa lãnh sự</strong> (hoặc Apostille theo quy định)</li>
+</ul>
+<h2>D. Hồ sơ công ty</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Điều lệ công ty CTCP (draft luật sư)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Danh sách cổ đông, tỷ lệ sở hữu</li>
+<li class="task-list-item"><input type="checkbox" disabled> Danh sách thành viên HĐQT / Ban kiểm soát (nếu có)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chọn mã ngành VSIC: <strong>7020</strong> (tư vấn quản lý) + bổ sung nếu cần</li>
+<li class="task-list-item"><input type="checkbox" disabled> Đăng ký tên viết tắt / logo (tùy chọn)</li>
+</ul>
+<h2>E. Sau cấp GCN ĐKKD</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Khắc con dấu</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mở tài khoản ngân hàng VND</li>
+<li class="task-list-item"><input type="checkbox" disabled> Đăng ký thuế, hóa đơn điện tử</li>
+<li class="task-list-item"><input type="checkbox" disabled> Chữ ký số (nếu nộp online)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Góp vốn trong 90 ngày — biên bản xác nhận</li>
+</ul>
+<h2>F. Chi phí dự kiến</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>VND</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dịch vụ luật (thành lập)</td>
+<td>80–150 triệu</td>
+</tr>
+<tr>
+<td>Hợp pháp hóa hồ sơ TQ</td>
+<td>20–50 triệu</td>
+</tr>
+<tr>
+<td>Con dấu, phí NN</td>
+<td>5–10 triệu</td>
+</tr>
+<tr>
+<td>Virtual office 12 tháng</td>
+<td>12–36 triệu</td>
+</tr>
+</tbody>
+</table>
+<h2>G. Rủi ro &#x26; blocker</h2>
+<table>
+<thead>
+<tr>
+<th>Blocker</th>
+<th>Ai giải quyết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chưa có % cổ đông TQ</td>
+<td>Leader → <a href="/docs/05-clarifications/00-team-input-requirements">clarifications</a></td>
+</tr>
+<tr>
+<td>Tên trùng</td>
+<td>Đổi tên dự phòng</td>
+</tr>
+<tr>
+<td>Ngành cần điều kiện</td>
+<td>PL review mã VSIC</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trạng thái:</strong> Checklist sẵn sàng — chờ Leader điền thông tin thực tế.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"ctcp-ho-so-checklist"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"ctcp-ho-so-checklist"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/burn-tracker","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"burn-tracker"}]]}],["$","$L2",null,{"href":"/docs/DEPLOY","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"DEPLOY"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

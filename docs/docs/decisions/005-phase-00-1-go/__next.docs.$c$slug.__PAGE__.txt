@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+7:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T923,<h1>Quyết định #005 — Go Giai đoạn 2</h1>
+<blockquote>
+<p><strong>Trạng thái:</strong> Draft — <strong>chờ Leader xác nhận</strong> (điểm scorecard 38/50 đã đủ ngưỡng Go)</p>
+</blockquote>
+<hr>
+<h2>Bối cảnh</h2>
+<p>Hoàn thành <a href="/docs/06-phases/00-1-feasibility-plan">Giai đoạn 00-1</a>: đánh giá thị trường, catalog FDI, khả thi triển khai.</p>
+<p>Deliverable:</p>
+<ul>
+<li><a href="/docs/06-phases/00-1-market-memo">Memo tiềm năng</a></li>
+<li><a href="/docs/06-phases/00-1-scorecard">Scorecard 38/50</a></li>
+<li>Research wave 1 + desk wave 2</li>
+</ul>
+<hr>
+<h2>Quyết định</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Kết quả 00-1</strong></td>
+<td><strong>Go + Adjust</strong></td>
+</tr>
+<tr>
+<td><strong>Mở Giai đoạn 2</strong></td>
+<td>Xây hệ thống vận hành lean — SOP, sales, CTCP</td>
+</tr>
+<tr>
+<td><strong>Phạm vi 6 tháng</strong></td>
+<td>Gói <strong>A1</strong> (khảo sát) + <strong>B1</strong> (hải quan); chưa scale A3/B3</td>
+</tr>
+<tr>
+<td><strong>Địa bàn</strong></td>
+<td>Giữ Thái Nguyên + Hải Phòng</td>
+</tr>
+<tr>
+<td><strong>Team</strong></td>
+<td>Bootstrap 8–10, 2 sales — <a href="/docs/03-departments/00-org-model">org-model</a></td>
+</tr>
+<tr>
+<td><strong>Vốn</strong></td>
+<td>2 tỷ CTCP (QĐ #003) — phân bổ theo <a href="/docs/04-research/2026-07/startup-budget">startup-budget</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Điều kiện trước khi ký hợp đồng khách đầu tiên</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Leader điền <a href="/docs/05-clarifications/00-team-input-requirements">thông tin cổ đông TQ</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> 1 cuộc gọi/xác nhận Sở KH&#x26;ĐT Thái Nguyên</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hợp đồng mẫu A1 + đối tác luật ký MOU</li>
+</ul>
+<hr>
+<h2>Việc Giai đoạn 2 (preview — bàn chi tiết sau)</h2>
+<ol>
+<li>Thành lập CTCP</li>
+<li>SOP gói A1 + B1</li>
+<li>Pitch deck + offer letter</li>
+<li>Pipeline 10 lead · 2 proposal</li>
+<li>MOU 1 KCN</li>
+</ol>
+<hr>
+<p><em>Người đề xuất: Cursor · Ngày: 2026-07-09</em></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"decisions"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"005-phase-00-1-go"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"decisions"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Quyết định #005 — Go Giai đoạn 2 (sau 00-1)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Chốt kết quả đánh giá tiềm năng: Go + Adjust — triển khai lean, ưu tiên A1+B1."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":["$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","$L2",null,{"href":"/docs/03-departments/00-org-model","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Mô hình tổ chức CTCP — Giai đoạn khởi động"}]]}]
+5:["$","$L2",null,{"href":"/docs/06-phases/investor-pack/00-investment-verdict","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Kết luận đầu tư — LONGTV có nên đầu tư không?"}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

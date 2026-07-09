@@ -1,0 +1,223 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1565,<h1>Thực trạng Giai đoạn 00-1 (sau đào sâu)</h1>
+<blockquote>
+<p><strong>Ngày cập nhật:</strong> 2026-07-09 · Bổ sung sau <a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt 1 trang</h2>
+<table>
+<thead>
+<tr>
+<th>Khía cạnh</th>
+<th>Đã làm rõ</th>
+<th>Chưa làm rõ / cần field</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Thị trường</strong></td>
+<td>TQ #2 vốn, #1 số dự án; deal nhỏ; SX chiếm >50% FDI</td>
+<td>FDI TQ <strong>theo tỉnh</strong> chính thức</td>
+</tr>
+<tr>
+<td><strong>TN</strong></td>
+<td>#1 FDI một số kỳ 2026; anchor Samsung/Posco; MOU TQ điện tử</td>
+<td>Giá đất; quỹ lô nhỏ &#x3C;5.000 m²</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td>Cảng + KCN; phù hợp xuất khẩu</td>
+<td>Số liệu quý không nhất quán — cần Sở</td>
+</tr>
+<tr>
+<td><strong>Đối thủ</strong></td>
+<td>10 đối thủ map</td>
+<td>Giá thực tế từng gói</td>
+</tr>
+<tr>
+<td><strong>Khách</strong></td>
+<td>Persona 3 loại</td>
+<td>Willingness to pay (chưa pilot)</td>
+</tr>
+<tr>
+<td><strong>Catalog</strong></td>
+<td>6 giai đoạn cũ → <strong>9 giai đoạn</strong> vòng đời đầy đủ</td>
+<td>G7/G8 mới định hình — chưa bán thử</td>
+</tr>
+<tr>
+<td><strong>Pháp lý</strong></td>
+<td>CTCP path; templates draft</td>
+<td>% cổ đông TQ; luật review HĐ</td>
+</tr>
+<tr>
+<td><strong>Scorecard</strong></td>
+<td>38/50</td>
+<td>Leader ký QĐ #005</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Điều chỉnh nhận định sau đào sâu số liệu</h2>
+<h3>Trước (00-1 ban đầu)</h3>
+<blockquote>
+<p>“Thái Nguyên #1 FDI → nhiều NM TQ đổ về”</p>
+</blockquote>
+<h3>Sau (chính xác hơn)</h3>
+<blockquote>
+<p>“Thái Nguyên #1 <strong>vốn FDI mới</strong> một số kỳ 2026, <strong>chủ yếu mega-project Hàn/Đài</strong> (Samsung bán dẫn ~4B USD). <strong>Cơ hội LONGTV</strong> = NM TQ <strong>Tier 2–3</strong> đi theo chuỗi điện tử/cơ khí + MOU TQ (Guangxi electronics) — <strong>không</strong> tranh dự án tỷ đô.”</p>
+</blockquote>
+<h3>Implication cho dịch vụ</h3>
+<table>
+<thead>
+<tr>
+<th>Hướng</th>
+<th>Hành động</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pitch</td>
+<td>Nhấn <strong>chi phí, thủ tục, hải quan, supplier</strong> — không nhấn “TN số 1 nên vào liền”</td>
+</tr>
+<tr>
+<td>Sản phẩm</td>
+<td><strong>A1 + B1 + G5 retainer</strong> trước; A3 full setup sau case study</td>
+</tr>
+<tr>
+<td>Địa bàn</td>
+<td>TN = sản xuất nội địa/chuỗi; HP = xuất khẩu — giữ 2 trụ</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Bảng deliverable 00-1 — trạng thái chi tiết</h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Deliverable</th>
+<th>Chất lượng</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Memo tiềm năng</td>
+<td><a href="00-1-market-memo">00-1-market-memo</a></td>
+<td>✅ Draft</td>
+<td>Cần cập nhật đoạn TN sau deep-dive</td>
+</tr>
+<tr>
+<td>Scorecard</td>
+<td><a href="00-1-scorecard">00-1-scorecard</a></td>
+<td>✅ 38/50</td>
+<td>Giữ nguyên; điểm #2 ghi chú thêm</td>
+</tr>
+<tr>
+<td>CL-001</td>
+<td>competitors</td>
+<td>✅</td>
+<td></td>
+</tr>
+<tr>
+<td>CL-002</td>
+<td>thai-nguyen-fdi-policy</td>
+<td>🟡 Desk</td>
+<td>Chờ call Sở</td>
+</tr>
+<tr>
+<td>CL-003</td>
+<td>kcn-desk-research</td>
+<td>🟡 Desk</td>
+<td>Chờ call KCN</td>
+</tr>
+<tr>
+<td>CL-004</td>
+<td>fdi-data + <strong>deep-dive</strong></td>
+<td>🟢🟡 Mixed</td>
+<td><a href="/docs/04-research/2026-07/fdi-data-deep-dive">fdi-data-deep-dive</a></td>
+</tr>
+<tr>
+<td>CL-005/006</td>
+<td>why-tn-hp, plan-b</td>
+<td>✅</td>
+<td></td>
+</tr>
+<tr>
+<td>KD-001–004</td>
+<td>persona, GTM, pricing</td>
+<td>✅ Draft</td>
+<td></td>
+</tr>
+<tr>
+<td>SP</td>
+<td>journey 6 giai đoạn</td>
+<td>🔄 <strong>Mở rộng 9</strong></td>
+<td><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">fdi-lifecycle-full-map</a></td>
+</tr>
+<tr>
+<td>SP</td>
+<td>catalog v0.2</td>
+<td>🔄 → <strong>v1.0</strong></td>
+<td><a href="service-catalog-v1">service-catalog-v1</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>4. Gap nghiên cứu còn lại</h2>
+<table>
+<thead>
+<tr>
+<th>Ưu tiên</th>
+<th>Gap</th>
+<th>Ai làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Số FDI TQ tại TN/HP</td>
+<td>Call Sở</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>Giá đất KCN 2026</td>
+<td>Call KCN</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Thủ tục <strong>G7 di dời tỉnh</strong> (thực tế)</td>
+<td>PL + desk luật</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Thủ tục <strong>G8 giải thể / về TQ</strong></td>
+<td>PL + desk luật</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>1 phỏng vấn NM TQ đang chạy tại VN</td>
+<td>KD</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>Benchmark giá 3 đối thủ (bảng giá thật)</td>
+<td>KD</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Liên kết tài liệu mới (đào sâu)</h2>
+<ol>
+<li><a href="/docs/04-research/2026-07/fdi-data-deep-dive">Số liệu FDI đào sâu</a></li>
+<li><a href="/docs/03-departments/04-san-pham/fdi-lifecycle-full-map">Vòng đời NM TQ tại VN — 9 giai đoạn</a></li>
+<li><a href="/docs/03-departments/04-san-pham/service-catalog-v1">Catalog dịch vụ v1 — theo vòng đời</a></li>
+<li><a href="/docs/03-departments/04-san-pham/factory-operations-playbook-vn">Playbook vận hành sản xuất G5</a></li>
+</ol>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-thuc-trang"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Thực trạng Giai đoạn 00-1 — Đã làm rõ & chưa rõ"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Tổng hợp trạng thái nghiên cứu, số liệu, catalog và gap sau đào sâu."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/004-content-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #004 — Chuẩn hóa pipeline content → web → deploy"}]]}],["$","$L2",null,{"href":"/docs/05-clarifications/cap-table-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Cap table v1 — LONGTV CTCP"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

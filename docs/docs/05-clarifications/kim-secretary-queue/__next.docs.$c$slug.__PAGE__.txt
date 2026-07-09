@@ -1,0 +1,335 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1f19,<h1>Hộp việc Thư ký Kim</h1>
+<blockquote>
+<p><strong>Quy tắc:</strong> Chỉ ghi việc cần <strong>tương tác con người</strong> (gọi điện, ký, gặp, nộp hồ sơ, bán hàng thật). Việc desk/AI đã xong → link Evidence, không đưa vào đây.</p>
+<p><strong>Leader:</strong> Xử lý tập trung tại <a href="/kim">trang /kim</a> trên web.</p>
+</blockquote>
+<hr>
+<h2>Cách cập nhật</h2>
+<ol>
+<li>Thêm/sửa dòng bảng dưới đây</li>
+<li><code>status</code>: <code>todo</code> · <code>doing</code> · <code>done</code> · <code>blocked</code></li>
+<li>Commit → deploy → trang <code>/kim</code> tự cập nhật</li>
+</ol>
+<hr>
+<h2>Hàng chờ (bảng chính)</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>ID</th>
+<th>Việc</th>
+<th>Owner</th>
+<th>Status</th>
+<th>Hạn</th>
+<th>Tài liệu / script</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>KIM-001</td>
+<td><strong>Ký QĐ #005</strong> — Go Giai đoạn 2</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-15</td>
+<td>/docs/decisions/005-phase-00-1-go</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-002</td>
+<td>Điền <strong>tên CTCP</strong>, <strong>% cổ đông TQ</strong>, quy mô tập đoàn</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-15</td>
+<td>/docs/05-clarifications/00-team-input-requirements</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-003</td>
+<td><strong>Duyệt bảng giá</strong> chính thức (pricing v1)</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-12</td>
+<td>/docs/03-departments/03-kinh-doanh/pricing-official</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-004</td>
+<td>Điền <strong>WeChat / email / SĐT</strong> lên one-pager &#x26; pitch</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-12</td>
+<td>/docs/03-departments/03-kinh-doanh/bundle-onepager-zh</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-010</td>
+<td><strong>Gọi Sở KH&#x26;ĐT Thái Nguyên</strong> — xác minh FDI TQ, quỹ hỗ trợ, IRC</td>
+<td>Hermes</td>
+<td>doing</td>
+<td>2026-07-18</td>
+<td>/docs/03-departments/01-chien-luoc/field-call-scripts</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-011</td>
+<td><strong>Gọi Sở KH&#x26;ĐT Hải Phòng</strong> — chính sách 2026, KCN còn quỹ</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-21</td>
+<td>/docs/04-research/2026-07/hai-phong-fdi-policy</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-012</td>
+<td><strong>Call Ban QLKCN Yên Bình</strong> — giá đất Q3/2026, quỹ lô nhỏ</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-21</td>
+<td>/docs/04-research/2026-07/kcn-desk-research</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-013</td>
+<td><strong>Call Ban QLKCN Nam Đình Vũ</strong> — giá &#x26; onboarding FDI TQ</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-21</td>
+<td>/docs/04-research/2026-07/kcn-desk-research</td>
+</tr>
+<tr>
+<td>P0</td>
+<td>KIM-020</td>
+<td><strong>Luật sư review</strong> mẫu HĐ / NDA / MOU trước khi ký khách</td>
+<td>Luật đối tác</td>
+<td>todo</td>
+<td>2026-07-20</td>
+<td>/docs/03-departments/02-phap-ly/templates/00-index</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-030</td>
+<td><strong>Bật GitHub Pages</strong> — Settings → main / docs</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-10</td>
+<td>/docs/DEPLOY</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-031</td>
+<td><strong>Nộp hồ sơ đăng ký CTCP</strong> (khi KIM-002 xong)</td>
+<td>Leader + Luật</td>
+<td>todo</td>
+<td>2026-08-15</td>
+<td>/docs/03-departments/02-phap-ly/ctcp-ho-so-checklist</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-040</td>
+<td><strong>Gửi ≥2 proposal A1</strong> cho khách TQ thật</td>
+<td>Sales</td>
+<td>todo</td>
+<td>2026-08-31</td>
+<td>/docs/03-departments/03-kinh-doanh/proposal-template-a1</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-041</td>
+<td><strong>Phỏng vấn 1</strong> NM TQ đang vận hành tại VN (validate pricing)</td>
+<td>Leader / KD</td>
+<td>todo</td>
+<td>2026-08-31</td>
+<td>—</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-050</td>
+<td><strong>Ký MOU</strong> đối tác luật (white-label B2)</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-15</td>
+<td>/docs/03-departments/02-phap-ly/templates/mou-doi-tac-luat</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-051</td>
+<td><strong>Đàm phán MOU</strong> Ban QLKCN (giới thiệu NĐT)</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-31</td>
+<td>/docs/03-departments/02-phap-ly/templates/mou-kcn</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-060</td>
+<td>Kết nối <strong>Vercel</strong> auto-deploy từ GitHub</td>
+<td>Leader</td>
+<td>todo</td>
+<td>—</td>
+<td>/docs/DEPLOY</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-061</td>
+<td>Chọn <strong>virtual office</strong> &#x26; ký HĐ thuê địa chỉ</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-01</td>
+<td>/docs/04-research/2026-07/plan-b-no-revenue</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-070</td>
+<td><strong>Làm slide deck investor</strong> 15 slide từ outline</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-20</td>
+<td>/docs/03-departments/03-kinh-doanh/investor-pitch-deck</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-071</td>
+<td><strong>Dry-run pitch</strong> 15 phút + ghi hình</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-25</td>
+<td>/docs/06-phases/investor-pack/01-executive-summary</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-072</td>
+<td><strong>Chốt cap table</strong> % cổ đông VN/TQ</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-15</td>
+<td>/docs/05-clarifications/cap-table-v1</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-073</td>
+<td><strong>JD + equity</strong> Phó TGĐ / Trưởng KD (tuyển C-level)</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-15</td>
+<td>/docs/05-clarifications/cap-table-v1</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-074</td>
+<td><strong>Setup data room</strong> folder due diligence</td>
+<td>VT</td>
+<td>todo</td>
+<td>2026-08-01</td>
+<td>/docs/06-phases/investor-pack/02-pitch-gap-checklist</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-075</td>
+<td><strong>Review financial model</strong> — chọn Bear/Base/Bull năm 1</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-07-12</td>
+<td>/docs/03-departments/05-van-hanh-tc/financial-model-3yr</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>KIM-076</td>
+<td><strong>MOU đại lý hải quan</strong> có GPLS (All-in-one logistics)</td>
+<td>Leader</td>
+<td>todo</td>
+<td>2026-08-15</td>
+<td>/docs/03-departments/02-phap-ly/all-in-one-licensed-entities</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-077</td>
+<td><strong>Verify CIT</strong> KKT Đình Vũ–Cát Hải 2026</td>
+<td>Hermes</td>
+<td>todo</td>
+<td>2026-07-21</td>
+<td>/docs/06-phases/investor-pack/03-investment-project-5-steps</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-078</td>
+<td><strong>Pilot Full Setup</strong> — đo timeline thực vs 3 tháng</td>
+<td>Leader / KD</td>
+<td>todo</td>
+<td>2026-09-30</td>
+<td>/docs/03-departments/01-chien-luoc/all-in-one-service-complex</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>KIM-079</td>
+<td><strong>Draft SOP-FULL</strong> 12 tuần từ Operational Manual</td>
+<td>Cursor / PM</td>
+<td>todo</td>
+<td>2026-08-15</td>
+<td>/docs/07-operations/all-in-one-operational-manual</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Phân loại nhanh</h2>
+<table>
+<thead>
+<tr>
+<th>Loại</th>
+<th>ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ký / quyết định</td>
+<td>KIM-001, 003</td>
+</tr>
+<tr>
+<td>Điền thông tin công ty</td>
+<td>KIM-002, 004</td>
+</tr>
+<tr>
+<td>Gọi Sở / KCN</td>
+<td>KIM-010 – 013</td>
+</tr>
+<tr>
+<td>Pháp lý / MOU</td>
+<td>KIM-020, 050, 051</td>
+</tr>
+<tr>
+<td>Thành lập CTCP</td>
+<td>KIM-031</td>
+</tr>
+<tr>
+<td>Bán hàng / khách thật</td>
+<td>KIM-040, 041</td>
+</tr>
+<tr>
+<td>Hạ tầng web</td>
+<td>KIM-030, 060</td>
+</tr>
+<tr>
+<td>Đầu tư &#x26; pitch</td>
+<td>KIM-070 – 075, 072</td>
+</tr>
+<tr>
+<td>All-in-one / UNIDO</td>
+<td>KIM-076 – 079</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Sau khi xong</h2>
+<ul>
+<li>Đổi <code>Status</code> → <code>done</code></li>
+<li>Ghi kết quả ngắn vào file research liên quan (hoặc comment PR)</li>
+<li>Việc desk tương ứng → tick TODO phòng ban tại <a href="/operations">/operations</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"05-clarifications"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"kim-secretary-queue"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"clarifications"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Hộp việc — Thư ký Kim"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Danh sách công việc cần người thật xử lý — Leader tập trung tại /kim trên web."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/06-phases/02-giai-doan-2-overview","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Giai đoạn 2 — Xây hệ thống vận hành (overview)"}]]}],["$","$L2",null,{"href":"/docs/02-monthly-roadmap/2026-07","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Lộ trình tháng 7/2026 — Đặt nền móng & chốt hướng"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

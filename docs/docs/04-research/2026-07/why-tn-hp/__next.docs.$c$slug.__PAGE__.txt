@@ -1,0 +1,220 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1bc1,<h1>CL-005 — Vì sao Thái Nguyên &#x26; Hải Phòng (so với Bắc Ninh / Hưng Yên)</h1>
+<blockquote>
+<p><strong>Phòng:</strong> Chiến lược | <strong>Giai đoạn:</strong> 00-1 | <strong>Trạng thái:</strong> Desk research hoàn thành<br>
+<strong>Ngày:</strong> 2026-07-09</p>
+</blockquote>
+<hr>
+<h2>1. Tóm tắt</h2>
+<table>
+<thead>
+<tr>
+<th>Tiêu chí</th>
+<th>Bắc Ninh / Hưng Yên</th>
+<th>Thái Nguyên</th>
+<th>Hải Phòng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vai trò cho LONGTV</strong></td>
+<td>Thị trường đối thủ / tham chiếu</td>
+<td><strong>Trụ chính</strong> — công nghiệp + chính sách mở</td>
+<td><strong>Trụ chính</strong> — cảng + logistics</td>
+</tr>
+<tr>
+<td><strong>Đất / chi phí</strong></td>
+<td>Cao, khan hiếm</td>
+<td>Trung bình–thấp hơn</td>
+<td>Trung bình (Nam Đình Vũ còn room)</td>
+</tr>
+<tr>
+<td><strong>Cạnh tranh tư vấn</strong></td>
+<td>Rất cao (Big4, địa phương)</td>
+<td>Thấp–trung bình</td>
+<td>Trung bình</td>
+</tr>
+<tr>
+<td><strong>Fit DN Trung Quốc</strong></td>
+<td>Đã bão hòa Samsung chain</td>
+<td>Mở rộng chuỗi, giá tốt</td>
+<td>Xuất khẩu, điện tử, logistics</td>
+</tr>
+<tr>
+<td><strong>Khuyến nghị</strong></td>
+<td>Không làm hub đầu tiên</td>
+<td><strong>Ưu tiên #1</strong></td>
+<td><strong>Ưu tiên #2</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận:</strong> LONGTV <strong>không</strong> cạnh tranh trực tiếp tại Bắc Ninh/Hưng Yên giai đoạn đầu. Hai tỉnh trọng tâm tạo <strong>khoảng trống positioning</strong> (policy + logistics) với chi phí GTM thấp hơn.</p>
+<hr>
+<h2>2. Bắc Ninh &#x26; Hưng Yên — vì sao không chọn làm hub</h2>
+<h3>2.1. Ưu điểm (tham chiếu)</h3>
+<ul>
+<li>Hạ tầng KCN mature, hệ sinh thái Samsung / Foxconn / BYD</li>
+<li>Nguồn nhân lực dồi dào, supply chain điện tử mạnh</li>
+<li>FDI Trung Quốc đã có mặt (BYD, Goertek…)</li>
+</ul>
+<h3>2.2. Nhược điểm cho startup tư vấn</h3>
+<table>
+<thead>
+<tr>
+<th>Yếu tố</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cạnh tranh</strong></td>
+<td>Nhiều CTCP tư vấn địa phương + quốc tế đã có quan hệ Sở/KCN</td>
+</tr>
+<tr>
+<td><strong>Chi phí</strong></td>
+<td>Giá đất, thuê nhà xưởng cao hơn TN 20–40% (ước tính desk)</td>
+</tr>
+<tr>
+<td><strong>Differentiation</strong></td>
+<td>Khó nổi bật nếu không có case study hoặc quan hệ sẵn</td>
+</tr>
+<tr>
+<td><strong>Vai trò LONGTV</strong></td>
+<td>Không có lợi thế logistics (cảng) hay chính sách đặc thù mới</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Vai trò thay thế</h3>
+<ul>
+<li>Dùng <strong>benchmark</strong> giá dịch vụ &#x26; thời gian thành lập DN</li>
+<li><strong>Không</strong> mở văn phòng / sales tại đây trong 6 tháng đầu</li>
+</ul>
+<hr>
+<h2>3. Thái Nguyên — trụ chính #1</h2>
+<h3>3.1. Lý do chọn</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Lý do</th>
+<th>Bằng chứng / nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Samsung ecosystem</strong> mở rộng sang supplier TQ</td>
+<td><a href="./thai-nguyen-fdi-policy.md">thai-nguyen-fdi-policy.md</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Giá đất KCN</strong> cạnh tranh vs vùng Hà Nội</td>
+<td>Yên Bình ~70–120 USD/m² (ước tính desk)</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Chính sách tỉnh</strong> chủ động thu hút FDI</td>
+<td>Quỹ hỗ trợ DN, ưu đãi CIT</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Cạnh tranh tư vấn thấp</strong></td>
+<td>Ít CTCP chuyên TQ–VN tại chỗ</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Gần biên giới TQ</strong> (Lào Cai route)</td>
+<td>Logistics nội địa thuận cho một số ngành</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2. Phân khúc mục tiêu tại TN</h3>
+<ul>
+<li>Linh kiện điện tử / cơ khí chính xác (tier-2 Samsung)</li>
+<li>Dệt may, may mặc (chi phí lao động)</li>
+<li>Thực phẩm chế biến (nếu có đối tác TQ sẵn)</li>
+</ul>
+<h3>3.3. Rủi ro</h3>
+<ul>
+<li>Hạ tầng logistics ra cảng HP/HCM chậm hơn vùng Hà Nội</li>
+<li>Cần <strong>call Sở KH&#x26;ĐT</strong> xác nhận quỹ &#x26; hồ sơ (CL-002 pending)</li>
+</ul>
+<hr>
+<h2>4. Hải Phòng — trụ chính #2</h2>
+<h3>4.1. Lý do chọn</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Lý do</th>
+<th>Bằng chứng / nguồn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Cảng lớn nhất miền Bắc</strong> (Lạch Huyện)</td>
+<td>Logistics xuất khẩu</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>KCN Nam Đình Vũ, Tràng Duệ</strong></td>
+<td>Điện tử, logistics, chế biến</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>FDI Trung Quốc</strong> tăng (điện tử, năng lượng)</td>
+<td><a href="./fdi-data.md">fdi-data.md</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Bổ sung TN</strong></td>
+<td>Khách cần xuất khẩu → HP; khách cần giá đất → TN</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Chính sách riêng</strong></td>
+<td><a href="./hai-phong-fdi-policy.md">hai-phong-fdi-policy.md</a></td>
+</tr>
+</tbody>
+</table>
+<h3>4.2. Phân khúc mục tiêu tại HP</h3>
+<ul>
+<li>Điện tử lắp ráp / xuất khẩu</li>
+<li>Logistics &#x26; kho vận</li>
+<li>Năng lượng tái tạo (pin, solar) — theo xu hướng FDI</li>
+</ul>
+<h3>4.3. Rủi ro</h3>
+<ul>
+<li>Cạnh tranh tư vấn cao hơn TN một bậc</li>
+<li>Chi phí Nam Đình Vũ tăng dần</li>
+</ul>
+<hr>
+<h2>5. Ma trận so sánh nhanh</h2>
+<pre><code>                    Chi phí đất    Logistics    Cạnh tranh DV    Policy access
+Bắc Ninh            ●●●○○         ●●●○○        ●●●●●            ●●●●○
+Hưng Yên            ●●●○○         ●●●○○        ●●●●○            ●●●○○
+Thái Nguyên         ●●○○○         ●●○○○        ●●○○○            ●●●○○  ← LONGTV
+Hải Phòng           ●●●○○         ●●●●●        ●●●○○            ●●●○○  ← LONGTV
+</code></pre>
+<hr>
+<h2>6. Khuyến nghị chiến lược</h2>
+<ol>
+<li><strong>Sales &#x26; marketing:</strong> 100% messaging "Thái Nguyên + Hải Phòng", không mention BN/HY là đích đến</li>
+<li><strong>Sản phẩm:</strong> Gói A1 (desk) + B1 (on-site) cho <strong>2 tỉnh</strong> trước</li>
+<li><strong>Mở rộng:</strong> Xem xét Bắc Ninh sau <strong>3 case study</strong> hoặc khi có đối tác địa phương</li>
+<li><strong>Call Sở:</strong> Ưu tiên TN tuần 2, HP tuần 3</li>
+</ol>
+<hr>
+<h2>7. Việc còn lại (Leader / field)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Xác nhận giá đất Yên Bình &#x26; Nam Đình Vũ qua call KCN</li>
+<li class="task-list-item"><input type="checkbox" disabled> So sánh 1 báo giá thực tế từ CTCP tại Bắc Ninh (benchmark)</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"why-tn-hp"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"why-tn-hp"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/sop-b1-on-site","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sop-b1-on-site"}]]}],["$","div",null,{"className":"flex-1"}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

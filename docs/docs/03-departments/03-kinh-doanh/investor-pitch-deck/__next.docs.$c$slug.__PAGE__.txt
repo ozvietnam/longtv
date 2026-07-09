@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T17ce,<h1>Investor Pitch Deck — Outline v1</h1>
+<blockquote>
+<p><strong>Khác với</strong> <a href="pitch-deck-v1">pitch-deck-v1</a> (bán cho khách TQ, tiếng Trung).<br>
+<strong>Đối tượng:</strong> Cổ đông TQ/VN, angel, advisor, ứng viên Phó TGĐ / Trưởng KD.<br>
+<strong>Format đề xuất:</strong> PowerPoint / Google Slides · 15 phút + 15 phút Q&#x26;A</p>
+</blockquote>
+<hr>
+<h2>Slide 1 — Cover</h2>
+<ul>
+<li><strong>LONGTV</strong> — Tổ hợp <strong>All-in-one</strong>: Tư vấn · Pháp lý · Logistics</li>
+<li>Tagline: <em>FDI Trung Quốc → Thái Nguyên &#x26; Hải Phòng · 6 tháng → 3 tháng</em></li>
+<li>Ngày · Liên hệ Leader · <strong>Confidential</strong></li>
+</ul>
+<hr>
+<h2>Slide 2 — Vấn đề (Problem)</h2>
+<ul>
+<li>NM TQ Tier 2–3 (50–300 người) dịch chuyển sang VN</li>
+<li>Pain: chính sách địa phương opaque, không ai phủ <strong>2 tỉnh + HQ</strong> một cửa</li>
+<li>Chi phí sai bước: chọn sai KCN = <strong>$50k–200k</strong> sunk cost</li>
+</ul>
+<p><em>Visual: map miền Bắc + arrow TQ→TN/HP</em></p>
+<hr>
+<h2>Slide 3 — Giải pháp (Solution) — All-in-one</h2>
+<ul>
+<li><strong>Một cửa</strong> thay 3 vendor (luật + HQ + forwarder)</li>
+<li>Hub: PM song ngữ + đối tác có <strong>GPLS / GP hải quan</strong></li>
+<li>HP: cảng · customs · kho | TN: lao động · on-spot XNK · phụ trợ điện tử</li>
+<li>Bundle Full Setup $14–18k · mục tiêu <strong>12 tuần</strong> IRC→HQ</li>
+</ul>
+<p><em>Ref: <a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></em></p>
+<hr>
+<h2>Slide 4 — Thị trường (Market)</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Số liệu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI VN 6T/2026</td>
+<td>$34.65B</td>
+</tr>
+<tr>
+<td>TN #1 FDI mới</td>
+<td>~$5.7B</td>
+</tr>
+<tr>
+<td>TQ #2 nguồn vốn</td>
+<td>21%</td>
+</tr>
+<tr>
+<td>SAM LONGTV</td>
+<td>200–400 NM Tier 2–3/năm 🟡</td>
+</tr>
+</tbody>
+</table>
+<p><em>Footnote: SAM desk — field validate</em></p>
+<hr>
+<h2>Slide 5 — Sản phẩm &#x26; vòng đời (Product)</h2>
+<ul>
+<li>Timeline G0–G8 (1 slide graphic)</li>
+<li>22 dịch vụ · 3 bundle</li>
+<li>LTV desk $40–150k/khách nếu giữ retainer</li>
+</ul>
+<p><em>Link catalog web /services</em></p>
+<hr>
+<h2>Slide 6 — Traction &#x26; bằng chứng</h2>
+<table>
+<thead>
+<tr>
+<th>✅ Done</th>
+<th>🔴 Gap</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scorecard 38/50</td>
+<td>0 HĐ khách</td>
+</tr>
+<tr>
+<td>SOP A1/B1</td>
+<td>Case study</td>
+</tr>
+<tr>
+<td>Research 15+ files</td>
+<td>MOU KCN</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Honest slide</strong> — investor tôn trọng transparency.</p>
+<hr>
+<h2>Slide 7 — Business model &#x26; unit economics</h2>
+<ul>
+<li>Project fee + retainer</li>
+<li>GM 58% · ARPU ~$6.5k Y1</li>
+<li>CAC thấp (referral TQ)</li>
+<li>Break-even: ~2 A1/tháng · month 15</li>
+</ul>
+<p><em>Chart: revenue mix pie Y1</em></p>
+<hr>
+<h2>Slide 8 — Cạnh tranh (Competition)</h2>
+<ul>
+<li>Quadrant: giá vs chuyên TQ–VN</li>
+<li>LONGTV: niche 2 tỉnh + logistics + hub</li>
+<li>Không cạnh tranh Big4 / Samsung tier</li>
+</ul>
+<p><em>Ref competitors.md</em></p>
+<hr>
+<h2>Slide 9 — Go-to-market</h2>
+<ul>
+<li>Y1: 60% referral cổ đông TQ</li>
+<li>Pipeline target: 15 lead → 5 qualified → 3 proposal → 1 won / 60 ngày</li>
+<li>WeChat + KCN event</li>
+</ul>
+<hr>
+<h2>Slide 10 — Team</h2>
+<ul>
+<li>TGĐ Sếp Thắng (chiến lược + Sở/KCN)</li>
+<li>5 phòng · 2 sales · Hermes research · Cursor ops</li>
+<li><strong>Tuyển:</strong> Trưởng KD / Phó TGĐ (slide này cho recruiting)</li>
+</ul>
+<p><em>Photos + 1 dòng bio — Leader điền</em></p>
+<hr>
+<h2>Slide 11 — Tài chính (Financials)</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>6T</th>
+<th>1N</th>
+<th>2N</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khách (base)</td>
+<td>3–4</td>
+<td>8–12</td>
+<td>25–35</td>
+</tr>
+<tr>
+<td>DT USD</td>
+<td>$12–18k</td>
+<td>$55–80k</td>
+<td>$180–250k</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Hòa vốn vận hành: Q2/2027</li>
+<li>3 kịch bản Bear/Base/Bull</li>
+</ul>
+<p><em>1 chart: quarterly revenue base</em></p>
+<hr>
+<h2>Slide 12 — The Ask</h2>
+<ul>
+<li><strong>2 tỷ VND</strong> vốn điều lệ CTCP</li>
+<li>Use of funds: 50% DN · 25% ops · 10% GTM · 15% reserve</li>
+<li>Giải ngân theo milestone (optional slide)</li>
+</ul>
+<hr>
+<h2>Slide 13 — Cap table &#x26; governance</h2>
+<ul>
+<li>VN >51% · TQ &#x3C;49%</li>
+<li>Board structure · quyền phủ quyết</li>
+<li><em>[Điền từ cap-table-v1]</em></li>
+</ul>
+<hr>
+<h2>Slide 14 — Rủi ro &#x26; Plan B</h2>
+<ul>
+<li>0 revenue 90 ngày → cắt marketing, delay hire</li>
+<li>Runway 18+ tháng với 2B</li>
+<li>Pivot HP/logistics nếu TN yếu</li>
+</ul>
+<hr>
+<h2>Slide 15 — Tầm nhìn &#x26; Close</h2>
+<ul>
+<li>Y3: $400–600k · tỉnh 3 · hub logistics HP</li>
+<li><em>"Đủ điều kiện đầu tư chiến lược — cùng chứng minh thị trường Tier 2–3 TQ"</em></li>
+<li>CTA: Ký MOU cổ đông · Họp follow-up · <a href="/kim">/kim</a> việc tiếp</li>
+</ul>
+<hr>
+<h2>Phụ lục (không trình chiếu)</h2>
+<ul>
+<li><a href="/docs/06-phases/investor-pack/01-executive-summary">Executive summary</a></li>
+<li><a href="/docs/03-departments/05-van-hanh-tc/financial-model-3yr">Financial model</a></li>
+<li><a href="02-pitch-gap-checklist">Due diligence data room list</a> — file 02 trong investor-pack</li>
+</ul>
+<hr>
+<h2>Việc Leader / design</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Chọn template slide (16:9, brand LONGTV)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Điền slide 6, 10, 13 — <strong>không để trống khi gặp investor</strong></li>
+<li class="task-list-item"><input type="checkbox" disabled> Thu âm dry-run 15 phút</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bản CN rút gọn (5 slide) cho cổ đông TQ nếu cần</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"investor-pitch-deck"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Investor Pitch Deck — Outline v1"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"12–15 slide kêu gọi vốn cổ đông chiến lược và tuyển C-level — khác deck bán hàng khách TQ."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/all-in-one-licensed-entities","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Pháp nhân & giấy phép — Mô hình All-in-one"}]]}],["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Chiến lược & Rủi ro"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

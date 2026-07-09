@@ -1,0 +1,387 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T204a,<h1>Operational Manual — All-in-One LONGTV</h1>
+<blockquote>
+<p><strong>Mục đích:</strong> Bóc tách <strong>xương sống</strong> doanh nghiệp thành cấu phần cụ thể — từ giấy phép, nhân sự, quy trình dịch vụ đến hạ tầng công nghệ — để mô hình <strong>Tư vấn · Pháp lý · Logistics</strong> cho FDI TQ tại <strong>HP &#x26; TN</strong> vận hành <strong>trơn tru</strong> và <strong>đủ chuẩn hồ sơ đầu tư</strong>.</p>
+</blockquote>
+<hr>
+<h2>Cấu trúc tài liệu (4 trụ + pháp lý)</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Trụ</th>
+<th>Tài liệu</th>
+<th>Nội dung chính</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>I</strong></td>
+<td>Khung dịch vụ</td>
+<td><a href="/docs/03-departments/04-san-pham/all-in-one-service-portfolio">all-in-one-service-portfolio</a></td>
+<td>Chuỗi giá trị 3 giai đoạn · 3 trụ cột · milestone M1–M6</td>
+</tr>
+<tr>
+<td><strong>II</strong></td>
+<td>Nhân sự</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix">all-in-one-headcount-matrix</a></td>
+<td>Y1 lean 8–10 → Y3 mục tiêu ~16–18 FTE</td>
+</tr>
+<tr>
+<td><strong>III</strong></td>
+<td>Hạ tầng &#x26; tech</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">all-in-one-tech-infrastructure</a></td>
+<td>CRM · ECUS · WMS/TMS · VP HP/TN · WeChat</td>
+</tr>
+<tr>
+<td><strong>IV</strong></td>
+<td>Thực địa HP/TN</td>
+<td><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">hp-tn-operational-matrix</a></td>
+<td>Hạng mục hành động chuyên môn hóa từng tỉnh</td>
+</tr>
+<tr>
+<td><strong>+</strong></td>
+<td>Pháp lý &#x26; GP</td>
+<td><a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></td>
+<td>Hub CTCP + MOU luật + MOU HQ</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Định vị chiến lược:</strong> <a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a><br>
+<strong>UNIDO 5 bước:</strong> <a href="/docs/06-phases/investor-pack/03-investment-project-5-steps">03-investment-project-5-steps</a></p>
+<hr>
+<h2>Sơ đồ vận hành một khách (runbook)</h2>
+<pre><code>1. LEAD (BD)          A0 → qualify → WeChat/CRM
+2. KHẢO SÁT (PM)      A1/A2 → Site selection → Pre-FS phụ lục
+3. HỢP ĐỒNG           Full Setup / B2+B1 → deposit 30%
+4. PHÁP LÝ            IRC → ERC → sub-license (ĐTM/PCCC/EPE)
+5. LOGISTICS          HS code → tờ khai #1 → container #1 vào NM
+6. BÀN GIAO           Milestone M6 + C1 retainer offer
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Bước</th>
+<th>SLA mục tiêu</th>
+<th>SOP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2</td>
+<td>2–3 tuần</td>
+<td><a href="sop-a1-desk-research">SOP-A1</a></td>
+</tr>
+<tr>
+<td>4–5</td>
+<td>8–10 tuần</td>
+<td><a href="sop-b1-on-site">SOP-B1</a> + luật đối tác</td>
+</tr>
+<tr>
+<td>6</td>
+<td>1 tuần</td>
+<td>PM checklist M1–M6</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>RACI rút gọn (All-in-one)</h2>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>TGĐ/PD</th>
+<th>PM</th>
+<th>BD</th>
+<th>Luật ĐT</th>
+<th>HQ ĐT</th>
+<th>Hermes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chốt tỉnh/KCN</td>
+<td>A</td>
+<td>R</td>
+<td>C</td>
+<td>I</td>
+<td>I</td>
+<td>C</td>
+</tr>
+<tr>
+<td>A1 / Pre-FS</td>
+<td>I</td>
+<td>A</td>
+<td>C</td>
+<td>I</td>
+<td>I</td>
+<td>R</td>
+</tr>
+<tr>
+<td>IRC/ERC</td>
+<td>A</td>
+<td>R</td>
+<td>I</td>
+<td><strong>R</strong></td>
+<td>I</td>
+<td>—</td>
+</tr>
+<tr>
+<td>ĐTM/PCCC</td>
+<td>I</td>
+<td>R</td>
+<td>—</td>
+<td><strong>R</strong></td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Tờ khai HQ</td>
+<td>I</td>
+<td>A</td>
+<td>—</td>
+<td>C</td>
+<td><strong>R</strong></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Container vào NM</td>
+<td>I</td>
+<td>A</td>
+<td>—</td>
+<td>—</td>
+<td><strong>R</strong></td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><em>A = Accountable · R = Responsible · C = Consulted · I = Informed</em></p>
+<hr>
+<h2>Giấy phép — tóm tắt điều kiện vận hành</h2>
+<table>
+<thead>
+<tr>
+<th>Hoạt động</th>
+<th>LONGTV tự làm?</th>
+<th>Điều kiện</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tư vấn đầu tư</td>
+<td>✅ CTCP</td>
+<td>VSIC tư vấn</td>
+</tr>
+<tr>
+<td>Ký IRC/ERC khách</td>
+<td>❌</td>
+<td>Công ty Luật GPLS</td>
+</tr>
+<tr>
+<td>Khai HQ</td>
+<td>❌ Y1</td>
+<td>Đại lý + chứng chỉ TCHQ</td>
+</tr>
+<tr>
+<td>Vận tải / kho</td>
+<td>❌ Y1</td>
+<td>Đối tác GP WTO</td>
+</tr>
+<tr>
+<td>Tư vấn pháp lý trực tiếp</td>
+<td>❌</td>
+<td>Không thay luật sư</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Giai đoạn triển khai manual</h2>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Thời gian</th>
+<th>Trọng tâm</th>
+<th>Headcount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P0</strong> Launch</td>
+<td>T7–T9/2026</td>
+<td>A1, B1, MOU luật/HQ</td>
+<td>8–10</td>
+</tr>
+<tr>
+<td><strong>P1</strong> Prove</td>
+<td>T10–T12/2026</td>
+<td>Full Setup ×1–2</td>
+<td>10–12</td>
+</tr>
+<tr>
+<td><strong>P2</strong> Repeat</td>
+<td>2027</td>
+<td>VP HP, docs FTE</td>
+<td>12–15</td>
+</tr>
+<tr>
+<td><strong>P3</strong> Scale</td>
+<td>2028+</td>
+<td>WMS portal, TN desk</td>
+<td>16–18</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>KPI vận hành All-in-one</h2>
+<table>
+<thead>
+<tr>
+<th>KPI</th>
+<th>Mục tiêu Y1</th>
+<th>Đo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time-to-market Full Setup</td>
+<td>≤14 tuần (mục tiêu 12)</td>
+<td>PM log</td>
+</tr>
+<tr>
+<td>Milestone M6 đúng hạn</td>
+<td>≥80%</td>
+<td>CRM</td>
+</tr>
+<tr>
+<td>Khách dùng 1 PM duy nhất</td>
+<td>100%</td>
+<td>Survey</td>
+</tr>
+<tr>
+<td>Tờ khai HQ lỗi lần 1</td>
+<td>&#x3C;5%</td>
+<td>Đối tác HQ</td>
+</tr>
+<tr>
+<td>NPS khách TQ</td>
+<td>≥40</td>
+<td>Sau M6</td>
+</tr>
+</tbody>
+</table>
+<p>Chi tiết công ty: <a href="/docs/03-departments/05-van-hanh-tc/kpi-thang">kpi-thang</a></p>
+<hr>
+<h2>Hồ sơ gọi vốn — đóng gói từ manual này</h2>
+<table>
+<thead>
+<tr>
+<th>Thành phần investor</th>
+<th>Lấy từ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Service &#x26; moat</td>
+<td>§ I + IV</td>
+</tr>
+<tr>
+<td>Team plan</td>
+<td>§ II</td>
+</tr>
+<tr>
+<td>Tech &#x26; scalability</td>
+<td>§ III</td>
+</tr>
+<tr>
+<td>Legal compliance</td>
+<td>§ Pháp lý</td>
+</tr>
+<tr>
+<td>Financials</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics">fs-metrics</a></td>
+</tr>
+<tr>
+<td>CAPEX/OPEX Excel 6,65 tỷ</td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/capex-opex-year1-medium-scale">capex-opex-year1</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>SOP hiện có &#x26; cần bổ sung</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Tên</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SOP-A1</td>
+<td>Desk research</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>SOP-B1</td>
+<td>On-site + HQ starter</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>SOP-FULL</td>
+<td>Full Setup 12 tuần</td>
+<td>🔜 Draft Q3</td>
+</tr>
+<tr>
+<td>SOP-CRM</td>
+<td>Pipeline stages</td>
+<td>✅ trong <a href="/docs/03-departments/03-kinh-doanh/sales-pipeline">sales-pipeline</a></td>
+</tr>
+<tr>
+<td>SOP-HP</td>
+<td>Hạng mục HP-01–06</td>
+<td>✅ trong <a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">hp-tn-matrix</a></td>
+</tr>
+<tr>
+<td>SOP-TN</td>
+<td>Hạng mục TN-01–06</td>
+<td>✅ trong matrix</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Việc tiếp theo (ưu tiên)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> KIM-076: MOU đại lý HQ</li>
+<li class="task-list-item"><input type="checkbox" disabled> KIM-078: Pilot Full Setup — đo timeline thực</li>
+<li class="task-list-item"><input type="checkbox" disabled> Draft SOP-FULL từ runbook trên</li>
+<li class="task-list-item"><input type="checkbox" disabled> WeChat doanh nghiệp + 3 ngôn ngữ web (roadmap)</li>
+</ul>
+<hr>
+<h2>Chỉ mục vận hành khác</h2>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Tài liệu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SOP-A1</td>
+<td><a href="sop-a1-desk-research">sop-a1-desk-research</a></td>
+</tr>
+<tr>
+<td>SOP-B1</td>
+<td><a href="sop-b1-on-site">sop-b1-on-site</a></td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"07-operations"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-operational-manual"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"operations"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Operational Manual — All-in-One LONGTV"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Bộ khung vận hành hoàn chỉnh: giấy phép, nhân sự, quy trình dịch vụ, hạ tầng — sẵn sàng gọi vốn & triển khai."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}],["$","$L2",null,{"href":"/docs/decisions/001-platform","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #001 — Chọn Next.js + Vercel cho nền tảng nội bộ"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

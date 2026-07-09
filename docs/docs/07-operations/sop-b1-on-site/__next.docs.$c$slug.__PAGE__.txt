@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T134f,<h1>SOP-B1 — On-site + Hải quan starter (v1)</h1>
+<blockquote>
+<p><strong>Gói:</strong> B1 · <strong>Thời gian:</strong> 4–6 tuần · <strong>Owner:</strong> Sales + Pháp lý<br>
+<strong>Điều kiện:</strong> Khách đã có A1 hoặc tương đương; xác định tỉnh TN hoặc HP</p>
+</blockquote>
+<hr>
+<h2>1. Phạm vi gói B1</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Bao gồm</th>
+<th>Không bao gồm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>On-site 2 ngày</td>
+<td>TN <strong>hoặc</strong> HP</td>
+<td>Cả hai tỉnh (tính add-on)</td>
+</tr>
+<tr>
+<td>Meeting</td>
+<td>Sở KH&#x26;ĐT / Ban QLKCN (sắp xếp trước)</td>
+<td>Cam kết được lô đất</td>
+</tr>
+<tr>
+<td>Hải quan starter</td>
+<td>Checklist XNK, giới thiệu forwarder</td>
+<td>Khai hộ tự thay khách</td>
+</tr>
+<tr>
+<td>Báo cáo</td>
+<td>5–8 trang bổ sung sau chuyến đi</td>
+<td>Due diligence pháp lý đất</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Giá:</strong> 8.000 – 12.000 USD + chi phí đi lại thực tế (vé, khách sạn, ăn uống).</p>
+<hr>
+<h2>2. Luồng tổng quát</h2>
+<pre><code>Ký HĐ B1 → Lên lịch on-site (W1) → Chuẩn bị meeting Sở/KCN (W1–2)
+→ Chuyến đi 2 ngày (W2–3) → Báo cáo bổ sung (W3–4) → Hải quan intro (W4–5) → Nghiệm thu (W5–6)
+</code></pre>
+<hr>
+<h2>3. Pre-trip (Tuần 1)</h2>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Owner</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Xác nhận lịch khách (visa VN nếu cần)</td>
+<td>Sales</td>
+<td>Lịch cố định</td>
+</tr>
+<tr>
+<td>Book meeting Sở/KCN</td>
+<td>TGĐ / CL</td>
+<td>Email xác nhận</td>
+</tr>
+<tr>
+<td>Brief khách (dress code, tài liệu mang theo)</td>
+<td>Sales</td>
+<td>Brief 1 trang</td>
+</tr>
+<tr>
+<td>Chuẩn bị deck tiếng Việt cho Sở</td>
+<td>VT</td>
+<td>5 slide</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tài liệu mang theo on-site:</strong></p>
+<ul>
+<li>Passport / visa</li>
+<li>Giấy phép DN TQ (bản sao công chứng)</li>
+<li>Power of attorney (nếu đại diện ký)</li>
+<li>Deck giới thiệu dự án (song ngữ)</li>
+</ul>
+<hr>
+<h2>4. On-site 2 ngày (mẫu lịch)</h2>
+<h3>Ngày 1 — Thái Nguyên (ví dụ)</h3>
+<table>
+<thead>
+<tr>
+<th>Giờ</th>
+<th>Hoạt động</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:00</td>
+<td>Meeting Ban QLKCN Yên Bình</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>Tham quan lô đất / nhà xưởng mẫu</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>Meeting Sở KH&#x26;ĐT (phòng Đầu tư)</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>Debrief nội bộ + ghi chú khách</td>
+</tr>
+</tbody>
+</table>
+<h3>Ngày 2</h3>
+<table>
+<thead>
+<tr>
+<th>Giờ</th>
+<th>Hoạt động</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:00</td>
+<td>Gặp đối tác luật địa phương (nếu có)</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>Tổng kết với khách — next steps</td>
+</tr>
+<tr>
+<td>Chiều</td>
+<td>Di chuyển về / sang HP (nếu combo)</td>
+</tr>
+</tbody>
+</table>
+<p><em>Hải Phòng: thay KCN Yên Bình → Nam Đình Vũ; thêm visit cảng/ICD nếu khách logistics.</em></p>
+<hr>
+<h2>5. Sau chuyến đi</h2>
+<table>
+<thead>
+<tr>
+<th>Việc</th>
+<th>Owner</th>
+<th>SLA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Biên bản họp (nội bộ)</td>
+<td>Sales</td>
+<td>24h</td>
+</tr>
+<tr>
+<td>Báo cáo bổ sung 5–8 trang</td>
+<td>CL + PL</td>
+<td>7 ngày</td>
+</tr>
+<tr>
+<td>Cập nhật giá đất / quỹ (nếu có số mới)</td>
+<td>CL</td>
+<td>Trong báo cáo</td>
+</tr>
+<tr>
+<td>Giới thiệu forwarder / hải quan</td>
+<td>PL</td>
+<td>14 ngày</td>
+</tr>
+<tr>
+<td>Upsell B2 thành lập CTCP</td>
+<td>Sales</td>
+<td>Trong pitch tổng kết</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Hải quan starter (add-on trong B1)</h2>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Checklist XNK</td>
+<td>20 mục — hồ sơ, mã HS, tài khoản hải quan</td>
+</tr>
+<tr>
+<td>1 buổi tư vấn 90 phút</td>
+<td>Online hoặc tại HP</td>
+</tr>
+<tr>
+<td>Giới thiệu 1 forwarder</td>
+<td>MOU nội bộ — không cam kết giá</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Rủi ro &#x26; xử lý</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Xử lý</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sở hủy lịch</td>
+<td>Dự phòng ngày 2; ghi call thay thế</td>
+</tr>
+<tr>
+<td>Khách không visa kịp</td>
+<td>Hoãn; không hoàn deposit nếu &#x3C;7 ngày báo</td>
+</tr>
+<tr>
+<td>Số đất khác desk</td>
+<td>Cập nhật báo cáo — không phải lỗi LONGTV nếu có disclaimer</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>8. KPI B1</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Mục tiêu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Meeting Sở/KCN diễn ra</td>
+<td>≥ 2 / chuyến</td>
+</tr>
+<tr>
+<td>Báo cáo bổ sung on-time</td>
+<td>7 ngày sau trip</td>
+</tr>
+<tr>
+<td>Conversion B2</td>
+<td>≥ 30% khách B1</td>
+</tr>
+</tbody>
+</table>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"07-operations"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"sop-b1-on-site"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"sop-b1-on-site"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/sop-a1-desk-research","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"sop-a1-desk-research"}]]}],["$","$L2",null,{"href":"/docs/04-research/2026-07/why-tn-hp","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"why-tn-hp"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

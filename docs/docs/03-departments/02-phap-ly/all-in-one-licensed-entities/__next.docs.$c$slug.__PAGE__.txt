@@ -1,0 +1,305 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T1d60,<h1>Pháp nhân &#x26; giấy phép — Mô hình All-in-one</h1>
+<blockquote>
+<p><strong>Nguyên tắc cốt tử:</strong> LONGTV CTCP đăng ký ngành <strong>tư vấn quản lý / tư vấn đầu tư</strong> — <strong>không</strong> tự hành nghề luật sư hay khai hải quan thay đối tác nếu chưa có giấy phép chuyên ngành.</p>
+<p>All-in-one <strong>về mặt khách hàng</strong> = một HĐ với LONGTV; <strong>về mặt pháp lý</strong> = phối hợp các pháp nhân có đủ điều kiện.</p>
+</blockquote>
+<hr>
+<h2>1. Sơ đồ pháp nhân</h2>
+<pre><code class="language-mermaid">flowchart TB
+  subgraph client [Khach hang FDI TQ]
+    NM[Nha may TQ]
+  end
+
+  subgraph hub [LONGTV CTCP - VN gt 51%]
+    TV[Tu van dau tu]
+    PM[PM mot cua]
+  end
+
+  subgraph partners [Doi tac co giay phep]
+    LS[Cong ty Luat - GPLS]
+    HQ[Dai ly hai quan]
+    LOG[Forwarder / Kho bai]
+  end
+
+  NM -->|HD dich vu| hub
+  hub -->|MOU white-label| LS
+  hub -->|MOU| HQ
+  hub -->|MOU| LOG
+  LS -->|IRC ERC| NM
+  HQ -->|To khai XNK| NM
+</code></pre>
+<hr>
+<h2>2. Ba lớp dịch vụ &#x26; điều kiện pháp lý VN</h2>
+<h3>2.1. Tư vấn đầu tư / quản lý (LONGTV trực tiếp)</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Chi tiết</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pháp nhân</td>
+<td><strong>CTCP</strong> — vốn 2 tỷ (<a href="/docs/decisions/003-strategy-july-2026">QĐ #003</a>)</td>
+</tr>
+<tr>
+<td>Mã ngành VSIC</td>
+<td>7020 / 7490 (tư vấn quản lý) — <strong>chọn chính xác khi nộp</strong></td>
+</tr>
+<tr>
+<td>Giấy phép có điều kiện</td>
+<td><strong>Không</strong> (tư vấn thuần)</td>
+</tr>
+<tr>
+<td>IRC cho LONGTV</td>
+<td>Chỉ nếu cổ đông nước ngoài vượt ngưỡng FDI — xem <a href="/docs/04-research/2026-07/legal-licenses">legal-licenses</a></td>
+</tr>
+<tr>
+<td>LONGTV được làm</td>
+<td>Khảo sát, chính sách, PM hồ sơ, làm việc Sở/KCN, bán gói A1–B1</td>
+</tr>
+<tr>
+<td>LONGTV <strong>không</strong> được</td>
+<td>Ký văn bản pháp lý thay luật sư; cam kết ưu đãi không verify</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Dịch vụ pháp lý (bắt buộc qua Công ty Luật)</h3>
+<table>
+<thead>
+<tr>
+<th>Yêu cầu</th>
+<th>Căn cứ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thành lập <strong>Công ty Luật</strong> hoặc hợp tác Công ty Luật có GPLS</td>
+<td><strong>Luật Luật sư</strong></td>
+</tr>
+<tr>
+<td>Luật sư có <strong>chứng chỉ hành nghề</strong> ký IRC, ERC, HĐ</td>
+<td>Không outsource cho “tư vấn viên”</td>
+</tr>
+<tr>
+<td>MOU white-label B2</td>
+<td><a href="/docs/03-departments/02-phap-ly/templates/mou-doi-tac-luat">mou-doi-tac-luat</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mô hình LONGTV:</strong> HĐ khách ↔ LONGTV; LONGTV ↔ Công ty Luật (phí pass-through + margin PM).</p>
+<h3>2.3. Dịch vụ logistics (đối tác có GP WTO)</h3>
+<table>
+<thead>
+<tr>
+<th>Loại hình</th>
+<th>Điều kiện (tóm tắt)</th>
+<th>LONGTV Y1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Đại lý làm thủ tục hải quan</strong></td>
+<td>Đăng ký kinh doanh ngành HQ; nhân sự có chứng chỉ; điều kiện theo <strong>cam kết WTO</strong></td>
+<td>MOU đại lý HQ + Oz tools</td>
+</tr>
+<tr>
+<td><strong>Vận tải đa phương thức</strong></td>
+<td>Vốn pháp định, điều kiện phương tiện</td>
+<td>Đối tác — không tự làm Y1</td>
+</tr>
+<tr>
+<td><strong>Kho bãi / ICD</strong></td>
+<td>GP kinh doanh kho; quy hoạch đất; PCCC</td>
+<td>Đối tác HP — xem xét Y2</td>
+</tr>
+<tr>
+<td><strong>FDI vào logistics</strong></td>
+<td>Lộ trình mở cửa WTO — <strong>hạn chế</strong> với NĐT nước ngoài một số ngành</td>
+<td>Cổ đông TQ <strong>không</strong> nên góp trực tiếp vào entity logistics VN mà qua MOU</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rủi ro HP:</strong> Mở công ty logistics có vốn nước ngoài cần đánh giá <strong>điều kiện WTO + vốn tối thiểu</strong> — desk 🟡, cần luật sư chuyên ngành.</p>
+<hr>
+<h2>3. Ma trận HĐ khách hàng All-in-one</h2>
+<table>
+<thead>
+<tr>
+<th>Gói</th>
+<th>LONGTV ký</th>
+<th>Subcontract</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1 Khảo sát</td>
+<td>✅</td>
+<td>—</td>
+</tr>
+<tr>
+<td>B2 Thành lập CTCP khách</td>
+<td>✅ (PM)</td>
+<td>Công ty Luật</td>
+</tr>
+<tr>
+<td>B1 Hải quan starter</td>
+<td>✅ (PM)</td>
+<td>Đại lý HQ</td>
+</tr>
+<tr>
+<td>Full Setup bundle</td>
+<td>✅</td>
+<td>Luật + HQ + (KCN intro)</td>
+</tr>
+<tr>
+<td>Retainer C1</td>
+<td>✅</td>
+<td>Luật/HQ theo phát sinh</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Điều khoản bắt buộc trong HĐ:</strong> LONGTV là <strong>điều phối</strong>; bên có GPLS chịu trách nhiệm nghề nghiệp phần việc của mình.</p>
+<hr>
+<h2>4. Cổ đông Trung Quốc &#x26; cấu trúc vốn</h2>
+<table>
+<thead>
+<tr>
+<th>Câu hỏi</th>
+<th>Khuyến nghị desk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TQ góp vào LONGTV CTCP?</td>
+<td>✅ &#x3C;49%, VN >51%</td>
+</tr>
+<tr>
+<td>TQ góp vào công ty logistics VN?</td>
+<td>⚠️ Tránh Y1 — rào WTO</td>
+</tr>
+<tr>
+<td>TQ góp vốn kho/ICD?</td>
+<td>Y3+ — cần FS riêng</td>
+</tr>
+<tr>
+<td>MOU referral TQ</td>
+<td>✅ Qua tập đoàn cổ đông</td>
+</tr>
+</tbody>
+</table>
+<p>→ <a href="/docs/05-clarifications/cap-table-v1">cap-table-v1</a></p>
+<hr>
+<h2>5. Thái Nguyên — DTM &#x26; quy hoạch</h2>
+<table>
+<thead>
+<tr>
+<th>Rủi ro</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DTM nước thải chặt</td>
+<td>Checklist ngành trước A1; partner môi trường</td>
+</tr>
+<tr>
+<td>Quỹ đất công nghiệp</td>
+<td>Verify Ban QLKCN Yên Bình (KIM-012)</td>
+</tr>
+<tr>
+<td>On-spot XNK</td>
+<td>Phối hợp HQ + Sở TN</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Hải Phòng — Logistics &#x26; KKT</h2>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KKT Đình Vũ–Cát Hải</td>
+<td>Ưu đãi CIT — <strong>field verify</strong></td>
+</tr>
+<tr>
+<td>ICD / kho gần Lạch Huyện</td>
+<td>Đối tác Y2; không CAPEX Y1</td>
+</tr>
+<tr>
+<td>Demurrage/detention</td>
+<td>Dịch vụ giá trị B1 mở rộng</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>7. Checklist triển khai pháp lý All-in-one</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Việc</th>
+<th>Owner</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Chọn mã VSIC CTCP (tư vấn only)</td>
+<td>Pháp lý</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>2</td>
+<td>MOU Công ty Luật (white-label)</td>
+<td>Leader</td>
+<td>KIM-050</td>
+</tr>
+<tr>
+<td>3</td>
+<td>MOU đại lý HQ có GPLS</td>
+<td>Leader</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Review HĐ Full Setup — điều khoản subcontract</td>
+<td>Luật</td>
+<td>KIM-020</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Memo WTO logistics FDI (nếu TQ muốn góp logistics)</td>
+<td>Hermes</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Disclaimer: không cam kết 3 tháng nếu ngành đặc biệt</td>
+<td>Sản phẩm</td>
+<td>✅ trong A1 SOP</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></li>
+<li><a href="/docs/04-research/2026-07/legal-licenses">legal-licenses</a></li>
+<li><a href="/docs/03-departments/02-phap-ly/templates/00-index">templates MOU</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"02-phap-ly"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-licensed-entities"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Pháp nhân & giấy phép — Mô hình All-in-one"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Cấu trúc hợp pháp: LONGTV hub tư vấn + đối tác luật (GPLS) + đối tác logistics (WTO) — không vượt hành nghề."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/legal-g7-g8-relocation-exit","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Memo pháp lý — Di dời tỉnh (G7) & Giải thể FDI (G8)"}]]}],["$","$L2",null,{"href":"/docs/03-departments/03-kinh-doanh/investor-pitch-deck","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Investor Pitch Deck — Outline v1"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

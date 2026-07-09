@@ -1,0 +1,393 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T27c6,<h1>Số liệu FDI — Đào sâu &#x26; làm rõ thực trạng</h1>
+<blockquote>
+<p><strong>Mục đích:</strong> Phân biệt số liệu <strong>đã xác minh</strong> (nguồn công khai chính thức) vs <strong>suy diễn desk</strong> vs <strong>chưa có</strong> — tránh pitch sai cho khách TQ.</p>
+</blockquote>
+<p><strong>Ký hiệu tin cậy:</strong> 🟢 Chính thức · 🟡 Báo chí/secondary · 🔴 Desk/ước tính · ⚪ Chưa có — cần Sở</p>
+<hr>
+<h2>1. Toàn quốc — FDI Việt Nam</h2>
+<h3>1.1. Bảng số liệu đã xác minh</h3>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Kỳ</th>
+<th>Nguồn</th>
+<th>Tin cậy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tổng vốn FDI đăng ký</td>
+<td><strong>38,42 tỷ USD</strong></td>
+<td>Cả năm 2025</td>
+<td><a href="https://en.vietnamplus.vn/fdi-inflows-into-vietnam-exceed-38-billion-usd-in-2025-post335419.vnp">NSO / VietnamPlus</a></td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>FDI giải ngân</td>
+<td><strong>27,62 tỷ USD</strong> (+9% y/y)</td>
+<td>2025</td>
+<td>NSO</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Dự án cấp mới</td>
+<td><strong>4.054</strong> (+20,1% số lượng)</td>
+<td>2025</td>
+<td>NSO</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Vốn đăng ký mới (chỉ dự án mới)</td>
+<td><strong>17,32 tỷ USD</strong> (-12,2% giá trị)</td>
+<td>2025</td>
+<td>NSO</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>SX chế biến — vốn mới</td>
+<td><strong>9,8 tỷ USD</strong> (~56,5%)</td>
+<td>2025</td>
+<td>NSO</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td><strong>Trung Quốc — vốn mới</strong></td>
+<td><strong>3,64 tỷ USD</strong> (#2, 21%)</td>
+<td>2025</td>
+<td>NSO</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td><strong>Trung Quốc — số dự án mới</strong></td>
+<td><strong>1.275</strong> (#1 số lượng)</td>
+<td>2025</td>
+<td><a href="https://www.sitelocationadviser.com/2026/01/07/foreign-direct-investment-in-vietnam-2025/">Site Location Adviser</a></td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Vốn TB/dự án TQ</td>
+<td><strong>~4,1 triệu USD</strong></td>
+<td>2025</td>
+<td>Veridica analysis</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Tổng FDI đăng ký Q1/2026</td>
+<td><strong>>15,2 tỷ USD</strong> (+42,9%)</td>
+<td>Q1/2026</td>
+<td><a href="https://www.vietnam-briefing.com/news/vietnam-fdi-update-q1-2026-performance-and-key-trends.html/">Vietnam Briefing</a></td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>TQ — vốn đăng ký Q1/2026</td>
+<td><strong>828,3 triệu USD</strong></td>
+<td>Q1/2026</td>
+<td>Vietnam Briefing</td>
+<td>🟡</td>
+</tr>
+</tbody>
+</table>
+<h3>1.2. Đọc đúng số liệu (quan trọng cho LONGTV)</h3>
+<table>
+<thead>
+<tr>
+<th>Hiện tượng</th>
+<th>Ý nghĩa thực tế</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TQ <strong>#1 số dự án</strong>, #2 <strong>giá trị</strong></td>
+<td>Phù hợp phân khúc <strong>NM vừa &#x26; nhỏ</strong> (50–300 CN) — đúng persona LONGTV</td>
+</tr>
+<tr>
+<td>Vốn TB/dự án TQ <strong>thấp</strong> (~4M USD)</td>
+<td>Không cạnh tranh Big4 cho mega-project; cạnh tranh ở <strong>tư vấn entry + vận hành</strong></td>
+</tr>
+<tr>
+<td>Giải ngân <strong>cao hơn</strong> đăng ký mới</td>
+<td>Thị trường <strong>đang triển khai</strong> dự án cũ — nhu cầu G5 (vận hành) lớn</td>
+</tr>
+<tr>
+<td>Đăng ký mới giảm 12% nhưng số dự án tăng 20%</td>
+<td>Xu hướng <strong>nhiều deal nhỏ</strong> — gói A1/B1 hợp lý hơn A3 full</td>
+</tr>
+</tbody>
+</table>
+<h3>1.3. Chưa có (cần Sở / Cục ĐTNN)</h3>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI TQ <strong>theo tỉnh</strong> (TN, HP) chính thức</td>
+<td>⚪ Chưa có file — cần Sở</td>
+</tr>
+<tr>
+<td>Số NM TQ <strong>đang vận hành</strong> tại TN/HP</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>Tỷ lệ <strong>thoái vốn / giải thể</strong> NM TQ</td>
+<td>⚪</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Thái Nguyên — Làm rõ “#1 FDI”</h2>
+<h3>2.1. Số liệu công bố</h3>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Kỳ</th>
+<th>Nguồn</th>
+<th>Tin cậy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI mới cấp phép</td>
+<td><strong>5,409 tỷ USD</strong> (6 dự án mới)</td>
+<td>Q1/2026</td>
+<td><a href="https://www.vietnam.vn/en/giai-ma-suc-hut-cua-thai-nguyen-voi-dong-von-fdi">Vietnam.vn</a></td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Điều chỉnh tăng vốn</td>
+<td><strong>+307 triệu USD</strong> (4 dự án)</td>
+<td>Q1/2026</td>
+<td>Vietnam.vn</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>FDI mới 2 tháng đầu 2026</td>
+<td><strong>~1,7 tỷ USD</strong> (#1 cả nước)</td>
+<td>2T/2026</td>
+<td><a href="https://nhandan.vn/thai-nguyen-tro-thanh-diem-sang-phat-trien-cong-nghiep-cong-nghe-cao-nho-dong-von-fdi-post946838.html">Nhân Dân</a></td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Dự án bán dẫn Samsung</td>
+<td><strong>>4 tỷ USD</strong></td>
+<td>2026</td>
+<td>Vietnam.vn</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>MOU China Electronics Industry Development (Guangxi)</td>
+<td>Có — KCN Phú Bình</td>
+<td>2026</td>
+<td>Nhân Dân</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Dự án ô tô/xe máy điện HongKong LAI</td>
+<td>Phê duyệt — KCN Phú Bình</td>
+<td>2026</td>
+<td>Nhân Dân</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Tỷ lệ lấp đầy KCN</td>
+<td>~72%</td>
+<td>Desk trước</td>
+<td>🔴 cần verify</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Điều chỉnh chiến lược (không pitch sai)</h3>
+<table>
+<thead>
+<tr>
+<th>Quan niệm dễ sai</th>
+<th>Thực tế</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“TN #1 FDI = nhiều NM TQ nhỏ”</td>
+<td><strong>Sai một phần</strong> — Q1/2026 bị <strong>kéo bởi Samsung/Posco</strong> tỷ USD级</td>
+</tr>
+<tr>
+<td>“Vào TN dễ như các anchor”</td>
+<td>Anchor là <strong>Hàn/Đài/Nhật</strong>; NM TQ Tier 2–3 vào qua <strong>chuỗi phụ</strong> (điện tử, cơ khí)</td>
+</tr>
+<tr>
+<td>“LONGTV hút vốn lớn”</td>
+<td><strong>Không</strong> — LONGTV hút <strong>NM TQ 2–50 triệu USD</strong> cần site + thủ tục + hải quan</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Phân khúc SAM TN (ước tính desk 🔴):</strong></p>
+<ul>
+<li>15–30 dự án TQ mới/năm tại TN (quy mô &#x3C;50M USD)</li>
+<li>5–10 deal/năm phù hợp dịch vụ LONGTV (cần tư vấn song ngữ + Sở/KCN)</li>
+</ul>
+<h3>2.3. KCN &#x26; ngành (desk + nguồn báo chí)</h3>
+<table>
+<thead>
+<tr>
+<th>KCN</th>
+<th>Ngành ưu tiên</th>
+<th>Ghi chú NM TQ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Yên Bình</td>
+<td>Điện tử, cơ khí</td>
+<td>RQ Technology, supplier chain</td>
+</tr>
+<tr>
+<td>Phú Bình</td>
+<td>Điện tử, EV</td>
+<td>MOU Guangxi electronics</td>
+</tr>
+<tr>
+<td>Sông Công II</td>
+<td>Điện tử</td>
+<td>Dowooinsys điều chỉnh vốn</td>
+</tr>
+<tr>
+<td>Điềm Thụy</td>
+<td>Nhiều ngành</td>
+<td>Huali PVC</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>3. Hải Phòng</h2>
+<table>
+<thead>
+<tr>
+<th>Chỉ số</th>
+<th>Giá trị</th>
+<th>Kỳ</th>
+<th>Nguồn</th>
+<th>Tin cậy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI mới 2T/2026</td>
+<td><strong>133,2 triệu USD</strong> (xếp ~#10)</td>
+<td>2T/2026</td>
+<td>Nhân Dân (bảng tỉnh)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>FDI mới 6T/2026 (desk cũ)</td>
+<td>>1,7 tỷ USD (#3)</td>
+<td>6T/2026</td>
+<td>Vietnam.vn</td>
+<td>🟡 — <strong>mâu thuẫn kỳ</strong></td>
+</tr>
+<tr>
+<td>Điểm mạnh</td>
+<td>Cảng Lạch Huyện, Nam Đình Vũ</td>
+<td>Desk</td>
+<td>🟢 logic</td>
+<td></td>
+</tr>
+<tr>
+<td>NM TQ điện tử xuất khẩu</td>
+<td>Nhiều (desk)</td>
+<td>—</td>
+<td>🔴</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận HP:</strong> Số liệu <strong>theo kỳ báo cáo khác nhau</strong> — khi tư vấn khách phải ghi <em>"theo số liệu công bố [tháng/năm]"</em>. HP mạnh <strong>logistics + xuất khẩu</strong>, không cạnh TN về vốn mới từng quý.</p>
+<hr>
+<h2>4. Trung Quốc — Hành vi đầu tư (desk + nguồn phân tích)</h2>
+<table>
+<thead>
+<tr>
+<th>Xu hướng</th>
+<th>Bằng chứng</th>
+<th>Ý nghĩa dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>China+1 / dịch chuyển sản xuất</td>
+<td>1.275 dự án TQ 2025</td>
+<td>G1–G4: entry services</td>
+</tr>
+<tr>
+<td>Deal nhỏ, nhiều lô</td>
+<td>TB 4,1M USD/dự án</td>
+<td>Gói modular A1→B1→B2, không bán “all-in”</td>
+</tr>
+<tr>
+<td>Chuỗi cung ứng điện tử</td>
+<td>Veridica, NSO sector data</td>
+<td>G5: hải quan NVL, EPE</td>
+</tr>
+<tr>
+<td>Geopolitics / thuế Mỹ</td>
+<td>Persona pain</td>
+<td>G1 messaging</td>
+</tr>
+<tr>
+<td>Một số NM <strong>thoái/chuyển tỉnh</strong></td>
+<td>Chưa có số VN</td>
+<td><strong>G7/G8 — gap thị trường</strong> ít đối thủ</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>5. Ma trận tin cậy — dùng trong báo cáo A1</h2>
+<table>
+<thead>
+<tr>
+<th>Loại số liệu</th>
+<th>Cách đưa vào báo cáo khách</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🟢 NSO/GSO</td>
+<td>Trích dẫn trực tiếp + link</td>
+</tr>
+<tr>
+<td>🟡 Báo chí</td>
+<td>“Theo báo cáo [tên], chưa đối chiếu Cục ĐTNN”</td>
+</tr>
+<tr>
+<td>🔴 Desk</td>
+<td>“Ước tính nội bộ LONGTV — cần xác nhận trước cam kết”</td>
+</tr>
+<tr>
+<td>⚪ Chưa có</td>
+<td>Không đưa số; ghi “sẽ cập nhật sau làm việc Sở”</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>6. Việc tiếp theo (field)</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Sở KH&#x26;ĐT TN: FDI TQ theo quốc gia 2024–2026</li>
+<li class="task-list-item"><input type="checkbox" disabled> Sở KH&#x26;ĐT HP: cùng bộ số</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ban QLKCN: giá đất Q3/2026 (USD/m²)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cục Đầu tư nước ngoài: export file theo tỉnh (nếu có)</li>
+</ul>
+<p><strong>Cập nhật file gốc:</strong> <a href="fdi-data">fdi-data</a> — merge số đã verify khi có Sở.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-research"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"2026-07"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-data-deep-dive"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"research"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"CL-004b — Số liệu FDI đào sâu & mức tin cậy"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Làm rõ số liệu Giai đoạn 00-1: nguồn chính thức, điều chỉnh hiểu đúng, phân khúc NM TQ."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/thai-nguyen-fdi-policy","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"CL-002 — Chính sách FDI Thái Nguyên & đối tác Sở KH&ĐT"}]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-market-memo","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Memo tiềm năng thị trường — Giai đoạn 00-1"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

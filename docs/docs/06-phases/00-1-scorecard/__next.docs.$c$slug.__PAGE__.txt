@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Ta3e,<h1>Scorecard tiềm năng — Giai đoạn 00-1</h1>
+<blockquote>
+<p>Ngưỡng đề xuất <strong>Go:</strong> ≥ 35/50 · <strong>Ngày chấm:</strong> 2026-07-09</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Tiêu chí</th>
+<th>Điểm</th>
+<th>Giải thích ngắn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quy mô thị trường FDI TQ→VN (miền Bắc)</td>
+<td><strong>4</strong></td>
+<td>TQ #2 nguồn vốn 2025; FDI 6T/2026 kỷ lục</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nhu cầu cụ thể tại TN + HP</td>
+<td><strong>4</strong></td>
+<td>TN #1 FDI mới; HP #3 + cảng; desk research mạnh</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Khoảng trống vs đối thủ</td>
+<td><strong>3</strong></td>
+<td>Đông đối thủ; niche Tier 2–3 TQ + Oz tools</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Khách mục tiêu rõ (persona)</td>
+<td><strong>4</strong></td>
+<td><a href="/docs/03-departments/03-kinh-doanh/persona-v1">persona-v1</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sẵn sàng trả phí (pricing)</td>
+<td><strong>3</strong></td>
+<td>Khung giá draft; chưa validate khách thật</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Catalog phủ ≥80% hành trình FDI</td>
+<td><strong>4</strong></td>
+<td>~82% ✅/🤝 trên journey map</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Pháp lý &#x26; giấy phép khả thi</td>
+<td><strong>4</strong></td>
+<td>CTCP path rõ; mã 7020 OK; luật qua đối tác</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vốn 2 tỷ đủ 6–12 tháng</td>
+<td><strong>5</strong></td>
+<td>Burn 270–750 tr &#x3C;&#x3C; 2 tỷ</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Lợi thế CTCP + tập đoàn TQ</td>
+<td><strong>3</strong></td>
+<td>Hướng chốt QĐ #003; % cổ đông chưa điền</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Rủi ro chấp nhận được</td>
+<td><strong>4</strong></td>
+<td>Plan B có; rủi ro Sở/KCN quản lý được</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TỔNG</strong></td>
+<td><strong>38/50</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Kết luận</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> <strong>Go + Adjust</strong> — Sang Giai đoạn 2 với phạm vi thu hẹp:
+<ul>
+<li>Bán: <strong>A1 + B1</strong> (không A3/B3 scale đầu)</li>
+<li>2 tỉnh giữ nguyên</li>
+<li>Virtual office + 2 sales</li>
+</ul>
+</li>
+<li class="task-list-item"><input type="checkbox" disabled> No-Go</li>
+<li class="task-list-item"><input type="checkbox" disabled> Adjust mạnh (chỉ 1 tỉnh)</li>
+</ul>
+<p><strong>Leader ký:</strong> <em>Chờ Sếp Thắng</em> → <a href="/docs/decisions/005-phase-00-1-go">QĐ #005</a></p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-scorecard"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Scorecard tiềm năng 00-1"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"10 tiêu chí chấm điểm — tổng 38/50, đề xuất Go + Adjust."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I5sTpNvMpMM-BwO-9Q4rQ"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/decisions/003-strategy-july-2026","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #003 — Chiến lược cốt lõi tháng 7/2026"}]]}],["$","$L2",null,{"href":"/docs/decisions/004-content-pipeline","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Quyết định #004 — Chuẩn hóa pipeline content → web → deploy"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

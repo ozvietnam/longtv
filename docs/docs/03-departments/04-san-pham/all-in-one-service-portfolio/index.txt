@@ -1,0 +1,472 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[89759,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MobileNav"]
+4:I[39756,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+e:I[68027,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/longtv/_next/static/chunks/39fwajqehek4j.css","style"]
+:HL["/longtv/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/longtv/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","03-departments","04-san-pham","all-in-one-service-portfolio",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","03-departments/04-san-pham/all-in-one-service-portfolio","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/longtv/_next/static/chunks/0g5aankrz05z-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/longtv/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"border-b border-[var(--border)] bg-white sticky top-0 z-50","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 h-16 flex items-center justify-between relative","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"text-xl font-bold tracking-tight","children":["Long",["$","span",null,{"className":"text-[var(--accent)]","children":"TV"}]]}],["$","span",null,{"className":"hidden sm:inline-flex text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-[var(--accent-soft)] text-[var(--accent)]","children":"00-1"}]]}],["$","nav",null,{"className":"hidden md:flex items-center gap-5 text-sm","children":[["$","$L2","/kim",{"href":"/kim","className":"font-semibold text-[var(--accent)] hover:opacity-80","children":"Thư ký Kim"}],["$","$L2","/docs/06-phases/00-1-feasibility-plan",{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)] font-medium","children":"00-1"}],["$","$L2","/services",{"href":"/services","className":"hover:text-[var(--accent)] font-medium","children":"Dịch vụ"}],["$","$L2","/operations",{"href":"/operations","className":"hover:text-[var(--accent)] font-medium","children":"Vận hành"}],["$","$L2","/roadmap",{"href":"/roadmap","className":"hover:text-[var(--accent)] font-medium","children":"Lộ trình"}],["$","$L2","/departments",{"href":"/departments","className":"hover:text-[var(--accent)] font-medium","children":"Phòng ban"}],["$","$L2","/docs",{"href":"/docs","className":"hover:text-[var(--accent)] font-medium","children":"Tài liệu"}]]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-white","children":["$","div",null,{"className":"max-w-6xl mx-auto px-6 py-8","children":[["$","div",null,{"className":"grid sm:grid-cols-3 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-bold mb-2","children":"LongTV"}],["$","p",null,{"className":"text-sm text-[var(--muted)] leading-relaxed","children":"Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ."}]]}],"$L6","$L7"]}],"$L8"]}]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"I5sTpNvMpMM-BwO-9Q4rQ"}
+11:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+17:I[97367,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Truy cập"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","$L2",null,{"href":"/kim","className":"hover:text-[var(--accent)] font-medium text-[var(--accent)]","children":"Thư ký Kim — việc cần người"}],["$","$L2",null,{"href":"/services","className":"hover:text-[var(--accent)]","children":"Dịch vụ"}],["$","$L2",null,{"href":"/operations","className":"hover:text-[var(--accent)]","children":"Bảng vận hành"}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"hover:text-[var(--accent)]","children":"Giai đoạn 00-1"}]]}]]}]
+7:["$","div",null,{"children":[["$","div",null,{"className":"text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3","children":"Repo"}],["$","a",null,{"href":"https://github.com/ozvietnam/longtv","className":"text-sm hover:text-[var(--accent)]","target":"_blank","rel":"noopener noreferrer","children":"github.com/ozvietnam/longtv ↗"}]]}]
+8:["$","div",null,{"className":"text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]","children":["Build ","local"," ·"," ","2026-07-09"]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+c:"$W14"
+d:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/longtv/_next/static/chunks/39fwajqehek4j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:T2925,<h1>All-in-One — Chi tiết khung dịch vụ</h1>
+<blockquote>
+<p><strong>Chuỗi giá trị:</strong> <em>Từ khi NĐT Trung Quốc khảo sát đất → container nguyên vật liệu đầu tiên thông quan vào nhà máy.</em></p>
+<p><strong>Thiết kế:</strong> Ba giai đoạn liên hoàn, một PM LONGTV điều phối — trụ pháp lý &#x26; logistics qua <strong>đối tác có giấy phép</strong> (<a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">licensed-entities</a>).</p>
+</blockquote>
+<hr>
+<h2>Sơ đồ chuỗi giá trị</h2>
+<pre><code>[KHẢO SÁT &#x26; PHÁP LÝ] ──► [THÀNH LẬP &#x26; XÂY DỰNG] ──► [VẬN HÀNH &#x26; LOGISTICS]
+     G0–G2                    G3–G4                      G5+
+  · Khảo sát địa điểm        · IRC / ERC                  · Đại lý hải quan
+  · Pre-FS / A1              · ĐTM / PCCC                 · Vận tải nội địa / quốc tế
+  · So sánh KCN              · Work permit / TRC          · Kho · repack · labeling
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Giai đoạn chuỗi</th>
+<th>Tuần (mục tiêu)</th>
+<th>Gói LONGTV</th>
+<th>SLA khách thấy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khảo sát &#x26; pháp lý</td>
+<td>1–4</td>
+<td>A0, A1, A2</td>
+<td>Báo cáo + chọn tỉnh/KCN</td>
+</tr>
+<tr>
+<td>Thành lập &#x26; xây dựng</td>
+<td>5–10</td>
+<td>B2, bundle</td>
+<td>IRC + ERC + sub-license</td>
+</tr>
+<tr>
+<td>Vận hành &#x26; logistics</td>
+<td>11–12+</td>
+<td>B1, B3, C1</td>
+<td>Tờ khai đầu + lô NVL vào NM</td>
+</tr>
+</tbody>
+</table>
+<p><em>Tổng mục tiêu Full Setup: <strong>~12 tuần</strong> — <a href="/docs/03-departments/01-chien-luoc/all-in-one-service-complex">all-in-one-service-complex</a></em></p>
+<hr>
+<h2>Trụ cột 1: Tư vấn chiến lược &#x26; Khảo sát ban đầu</h2>
+<h3>1.1. Khảo sát địa điểm (Site Selection)</h3>
+<table>
+<thead>
+<tr>
+<th>Tỉnh</th>
+<th>KCN / khu trọng điểm</th>
+<th>Ngành phù hợp</th>
+<th>Mã dịch vụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hải Phòng</strong></td>
+<td>DEEP C, VSIP HP, <strong>Nam Đình Vũ</strong>, Tràng Duệ</td>
+<td>Logistics biển, cơ khí, ô tô phụ trợ</td>
+<td>A1-HP, A2</td>
+</tr>
+<tr>
+<td><strong>Thái Nguyên</strong></td>
+<td><strong>Yên Bình</strong>, Sông Công I &#x26; II, Điềm Thụy</td>
+<td>Điện tử, linh kiện, phụ trợ</td>
+<td>A1-TN, A2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Deliverable Site Selection (trong A1/A2):</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Hạng mục</th>
+<th>Nội dung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quỹ đất / nhà xưởng</td>
+<td>Giá desk + <strong>field verify</strong> (Hermes call KCN)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hạ tầng</td>
+<td>Điện, nước, giao thông, khoảng cách cảng/cửa khẩu</td>
+</tr>
+<tr>
+<td>3</td>
+<td>So sánh ≥2 KCN</td>
+<td>Bảng điểm: chi phí · ngành · logistics · lao động</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Khuyến nghị</td>
+<td>TN vs HP vs split (sản xuất TN + cảng HP)</td>
+</tr>
+</tbody>
+</table>
+<p>SOP: <a href="/docs/07-operations/sop-a1-desk-research">sop-a1-desk-research</a></p>
+<h3>1.2. Báo cáo Pre-Feasibility (Pre-FS)</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục phân tích</th>
+<th>Nguồn dữ liệu</th>
+<th>Độ tin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chi phí lao động bình quân</td>
+<td>Sở LĐTBXH / KCN</td>
+<td>🟡 Field</td>
+</tr>
+<tr>
+<td>Chi phí điện, nước công nghiệp</td>
+<td>EVN, KCN</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td><strong>CIT</strong> ưu đãi theo KCN/KKT</td>
+<td>Sở KH&#x26;ĐT, ban QLKCN</td>
+<td>🟡 Field</td>
+</tr>
+<tr>
+<td>So sánh TQ vs VN (landed cost)</td>
+<td>Desk + khách</td>
+<td>🟡</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Output:</strong> Phụ lục Pre-FS 8–12 trang (tiếng Trung + Việt) — nằm trong <strong>A1 nâng cao</strong> hoặc <strong>A2</strong>.</p>
+<p><strong>Liên kết UNIDO Bước 1:</strong> <a href="/docs/06-phases/investor-pack/03-investment-project-5-steps">03-investment-project-5-steps</a></p>
+<hr>
+<h2>Trụ cột 2: Pháp lý trọn gói (Legal Setup)</h2>
+<blockquote>
+<p>LONGTV <strong>PM hồ sơ</strong> — ký pháp lý qua <strong>Công ty Luật</strong> (GPLS).</p>
+</blockquote>
+<h3>2.1. Thủ tục đầu tư cốt lõi</h3>
+<table>
+<thead>
+<tr>
+<th>Thủ tục</th>
+<th>Mô tả</th>
+<th>Owner thực thi</th>
+<th>Mã</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IRC</strong></td>
+<td>Giấy chứng nhận đăng ký đầu tư</td>
+<td>Luật đối tác</td>
+<td>B2</td>
+</tr>
+<tr>
+<td><strong>ERC</strong></td>
+<td>Giấy chứng nhận đăng ký DN</td>
+<td>Luật đối tác</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>MST, hóa đơn điện tử</td>
+<td>Sau ERC</td>
+<td>PM LONGTV</td>
+<td>B2</td>
+</tr>
+<tr>
+<td>Tài khoản, con dấu</td>
+<td>Ngân hàng</td>
+<td>Khách + PM</td>
+<td>B2</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2. Giấy phép chuyên ngành (Sub-licenses)</h3>
+<table>
+<thead>
+<tr>
+<th>Giấy phép</th>
+<th>Đặc thù</th>
+<th>Tỉnh nhạy cảm</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ĐTM</strong> / Giấy phép môi trường</td>
+<td>Bắt buộc nhiều ngành SX</td>
+<td><strong>TN</strong> (điện tử, xi mạ)</td>
+<td>Partner môi trường</td>
+</tr>
+<tr>
+<td><strong>PCCC</strong></td>
+<td>Thẩm duyệt + nghiệm thu</td>
+<td>Cả hai</td>
+<td>Luật + tư vấn PCCC</td>
+</tr>
+<tr>
+<td>Giấy phép xây dựng</td>
+<td>Nếu xây mới</td>
+<td>HP KKT</td>
+<td>Qua KCN</td>
+</tr>
+<tr>
+<td><strong>EPE</strong> (DN chế xuất)</td>
+<td>Miễn VAT, NK trong phi thuế quan</td>
+<td><strong>TN</strong></td>
+<td><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">hp-tn-matrix</a></td>
+</tr>
+</tbody>
+</table>
+<h3>2.3. Pháp lý nhân sự ngoại bang</h3>
+<table>
+<thead>
+<tr>
+<th>Hạng mục</th>
+<th>Đối tượng</th>
+<th>LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Công văn nhu cầu LĐ nước ngoài</td>
+<td>Chuyên gia TQ</td>
+<td>PM + luật</td>
+</tr>
+<tr>
+<td><strong>Work Permit</strong></td>
+<td>Quản lý TQ</td>
+<td>Add-on B2</td>
+</tr>
+<tr>
+<td><strong>TRC</strong> (tạm trú)</td>
+<td>Gia đình / chuyên gia</td>
+<td>Add-on</td>
+</tr>
+<tr>
+<td>GPLĐ người NN</td>
+<td>Lao động kỹ thuật</td>
+<td><a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a></td>
+</tr>
+</tbody>
+</table>
+<p>Template: <a href="/docs/03-departments/02-phap-ly/templates/00-index">templates pháp lý</a></p>
+<hr>
+<h2>Trụ cột 3: Logistics &#x26; Chuỗi cung ứng</h2>
+<blockquote>
+<p>Giai đoạn 1: <strong>MOU đại lý HQ</strong> — LONGTV không tự khai ECUS nếu chưa đủ điều kiện.</p>
+</blockquote>
+<h3>3.1. Đại lý Hải quan (Customs Brokerage)</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>Chi tiết</th>
+<th>Công cụ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Khai báo XNK</td>
+<td>Tờ khai nhập NVL, máy móc</td>
+<td>ECUS5-VNACCS (đối tác)</td>
+</tr>
+<tr>
+<td><strong>HS code</strong></td>
+<td>Máy cũ/mới, tài sản cố định</td>
+<td>Chuyên viên chứng từ</td>
+</tr>
+<tr>
+<td>Miễn thuế NK TSCĐ</td>
+<td>Theo luật — hồ sơ chuẩn</td>
+<td>Luật + HQ</td>
+</tr>
+<tr>
+<td>Kiểm tra chuyên ngành</td>
+<td>BYT, BCT, BNN…</td>
+<td>Ops hiện trường</td>
+</tr>
+</tbody>
+</table>
+<p>SOP: <a href="/docs/07-operations/sop-b1-on-site">sop-b1-on-site</a></p>
+<h3>3.2. Vận tải đa phương thức</h3>
+<table>
+<thead>
+<tr>
+<th>Tuyến</th>
+<th>Hạng mục</th>
+<th>Đối tác</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Biển — HP</strong></td>
+<td>Lạch Huyện / Đình Vũ → KCN / NM</td>
+<td>Forwarder + kéo container</td>
+</tr>
+<tr>
+<td><strong>Bộ — TN</strong></td>
+<td>Lạng Sơn (Hữu Nghị, Tân Thanh), Móng Cái → cao tốc TN</td>
+<td>Vận tải nội địa</td>
+</tr>
+<tr>
+<td><strong>Nội địa</strong></td>
+<td>KCN ↔ kho ↔ cảng</td>
+<td>TMS (Y2+)</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3. Quản lý kho bãi</h3>
+<table>
+<thead>
+<tr>
+<th>Dịch vụ</th>
+<th>HP</th>
+<th>TN</th>
+<th>Giai đoạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lưu kho</td>
+<td>Kho cảng / ICD</td>
+<td>Consolidation warehouse</td>
+<td>Y2 MOU</td>
+</tr>
+<tr>
+<td><strong>Repacking</strong></td>
+<td>Theo lô</td>
+<td>Theo lô</td>
+<td>Đối tác</td>
+</tr>
+<tr>
+<td><strong>Labeling</strong> nhãn phụ VN</td>
+<td>Bắt buộc nhiều mặt hàng TQ→VN</td>
+<td></td>
+<td>Add-on B3</td>
+</tr>
+<tr>
+<td>WMS tracking</td>
+<td>Real-time cho khách</td>
+<td></td>
+<td><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">tech-infrastructure</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Ma trận gói bán ↔ trụ cột</h2>
+<table>
+<thead>
+<tr>
+<th>Gói / Bundle</th>
+<th>Trụ 1</th>
+<th>Trụ 2</th>
+<th>Trụ 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A1 Khởi đầu</td>
+<td>✅</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Xuất khẩu HP</td>
+<td>✅</td>
+<td>—</td>
+<td>🟡 intro</td>
+</tr>
+<tr>
+<td><strong>Full Setup</strong></td>
+<td>✅</td>
+<td>✅</td>
+<td>✅ B1</td>
+</tr>
+<tr>
+<td>C1 Retainer</td>
+<td>🟡</td>
+<td>🟡</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<p>Giá: <a href="/docs/03-departments/03-kinh-doanh/pricing-official">pricing-official</a> · Catalog: <a href="service-catalog-v1">service-catalog-v1</a></p>
+<hr>
+<h2>Checklist PM một cửa (mỗi khách)</h2>
+<table>
+<thead>
+<tr>
+<th>Milestone</th>
+<th>Trụ</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>M1 Site shortlist</td>
+<td>1</td>
+<td>A1 PDF</td>
+</tr>
+<tr>
+<td>M2 IRC nộp</td>
+<td>2</td>
+<td>Biên nhận</td>
+</tr>
+<tr>
+<td>M3 ERC + MST</td>
+<td>2</td>
+<td>Scan GCN</td>
+</tr>
+<tr>
+<td>M4 ĐTM/PCCC (nếu cần)</td>
+<td>2</td>
+<td>Số GP</td>
+</tr>
+<tr>
+<td>M5 Tờ khai HQ #1</td>
+<td>3</td>
+<td>Số tờ khai</td>
+</tr>
+<tr>
+<td>M6 Container #1 vào NM</td>
+<td>3</td>
+<td>Phiếu giao hàng</td>
+</tr>
+</tbody>
+</table>
+<p>→ CRM stage map: <a href="/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure">all-in-one-tech-infrastructure</a> § CRM</p>
+<hr>
+<h2>Liên kết</h2>
+<ul>
+<li><a href="/docs/07-operations/all-in-one-operational-manual">Operational Manual</a></li>
+<li><a href="/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix">Headcount &#x26; org</a></li>
+<li><a href="/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix">HP vs TN matrix</a></li>
+</ul>
+10:["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"all-in-one-service-portfolio"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Xương sống dịch vụ: từ khảo sát đất đến container NVL đầu tiên thông quan — 3 trụ cột liên hoàn."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}]
+1a:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/service-catalog-v1","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Service catalog v1 — Dịch vụ theo vòng đời NM TQ tại VN"}]]}],["$","$L2",null,{"href":"/docs/03-departments/05-van-hanh-tc/break-even-analysis","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phân tích hòa vốn — LONGTV"}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/longtv/_next/static/chunks/0g5aankrz05z-.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+13:null
+18:[["$","title","0",{"children":"All-in-One — Chi tiết khung dịch vụ (Service Portfolio) · LongTV"}],["$","meta","1",{"name":"description","content":"Xương sống dịch vụ: từ khảo sát đất đến container NVL đầu tiên thông quan — 3 trụ cột liên hoàn."}],["$","link","2",{"rel":"icon","href":"/longtv/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","3",{}]]
