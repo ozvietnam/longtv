@@ -59,6 +59,8 @@ author: "Cursor · Tư vấn nội bộ"
 
 ## Bước 2: Thiết kế giải pháp kỹ thuật & Mô hình vận hành
 
+> **Bộ xương sống đầy đủ:** [Operational Manual](/docs/07-operations/all-in-one-operational-manual) (I–IV)
+
 ### 2.1. Lõi dịch vụ — ba trụ cột
 
 | Trụ | Thiết kế | Tài liệu |
@@ -199,5 +201,6 @@ author: "Cursor · Tư vấn nội bộ"
 ## Liên kết
 
 - [Investor pack index](00-index)
+- [**Operational Manual**](/docs/07-operations/all-in-one-operational-manual)
 - [All-in-one service complex](/docs/03-departments/01-chien-luoc/all-in-one-service-complex)
 - [/kim](/kim)

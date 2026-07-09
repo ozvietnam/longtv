@@ -162,10 +162,12 @@ SOP: [sop-a1-desk-research](/docs/07-operations/sop-a1-desk-research) · [sop-b1
 | Bước UNIDO | Tài liệu LONGTV |
 |------------|-----------------|
 | 1 Pre-feasibility | Tài liệu này + [00-1-market-memo](/docs/06-phases/00-1-market-memo) |
-| 2 Technical & ops design | [fdi-lifecycle-full-map](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map) + SOP |
+| 2 Technical & ops design | [**Operational Manual**](/docs/07-operations/all-in-one-operational-manual) |
 | 3 Detailed FS | [financial-model-3yr](/docs/03-departments/05-van-hanh-tc/financial-model-3yr) + [fs-metrics](/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics) |
 | 4 Risk | [investor-pack/03-investment-project-5-steps](../investor-pack/03-investment-project-5-steps) § Bước 4 |
 | 5 Appraisal | [investment-verdict](/docs/06-phases/investor-pack/00-investment-verdict) + QĐ #005 |
+
+**Chi tiết xương sống:** [Service portfolio](/docs/03-departments/04-san-pham/all-in-one-service-portfolio) · [Headcount](/docs/03-departments/05-van-hanh-tc/all-in-one-headcount-matrix) · [Tech](/docs/03-departments/05-van-hanh-tc/all-in-one-tech-infrastructure) · [HP/TN matrix](/docs/03-departments/01-chien-luoc/hp-tn-operational-matrix)
 
 ---
 
@@ -182,4 +184,5 @@ LONGTV CTCP **không** tự thay Công ty Luật hay công ty logistics có GP �
 - [ ] Hermes: verify CIT KKT Đình Vũ–Cát Hải 2026 (HP)
 - [ ] Call Ban QLKCN Yên Bình + Nam Đình Vũ (KIM-012, 013)
 - [ ] MOU 1 công ty luật + 1 đại lý HQ (KIM-020, 050)
-- [ ] Pilot 1 khách Full Setup — đo timeline thực vs 3 tháng
+- [ ] Pilot 1 khách Full Setup — đo timeline thực vs 3 tháng (KIM-078)
+- [ ] Operational Manual: [all-in-one-operational-manual](/docs/07-operations/all-in-one-operational-manual)

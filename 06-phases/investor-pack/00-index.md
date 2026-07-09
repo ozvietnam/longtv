@@ -31,6 +31,7 @@ author: "Cursor · Tư vấn nội bộ"
 | 11 | [Quy trình 5 bước UNIDO/World Bank](03-investment-project-5-steps) | Lập dự án đầu tư chuẩn |
 | 12 | [NPV / IRR / Payback (FS)](/docs/03-departments/05-van-hanh-tc/feasibility-study-fs-metrics) | Thẩm định tài chính |
 | 13 | [Pháp nhân & giấy phép All-in-one](/docs/03-departments/02-phap-ly/all-in-one-licensed-entities) | Compliance VN |
+| 14 | [**Operational Manual** All-in-One](/docs/07-operations/all-in-one-operational-manual) | Xương sống vận hành I–IV |
 
 ---
 

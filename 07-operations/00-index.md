@@ -14,6 +14,7 @@ author: "Cursor"
 
 | Mã | Tài liệu | Gói | Trạng thái |
 |----|----------|-----|------------|
+| **OM** | [**All-in-One Operational Manual**](all-in-one-operational-manual) | Full | ✅ v1 |
 | SOP-A1 | [Khảo sát desk](sop-a1-desk-research) | A1 | ✅ v1 |
 | SOP-B1 | [On-site + hải quan starter](sop-b1-on-site) | B1 | ✅ v1 |
 

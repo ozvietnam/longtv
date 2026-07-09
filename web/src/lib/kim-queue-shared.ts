@@ -62,6 +62,6 @@ export const JOB_CATEGORIES = [
   {
     id: "allinone",
     label: "All-in-one / UNIDO",
-    ids: ["KIM-076", "KIM-077", "KIM-078"],
+    ids: ["KIM-076", "KIM-077", "KIM-078", "KIM-079"],
   },
 ];
