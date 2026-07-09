@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { RelatedPagesGrid } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import {
   COLLECTION_STEPS,
   topicLabel,
@@ -326,6 +328,8 @@ export function LibraryPageContent({ shelves, sources, backlog, stats }: Props) 
           Backlog đầy đủ (markdown) →
         </Link>
       </section>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/cam-nang"]} />
 
       {/* Liên kết */}
       <section className="flex flex-wrap gap-3 pt-4 border-t border-[var(--border)]">

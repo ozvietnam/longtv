@@ -31,31 +31,6 @@ export const LOGISTICS_PRICING_GROUPS = [
   { key: "co", label: "C/O xuất khẩu", codes: ["L-CO-01"] },
 ] as const;
 
-/** Liên kết nội bộ — gắn logistics với Giai đoạn 00-1 */
-export const LOGISTICS_INTERNAL_LINKS = {
-  phase001: {
-    href: "/assessment",
-    eyebrow: "Giai đoạn 00-1 · Shareholder briefing",
-    title: "Đánh giá tiềm năng & khả thi",
-    desc: "Dashboard scorecard 38/50 · số liệu FDI · kết luận Go + Adjust",
-  },
-  feasibilityPlan: {
-    href: "/docs/06-phases/00-1-feasibility-plan",
-    title: "Kế hoạch 00-1 (markdown)",
-    desc: "4 trụ cột · desk research · Hermes",
-  },
-  financialModel: {
-    href: "/docs/03-departments/05-van-hanh-tc/financial-model-3yr",
-    title: "Financial model 3 năm",
-    desc: "Đối chiếu DT/GP logistics với Base case",
-  },
-  phases: {
-    href: "/phases",
-    title: "Lộ trình các giai đoạn",
-    desc: "00-1 → Giai đoạn 2 lean launch",
-  },
-} as const;
-
 export const LOGISTICS_WORKFLOW = [
   {
     step: 1,

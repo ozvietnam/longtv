@@ -6,7 +6,6 @@ import {
   LOGISTICS_6M_TOTALS,
   LOGISTICS_FAQ,
   LOGISTICS_HERO,
-  LOGISTICS_INTERNAL_LINKS,
   LOGISTICS_PAGE_SECTIONS,
   LOGISTICS_PRICING_GROUPS,
   LOGISTICS_RAMP_MONTHS,
@@ -22,6 +21,8 @@ import {
   PER_EXPORT_CONT,
   PER_IMPORT_CONT,
 } from "@/lib/logistics";
+import { Phase001Banner, RelatedPagesGrid, StickyPageNav } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import { getServiceById, TIER_STYLES, type ServiceItem } from "@/lib/services";
 
 function formatMillion(vnd: number) {
@@ -108,43 +109,8 @@ export function LogisticsPageContent() {
         </div>
       </header>
 
-      {/* Liên kết nội bộ — Giai đoạn 00-1 */}
-      <aside className="mb-8 p-5 md:p-6 rounded-2xl border border-[var(--accent)]/25 bg-gradient-to-br from-[var(--accent)]/5 to-white">
-        <p className="text-[10px] font-semibold uppercase tracking-widest text-[var(--accent)] mb-2">
-          {LOGISTICS_INTERNAL_LINKS.phase001.eyebrow}
-        </p>
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-          <div>
-            <Link
-              href={LOGISTICS_INTERNAL_LINKS.phase001.href}
-              className="text-xl md:text-2xl font-bold text-[var(--foreground)] hover:text-[var(--accent)] transition-colors"
-            >
-              {LOGISTICS_INTERNAL_LINKS.phase001.title} →
-            </Link>
-            <p className="text-sm text-[var(--muted)] mt-1 max-w-xl">{LOGISTICS_INTERNAL_LINKS.phase001.desc}</p>
-          </div>
-          <div className="flex flex-wrap gap-2 shrink-0">
-            <Link
-              href={LOGISTICS_INTERNAL_LINKS.feasibilityPlan.href}
-              className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] bg-white text-sm font-medium hover:border-[var(--accent)]"
-            >
-              {LOGISTICS_INTERNAL_LINKS.feasibilityPlan.title}
-            </Link>
-            <Link
-              href={LOGISTICS_INTERNAL_LINKS.financialModel.href}
-              className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] bg-white text-sm font-medium hover:border-[var(--accent)]"
-            >
-              Financial model
-            </Link>
-            <Link
-              href={LOGISTICS_INTERNAL_LINKS.phases.href}
-              className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] bg-white text-sm font-medium hover:border-[var(--accent)]"
-            >
-              Lộ trình giai đoạn
-            </Link>
-          </div>
-        </div>
-      </aside>
+      {/* Liên kết 00-1 */}
+      <Phase001Banner />
 
       {/* Sticky nav */}
       <nav className="sticky top-0 z-10 -mx-6 px-6 py-3 mb-10 bg-[var(--background)]/95 backdrop-blur border-b border-[var(--border)]">
@@ -539,6 +505,8 @@ export function LogisticsPageContent() {
           </div>
         </div>
       </section>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/logistics"]} />
     </>
   );
 }

@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { PageSection, Phase001Banner, RelatedPagesGrid, StickyPageNav } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import {
   LIFECYCLE_PHASES,
   SERVICE_FAMILIES,
@@ -140,6 +142,14 @@ function PhaseSection({ phase, defaultOpen }: { phase: LifecyclePhase; defaultOp
   );
 }
 
+const SERVICE_SECTIONS = [
+  { id: "tong-quan", label: "Tổng quan" },
+  { id: "goi-pho-bien", label: "Gói phổ biến" },
+  { id: "hau-can", label: "Hậu cần" },
+  { id: "giai-doan", label: "Theo giai đoạn" },
+  { id: "lo-trinh", label: "Lộ trình" },
+] as const;
+
 export function ServicesPageContent() {
   const [activePhase, setActivePhase] = useState<string | "all">("all");
   const featured = SERVICES.filter((s) => s.featured);
@@ -187,11 +197,12 @@ export function ServicesPageContent() {
         </div>
       </header>
 
+      <Phase001Banner />
+      <StickyPageNav sections={SERVICE_SECTIONS} />
+
       {/* Lifecycle diagram */}
-      <section className="mb-12 p-6 rounded-2xl border border-[var(--border)] bg-white overflow-x-auto">
-        <h2 className="text-sm font-semibold uppercase tracking-wider text-[var(--muted)] mb-4">
-          Vòng đời nhà máy đầu tư nước ngoài (FDI) từ Trung Quốc tại Việt Nam
-        </h2>
+      <PageSection id="tong-quan" title="Vòng đời FDI" desc="9 giai đoạn — chọn giai đoạn để lọc danh mục bên dưới.">
+      <div className="p-6 rounded-2xl border border-[var(--border)] bg-white overflow-x-auto">
         <div className="flex items-stretch gap-1 min-w-[720px]">
           {LIFECYCLE_PHASES.map((p, i) => (
             <div key={p.id} className="flex items-stretch flex-1 min-w-0">
@@ -242,27 +253,24 @@ export function ServicesPageContent() {
             </button>
           ))}
         </div>
-      </section>
+      </div>
+      </PageSection>
 
       {/* Featured packages */}
-      <section className="mb-12">
-        <h2 className="text-xl font-bold mb-4">Gói phổ biến</h2>
+      <PageSection id="goi-pho-bien" title="Gói phổ biến" desc="Các gói khách thường mua đầu tiên.">
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {featured.map((s) => (
             <ServiceCard key={s.id} service={s} />
           ))}
         </div>
-      </section>
+      </PageSection>
 
       {/* Service families */}
-      <section className="mb-12 space-y-5">
-        <div>
-          <h2 className="text-xl font-bold mb-2">Nhóm dịch vụ chuyên môn</h2>
-          <p className="text-sm text-[var(--muted)]">
-            Một số mảng không nằm gọn trong 1 giai đoạn. Đặc biệt, logistics được LONGTV triển khai như một chuỗi
-            dịch vụ riêng từ hải quan đến vận chuyển.
-          </p>
-        </div>
+      <PageSection id="hau-can" title="Nhóm hậu cần & hải quan" desc="Chuỗi B1 → B3 — xem chi tiết tại /logistics.">
+      <div className="space-y-5">
+        <p className="text-sm text-[var(--muted)] -mt-4 mb-2">
+          Mảng logistics không nằm gọn trong 1 giai đoạn — triển khai xuyên suốt từ nhập máy đến retainer XNK.
+        </p>
         {SERVICE_FAMILIES.map((family) => {
           const familyServices = family.serviceIds
             .map((id) => getServiceById(id))
@@ -295,26 +303,24 @@ export function ServicesPageContent() {
             </div>
           );
         })}
-      </section>
+      </div>
+      </PageSection>
 
       {/* By phase */}
-      <section className="mb-12 space-y-12">
-        <h2 className="text-xl font-bold">
-          {activePhase === "all"
-            ? "Dịch vụ theo từng giai đoạn"
-            : LIFECYCLE_PHASES.find((p) => p.id === activePhase)?.name ?? "Giai đoạn"}
-        </h2>
+      <PageSection
+        id="giai-doan"
+        title={activePhase === "all" ? "Dịch vụ theo từng giai đoạn" : LIFECYCLE_PHASES.find((p) => p.id === activePhase)?.name ?? "Giai đoạn"}
+      >
+      <div className="space-y-12">
         {visiblePhases.map((phase) => (
           <PhaseSection key={phase.id} phase={phase} />
         ))}
-      </section>
+      </div>
+      </PageSection>
 
       {/* Typical journey */}
-      <section className="mb-12 p-6 rounded-2xl border border-[var(--border)] bg-gradient-to-br from-stone-50 to-white">
-        <h2 className="text-xl font-bold mb-2">Lộ trình dịch vụ điển hình</h2>
-        <p className="text-sm text-[var(--muted)] mb-6">
-          Một nhà máy Trung Quốc mới vào Việt Nam — từ tư vấn miễn phí đến dịch vụ thuê ngoài theo tháng, và khi cần di dời hoặc về nước.
-        </p>
+      <PageSection id="lo-trinh" title="Lộ trình dịch vụ điển hình" desc="Nhà máy Trung Quốc mới vào Việt Nam — từ A0 đến retainer và thoái vốn.">
+      <div className="p-6 rounded-2xl border border-[var(--border)] bg-gradient-to-br from-stone-50 to-white">
         <div className="space-y-4">
           {TYPICAL_JOURNEY.map((step) => (
             <div key={step.phase} className="flex flex-col sm:flex-row sm:items-center gap-3">
@@ -342,23 +348,33 @@ export function ServicesPageContent() {
         <p className="text-xs text-[var(--muted)] mt-6">
           Giá trị trọn đời một khách (ước tính): 40.000 – 150.000 USD nếu giữ dịch vụ thuê ngoài ở giai đoạn vận hành.
         </p>
-      </section>
+      </div>
 
-      {/* Tier legend */}
-      <section className="mb-12 grid sm:grid-cols-2 lg:grid-cols-5 gap-3">
-        {Object.entries(TIER_STYLES).map(([key, style]) => (
-          <div key={key} className={`p-4 rounded-xl border border-[var(--border)] ${style.className} bg-opacity-50`}>
-            <div className="text-xs font-bold uppercase tracking-wide">{style.label}</div>
-            <p className="text-[10px] mt-1 opacity-80">
-              {key === "entry" && "A0, làm quen khách"}
-              {key === "policy" && "Chính sách tỉnh, giấy đầu tư, setup"}
-              {key === "logistics" && "Hải quan, xuất nhập khẩu, cảng"}
-              {key === "hub" && "Pháp lý, kế toán, kết nối"}
-              {key === "exit" && "Di dời tỉnh, thoái vốn"}
-            </p>
+      <details className="mt-6 group rounded-xl border border-[var(--border)] bg-white">
+        <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium flex justify-between items-center">
+          Chú thích 5 tầng dịch vụ (entry · policy · logistics · hub · exit)
+          <span className="text-[var(--muted)] group-open:rotate-180 transition-transform text-xs">▼</span>
+        </summary>
+        <div className="px-4 pb-4 border-t border-[var(--border)]">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-3 mt-4">
+            {Object.entries(TIER_STYLES).map(([key, style]) => (
+              <div key={key} className={`p-3 rounded-xl border border-[var(--border)] ${style.className} bg-opacity-50`}>
+                <div className="text-xs font-bold uppercase tracking-wide">{style.label}</div>
+                <p className="text-[10px] mt-1 opacity-80">
+                  {key === "entry" && "A0, làm quen khách"}
+                  {key === "policy" && "Chính sách tỉnh, giấy đầu tư"}
+                  {key === "logistics" && "Hải quan, XNK, cảng"}
+                  {key === "hub" && "Pháp lý, kế toán"}
+                  {key === "exit" && "Di dời, thoái vốn"}
+                </p>
+              </div>
+            ))}
           </div>
-        ))}
-      </section>
+        </div>
+      </details>
+      </PageSection>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/services"]} />
 
       {/* CTA */}
       <section className="p-6 rounded-xl border border-dashed border-[var(--border)] bg-gray-50/50">
