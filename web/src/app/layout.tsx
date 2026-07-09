@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import { MobileNav } from "@/components/MobileNav";
+import { SITE_FOOTER_LINKS, SITE_HEADER_NAV } from "@/lib/site-pages";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -15,24 +16,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LongTV — Kho tri thức & Vận hành",
+  title: "LongTV — Đánh giá tiềm năng & Shareholder briefing",
   description:
-    "CTCP tư vấn FDI TQ→VN. Giai đoạn 00-1: đánh giá tiềm năng · Dịch vụ · Bảng vận hành 5 phòng ban.",
+    "CTCP tư vấn FDI TQ→VN. Giai đoạn 00-1: dashboard cổ đông · mô hình kinh doanh · hậu cần · nghiên cứu.",
 };
-
-const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
-  { href: "/kim", label: "Thư ký Kim", highlight: true },
-  { href: "/cam-nang", label: "Cẩm nang", highlight: true },
-  { href: "/assessment", label: "Đánh giá 00-1", highlight: true },
-  { href: "/co-dong", label: "Cổ đông" },
-  { href: "/services", label: "Dịch vụ" },
-  { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
-  { href: "/hermes", label: "Hermes", highlight: true },
-  { href: "/operations", label: "Vận hành" },
-  { href: "/roadmap", label: "Lộ trình" },
-  { href: "/departments", label: "Phòng ban" },
-  { href: "/docs", label: "Tài liệu" },
-];
 
 function Header() {
   return (
@@ -47,7 +34,7 @@ function Header() {
           </span>
         </Link>
         <nav className="hidden md:flex items-center gap-5 text-sm">
-          {NAV_LINKS.map((link) => (
+          {SITE_HEADER_NAV.map((link) => (
             <Link
               key={link.href}
               href={link.href}
@@ -71,53 +58,46 @@ function Footer() {
   return (
     <footer className="border-t border-[var(--border)] bg-white">
       <div className="max-w-7xl mx-auto px-6 py-8">
-        <div className="grid sm:grid-cols-3 gap-8 mb-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <div className="font-bold mb-2">LongTV</div>
             <p className="text-sm text-[var(--muted)] leading-relaxed">
-              Trung tâm kết nối đầu tư TQ↔VN. Kho tri thức + vận hành nội bộ.
+              CTCP tư vấn FDI Trung Quốc → Việt Nam. Trình cổ đông giai đoạn 00-1 trước khi mở rộng vận hành.
             </p>
           </div>
-          <div>
-            <div className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">Truy cập</div>
-            <div className="flex flex-col gap-2 text-sm">
-              <Link href="/kim" className="hover:text-[var(--accent)] font-medium text-[var(--accent)]">
-                Thư ký Kim — việc người thật (không AI)
-              </Link>
-              <Link href="/docs/05-clarifications/what-is-kim" className="hover:text-[var(--accent)] font-medium">
-                Kim là gì?
-              </Link>
-              <Link href="/cam-nang" className="hover:text-[var(--accent)] font-medium">
-                Cẩm nang tri thức
-              </Link>
-              <Link href="/co-dong" className="hover:text-[var(--accent)] font-medium">
-                Cổ đông
-              </Link>
-              <Link href="/services" className="hover:text-[var(--accent)]">Dịch vụ</Link>
-              <Link href="/logistics" className="hover:text-[var(--accent)] font-medium text-amber-800">
-                Hậu cần & hải quan
-              </Link>
-              <Link href="/operations" className="hover:text-[var(--accent)]">Bảng vận hành</Link>
-              <Link href="/assessment" className="hover:text-[var(--accent)] font-medium">
-                Dashboard 00-1
-              </Link>
+          {SITE_FOOTER_LINKS.map((group) => (
+            <div key={group.label}>
+              <div className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">{group.label}</div>
+              <div className="flex flex-col gap-2 text-sm">
+                {group.links.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className={
+                      link.accent
+                        ? "hover:text-[var(--accent)] font-medium text-[var(--accent)]"
+                        : "hover:text-[var(--accent)]"
+                    }
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
             </div>
-          </div>
-          <div>
-            <div className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">Repo</div>
-            <a
-              href="https://github.com/ozvietnam/longtv"
-              className="text-sm hover:text-[var(--accent)]"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              github.com/ozvietnam/longtv ↗
-            </a>
-          </div>
+          ))}
         </div>
-        <div className="text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)]">
-          Build {process.env.VERCEL_GIT_COMMIT_SHA?.slice(0, 7) || "local"} ·{" "}
-          {new Date().toISOString().slice(0, 10)}
+        <div className="text-xs text-[var(--muted)] pt-6 border-t border-[var(--border)] flex flex-wrap gap-x-4 gap-y-1">
+          <span>
+            Build {process.env.VERCEL_GIT_COMMIT_SHA?.slice(0, 7) || "local"} · {new Date().toISOString().slice(0, 10)}
+          </span>
+          <a
+            href="https://github.com/ozvietnam/longtv"
+            className="hover:text-[var(--accent)]"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            github.com/ozvietnam/longtv ↗
+          </a>
         </div>
       </div>
     </footer>
