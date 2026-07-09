@@ -13,6 +13,14 @@ const HUB_LINKS = [
     icon: "★",
   },
   {
+    href: "/cam-nang",
+    title: "Cẩm nang tri thức",
+    subtitle: "Thư viện FDI",
+    desc: "Quy trình thu thập · bài đã có · nguồn pháp luật · backlog",
+    accent: true,
+    icon: "📚",
+  },
+  {
     href: "/docs/06-phases/00-1-feasibility-plan",
     title: "Giai đoạn 00-1",
     subtitle: "Đánh giá tiềm năng",

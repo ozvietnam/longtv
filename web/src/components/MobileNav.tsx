@@ -6,6 +6,7 @@ import { useState } from "react";
 const LINKS = [
   { href: "/", label: "Trang chủ" },
   { href: "/kim", label: "Thư ký Kim" },
+  { href: "/cam-nang", label: "Cẩm nang tri thức" },
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "Giai đoạn 00-1" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/operations", label: "Bảng vận hành" },
