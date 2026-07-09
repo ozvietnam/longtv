@@ -10,8 +10,8 @@ author: "Cursor"
 
 # Giai đoạn 2 — Xây hệ thống vận hành
 
-> **Trạng thái:** **MỞ** (sau QĐ #005 — chờ Leader ký)  
-> **Điều kiện vào:** Scorecard 38/50 · [Memo tiềm năng](00-1-market-memo) · [QĐ #005](/docs/decisions/005-phase-00-1-go)
+> **Trạng thái:** **ĐANG TRIỂN KHAI** — tài liệu v1 đã có  
+> **Kế hoạch chi tiết:** [02-giai-doan-2-plan](02-giai-doan-2-plan)
 
 ---
 

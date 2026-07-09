@@ -20,6 +20,8 @@ author: "Sếp Thắng"
 | P1 | CL-004 | Thu thập số liệu FDI TQ→VN và 2 tỉnh trọng tâm (2024–2026) | V1.3 | @cursor | doing | 2026-07-28 | /docs/04-research/2026-07/fdi-data |
 | P1 | CL-005 | Viết memo tại sao chọn Thái Nguyên & Hải Phòng (so với Bắc Ninh, Hưng Yên) | V1.2 | @cursor | done | 2026-07-28 | /docs/04-research/2026-07/why-tn-hp |
 | P2 | CL-006 | Draft Plan B nếu không có khách trong 3 tháng đầu | V7.5 | @cursor | done | 2026-07-31 | /docs/04-research/2026-07/plan-b-no-revenue |
+| P0 | CL-G2-01 | Script + thực hiện call Sở KH&ĐT TN & HP | V1.2 | Leader | doing | 2026-08-15 | /docs/03-departments/01-chien-luoc/field-call-scripts |
+| P1 | CL-G2-02 | Đàm phán MOU KCN | V1.2 | Leader | todo | 2026-08-31 | /docs/03-departments/02-phap-ly/templates/mou-kcn |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
@@ -33,6 +35,14 @@ author: "Sếp Thắng"
 - [x] CL-006: Plan B nếu 3 tháng không có khách
 - [x] Điền điểm scorecard #1, #2, #3, #10 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
 - [x] Góp phần **Memo tiềm năng thị trường** → [00-1-market-memo](/docs/06-phases/00-1-market-memo)
+
+## Giai đoạn 2 — Vận hành & field
+
+- [x] Script call Sở/KCN → [field-call-scripts](/docs/03-departments/01-chien-luoc/field-call-scripts)
+- [ ] Call Sở KH&ĐT Thái Nguyên (Leader)
+- [ ] Call Sở KH&ĐT Hải Phòng (Leader)
+- [ ] Call Ban QLKCN + MOU ký
+- [ ] Cập nhật research sau field
 
 ## Hướng dẫn thực hiện
 

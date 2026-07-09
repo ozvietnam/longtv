@@ -19,7 +19,9 @@ author: "Sếp Thắng"
 | P0 | VT-003 | So sánh và chọn mô hình văn phòng: virtual / co-working / thuê riêng | V5.2 | @cursor | done | 2026-07-21 | /docs/04-research/2026-07/plan-b-no-revenue |
 | P1 | VT-004 | Draft cấu trúc team sơ bộ: vai trò cần tuyển tháng 1–6, full-time vs part-time | V5.1 | @cursor | done | 2026-07-25 | /docs/03-departments/00-org-model |
 | P1 | VT-005 | Viết kịch bản xấu: burn 6 tháng không có doanh thu — cần bao nhiêu tiền dự phòng? | V6.5 | @cursor | done | 2026-07-28 | /docs/04-research/2026-07/plan-b-no-revenue |
-| P2 | VT-006 | Đề xuất KPI tháng cho 5 phòng ban (1–2 KPI/phòng) | V5.5 | — | todo | 2026-07-31 | |
+| P2 | VT-006 | Đề xuất KPI tháng cho 5 phòng ban (1–2 KPI/phòng) | V5.5 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/kpi-thang |
+| P0 | VT-G2-01 | Burn tracker template | V6.2 | @cursor | done | 2026-07-09 | /docs/03-departments/05-van-hanh-tc/burn-tracker |
+| P0 | VT-G2-02 | Báo cáo burn tuần (thực tế) | V6.2 | VT | doing | 2026-08-31 | |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
@@ -31,6 +33,13 @@ author: "Sếp Thắng"
 - [x] Hoàn thiện **Scorecard 10 tiêu chí** — [00-1-scorecard](/docs/06-phases/00-1-scorecard)
 - [x] Điền điểm #8, #10
 - [x] Tổng hợp đề xuất **Go + Adjust** → [QĐ #005](/docs/decisions/005-phase-00-1-go)
+
+## Giai đoạn 2 — KPI & tài chính
+
+- [x] KPI tháng 5 phòng
+- [x] Burn tracker template
+- [ ] Ghi số burn thực tế hàng tuần
+- [ ] Review runway cuối tháng 8
 
 ## Hướng dẫn thực hiện
 

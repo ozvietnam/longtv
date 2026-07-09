@@ -20,6 +20,10 @@ author: "Sếp Thắng"
 | P1 | PL-004 | Thu thập bảng ưu đãi đầu tư tỉnh Thái Nguyên (thuế, đất, hỗ trợ hạ tầng) | V2.3 | @cursor | done | 2026-07-25 | /docs/04-research/2026-07/provincial-incentives |
 | P1 | PL-005 | Thu thập bảng ưu đãi đầu tư tỉnh Hải Phòng | V2.3 | @cursor | done | 2026-07-25 | /docs/04-research/2026-07/provincial-incentives |
 | P2 | PL-006 | Nghiên cứu trách nhiệm pháp lý nghề nghiệp khi tư vấn FDI (bảo hiểm, hợp đồng) | V2.5 | @cursor | done | 2026-07-31 | /docs/04-research/2026-07/legal-licenses |
+| P0 | PL-G2-01 | Template HĐ + NDA + MOU luật | V2.5 | @cursor | done | 2026-07-09 | /docs/03-departments/02-phap-ly/templates/00-index |
+| P0 | PL-G2-02 | Checklist hồ sơ CTCP | V2.4 | @cursor | done | 2026-07-09 | /docs/03-departments/02-phap-ly/ctcp-ho-so-checklist |
+| P0 | PL-G2-03 | Luật sư review templates | V2.5 | — | todo | 2026-08-15 | |
+| P0 | PL-G2-04 | Nộp hồ sơ đăng ký CTCP | V2.4 | Leader | todo | 2026-08-31 | |
 
 ## Giai đoạn 00-1 — Checklist đánh giá tiềm năng
 
@@ -32,6 +36,13 @@ author: "Sếp Thắng"
 - [x] PL-002: Rà soát giấy phép kinh doanh tư vấn → [legal-licenses](/docs/04-research/2026-07/legal-licenses)
 - [x] Điền điểm scorecard #7 → [00-1-scorecard](/docs/06-phases/00-1-scorecard)
 - [x] Xác nhận rào cản pháp lý — **không chặn** mô hình tư vấn (luật qua đối tác)
+
+## Giai đoạn 2 — CTCP & hợp đồng
+
+- [x] Template HĐ dịch vụ + NDA + MOU
+- [x] Checklist hồ sơ CTCP
+- [ ] Luật sư review mẫu HĐ
+- [ ] Nộp đăng ký CTCP (chờ % cổ đông TQ)
 
 ## Hướng dẫn thực hiện
 

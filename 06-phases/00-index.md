@@ -13,9 +13,9 @@ author: "Cursor"
 | Giai đoạn | Tên | Trạng thái | Mục tiêu |
 |-----------|-----|------------|----------|
 | **00-1** | [Đánh giá tiềm năng & khả thi](00-1-feasibility-plan) | **✅ HOÀN THÀNH** | Thị trường + catalog đủ + Go/No-Go |
-| **2** | [Xây hệ thống chi tiết](02-giai-doan-2-overview) | **MỞ** (chờ QĐ #005) | SOP, sales, CTCP, pilot A1 |
+| **2** | [Xây hệ thống chi tiết](02-giai-doan-2-overview) | **ĐANG TRIỂN KHAI** | SOP, sales, CTCP, pilot A1 |
 | P1–P5 | Khung cây vấn đề V1–V7 | Song song | Xem [Các pha](/phases) trên web |
 
-**Giai đoạn hiện tại:** [Giai đoạn 2 — Overview](02-giai-doan-2-overview)
+**Giai đoạn hiện tại:** [Giai đoạn 2 — Kế hoạch](02-giai-doan-2-plan)
 
 **Kết quả 00-1:** Scorecard **38/50** · Đề xuất **Go + Adjust** · [Memo](00-1-market-memo) · [QĐ #005](/docs/decisions/005-phase-00-1-go)
