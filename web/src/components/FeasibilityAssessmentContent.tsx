@@ -296,6 +296,7 @@ export function FeasibilityAssessmentContent() {
             { href: "/docs/06-phases/00-1-market-memo", title: "Memo tiềm năng", desc: "TAM/SAM · persona · rủi ro" },
             { href: "/docs/06-phases/investor-pack/00-index", title: "Investor Pack", desc: "DT 6T/1N/2N · pitch gap" },
             { href: "/docs/04-research/2026-07/competitors", title: "10 đối thủ", desc: "CL-001 · sweet spot LONGTV" },
+            { href: "/co-dong", title: "Cổ đông", desc: "Oz Việt Nam · nền tảng hậu cần số" },
             { href: "/docs/decisions/005-phase-00-1-go", title: "QĐ #005 Go GĐ2", desc: "Chờ Leader ký" },
             { href: "/services", title: "Catalog dịch vụ", desc: "9 giai đoạn vòng đời" },
             { href: "/docs/06-phases/00-1-thuc-trang", title: "Thực trạng 00-1", desc: "Gap P0/P1 chi tiết" },

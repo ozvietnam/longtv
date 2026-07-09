@@ -8,6 +8,7 @@ const LINKS = [
   { href: "/kim", label: "Thư ký Kim" },
   { href: "/cam-nang", label: "Cẩm nang tri thức" },
   { href: "/assessment", label: "Dashboard 00-1" },
+  { href: "/co-dong", label: "Cổ đông" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan" },
   { href: "/hermes", label: "Tiến độ Hermes" },

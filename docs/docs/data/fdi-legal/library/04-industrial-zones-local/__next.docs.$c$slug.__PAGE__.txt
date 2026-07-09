@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[22016,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:Te58,<h1>Nhóm 4 — KCN, đất đai &#x26; địa phương</h1>
+<h2>Câu hỏi nhóm này trả lời</h2>
+<ul>
+<li>Dự án sản xuất nên đặt trong KCN/KKT hay ngoài KCN/KKT?</li>
+<li>Nếu ở KCN, cơ quan nào xử lý IRC/môi trường/xây dựng/PCCC?</li>
+<li>Nhà đầu tư nước ngoài thuê đất, thuê xưởng hoặc mua lại dự án có rủi ro gì?</li>
+<li>Thái Nguyên và Hải Phòng có khu công nghiệp, ưu đãi và đầu mối nào phù hợp?</li>
+</ul>
+<h2>Bản đồ nguồn</h2>
+<table>
+<thead>
+<tr>
+<th>P</th>
+<th>Nguồn</th>
+<th>Vai trò trong cẩm nang</th>
+<th>Cần thu thập</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P0</td>
+<td>Nghị định 35/2022/NĐ-CP</td>
+<td>Khung quản lý khu công nghiệp, khu kinh tế, ban quản lý KCN/KKT</td>
+<td>Thẩm quyền, mô hình KCN/KKT, thủ tục dự án trong KCN</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Luật Đất đai 2024</td>
+<td>Khung đất đai, thuê đất, quyền sử dụng đất liên quan nhà đầu tư nước ngoài</td>
+<td>Quyền/giới hạn của FIE khi thuê đất/xưởng</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Ban quản lý KCN tỉnh Thái Nguyên</td>
+<td>Nguồn khu công nghiệp, thủ tục, ưu đãi, đầu mối địa phương</td>
+<td>Danh sách KCN, tỷ lệ lấp đầy, ngành ưu tiên, contact</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Ban quản lý KKT/KCN Hải Phòng</td>
+<td>Nguồn khu kinh tế, khu công nghiệp, cảng/logistics, ưu đãi</td>
+<td>Danh sách KCN/KKT, ưu đãi, đầu mối</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>Quy hoạch tỉnh và quyết định ưu đãi địa phương</td>
+<td>Bối cảnh chiến lược và chính sách hỗ trợ</td>
+<td>Tài liệu chính thức còn hiệu lực</td>
+</tr>
+</tbody>
+</table>
+<h2>Checklist nghiên cứu địa phương</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Lập danh sách KCN/KKT trọng điểm tại Thái Nguyên.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Lập danh sách KCN/KKT trọng điểm tại Hải Phòng.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ghi rõ cơ quan đầu mối: Ban quản lý KCN/KKT, Sở KH&#x26;ĐT, Sở TN&#x26;MT, Cảnh sát PCCC, Sở Xây dựng.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thu thập ưu đãi: thuế TNDN, tiền thuê đất, hạ tầng, logistics, hỗ trợ tuyển dụng nếu có.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tách case thuê xưởng có sẵn và xây nhà máy mới.</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tạo bảng so sánh Thái Nguyên vs Hải Phòng cho nhà đầu tư Trung Quốc.</li>
+</ul>
+<h2>Output bài viết liên quan</h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Bài viết</th>
+<th>Trạng thái</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FDI-HB-012</td>
+<td>Dự án trong khu công nghiệp: cơ quan nào xử lý giấy phép?</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-013</td>
+<td>Thái Nguyên: bản đồ KCN, ưu đãi và đầu mối FDI</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-014</td>
+<td>Hải Phòng: bản đồ KCN/KKT, logistics và ưu đãi FDI</td>
+<td>todo</td>
+</tr>
+<tr>
+<td>FDI-HB-011</td>
+<td>Checklist trước khi vận hành nhà máy FDI</td>
+<td>todo</td>
+</tr>
+</tbody>
+</table>
+<h2>Ghi chú biên tập</h2>
+<p>Nhóm này phải viết theo hướng thực dụng cho khách hàng: <strong>chọn địa điểm nào, gặp ai, giấy tờ nào phụ thuộc địa điểm, rủi ro nào cần hỏi trước khi ký thuê đất/xưởng</strong>.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"data"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"fdi-legal"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"library"}]]}],["$","span","3",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-industrial-zones-local"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"legal-library"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Nhóm 4 — KCN, đất đai & địa phương"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Nguồn pháp luật và nguồn địa phương cho khu công nghiệp, khu kinh tế, đất/xưởng và ưu đãi tại Thái Nguyên, Hải Phòng."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l5K4DKQgCyaAIFiH-ZHSH"}
+4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/data/fdi-legal/library/03-environment-manufacturing","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nhóm 3 — Môi trường & sản xuất"}]]}],["$","$L2",null,{"href":"/docs/data/fdi-legal/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Kế hoạch xây dựng cẩm nang pháp lý FDI"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

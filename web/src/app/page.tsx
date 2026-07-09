@@ -29,6 +29,14 @@ const HUB_LINKS = [
     icon: "01",
   },
   {
+    href: "/co-dong",
+    title: "Cổ đông",
+    subtitle: "Oz là trụ cột giai đoạn đầu",
+    desc: "Năng lực GitHub · lõi HS code/XNK · nền tảng hậu cần",
+    accent: true,
+    icon: "OZ",
+  },
+  {
     href: "/services",
     title: "Dịch vụ công ty",
     subtitle: "9 giai đoạn vòng đời",

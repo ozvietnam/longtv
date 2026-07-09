@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T1bb0,<h1>Service catalog v0.2</h1>
+3:T222d,<h1>Service catalog v0.2</h1>
 <blockquote>
 <p>Cập nhật theo <a href="/docs/decisions/003-strategy-july-2026">Quyết định #003</a>: <strong>CTCP</strong>, vốn <strong>2 tỷ VND</strong>, cổ đông gồm <strong>tập đoàn TQ</strong>.</p>
 </blockquote>
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td><strong>Mảng A</strong></td>
-<td>Chính sách &#x26; chính quyền</td>
+<td><a href="/docs/services/policy-government">Chính sách &#x26; chính quyền</a></td>
 <td><strong>Thái Nguyên + Hải Phòng</strong></td>
 <td>NM TQ muốn dịch chuyển</td>
 </tr>
@@ -58,9 +58,9 @@
 </tr>
 <tr>
 <td>H2</td>
-<td>Tư vấn pháp lý kinh doanh &#x26; đầu tư</td>
-<td>Memo pháp lý, review hợp đồng</td>
-<td>✅ + luật sư đối tác</td>
+<td><a href="/docs/services/legal-consulting">Tư vấn pháp lý kinh doanh &#x26; đầu tư</a></td>
+<td>Legal scan, roadmap IRC/ERC, checklist góp vốn/M&#x26;A, giấy phép sản xuất</td>
+<td>LONGTV PM + luật sư/đối tác đủ điều kiện</td>
 </tr>
 <tr>
 <td>H3</td>
@@ -77,7 +77,43 @@
 </tbody>
 </table>
 <hr>
+<h3>H2 — Tư vấn pháp lý kinh doanh &#x26; đầu tư</h3>
+<p>H2 đã được tách thành trang dịch vụ riêng vì có ranh giới giấy phép hành nghề rõ ràng. LONGTV không tự nhận phần cần chữ ký/ý kiến pháp lý chính thức nếu chưa có luật sư hoặc đối tác đủ điều kiện.</p>
+<table>
+<thead>
+<tr>
+<th>Nhóm</th>
+<th>LONGTV tự làm</th>
+<th>Chuyển luật sư/đối tác khi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Legal screening FDI</td>
+<td>Intake dự án, rà sơ bộ ngành nghề, tỷ lệ vốn, địa điểm, red flags</td>
+<td>Cần legal opinion chính thức</td>
+</tr>
+<tr>
+<td>IRC/ERC roadmap</td>
+<td>Lập timeline, checklist hồ sơ, cơ quan xử lý</td>
+<td>Soạn/nộp hồ sơ pháp lý, đại diện làm việc chính thức</td>
+</tr>
+<tr>
+<td>Góp vốn/mua cổ phần</td>
+<td>Decision tree M&#x26;A approval, checklist due diligence</td>
+<td>Soạn giao dịch, review hợp đồng, cập nhật IRC/ERC</td>
+</tr>
+<tr>
+<td>Giấy phép sản xuất</td>
+<td>Điều phối checklist môi trường, PCCC, xây dựng, ngành nghề</td>
+<td>Hồ sơ cần đơn vị chuyên môn đủ điều kiện</td>
+</tr>
+</tbody>
+</table>
+<p>Trang chi tiết: <a href="/docs/services/legal-consulting">Dịch vụ tư vấn pháp lý kinh doanh &#x26; đầu tư</a></p>
+<hr>
 <h2>Mảng A — Chính sách &#x26; chính quyền (2 tỉnh)</h2>
+<p>Trang chi tiết: <a href="/docs/services/policy-government">Dịch vụ chính sách &#x26; chính quyền 2 tỉnh</a></p>
 <h3>Gói A1 — Khảo sát &#x26; định vị</h3>
 <table>
 <thead>
@@ -327,7 +363,7 @@
 <li class="task-list-item"><input type="checkbox" disabled> SP-004: Deliverable chi tiết gói A1</li>
 <li class="task-list-item"><input type="checkbox" disabled> Leader: Xác nhận tên &#x26; tỷ lệ cổ đông TQ</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"service-catalog-v0.2"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Service catalog v0.2 — 2 mảng + Hub"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"SP-001 — Catalog dịch vụ LONGTV sau quyết định #003: chính sách 2 tỉnh, logistics miền Bắc, trung tâm kết nối."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HREDl5iKe8YIbj_LGYYT6"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"04-san-pham"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"service-catalog-v0.2"}]]}]]]}],["$","$L2",null,{"href":"/docs/06-phases/00-1-feasibility-plan","className":"mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]","children":"← Quay lại trang đánh giá tiềm năng & khả thi"}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Service catalog v0.2 — 2 mảng + Hub"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"SP-001 — Catalog dịch vụ LONGTV sau quyết định #003: chính sách 2 tỉnh, logistics miền Bắc, trung tâm kết nối."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l5K4DKQgCyaAIFiH-ZHSH"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/factory-operations-playbook-vn","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Playbook vận hành sản xuất — NM FDI TQ tại Việt Nam (G5)"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Sản phẩm dịch vụ"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
