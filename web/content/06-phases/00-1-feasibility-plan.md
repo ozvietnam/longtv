@@ -1,10 +1,10 @@
 ---
 title: "Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"
 description: "Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."
-date: 2026-07-08
+date: 2026-07-09
 category: "phases"
 order: 1
-tags: ["phase-00-1", "feasibility", "market", "FDI"]
+tags: ["phase-00-1", "feasibility", "market", "FDI", "hermes"]
 author: "Cursor · Sếp Thắng"
 ---
 
@@ -162,6 +162,49 @@ author: "Cursor · Sếp Thắng"
 
 ---
 
+## Cập nhật sau nghiên cứu sâu (2026-07-09)
+
+> **Xem trên web:** [/hermes](/hermes) — tổng hợp Hermes Wave 1 (desk) vs Wave 2 (field) · [Thực trạng 00-1](00-1-thuc-trang) · [Nghiên cứu tháng 7](/docs/04-research/2026-07/00-index)
+
+| Khối | Trạng thái | Bằng chứng |
+|------|------------|------------|
+| **Desk research Wave 1** | ✅ **Hoàn thành** | 6 báo cáo + deep-dive FDI + catalog 9 giai đoạn |
+| **Scorecard & memo** | ✅ **38/50 · Go + Adjust** | [scorecard](00-1-scorecard) · [memo](00-1-market-memo) |
+| **Investor Pack (trụ cột 4)** | ✅ Desk | [investor-pack/00-index](investor-pack/00-index) |
+| **Catalog dịch vụ** | ✅ v1 + logistics | [service-catalog-v1](/docs/03-departments/04-san-pham/service-catalog-v1) · [/logistics](/logistics) |
+| **Field verify (Hermes)** | 🔄 **Chưa xong** | 0/15 việc Kim tick `done` — [Kim Hermes](/kim?filter=hermes) |
+| **Quyết định Go** | 🟡 Chờ Leader | [QĐ #005](/docs/decisions/005-phase-00-1-go) chưa ký |
+
+**Kết luận cập nhật:** Giai đoạn 00-1 **đủ bằng chứng desk** để đề xuất Go. Phần **xác minh thực địa** (gọi Sở/KCN, giá đất, FDI theo tỉnh) chuyển sang **Hermes Wave 2** — đã duyệt [QĐ #006](/docs/decisions/006-hermes-wave2-approval), Hermes tự làm trên [Kim](/kim).
+
+### Wave 1 — Desk đã có (Hermes + Cursor)
+
+| ID | Deliverable | Link |
+|----|-------------|------|
+| CL-001 | 10 đối thủ FDI TQ→VN | [/docs/04-research/2026-07/competitors](/docs/04-research/2026-07/competitors) |
+| PL-001 | TNHH vs CTCP | [/docs/04-research/2026-07/legal-entity-comparison](/docs/04-research/2026-07/legal-entity-comparison) |
+| VT-001 | Ngân sách 6 tháng | [/docs/04-research/2026-07/startup-budget](/docs/04-research/2026-07/startup-budget) |
+| CL-002 | FDI Thái Nguyên (desk) | [/docs/04-research/2026-07/thai-nguyen-fdi-policy](/docs/04-research/2026-07/thai-nguyen-fdi-policy) |
+| — | FDI Hải Phòng (desk) | [/docs/04-research/2026-07/hai-phong-fdi-policy](/docs/04-research/2026-07/hai-phong-fdi-policy) |
+| CL-003 | KCN Yên Bình + Nam Đình Vũ (desk) | [/docs/04-research/2026-07/kcn-desk-research](/docs/04-research/2026-07/kcn-desk-research) |
+| CL-004b | FDI deep-dive | [/docs/04-research/2026-07/fdi-data-deep-dive](/docs/04-research/2026-07/fdi-data-deep-dive) |
+| CL-005/006 | Vì sao TN+HP · Plan B | [why-tn-hp](/docs/04-research/2026-07/why-tn-hp) · [plan-b](/docs/04-research/2026-07/plan-b-no-revenue) |
+
+### Wave 2 — Field & thu thập (Hermes, chưa done)
+
+| Ưu tiên | Việc | Kim | Trạng thái |
+|---------|------|-----|------------|
+| P0 | Brief LONGTV 1 trang trước call | KIM-080 | doing — template còn placeholder |
+| P0 | Gọi Sở KH&ĐT Thái Nguyên | KIM-010 | doing |
+| P0 | Gọi Sở KH&ĐT Hải Phòng | KIM-011 | todo |
+| P0 | Call Ban QLKCN Yên Bình + Nam Đình Vũ | KIM-012, 013 | todo |
+| P1 | Map 20 NM TQ tại TN + HP | KIM-082 | todo |
+| P1 | Desk logistics + bảng giá tuyến | KIM-089, 090 | todo |
+
+Chi tiết giao việc: [hermes-work-pack-2026-07](/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07) · Dashboard: [/hermes](/hermes)
+
+---
+
 ## Vì sao cần Giai đoạn 00-1
 
 | Rủi ro nếu bỏ qua | Cách 00-1 giảm rủi ro |
@@ -199,7 +242,7 @@ author: "Cursor · Sếp Thắng"
 | Trụ cột | Câu hỏi then chốt | Phòng chủ trì | Deliverable |
 |---------|-------------------|---------------|-------------|
 | **1. Thị trường** | Có bao nhiêu NM TQ thực sự muốn vào TN/HP? Họ trả bao nhiêu? | Chiến lược + Kinh doanh | Memo thị trường + persona |
-| **2. Catalog dịch vụ** | LONGTV phủ hết hành trình FDI chưa? Thiếu gì? | Sản phẩm | [Bản đồ hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
+| **2. Catalog dịch vụ** | LONGTV phủ hết hành trình FDI chưa? Thiếu gì? | Sản phẩm | [Catalog v1](/docs/03-departments/04-san-pham/service-catalog-v1) · [9 giai đoạn](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map) · [/logistics](/logistics) |
 | **3. Khả thi triển khai** | 2 tỷ vốn + team bootstrap có đủ không? Rủi ro chính? | Pháp lý + Vận hành | Scorecard + kịch bản xấu |
 | **4. Đánh giá đầu tư** | Với 2 tỷ, team & VP ảo — **có nên đầu tư?** DT/khách 6T/1N/2N? Pitch thiếu gì? | Vận hành + Chiến lược + KD | [Investor Pack](/docs/06-phases/investor-pack/00-index) |
 
@@ -227,12 +270,12 @@ author: "Cursor · Sếp Thắng"
 
 ## Lộ trình 4 tuần (đề xuất)
 
-| Tuần | Trọng tâm | Việc chính | Output |
-|------|-----------|------------|--------|
-| **T1** | Thị trường sơ bộ | Đối thủ ✅ · Sở KH&ĐT · 1 KCN · số liệu FDI draft | Checklist Chiến lược ≥50% |
-| **T2** | Khách hàng & giá | Persona · 5 kênh · pricing 3 gói draft · phỏng vấn 1–2 nguồn | Memo persona + khung giá |
-| **T3** | Catalog đầy đủ | Map hành trình FDI 6 giai đoạn · đánh dấu có/thiếu · tự làm vs đối tác | Catalog v1 + gap list |
-| **T4** | Chốt tiềm năng | Scorecard · kịch bản xấu · họp Go/No-Go Leader | **Memo tiềm năng 00-1** |
+| Tuần | Trọng tâm | Việc chính | Output | Trạng thái (09/07) |
+|------|-----------|------------|--------|-------------------|
+| **T1** | Thị trường sơ bộ | Đối thủ · Sở KH&ĐT · KCN · số liệu FDI | Checklist Chiến lược | ✅ Desk done · 🔄 Field Hermes |
+| **T2** | Khách hàng & giá | Persona · 5 kênh · pricing 3 gói · phỏng vấn 1–2 nguồn | Memo persona + khung giá | ✅ Draft · chưa validate khách |
+| **T3** | Catalog đầy đủ | Map FDI 9 giai đoạn · logistics · gap | Catalog v1 + [/logistics](/logistics) | ✅ v1 live |
+| **T4** | Chốt tiềm năng | Scorecard · Plan B · họp Go/No-Go | **Memo + 38/50** | ✅ Desk · 🟡 chờ ký QĐ #005 |
 
 *Có thể trùng với lộ trình tháng 7 — 00-1 là khung mục tiêu, tháng 7 là lịch thực thi.*
 
@@ -245,11 +288,11 @@ Chấm **1–5** mỗi tiêu chí (1 = yếu, 5 = mạnh). Tổng ≥ **35/50** 
 | # | Tiêu chí | Nguồn bằng chứng | Điểm (1–5) | Ghi chú |
 |---|----------|------------------|------------|---------|
 | 1 | Quy mô thị trường FDI TQ→VN (miền Bắc) | CL-004, báo cáo FDI | **4** | TQ #2 nguồn vốn 2025 |
-| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003 | **4** | TN #1 FDI mới; desk KCN |
+| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003, [fdi-data-deep-dive](/docs/04-research/2026-07/fdi-data-deep-dive) | **4** | TN #1 vốn mới (mega Hàn/Đài); niche TQ Tier 2–3 — **chờ call Sở** |
 | 3 | Khoảng trống vs đối thủ | CL-001 competitors | **3** | Niche Tier 2–3 TQ |
 | 4 | Khách mục tiêu rõ (persona) | KD-001 | **4** | [persona-v1](/docs/03-departments/03-kinh-doanh/persona-v1) |
 | 5 | Sẵn sàng trả phí (pricing) | KD-004 | **3** | Draft — chưa validate khách |
-| 6 | Catalog phủ ≥80% hành trình FDI | FDI journey map | **4** | ~82% ✅/🤝 |
+| 6 | Catalog phủ ≥80% hành trình FDI | FDI lifecycle 9 giai đoạn + logistics | **4** | ~82% ✅/🤝 · [catalog v1](/docs/03-departments/04-san-pham/service-catalog-v1) |
 | 7 | Pháp lý & giấy phép khả thi | PL-001, PL-003 | **4** | CTCP path rõ |
 | 8 | Vốn 2 tỷ đủ 6–12 tháng | VT-001, VT-005 | **5** | Burn << 2 tỷ |
 | 9 | Lợi thế CTCP + tập đoàn TQ | QĐ #003, Leader input | **3** | % cổ đông chưa điền |
@@ -300,7 +343,7 @@ Mỗi phòng có section **Giai đoạn 00-1** trong file TODO — tick dần, k
 | Sản phẩm dịch vụ | [TODO Sản phẩm](/docs/03-departments/04-san-pham/TODO) | Catalog đầy đủ, hành trình FDI, gap |
 | Vận hành & TC | [TODO Vận hành](/docs/03-departments/05-van-hanh-tc/TODO) | Vốn, burn, scorecard, kịch bản xấu |
 
-Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/roadmap).
+Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/roadmap) · [Tiến độ Hermes](/hermes) · [Kim — việc người thật](/kim).
 
 ---
 
@@ -309,7 +352,7 @@ Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/r
 | # | Tài liệu | Mô tả |
 |---|----------|-------|
 | 1 | **Memo tiềm năng thị trường** | 5–10 trang: TAM/SAM, đối thủ, kết luận có/không nhu cầu |
-| 2 | **Catalog dịch vụ v1** | Map đủ [6 giai đoạn hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
+| 2 | **Catalog dịch vụ v1** | [9 giai đoạn vòng đời](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map) + [catalog v1](/docs/03-departments/04-san-pham/service-catalog-v1) + [/logistics](/logistics) |
 | 3 | **Scorecard điền đủ 10 tiêu chí** | Bảng trên, có điểm số + giải thích |
 | 4 | **Quyết định Go/No-Go** | Leader ký — mở Giai đoạn 2 hoặc điều chỉnh |
 | 5 | **Investor Pack (trụ cột 4)** | Verdict đầu tư + financial model 3yr + strategy 3yr + pitch gap — [index](/docs/06-phases/investor-pack/00-index) |
@@ -324,21 +367,27 @@ Khi **Go** từ 00-1 → xem [Overview Giai đoạn 2](02-giai-doan-2-overview).
 
 ---
 
-## Trạng thái 00-1: ✅ HOÀN THÀNH (desk)
+## Trạng thái 00-1: ✅ HOÀN THÀNH (desk) · 🔄 Field đang chờ Hermes
 
-| Deliverable | Link |
-|-------------|------|
-| Memo tiềm năng | [00-1-market-memo](00-1-market-memo) |
-| Scorecard 38/50 | [00-1-scorecard](00-1-scorecard) |
-| Quyết định Go | [QĐ #005](/docs/decisions/005-phase-00-1-go) |
-| **Investor Pack** | [investor-pack/00-index](investor-pack/00-index) |
+| Deliverable | Link | Ghi chú |
+|-------------|------|---------|
+| Memo tiềm năng | [00-1-market-memo](00-1-market-memo) | Cập nhật đoạn TN sau deep-dive |
+| Thực trạng sau đào sâu | [00-1-thuc-trang](00-1-thuc-trang) | Bảng gap P0/P1 |
+| Scorecard 38/50 | [00-1-scorecard](00-1-scorecard) | Go + Adjust |
+| Quyết định Go | [QĐ #005](/docs/decisions/005-phase-00-1-go) | Chờ Leader ký |
+| **Investor Pack** | [investor-pack/00-index](investor-pack/00-index) | Trụ cột 4 |
+| **Hermes dashboard** | [/hermes](/hermes) | Wave 1 vs Wave 2 trên web |
+| Nghiên cứu tháng 7 | [/docs/04-research/2026-07/00-index](/docs/04-research/2026-07/00-index) | Index đầy đủ |
 
-**Còn field (Leader):** Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ
+**Còn field (Hermes — người thật):** Brief 1 trang (KIM-080) · Call Sở TN/HP (KIM-010–011) · Call KCN (KIM-012–013) · Map 20 NM · logistics desk
+
+**Còn Leader:** Ký QĐ #005 · % cổ đông TQ (KIM-002) · duyệt pricing (KIM-003)
 
 ---
 
-## Việc ngay (Giai đoạn 2)
+## Việc ngay (chuyển Giai đoạn 2 + Hermes Wave 2)
 
 - [ ] Leader ký [QĐ #005](/docs/decisions/005-phase-00-1-go)
-- [ ] Call Sở KH&ĐT Thái Nguyên (CL-002)
-- [ ] Bắt đầu [Giai đoạn 2](02-giai-doan-2-overview) — SOP A1, đăng ký CTCP
+- [ ] Hermes hoàn thành [brief 1 trang](/docs/03-departments/01-chien-luoc/hermes-field-brief-template) (KIM-080) → gọi Sở TN (KIM-010)
+- [ ] Theo dõi tiến độ tại [/hermes](/hermes) và [/kim?filter=hermes](/kim?filter=hermes)
+- [ ] Bắt đầu [Giai đoạn 2](02-giai-doan-2-overview) — SOP A1, đăng ký CTCP (sau ký QĐ)
