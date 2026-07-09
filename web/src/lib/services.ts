@@ -35,6 +35,13 @@ export type ServiceItem = {
   featured?: boolean;
 };
 
+export type ServiceFamily = {
+  id: string;
+  title: string;
+  summary: string;
+  serviceIds: string[];
+};
+
 export const LIFECYCLE_PHASES: LifecyclePhase[] = [
   {
     id: "G0",
@@ -470,6 +477,16 @@ export const COMPANY_POSITIONING = {
   logistics: "Logistics & hải quan miền Bắc",
   hub: "Pháp lý · Kế toán · Kết nối KCN/Sở",
 };
+
+export const SERVICE_FAMILIES: ServiceFamily[] = [
+  {
+    id: "logistics",
+    title: "Nhóm Logistics & hải quan",
+    summary:
+      "Bao phủ chuỗi công việc từ khai báo hải quan, phân loại HS, nhập máy móc, điều phối forwarder, đến retainer nhập–sản xuất–xuất khẩu.",
+    serviceIds: ["B1", "B1-ext", "B2-log", "B3"],
+  },
+];
 
 export function getServicesByPhase(phaseId: string): ServiceItem[] {
   return SERVICES.filter((s) => s.phases.includes(phaseId));

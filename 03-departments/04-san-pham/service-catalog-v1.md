@@ -32,6 +32,27 @@ author: "Cursor"
 
 ---
 
+## Nhóm dịch vụ Logistics & hải quan
+
+> Đây là **một nhóm dịch vụ riêng**, không chỉ là vài đầu việc phụ trong setup nhà máy.
+> LONGTV định vị logistics theo chuỗi: **khai báo hải quan → nhập thiết bị → vận chuyển/forwarder → retainer XNK**.
+
+| Mã | Nhóm việc | Khách cần gì | Deliverable chính |
+|----|-----------|--------------|-------------------|
+| B1 | Hải quan starter | Mới vào VN, chưa có SOP XNK | SOP XNK, training, checklist hồ sơ |
+| B1-ext | Nhập thiết bị / dây chuyền | Máy móc từ TQ vào VN | HS code, tờ khai nhập, tạm nhập–tái xuất |
+| B2 | Logistics pack | Cần tuyến TQ → Hải Phòng → KCN / nhà máy | Báo giá 2–3 tuyến, SOP giao nhận, kết nối forwarder |
+| B3 | Retainer chuỗi nhập–SX–xuất | Nhà máy đã vận hành, có nhiều tờ khai | PM XNK, đối soát BOM–hải quan, báo cáo tháng |
+
+**Phạm vi cụ thể:**
+
+- **Khai báo hải quan:** HS code, hồ sơ, tờ khai nhập/xuất, EPE flow cơ bản
+- **Vận chuyển / logistics:** forwarder quốc tế, trucking nội địa, cảng Hải Phòng / ICD / KCN
+- **Điều phối vận hành:** SOP giao nhận, phối hợp kho, cảnh báo rủi ro chứng từ
+- **Không làm sâu tài sản-heavy Y1:** chưa mở kho/ICD riêng; LONGTV đóng vai trò **PM + tư vấn + điều phối đối tác**
+
+---
+
 ## G0–G1 — Tiếp cận
 
 ### A0 — Tư vấn sơ bộ (miễn phí)
