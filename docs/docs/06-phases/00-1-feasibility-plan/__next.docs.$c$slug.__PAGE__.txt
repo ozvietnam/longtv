@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T6a48,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
+3:T7405,<h1>Giai đoạn 00-1 — Đánh giá tiềm năng</h1>
 <blockquote>
 <p><strong>Mục tiêu duy nhất:</strong> Trả lời câu hỏi — <em>LONGTV có đủ tiềm năng để triển khai mô hình tư vấn FDI TQ→VN (2 mảng + Hub) hay không?</em></p>
 <p><strong>Chưa làm ở giai đoạn này:</strong> Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để <strong>Giai đoạn 2</strong>.</p>
@@ -56,7 +56,7 @@
   <div class="fd-score-card fd-green">
     <span>Lợi thế cạnh tranh</span>
     <strong>8/10</strong>
-    <p>CTCP + cổ đông TQ + hiểu địa phương + hub pháp lý/kế toán/logistics.</p>
+    <p>CTCP + cổ đông TQ + Oz làm lõi HS/XNK + hub pháp lý/kế toán/logistics.</p>
   </div>
   <div class="fd-score-card fd-slate">
     <span>Rủi ro cần kiểm soát</span>
@@ -85,7 +85,7 @@
   <a class="fd-flow-node" href="/services">
     <span>B</span>
     <strong>Logistics & hải quan</strong>
-    <p>HS code, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+    <p>HS code/Oz core, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
   </a>
   <div class="fd-flow-arrow">→</div>
   <div class="fd-flow-node fd-outcome">
@@ -143,7 +143,51 @@
     <strong>Quyết định chiến lược #003</strong>
     <span>CTCP, vốn 2 tỷ, cổ đông TQ và định vị 2 mảng.</span>
   </a>
+  <a href="/co-dong">
+    <strong>Cổ đông — Oz Việt Nam</strong>
+    <span>Đánh giá nguồn lực GitHub, vai trò giai đoạn đầu và lõi hậu cần.</span>
+  </a>
 </div>
+<h2>Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu</h2>
+<table>
+<thead>
+<tr>
+<th>Nguồn lực Oz</th>
+<th>Bằng chứng GitHub</th>
+<th>Ý nghĩa với LONGTV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HS Code + tariff API</td>
+<td><a href="https://github.com/ozvietnam/hs-code-api"><code>hs-code-api</code></a> — AI HS suggestions, mô tả khai báo hải quan, endpoints tariff/dataset</td>
+<td>Tạo lõi cho gói B1: phân loại HS, checklist tờ khai, mô tả khai báo</td>
+</tr>
+<tr>
+<td>Knowledge graph XNK</td>
+<td><a href="https://github.com/ozvietnam/hs-knowledge-api"><code>hs-knowledge-api</code></a> — knowledge graph 9 tầng, biểu thuế XNK 2026, Postgres/pgvector/Gemini</td>
+<td>Là nền dữ liệu để xây SOP và truy vấn tri thức hải quan</td>
+</tr>
+<tr>
+<td>Webapp XNK</td>
+<td><a href="https://github.com/ozvietnam/xnk-webapp"><code>xnk-webapp</code></a> — FastAPI/Next.js, tra cứu HS, thuế MFN/ACFTA, chatbot RAG</td>
+<td>Chứng minh năng lực triển khai công cụ khách hàng/ops nội bộ</td>
+</tr>
+<tr>
+<td>Webapp hải quan 2026</td>
+<td><a href="https://github.com/ozvietnam/wa26"><code>wa26</code></a> — 11.871 mã HS 8 số, 19 FTA, chatbot AI tư vấn</td>
+<td>Tạo lợi thế khác biệt: LONGTV không chỉ tư vấn, mà có lõi số về hậu cần</td>
+</tr>
+<tr>
+<td>SEO/automation</td>
+<td><a href="https://github.com/ozvietnam/oz-rank-tracker"><code>oz-rank-tracker</code></a>, <code>n8n-workflows</code></td>
+<td>Hỗ trợ inbound, vận hành tri thức và tự động hóa</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kết luận:</strong> Oz là cổ đông/nền tảng trụ cột trong giai đoạn đầu vì đã có sẵn tài sản công nghệ ngành hải quan — đủ để LONGTV triển khai mảng <strong>B hậu cần &#x26; hải quan</strong> theo hướng tư vấn + PM + đối tác vận tải/đại lý hải quan.</p>
+<p><strong>Ranh giới cần quản trị:</strong> Oz không thay thế forwarder, kho, đội xe hoặc đại lý hải quan có giấy phép. Oz là <strong>lõi dữ liệu/công cụ/SOP</strong>, còn vận hành thực địa cần đối tác và Kim field.</p>
+<p>Trang chi tiết: <a href="/co-dong">Cổ đông — Oz Việt Nam</a>.</p>
 <hr>
 <h2>Cập nhật sau nghiên cứu sâu (2026-07-09)</h2>
 <blockquote>
@@ -768,7 +812,7 @@
 <li class="task-list-item"><input type="checkbox" disabled> Theo dõi tiến độ tại <a href="/hermes">/hermes</a> và <a href="/kim?filter=hermes">/kim?filter=hermes</a></li>
 <li class="task-list-item"><input type="checkbox" disabled> Bắt đầu <a href="02-giai-doan-2-overview">Giai đoạn 2</a> — SOP A1, đăng ký CTCP (sau ký QĐ)</li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T2s-nJdfA-3oTQQlH0BXH"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"06-phases"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"00-1-feasibility-plan"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"phases"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Giai đoạn 00-1 — Đánh giá tiềm năng & khả thi"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Kế hoạch triển khai giai đoạn 00-1: đánh giá thị trường, hoàn thiện catalog dịch vụ FDI TQ→VN, chốt có/không tiềm năng trước khi xây hệ thống chi tiết (Giai đoạn 2)."}]]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l5K4DKQgCyaAIFiH-ZHSH"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/07-operations/00-index","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Vận hành — SOP & quy trình giao hàng"}]]}],["$","$L2",null,{"href":"/docs/00-WORKING_PRINCIPLES","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Nguyên tắc làm việc"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

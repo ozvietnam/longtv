@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:I[97367,["/longtv/_next/static/chunks/0bh3lefc2vc56.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T2s-nJdfA-3oTQQlH0BXH"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l5K4DKQgCyaAIFiH-ZHSH"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/docs/06-phases/00-1-feasibility-plan;307;"}
