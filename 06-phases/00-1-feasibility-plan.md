@@ -40,8 +40,14 @@ author: "Cursor · Sếp Thắng"
 └────────┬────────┘   └────────┬────────┘   └────────┬────────┘
          │                     │                     │
          └─────────────────────┼─────────────────────┘
-                               ▼
-                    MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+              MEMO TIỀM NĂNG (Go/No-Go)
+                               │
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                             ▼
+   TRỤ CỘT 4 — ĐÁNH GIÁ ĐẦU TƯ & GỌI VỐN (bổ sung 2026-07-09)
 ```
 
 | Trụ cột | Câu hỏi then chốt | Phòng chủ trì | Deliverable |
@@ -49,6 +55,27 @@ author: "Cursor · Sếp Thắng"
 | **1. Thị trường** | Có bao nhiêu NM TQ thực sự muốn vào TN/HP? Họ trả bao nhiêu? | Chiến lược + Kinh doanh | Memo thị trường + persona |
 | **2. Catalog dịch vụ** | LONGTV phủ hết hành trình FDI chưa? Thiếu gì? | Sản phẩm | [Bản đồ hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
 | **3. Khả thi triển khai** | 2 tỷ vốn + team bootstrap có đủ không? Rủi ro chính? | Pháp lý + Vận hành | Scorecard + kịch bản xấu |
+| **4. Đánh giá đầu tư** | Với 2 tỷ, team & VP ảo — **có nên đầu tư?** DT/khách 6T/1N/2N? Pitch thiếu gì? | Vận hành + Chiến lược + KD | [Investor Pack](/docs/06-phases/investor-pack/00-index) |
+
+### Trụ cột 4 — Đánh giá đầu tư & gọi vốn
+
+> **Yêu cầu bổ sung (Leader, 2026-07-09):** Đủ thông tin để quyết định **có nên đầu tư**; dự phóng **doanh số & khách** sau 6 tháng, 1 năm, 2 năm; **chiến lược dài hạn**; và bộ tài liệu **thuyết trình kêu gọi vốn / tìm C-level**.
+
+| Câu hỏi | Tài liệu trả lời | Trạng thái |
+|---------|------------------|------------|
+| Có nên đầu tư 2 tỷ? | [Investment verdict](/docs/06-phases/investor-pack/00-investment-verdict) | ✅ Go có điều kiện |
+| Phân bổ vốn? | [Use of funds 2B](/docs/03-departments/05-van-hanh-tc/use-of-funds-2b) | ✅ Đề xuất |
+| DT & khách 6T/1N/2N? | [Financial model 3yr](/docs/03-departments/05-van-hanh-tc/financial-model-3yr) | ✅ Bear/Base/Bull |
+| Hòa vốn khi nào? | [Break-even](/docs/03-departments/05-van-hanh-tc/break-even-analysis) | ✅ ~tháng 15 (base) |
+| Chiến lược 3 năm? | [Strategy 3yr](/docs/03-departments/01-chien-luoc/strategy-3yr) | ✅ |
+| Pitch thiếu gì? | [Pitch gap checklist](/docs/06-phases/investor-pack/02-pitch-gap-checklist) | ✅ |
+| Cap table? | [cap-table-v1](/docs/05-clarifications/cap-table-v1) | 🟡 Chờ Leader điền |
+
+**Kết luận trụ cột 4:** Đủ cho **cổ đông chiến lược** quyết định; **chưa đủ** cho investor thứ ba nếu chưa có ≥1 HĐ + cap table ký.
+
+---
+
+## Ba trụ cột đánh giá (bảng chi tiết)
 
 ---
 
@@ -71,22 +98,23 @@ Chấm **1–5** mỗi tiêu chí (1 = yếu, 5 = mạnh). Tổng ≥ **35/50** 
 
 | # | Tiêu chí | Nguồn bằng chứng | Điểm (1–5) | Ghi chú |
 |---|----------|------------------|------------|---------|
-| 1 | Quy mô thị trường FDI TQ→VN (miền Bắc) | CL-004, báo cáo FDI | | |
-| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003 | | |
-| 3 | Khoảng trống vs đối thủ | CL-001 competitors | | |
-| 4 | Khách mục tiêu rõ (persona) | KD-001 | | |
-| 5 | Sẵn sàng trả phí (pricing) | KD-004 | | |
-| 6 | Catalog phủ ≥80% hành trình FDI | FDI journey map | | |
-| 7 | Pháp lý & giấy phép khả thi | PL-001, PL-003 | | |
-| 8 | Vốn 2 tỷ đủ 6–12 tháng | VT-001, VT-005 | | |
-| 9 | Lợi thế CTCP + tập đoàn TQ | QĐ #003, Leader input | | |
-| 10 | Rủi ro chấp nhận được | CL-006, VT-005 | | |
+| 1 | Quy mô thị trường FDI TQ→VN (miền Bắc) | CL-004, báo cáo FDI | **4** | TQ #2 nguồn vốn 2025 |
+| 2 | Nhu cầu cụ thể tại TN + HP | CL-002, CL-003 | **4** | TN #1 FDI mới; desk KCN |
+| 3 | Khoảng trống vs đối thủ | CL-001 competitors | **3** | Niche Tier 2–3 TQ |
+| 4 | Khách mục tiêu rõ (persona) | KD-001 | **4** | [persona-v1](/docs/03-departments/03-kinh-doanh/persona-v1) |
+| 5 | Sẵn sàng trả phí (pricing) | KD-004 | **3** | Draft — chưa validate khách |
+| 6 | Catalog phủ ≥80% hành trình FDI | FDI journey map | **4** | ~82% ✅/🤝 |
+| 7 | Pháp lý & giấy phép khả thi | PL-001, PL-003 | **4** | CTCP path rõ |
+| 8 | Vốn 2 tỷ đủ 6–12 tháng | VT-001, VT-005 | **5** | Burn << 2 tỷ |
+| 9 | Lợi thế CTCP + tập đoàn TQ | QĐ #003, Leader input | **3** | % cổ đông chưa điền |
+| 10 | Rủi ro chấp nhận được | CL-006, VT-005 | **4** | Plan B có |
+| | **TỔNG** | | **38/50** | |
 
-**Kết luận (điền cuối tuần 4):**
+**Kết luận (2026-07-09):**
 
-- [ ] **Go** — Sang Giai đoạn 2 (xây hệ thống chi tiết)
-- [ ] **Adjust** — Thu hẹp phạm vi (VD: chỉ A1+A2, chưa B3)
+- [x] **Go + Adjust** — Sang [Giai đoạn 2](02-giai-doan-2-overview) (xây hệ thống lean)
 - [ ] **No-Go** — Dừng hoặc pivot mô hình
+- [ ] Leader ký [QĐ #005](/docs/decisions/005-phase-00-1-go)
 
 ---
 
@@ -138,25 +166,33 @@ Theo dõi tổng: [Bảng vận hành](/operations) · [Lộ trình tháng 7](/r
 | 2 | **Catalog dịch vụ v1** | Map đủ [6 giai đoạn hành trình FDI](/docs/03-departments/04-san-pham/fdi-journey-service-map) |
 | 3 | **Scorecard điền đủ 10 tiêu chí** | Bảng trên, có điểm số + giải thích |
 | 4 | **Quyết định Go/No-Go** | Leader ký — mở Giai đoạn 2 hoặc điều chỉnh |
+| 5 | **Investor Pack (trụ cột 4)** | Verdict đầu tư + financial model 3yr + strategy 3yr + pitch gap — [index](/docs/06-phases/investor-pack/00-index) |
 
 ---
 
-## Giai đoạn 2 (chưa triển khai — bàn sau)
+## Giai đoạn 2
 
-Khi **Go** từ 00-1:
+Khi **Go** từ 00-1 → xem [Overview Giai đoạn 2](02-giai-doan-2-overview).
 
-- Org model chi tiết + tuyển dụng theo pipeline
-- SOP từng gói dịch vụ · CRM · hợp đồng mẫu
-- Triển khai sales scale · MOU KCN/Sở
-- KPI phòng ban · dashboard vận hành
-
-*Anh sẽ bàn cụ thể Giai đoạn 2 sau khi có Memo tiềm năng.*
+*Đã đề xuất Go + Adjust 2026-07-09 — chờ Leader ký QĐ #005.*
 
 ---
 
-## Việc ngay (tuần này)
+## Trạng thái 00-1: ✅ HOÀN THÀNH (desk)
 
-- [ ] Leader đọc & xác nhận khung 00-1
-- [ ] Hermes: CL-002, CL-004 (issues #4, #5)
-- [ ] Cursor: hoàn thiện [FDI journey map](/docs/03-departments/04-san-pham/fdi-journey-service-map)
-- [ ] Bắt đầu tick checklist trong 5 file TODO
+| Deliverable | Link |
+|-------------|------|
+| Memo tiềm năng | [00-1-market-memo](00-1-market-memo) |
+| Scorecard 38/50 | [00-1-scorecard](00-1-scorecard) |
+| Quyết định Go | [QĐ #005](/docs/decisions/005-phase-00-1-go) |
+| **Investor Pack** | [investor-pack/00-index](investor-pack/00-index) |
+
+**Còn field (Leader):** Call Sở TN/HP · ký QĐ #005 · % cổ đông TQ
+
+---
+
+## Việc ngay (Giai đoạn 2)
+
+- [ ] Leader ký [QĐ #005](/docs/decisions/005-phase-00-1-go)
+- [ ] Call Sở KH&ĐT Thái Nguyên (CL-002)
+- [ ] Bắt đầu [Giai đoạn 2](02-giai-doan-2-overview) — SOP A1, đăng ký CTCP

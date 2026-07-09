@@ -10,7 +10,7 @@ author: "Cursor"
 
 # Bản đồ hành trình FDI TQ → VN
 
-> **Mục đích Giai đoạn 00-1:** Kiểm tra catalog LONGTV có **đủ** phục vụ doanh nghiệp FDI từ Trung Quốc hay chưa.
+> **Phiên bản 6 giai đoạn (tóm tắt).** Bản **đầy đủ 9 giai đoạn** (G0→G8, gồm di dời tỉnh & thoái vốn): **[fdi-lifecycle-full-map](fdi-lifecycle-full-map)** · Catalog: **[service-catalog-v1](service-catalog-v1)**
 >
 > Ký hiệu: ✅ Có (catalog v0.2) · 🔄 Đang làm rõ · ⬜ Thiếu · 🤝 Đối tác · — Không làm
 

@@ -13,8 +13,7 @@ status: "draft"
 
 # CL-004 — Số liệu FDI TQ→VN & 2 tỉnh trọng tâm
 
-> **Task ID:** CL-004 · **V-layer:** V1.3 · **Giai đoạn:** 00-1 tuần 1
-> **Refs:** Issue #5
+> **Task ID:** CL-004 · **Cập nhật đào sâu:** [fdi-data-deep-dive](fdi-data-deep-dive) (mức tin cậy 🟢🟡🔴)
 
 ---
 

@@ -20,7 +20,8 @@ export const metadata: Metadata = {
     "CTCP tư vấn FDI TQ→VN. Giai đoạn 00-1: đánh giá tiềm năng · Dịch vụ · Bảng vận hành 5 phòng ban.",
 };
 
-const NAV_LINKS = [
+const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
+  { href: "/kim", label: "Thư ký Kim", highlight: true },
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "00-1" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/operations", label: "Vận hành" },
@@ -43,7 +44,15 @@ function Header() {
         </Link>
         <nav className="hidden md:flex items-center gap-5 text-sm">
           {NAV_LINKS.map((link) => (
-            <Link key={link.href} href={link.href} className="hover:text-[var(--accent)] font-medium">
+            <Link
+              key={link.href}
+              href={link.href}
+              className={
+                link.highlight
+                  ? "font-semibold text-[var(--accent)] hover:opacity-80"
+                  : "hover:text-[var(--accent)] font-medium"
+              }
+            >
               {link.label}
             </Link>
           ))}
@@ -68,6 +77,9 @@ function Footer() {
           <div>
             <div className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">Truy cập</div>
             <div className="flex flex-col gap-2 text-sm">
+              <Link href="/kim" className="hover:text-[var(--accent)] font-medium text-[var(--accent)]">
+                Thư ký Kim — việc cần người
+              </Link>
               <Link href="/services" className="hover:text-[var(--accent)]">Dịch vụ</Link>
               <Link href="/operations" className="hover:text-[var(--accent)]">Bảng vận hành</Link>
               <Link href="/docs/06-phases/00-1-feasibility-plan" className="hover:text-[var(--accent)]">Giai đoạn 00-1</Link>
