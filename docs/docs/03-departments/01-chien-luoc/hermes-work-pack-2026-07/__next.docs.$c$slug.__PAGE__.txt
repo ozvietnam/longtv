@@ -2,7 +2,11 @@
 2:I[22016,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
 6:I[97367,["/longtv/_next/static/chunks/3y9azk3x7brqd.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:T2c72,<h1>Gói công việc Hermes — Wave 2</h1>
+3:T3171,<h1>Gói công việc Hermes — Wave 2</h1>
+<blockquote>
+<p><strong>Trạng thái:</strong> ✅ <strong>Đã duyệt</strong> — <a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006</a> · 2026-07-09<br>
+<strong>Chỉ đạo mới nhất:</strong> <a href="/docs/03-departments/01-chien-luoc/hermes-directive-log">hermes-directive-log</a> (#002, #003)</p>
+</blockquote>
 <blockquote>
 <p><strong>Vai trò:</strong> Nghiên cứu sâu + field verify + thu thập tài liệu cho LONGTV (CTCP tư vấn FDI TQ→VN, trọng tâm Thái Nguyên &#x26; Hải Phòng).</p>
 <p><strong>Leader xử lý:</strong> KIM-001–004, 030, 060, 070–075 — tại <a href="/kim">/kim</a>.</p>
@@ -265,6 +269,34 @@ sau mỗi call (085)
 <li>Memo WTO logistics FDI → <a href="/docs/03-departments/02-phap-ly/all-in-one-licensed-entities">all-in-one-licensed-entities</a></li>
 <li>Giấy phép con PL-002 → phối hợp Pháp lý khi có khách pilot</li>
 </ul>
+<h3>F. Logistics desk (bổ sung sau QĐ #006)</h3>
+<table>
+<thead>
+<tr>
+<th>Kim</th>
+<th>CL</th>
+<th>Việc</th>
+<th>Output</th>
+<th>Hạn</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KIM-089</td>
+<td>CL-013</td>
+<td><strong>Desk đối tác</strong> forwarder + đại lý hải quan GPLS</td>
+<td>Bảng trong research hoặc file mới <code>logistics-partners-desk.md</code></td>
+<td>2026-07-28</td>
+</tr>
+<tr>
+<td>KIM-090</td>
+<td>CL-014</td>
+<td><strong>Bảng giá desk</strong> tuyến TQ → HP → TN</td>
+<td>§ trong <a href="/logistics">logistics</a> hoặc file <code>logistics-routes-desk.md</code></td>
+<td>2026-07-25</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>Definition of Done</h2>
 <table>
@@ -313,7 +345,15 @@ sau mỗi call (085)
 <tbody>
 <tr>
 <td>Hộp việc Hermes (lọc)</td>
-<td><a href="/kim">/kim</a> → filter <strong>Hermes</strong></td>
+<td><a href="/kim">/kim</a> → filter <strong>Nghiên cứu (Hermes)</strong></td>
+</tr>
+<tr>
+<td>Chỉ đạo &#x26; nhắc việc</td>
+<td><a href="/docs/03-departments/01-chien-luoc/hermes-directive-log">hermes-directive-log</a></td>
+</tr>
+<tr>
+<td>Quyết định duyệt</td>
+<td><a href="/docs/decisions/006-hermes-wave2-approval">QĐ #006</a></td>
 </tr>
 <tr>
 <td>Script gọi điện</td>
@@ -335,7 +375,7 @@ sau mỗi call (085)
 </table>
 <hr>
 <p><strong>Cập nhật:</strong> 2026-07-09 · Giao Hermes thực hiện Wave 2 — field verify là blocker cho investor verdict &#x26; scorecard field.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"hermes-work-pack-2026-07"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Gói công việc Hermes — Wave 2 (tháng 7/2026)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Rà soát đầu mục cần mở rộng, nghiên cứu sâu và thu thập tài liệu — giao Hermes thực hiện."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"b1uOc_4C0tK_l_gEoft-z"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-3xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"01-chien-luoc"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"hermes-work-pack-2026-07"}]]}]]]}],["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":[["$","div",null,{"className":"text-xs uppercase tracking-wider text-[var(--accent)] mb-3 font-semibold","children":"departments"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"Gói công việc Hermes — Wave 2 (tháng 7/2026)"}],["$","p",null,{"className":"text-lg text-[var(--muted)] leading-relaxed","children":"Rà soát đầu mục cần mở rộng, nghiên cứu sâu và thu thập tài liệu — giao Hermes thực hiện."}]]}],["$","div",null,{"className":"prose-longtv","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VLFYUB-fDEBmTwj0wAKWH"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/03-departments/01-chien-luoc/TODO","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"TODO — Chiến lược & Rủi ro"}]]}],["$","$L2",null,{"href":"/docs/03-departments/02-phap-ly/00-profile","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"Phòng Pháp lý & Chính sách"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
