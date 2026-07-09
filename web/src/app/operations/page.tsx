@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { DEPARTMENTS } from "@/lib/departments";
+import { Phase001Banner, RelatedPagesGrid, StickyPageNav } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import {
   countTasksByPriority,
   countTasksByStatus,
@@ -75,6 +77,12 @@ function TaskRow({ task }: { task: TodoTask }) {
   );
 }
 
+const OPS_SECTIONS = [
+  { id: "tong-quan", label: "Tổng quan" },
+  { id: "phong-ban", label: "5 phòng ban" },
+  { id: "huong-dan", label: "Hướng dẫn" },
+] as const;
+
 export default function OperationsPage() {
   const deptTasks = getAllDepartmentTasks();
   const allTasks = deptTasks.flatMap((d) => d.tasks);
@@ -123,16 +131,19 @@ export default function OperationsPage() {
         </div>
       </header>
 
-      {/* Org snapshot */}
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
-        <StatCard label="Giám đốc" value="1" note="Tổng GD (kiêm Chiến lược)" />
-        <StatCard label="Phòng ban" value="5" note="V1–V7 map đủ" />
-        <StatCard label="Sales" value="2" note="BD Manager + Exec" />
-        <StatCard label="Task P0" value={String(priorityTotals.P0)} note={`${statusTotals.done} done / ${statusTotals.todo} todo`} />
-      </section>
+      <Phase001Banner />
+      <StickyPageNav sections={OPS_SECTIONS} />
 
-      {/* Summary by department */}
-      <section className="grid md:grid-cols-5 gap-3 mb-12">
+      {/* Org snapshot */}
+      <section id="tong-quan" className="scroll-mt-32 mb-10">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
+          <StatCard label="Giám đốc" value="1" note="Tổng GD (kiêm Chiến lược)" />
+          <StatCard label="Phòng ban" value="5" note="V1–V7 map đủ" />
+          <StatCard label="Sales" value="2" note="BD Manager + Exec" />
+          <StatCard label="Task P0" value={String(priorityTotals.P0)} note={`${statusTotals.done} done / ${statusTotals.todo} todo`} />
+        </div>
+
+        <div className="grid md:grid-cols-5 gap-3">
         {deptTasks.map((dept) => {
           const deptMeta = DEPARTMENTS.find((d) => d.id === dept.deptId);
           const counts = countTasksByStatus(dept.tasks);
@@ -157,9 +168,11 @@ export default function OperationsPage() {
             </a>
           );
         })}
+        </div>
       </section>
 
       {/* Task tables per department */}
+      <div id="phong-ban" className="scroll-mt-32">
       {deptTasks.map((dept) => {
         const deptMeta = DEPARTMENTS.find((d) => d.id === dept.deptId);
         if (dept.tasks.length === 0) return null;
@@ -201,8 +214,11 @@ export default function OperationsPage() {
           </section>
         );
       })}
+      </div>
 
-      <section className="p-6 rounded-lg border border-[var(--border)] bg-white">
+      <RelatedPagesGrid links={PAGE_RELATED["/operations"]} />
+
+      <section id="huong-dan" className="scroll-mt-32 p-6 rounded-lg border border-[var(--border)] bg-white">
         <h2 className="font-semibold mb-2">Cách cập nhật</h2>
         <ol className="text-sm text-[var(--muted)] space-y-1 list-decimal list-inside">
           <li>Leader chốt mục tiêu tháng → ghi vào <code className="font-mono text-xs bg-gray-100 px-1 rounded">02-monthly-roadmap/</code></li>

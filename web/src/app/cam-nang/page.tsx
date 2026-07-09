@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { LibraryPageContent } from "@/components/LibraryPageContent";
+import { Phase001Banner } from "@/components/page/PageChrome";
 import {
   getArticleBacklog,
   getLegalSources,
@@ -46,6 +47,8 @@ export default function CamNangPage() {
           </Link>
         </div>
       </header>
+
+      <Phase001Banner compact />
 
       <LibraryPageContent shelves={shelves} sources={sources} backlog={backlog} stats={stats} />
     </div>

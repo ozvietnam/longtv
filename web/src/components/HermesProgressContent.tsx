@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { Phase001Banner, RelatedPagesGrid, StickyPageNav } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import {
   HERMES_DOC_LINKS,
   HERMES_WAVE1_DONE,
@@ -83,6 +85,13 @@ function ClMiniRow({ task }: { task: HermesClTask }) {
   );
 }
 
+const HERMES_SECTIONS = [
+  { id: "tom-tat", label: "Tóm tắt" },
+  { id: "wave1", label: "Wave 1" },
+  { id: "wave2", label: "Wave 2" },
+  { id: "cl", label: "Chiến lược" },
+] as const;
+
 export function HermesProgressContent({ progress }: { progress: Progress }) {
   const [filter, setFilter] = useState<Wave2Filter>("open");
 
@@ -124,8 +133,11 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
         </div>
       </header>
 
+      <Phase001Banner />
+      <StickyPageNav sections={HERMES_SECTIONS} />
+
       {/* Summary stats */}
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
+      <section id="tom-tat" className="scroll-mt-32 grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
         <StatCard label="Wave 1 (desk)" value={String(progress.wave1Count)} note="đã có evidence" highlight />
         <StatCard label="Kim đang mở" value={String(progress.kimTodo + progress.kimDoing)} note="chờ Hermes" />
         <StatCard label="Kim đang làm" value={String(progress.kimDoing)} note="KIM-010, 080" />
@@ -155,7 +167,7 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
       </section>
 
       {/* Wave 1 done */}
-      <section className="mb-12">
+      <section id="wave1" className="scroll-mt-32 mb-12">
         <div className="flex items-baseline justify-between gap-4 mb-4 flex-wrap">
           <h2 className="text-2xl font-bold">Wave 1 — Đã hoàn thành (desk research)</h2>
           <span className="text-sm text-green-700 font-semibold">✓ Evidence trong repo</span>
@@ -179,7 +191,7 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
       </section>
 
       {/* Wave 2 Kim */}
-      <section className="mb-12">
+      <section id="wave2" className="scroll-mt-32 mb-12">
         <div className="flex items-baseline justify-between gap-4 mb-4 flex-wrap">
           <h2 className="text-2xl font-bold">Wave 2 — Việc Kim (người Hermes)</h2>
           <Link href="/kim" className="text-sm text-violet-700 font-medium hover:underline">
@@ -223,7 +235,7 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
       </section>
 
       {/* CL tasks */}
-      <section className="mb-12">
+      <section id="cl" className="scroll-mt-32 mb-12">
         <h2 className="text-2xl font-bold mb-4">TODO Chiến lược — assignee @hermes</h2>
         <p className="text-sm text-[var(--muted)] mb-4">
           {progress.clDone} done · {progress.clDoing} doing · {progress.clTodo} todo (trong bảng phòng Chiến lược)
@@ -253,6 +265,8 @@ export function HermesProgressContent({ progress }: { progress: Progress }) {
           Bảng vận hành phòng Chiến lược →
         </Link>
       </section>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/hermes"]} />
 
       {/* Related docs */}
       <section className="mb-10">

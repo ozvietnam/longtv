@@ -2,6 +2,8 @@ import Link from "next/link";
 import { DEPARTMENTS } from "@/lib/departments";
 import { getAllDocs } from "@/lib/docs";
 import { countTasksByStatus, parseTodoTable } from "@/lib/tasks";
+import { Phase001Banner, RelatedPagesGrid } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 
 export const metadata = { title: "Phòng ban · LongTV" };
 
@@ -32,6 +34,8 @@ export default function DepartmentsIndex() {
           </Link>
         </div>
       </header>
+
+      <Phase001Banner compact />
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {DEPARTMENTS.map((dept) => {
@@ -84,6 +88,8 @@ export default function DepartmentsIndex() {
           );
         })}
       </div>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/departments"]} />
 
       <section className="mt-12 p-6 rounded-lg border border-[var(--border)] bg-white">
         <h2 className="font-semibold mb-2">Cách cập nhật task</h2>

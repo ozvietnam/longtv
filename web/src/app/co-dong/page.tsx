@@ -1,4 +1,13 @@
 import Link from "next/link";
+import { Phase001Banner, RelatedPagesGrid, StickyPageNav } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
+
+const CO_DONG_SECTIONS = [
+  { id: "oz", label: "Oz Việt Nam" },
+  { id: "repos", label: "GitHub" },
+  { id: "vai-tro", label: "Vai trò" },
+  { id: "them", label: "Khác" },
+] as const;
 
 export const metadata = {
   title: "Cổ đông · LongTV",
@@ -79,7 +88,10 @@ export default function ShareholdersPage() {
         </p>
       </header>
 
-      <section className="grid lg:grid-cols-[1.1fr_0.9fr] gap-6 mb-12">
+      <Phase001Banner />
+      <StickyPageNav sections={CO_DONG_SECTIONS} />
+
+      <section id="oz" className="scroll-mt-32 grid lg:grid-cols-[1.1fr_0.9fr] gap-6 mb-12">
         <div className="p-6 md:p-8 rounded-3xl border border-red-200 bg-gradient-to-br from-red-50 via-white to-stone-50">
           <div className="text-xs uppercase tracking-wider text-[var(--muted)] font-semibold mb-3">Cổ đông #1</div>
           <h2 className="text-3xl font-bold tracking-tight mb-3">Oz Việt Nam</h2>
@@ -111,7 +123,7 @@ export default function ShareholdersPage() {
         </div>
       </section>
 
-      <section className="mb-12">
+      <section id="repos" className="scroll-mt-32 mb-12">
         <div className="flex items-end justify-between gap-4 mb-5">
           <div>
             <div className="text-xs uppercase tracking-wider text-[var(--muted)] font-semibold mb-2">GitHub evidence</div>
@@ -144,56 +156,57 @@ export default function ShareholdersPage() {
         </div>
       </section>
 
-      <section className="grid lg:grid-cols-2 gap-6 mb-12">
-        <div className="p-6 md:p-8 rounded-3xl border border-emerald-200 bg-emerald-50/50">
-          <h2 className="text-2xl font-bold text-emerald-950 mb-4">Vì sao Oz là trụ cột giai đoạn đầu?</h2>
-          <ol className="space-y-3 text-sm leading-relaxed">
-            <li><strong>1. Có tài sản công nghệ sẵn:</strong> không phải xây từ trắng mảng HS code/XNK.</li>
-            <li><strong>2. Có dữ liệu ngành sâu:</strong> biểu thuế, HS, quy định, mô tả khai báo là nền cho B1/B3.</li>
-            <li><strong>3. Có năng lực web/API:</strong> đủ để biến tri thức thành công cụ bán dịch vụ và vận hành nội bộ.</li>
-            <li><strong>4. Tạo khác biệt:</strong> LONGTV không chỉ môi giới KCN/luật, mà có lõi số về hậu cần.</li>
-          </ol>
+      <section id="vai-tro" className="scroll-mt-32 mb-12">
+        <div className="grid lg:grid-cols-2 gap-6 mb-6">
+          <div className="p-6 md:p-8 rounded-3xl border border-emerald-200 bg-emerald-50/50">
+            <h2 className="text-2xl font-bold text-emerald-950 mb-4">Vì sao Oz là trụ cột giai đoạn đầu?</h2>
+            <ol className="space-y-3 text-sm leading-relaxed">
+              <li><strong>1. Có tài sản công nghệ sẵn:</strong> không phải xây từ trắng mảng HS code/XNK.</li>
+              <li><strong>2. Có dữ liệu ngành sâu:</strong> biểu thuế, HS, quy định, mô tả khai báo là nền cho B1/B3.</li>
+              <li><strong>3. Có năng lực web/API:</strong> đủ để biến tri thức thành công cụ bán dịch vụ và vận hành nội bộ.</li>
+              <li><strong>4. Tạo khác biệt:</strong> LONGTV không chỉ môi giới KCN/luật, mà có lõi số về hậu cần.</li>
+            </ol>
+          </div>
+          <div className="p-6 md:p-8 rounded-3xl border border-amber-200 bg-amber-50/60">
+            <h2 className="text-2xl font-bold text-amber-950 mb-4">Khoảng trống cần bổ sung</h2>
+            <ul className="space-y-3 text-sm leading-relaxed">
+              {gaps.map((gap) => (
+                <li key={gap} className="flex gap-2">
+                  <span className="text-amber-700 shrink-0">•</span>
+                  <span>{gap}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
-        <div className="p-6 md:p-8 rounded-3xl border border-amber-200 bg-amber-50/60">
-          <h2 className="text-2xl font-bold text-amber-950 mb-4">Khoảng trống cần bổ sung</h2>
-          <ul className="space-y-3 text-sm leading-relaxed">
-            {gaps.map((gap) => (
-              <li key={gap} className="flex gap-2">
-                <span className="text-amber-700 shrink-0">•</span>
-                <span>{gap}</span>
-              </li>
+
+        <div className="rounded-3xl border border-[var(--border)] bg-white p-6 md:p-8">
+          <h2 className="text-2xl font-bold mb-5">Vai trò Oz trong dịch vụ hậu cần LONGTV</h2>
+          <div className="grid md:grid-cols-4 gap-4">
+            {[
+              ["B1", "HS code starter", "Oz cung cấp lõi tra cứu HS, thuế, mô tả khai báo."],
+              ["B1-ext", "Nhập máy/dây chuyền", "Dùng knowledge graph để giảm rủi ro phân loại và checklist hồ sơ."],
+              ["B2", "Forwarder/logistics pack", "Oz không thay forwarder, nhưng tạo SOP và dữ liệu đối soát."],
+              ["B3", "Retainer XNK", "Oz là backend dữ liệu cho chuỗi nhập–sản xuất–xuất khẩu."],
+            ].map(([code, title, desc]) => (
+              <div key={code} className="rounded-2xl border border-stone-200 p-4">
+                <div className="font-mono text-sm font-bold text-[var(--accent)] mb-2">{code}</div>
+                <div className="font-semibold mb-2">{title}</div>
+                <p className="text-sm text-[var(--muted)] leading-relaxed">{desc}</p>
+              </div>
             ))}
-          </ul>
+          </div>
+          <div className="mt-6 flex flex-wrap gap-3">
+            <Link href="/logistics" className="inline-flex h-10 items-center rounded-full bg-[var(--accent)] px-4 text-sm font-semibold text-white hover:opacity-90">
+              Xem dịch vụ hậu cần →
+            </Link>
+          </div>
         </div>
       </section>
 
-      <section className="mb-12 rounded-3xl border border-[var(--border)] bg-white p-6 md:p-8">
-        <h2 className="text-2xl font-bold mb-5">Vai trò Oz trong dịch vụ hậu cần LONGTV</h2>
-        <div className="grid md:grid-cols-4 gap-4">
-          {[
-            ["B1", "HS code starter", "Oz cung cấp lõi tra cứu HS, thuế, mô tả khai báo."],
-            ["B1-ext", "Nhập máy/dây chuyền", "Dùng knowledge graph để giảm rủi ro phân loại và checklist hồ sơ."],
-            ["B2", "Forwarder/logistics pack", "Oz không thay forwarder, nhưng tạo SOP và dữ liệu đối soát."],
-            ["B3", "Retainer XNK", "Oz là backend dữ liệu cho chuỗi nhập–sản xuất–xuất khẩu."],
-          ].map(([code, title, desc]) => (
-            <div key={code} className="rounded-2xl border border-stone-200 p-4">
-              <div className="font-mono text-sm font-bold text-[var(--accent)] mb-2">{code}</div>
-              <div className="font-semibold mb-2">{title}</div>
-              <p className="text-sm text-[var(--muted)] leading-relaxed">{desc}</p>
-            </div>
-          ))}
-        </div>
-        <div className="mt-6 flex flex-wrap gap-3">
-          <Link href="/logistics" className="inline-flex h-10 items-center rounded-full bg-[var(--accent)] px-4 text-sm font-semibold text-white hover:opacity-90">
-            Xem dịch vụ hậu cần →
-          </Link>
-          <Link href="/assessment" className="inline-flex h-10 items-center rounded-full border border-[var(--border)] px-4 text-sm font-semibold hover:border-[var(--accent)]">
-            Dashboard 00-1 →
-          </Link>
-        </div>
-      </section>
+      <RelatedPagesGrid links={PAGE_RELATED["/co-dong"]} />
 
-      <section className="rounded-3xl border border-dashed border-[var(--border)] bg-stone-50 p-6 md:p-8">
+      <section id="them" className="scroll-mt-32 rounded-3xl border border-dashed border-[var(--border)] bg-stone-50 p-6 md:p-8">
         <h2 className="text-2xl font-bold mb-3">Các cổ đông/đối tác khác</h2>
         <p className="text-[var(--muted)] leading-relaxed">
           Chưa nhập. Anh giới thiệu công ty/cổ đông nào tiếp theo, em sẽ bổ sung thành từng card cùng cấu trúc:
