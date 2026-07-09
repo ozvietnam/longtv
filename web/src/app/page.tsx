@@ -34,6 +34,12 @@ export default function Home() {
               Lộ trình tháng 7
             </Link>
             <Link
+              href="/docs/services/00-index"
+              className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
+            >
+              Dịch vụ
+            </Link>
+            <Link
               href="/departments"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
