@@ -33,27 +33,9 @@ jobs:
           npm run build
           test -f out/index.html
 
-      - name: Prepare docs/ for GitHub Pages
-        run: |
-          rm -rf docs
-          cp -r web/out docs
-          touch docs/.nojekyll
-
-      - name: Push to gh-pages branch
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./web/out
           force_orphan: true
-
-      - name: Commit docs/ to main (Pages source: main /docs)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
-          if git diff --staged --quiet; then
-            echo "No docs changes to commit"
-          else
-            git commit -m "chore: deploy site to docs/ [skip ci]"
-            git push
-          fi
