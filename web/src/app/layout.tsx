@@ -24,6 +24,7 @@ const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
   { href: "/kim", label: "Thư ký Kim", highlight: true },
   { href: "/cam-nang", label: "Cẩm nang", highlight: true },
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng" },
+  { href: "/co-dong", label: "Cổ đông" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
   { href: "/hermes", label: "Hermes", highlight: true },
@@ -88,6 +89,9 @@ function Footer() {
               </Link>
               <Link href="/cam-nang" className="hover:text-[var(--accent)] font-medium">
                 Cẩm nang tri thức
+              </Link>
+              <Link href="/co-dong" className="hover:text-[var(--accent)] font-medium">
+                Cổ đông
               </Link>
               <Link href="/services" className="hover:text-[var(--accent)]">Dịch vụ</Link>
               <Link href="/logistics" className="hover:text-[var(--accent)] font-medium text-amber-800">

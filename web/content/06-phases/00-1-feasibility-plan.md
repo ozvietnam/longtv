@@ -65,7 +65,7 @@ author: "Cursor · Sếp Thắng"
   <div class="fd-score-card fd-green">
     <span>Lợi thế cạnh tranh</span>
     <strong>8/10</strong>
-    <p>CTCP + cổ đông TQ + hiểu địa phương + hub pháp lý/kế toán/logistics.</p>
+    <p>CTCP + cổ đông TQ + Oz làm lõi HS/XNK + hub pháp lý/kế toán/logistics.</p>
   </div>
   <div class="fd-score-card fd-slate">
     <span>Rủi ro cần kiểm soát</span>
@@ -96,7 +96,7 @@ author: "Cursor · Sếp Thắng"
   <a class="fd-flow-node" href="/services">
     <span>B</span>
     <strong>Logistics & hải quan</strong>
-    <p>HS code, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+    <p>HS code/Oz core, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
   </a>
   <div class="fd-flow-arrow">→</div>
   <div class="fd-flow-node fd-outcome">
@@ -158,7 +158,27 @@ author: "Cursor · Sếp Thắng"
     <strong>Quyết định chiến lược #003</strong>
     <span>CTCP, vốn 2 tỷ, cổ đông TQ và định vị 2 mảng.</span>
   </a>
+  <a href="/co-dong">
+    <strong>Cổ đông — Oz Việt Nam</strong>
+    <span>Đánh giá nguồn lực GitHub, vai trò giai đoạn đầu và lõi hậu cần.</span>
+  </a>
 </div>
+
+## Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu
+
+| Nguồn lực Oz | Bằng chứng GitHub | Ý nghĩa với LONGTV |
+|---|---|---|
+| HS Code + tariff API | [`hs-code-api`](https://github.com/ozvietnam/hs-code-api) — AI HS suggestions, mô tả khai báo hải quan, endpoints tariff/dataset | Tạo lõi cho gói B1: phân loại HS, checklist tờ khai, mô tả khai báo |
+| Knowledge graph XNK | [`hs-knowledge-api`](https://github.com/ozvietnam/hs-knowledge-api) — knowledge graph 9 tầng, biểu thuế XNK 2026, Postgres/pgvector/Gemini | Là nền dữ liệu để xây SOP và truy vấn tri thức hải quan |
+| Webapp XNK | [`xnk-webapp`](https://github.com/ozvietnam/xnk-webapp) — FastAPI/Next.js, tra cứu HS, thuế MFN/ACFTA, chatbot RAG | Chứng minh năng lực triển khai công cụ khách hàng/ops nội bộ |
+| Webapp hải quan 2026 | [`wa26`](https://github.com/ozvietnam/wa26) — 11.871 mã HS 8 số, 19 FTA, chatbot AI tư vấn | Tạo lợi thế khác biệt: LONGTV không chỉ tư vấn, mà có lõi số về hậu cần |
+| SEO/automation | [`oz-rank-tracker`](https://github.com/ozvietnam/oz-rank-tracker), `n8n-workflows` | Hỗ trợ inbound, vận hành tri thức và tự động hóa |
+
+**Kết luận:** Oz là cổ đông/nền tảng trụ cột trong giai đoạn đầu vì đã có sẵn tài sản công nghệ ngành hải quan — đủ để LONGTV triển khai mảng **B hậu cần & hải quan** theo hướng tư vấn + PM + đối tác vận tải/đại lý hải quan.
+
+**Ranh giới cần quản trị:** Oz không thay thế forwarder, kho, đội xe hoặc đại lý hải quan có giấy phép. Oz là **lõi dữ liệu/công cụ/SOP**, còn vận hành thực địa cần đối tác và Kim field.
+
+Trang chi tiết: [Cổ đông — Oz Việt Nam](/co-dong).
 
 ---
 
