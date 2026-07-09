@@ -38,16 +38,40 @@ Chi tiết: [product-bundles](/docs/03-departments/04-san-pham/product-bundles)
 
 ## Dịch vụ logistics giao dịch (VND)
 
-> Desk benchmark: [logistics-pricing-benchmark](/docs/04-research/2026-07/logistics-pricing-benchmark) · Chờ MOU GPLS [KIM-076](/kim)
+> Desk benchmark: [logistics-pricing-benchmark](/docs/04-research/2026-07/logistics-pricing-benchmark) · Chờ MOU GPLS [KIM-076](/kim)  
+> Mục tiêu 6 tháng: **200 cont/tháng** tổng (xuất + nhập) · Oz **50 cont/tháng** từ tháng 2
+
+### Bảng giá bán
 
 | Mã | Dịch vụ | Giá bán (VND) | Ghi chú |
 |----|---------|---------------|---------|
 | L-HQ-01 | Khai báo xuất FCL (luồng xanh) | 750.000/cont | Qua đại lý GPLS |
 | L-HQ-02 | Khai báo nhập FCL (cont đầu) | 1.000.000/cont | |
+| L-HQ-03 | Cont tiếp (cùng DN, cùng ngày) | 450.000/cont | |
 | L-TR-01 | Trucking cảng HP → TN (20DC) | 5.900.000/cont | Điều phối, không sở hữu xe |
 | L-TR-02 | Trucking HP → TN (40DC) | 6.200.000/cont | |
-| L-CO-01 | Xin C/O Form E (xuất khẩu) | 1.600.000/lần | ~30% lô cần C/O |
+| L-TR-03 | Trucking nội HP (Đình Vũ / Tràng Duệ) | 1.750.000/cont | 40% tuyến blended |
+| L-CO-01 | Xin C/O Form E (xuất khẩu) | 1.600.000/lần | ~32% lô xuất cần C/O |
 | **B3** | Retainer XNK (≥10 tờ khai/tháng) | **40–80 triệu VND/tháng** | PM + đối soát BOM |
+
+### Biên lợi nhuận theo dòng (desk)
+
+| Mã | Cost đối tác | GP | Biên |
+|----|--------------|-----|------|
+| L-HQ-01 | 500.000 | 250.000 | 33% |
+| L-HQ-02 | 650.000 | 350.000 | 35% |
+| L-HQ-03 | 300.000 | 150.000 | 33% |
+| L-TR-01 | 5.350.000 | 550.000 | 10% |
+| L-TR-03 | 1.500.000 | 250.000 | 14% |
+| L-CO-01 | 1.000.000 | 600.000 | 38% |
+
+### GP blended / cont (55% xuất · 45% nhập)
+
+| Loại cont | DT / cont | GP / cont | Biên |
+|-----------|-----------|-----------|------|
+| Xuất khẩu | ~5,50 triệu | ~0,87 triệu | ~16% |
+| Nhập khẩu | ~5,24 triệu | ~0,78 triệu | ~15% |
+| **Blended** | **~5,38 triệu** | **~0,83 triệu** | **~15,4%** |
 
 **Gói nhanh giai đoạn đầu:** Logistics Quick Start — không bắt buộc mua A1 trước (NM đã có IRC).
 

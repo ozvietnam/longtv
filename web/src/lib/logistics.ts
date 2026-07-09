@@ -115,19 +115,18 @@ export const LOGISTICS_ROUTES = [
   },
 ];
 
-export const LOGISTICS_TRANSACTIONAL_PRICING = [
-  { code: "L-HQ-01", name: "Khai báo xuất FCL (luồng xanh)", priceVnd: "750.000", unit: "cont", note: "Qua đại lý GPLS" },
-  { code: "L-HQ-02", name: "Khai báo nhập FCL (cont đầu)", priceVnd: "1.000.000", unit: "cont", note: "" },
-  { code: "L-TR-01", name: "Trucking HP → TN (20DC)", priceVnd: "5.900.000", unit: "cont", note: "Điều phối đối tác" },
-  { code: "L-TR-02", name: "Trucking HP → TN (40DC)", priceVnd: "6.200.000", unit: "cont", note: "" },
-  { code: "L-CO-01", name: "Xin C/O Form E (xuất khẩu)", priceVnd: "1.600.000", unit: "lần", note: "~30% lô xuất" },
-] as const;
-
-export const LOGISTICS_VOLUME_TARGETS = {
-  month6: { bear: "15 cont/tháng", base: "65 cont/tháng", stretch: "500 cont/tháng" },
-  gpPerCont: "~980.000 VND (~14%)",
-  benchmarkDoc: "/docs/04-research/2026-07/logistics-pricing-benchmark",
-} as const;
+export {
+  LOGISTICS_6M_TARGET,
+  LOGISTICS_6M_TOTALS,
+  LOGISTICS_RAMP_MONTHS,
+  LOGISTICS_SERVICE_LINES,
+  LOGISTICS_TRANSACTIONAL_PRICING,
+  LOGISTICS_VOLUME_TARGETS,
+  monthLogisticsPnl,
+  PER_CONT_BLENDED,
+  PER_EXPORT_CONT,
+  PER_IMPORT_CONT,
+} from "./logistics-pricing";
 
 export const LOGISTICS_FAQ = [
   {

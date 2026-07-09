@@ -2,16 +2,28 @@
 
 import Link from "next/link";
 import {
+  LOGISTICS_6M_TOTALS,
   LOGISTICS_FAQ,
   LOGISTICS_HERO,
+  LOGISTICS_RAMP_MONTHS,
   LOGISTICS_ROUTES,
   LOGISTICS_SCENARIOS,
   LOGISTICS_SCOPE,
   LOGISTICS_SERVICE_IDS,
+  LOGISTICS_SERVICE_LINES,
   LOGISTICS_TRANSACTIONAL_PRICING,
   LOGISTICS_VOLUME_TARGETS,
   LOGISTICS_WORKFLOW,
+  monthLogisticsPnl,
+  PER_CONT_BLENDED,
+  PER_EXPORT_CONT,
+  PER_IMPORT_CONT,
 } from "@/lib/logistics";
+
+function formatMillion(vnd: number) {
+  if (vnd >= 1_000_000_000) return `${(vnd / 1_000_000_000).toFixed(1)} tỷ`;
+  return `${Math.round(vnd / 1_000_000)} tr`;
+}
 import { getServiceById, TIER_STYLES, type ServiceItem } from "@/lib/services";
 
 function LogisticsServiceCard({ service }: { service: ServiceItem }) {
@@ -126,7 +138,8 @@ export function LogisticsPageContent() {
           <div>
             <h2 className="text-2xl font-bold mb-1">Bảng giá giao dịch (desk · 07/2026)</h2>
             <p className="text-sm text-[var(--muted)]">
-              Hải quan · trucking · C/O — biên gộp ~14–22% trên cont. Chi tiết:{" "}
+              Hải quan · trucking · C/O — biên gộp ~{PER_CONT_BLENDED.marginPct}% trên cont blended (55% xuất / 45%
+              nhập). Chi tiết:{" "}
               <Link href={LOGISTICS_VOLUME_TARGETS.benchmarkDoc} className="text-amber-800 font-medium hover:underline">
                 khảo sát giá →
               </Link>
@@ -135,19 +148,23 @@ export function LogisticsPageContent() {
           <div className="text-sm rounded-xl border border-amber-200 bg-white px-4 py-3">
             <div className="text-xs text-[var(--muted)] uppercase tracking-wide font-semibold mb-1">Mục tiêu tháng 6</div>
             <div>
-              Base <strong>{LOGISTICS_VOLUME_TARGETS.month6.base}</strong> · Stretch{" "}
-              <strong>{LOGISTICS_VOLUME_TARGETS.month6.stretch}</strong>
+              Base <strong>{LOGISTICS_VOLUME_TARGETS.month6.base}</strong>
+              {LOGISTICS_VOLUME_TARGETS.month6.note && (
+                <span className="text-[var(--muted)]"> · {LOGISTICS_VOLUME_TARGETS.month6.note}</span>
+              )}
             </div>
+            <div className="text-xs text-amber-900 mt-1">{LOGISTICS_VOLUME_TARGETS.ozStart}</div>
           </div>
         </div>
         <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-4">
-          <table className="w-full text-sm min-w-[520px]">
+          <table className="w-full text-sm min-w-[640px]">
             <thead>
               <tr className="bg-amber-50/80 text-left text-xs uppercase tracking-wide text-[var(--muted)]">
                 <th className="px-4 py-3 font-semibold">Mã</th>
                 <th className="px-4 py-3 font-semibold">Dịch vụ</th>
-                <th className="px-4 py-3 font-semibold">Giá (VND)</th>
-                <th className="px-4 py-3 font-semibold">Ghi chú</th>
+                <th className="px-4 py-3 font-semibold">Giá bán</th>
+                <th className="px-4 py-3 font-semibold">GP</th>
+                <th className="px-4 py-3 font-semibold">Biên</th>
               </tr>
             </thead>
             <tbody>
@@ -159,15 +176,118 @@ export function LogisticsPageContent() {
                     {row.priceVnd}
                     <span className="text-[var(--muted)] font-normal"> /{row.unit}</span>
                   </td>
-                  <td className="px-4 py-3 text-[var(--muted)] text-xs">{row.note}</td>
+                  <td className="px-4 py-3 font-mono text-emerald-800">{row.gpVnd}</td>
+                  <td className="px-4 py-3 font-semibold text-amber-900">{row.margin}</td>
                 </tr>
               ))}
             </tbody>
           </table>
         </div>
+
+        <h3 className="text-lg font-bold mb-3">Biên lợi nhuận theo dòng dịch vụ</h3>
+        <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-6">
+          <table className="w-full text-sm min-w-[720px]">
+            <thead>
+              <tr className="bg-amber-50/80 text-left text-xs uppercase tracking-wide text-[var(--muted)]">
+                <th className="px-4 py-3 font-semibold">Mã</th>
+                <th className="px-4 py-3 font-semibold">Dịch vụ</th>
+                <th className="px-4 py-3 font-semibold">Bán</th>
+                <th className="px-4 py-3 font-semibold">Cost</th>
+                <th className="px-4 py-3 font-semibold">GP</th>
+                <th className="px-4 py-3 font-semibold">Biên</th>
+              </tr>
+            </thead>
+            <tbody>
+              {LOGISTICS_SERVICE_LINES.filter((l) => !("optional" in l && l.optional)).map((line) => (
+                <tr key={line.code} className="border-t border-amber-50">
+                  <td className="px-4 py-3 font-mono font-bold text-amber-900">{line.code}</td>
+                  <td className="px-4 py-3 text-xs">{line.name}</td>
+                  <td className="px-4 py-3 font-mono whitespace-nowrap">
+                    {line.sellVnd.toLocaleString("vi-VN")}
+                  </td>
+                  <td className="px-4 py-3 font-mono text-[var(--muted)] whitespace-nowrap">
+                    {line.costVnd.toLocaleString("vi-VN")}
+                  </td>
+                  <td className="px-4 py-3 font-mono text-emerald-800 whitespace-nowrap">
+                    {line.gpVnd.toLocaleString("vi-VN")}
+                  </td>
+                  <td className="px-4 py-3 font-semibold">{line.marginPct}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <div className="grid md:grid-cols-3 gap-4 mb-6">
+          <div className="p-4 rounded-xl border border-amber-100 bg-white">
+            <div className="text-xs text-[var(--muted)] uppercase font-semibold mb-1">1 cont xuất khẩu</div>
+            <div className="font-mono font-bold text-amber-900">
+              {(PER_EXPORT_CONT.total.sellVnd / 1_000_000).toFixed(2)}M bán
+            </div>
+            <div className="text-sm text-emerald-800">
+              GP {(PER_EXPORT_CONT.total.gpVnd / 1_000_000).toFixed(2)}M · {PER_EXPORT_CONT.total.marginPct}%
+            </div>
+          </div>
+          <div className="p-4 rounded-xl border border-amber-100 bg-white">
+            <div className="text-xs text-[var(--muted)] uppercase font-semibold mb-1">1 cont nhập khẩu</div>
+            <div className="font-mono font-bold text-amber-900">
+              {(PER_IMPORT_CONT.total.sellVnd / 1_000_000).toFixed(2)}M bán
+            </div>
+            <div className="text-sm text-emerald-800">
+              GP {(PER_IMPORT_CONT.total.gpVnd / 1_000_000).toFixed(2)}M · {PER_IMPORT_CONT.total.marginPct}%
+            </div>
+          </div>
+          <div className="p-4 rounded-xl border border-amber-200 bg-amber-50/50">
+            <div className="text-xs text-[var(--muted)] uppercase font-semibold mb-1">Blended 55/45</div>
+            <div className="font-mono font-bold text-amber-900">
+              {(PER_CONT_BLENDED.sellVnd / 1_000_000).toFixed(2)}M / cont
+            </div>
+            <div className="text-sm text-emerald-800">
+              GP {(PER_CONT_BLENDED.gpVnd / 1_000_000).toFixed(2)}M · {PER_CONT_BLENDED.marginPct}%
+            </div>
+          </div>
+        </div>
+
+        <h3 className="text-lg font-bold mb-3">Lộ trình 6 tháng — Oz 50 cont/tháng (T8) → 200 cont/tháng (T12)</h3>
+        <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-4">
+          <table className="w-full text-sm min-w-[640px]">
+            <thead>
+              <tr className="bg-amber-50/80 text-left text-xs uppercase tracking-wide text-[var(--muted)]">
+                <th className="px-4 py-3 font-semibold">Tháng</th>
+                <th className="px-4 py-3 font-semibold">Cont</th>
+                <th className="px-4 py-3 font-semibold">Doanh thu</th>
+                <th className="px-4 py-3 font-semibold">GP</th>
+                <th className="px-4 py-3 font-semibold">Ghi chú</th>
+              </tr>
+            </thead>
+            <tbody>
+              {LOGISTICS_RAMP_MONTHS.map((m) => {
+                const pnl = monthLogisticsPnl(m.cont);
+                return (
+                  <tr key={m.month} className="border-t border-amber-50">
+                    <td className="px-4 py-3 font-medium">{m.label}</td>
+                    <td className="px-4 py-3 font-mono font-bold text-amber-900">{m.cont}</td>
+                    <td className="px-4 py-3 font-mono">{formatMillion(pnl.revenueVnd)}</td>
+                    <td className="px-4 py-3 font-mono text-emerald-800">{formatMillion(pnl.gpVnd)}</td>
+                    <td className="px-4 py-3 text-xs text-[var(--muted)]">{m.note}</td>
+                  </tr>
+                );
+              })}
+              <tr className="border-t-2 border-amber-200 bg-amber-50/40 font-semibold">
+                <td className="px-4 py-3">Tích lũy 6T</td>
+                <td className="px-4 py-3 font-mono text-amber-900">{LOGISTICS_6M_TOTALS.cont}</td>
+                <td className="px-4 py-3 font-mono">~{LOGISTICS_6M_TOTALS.revenueBillion} tỷ</td>
+                <td className="px-4 py-3 font-mono text-emerald-800">~{LOGISTICS_6M_TOTALS.gpMillion} tr</td>
+                <td className="px-4 py-3 text-xs text-[var(--muted)]">Biên gộp {LOGISTICS_6M_TOTALS.marginPct}%</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         <p className="text-xs text-[var(--muted)] leading-relaxed">
-          GP ước tính {LOGISTICS_VOLUME_TARGETS.gpPerCont} mỗi cont (khai báo + trucking + C/O blended). Mục tiêu{" "}
-          <strong>500 cont/tháng</strong> là đỉnh Stretch — Base tháng 6 khoảng 50–80 cont/tháng với 2–3 NM xuất khẩu.
+          GP ước tính {LOGISTICS_VOLUME_TARGETS.gpPerCont} mỗi cont. Tích lũy 6 tháng:{" "}
+          {LOGISTICS_VOLUME_TARGETS.cont6m} cont · DT {LOGISTICS_VOLUME_TARGETS.revenue6m} · GP{" "}
+          {LOGISTICS_VOLUME_TARGETS.gp6m}. Nguồn khởi điểm Oz đảm bảo 50 cont/tháng từ tháng 2; tăng đều đến 200
+          cont/tháng tổng (xuất + nhập) tháng 6.
         </p>
       </section>
 
