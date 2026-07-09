@@ -14,6 +14,8 @@ author: "Cursor · Sếp Thắng"
 >
 > **Chưa làm ở giai đoạn này:** Xây hệ thống vận hành chi tiết, tuyển full team, triển khai sales scale → để **Giai đoạn 2**.
 
+> **Dashboard trình cổ đông (biểu đồ + số liệu xác minh):** [/assessment](/assessment) — scorecard 38/50 · FDI theo quốc gia/tỉnh · kết luận bám nguồn NSO.
+
 <section class="fd-hero">
   <div>
     <p class="fd-eyebrow">Shareholder briefing · Potential & feasibility</p>
@@ -24,32 +26,34 @@ author: "Cursor · Sếp Thắng"
       pháp lý điều phối, kiểm soát rủi ro xuất xứ và logistics miền Bắc.
     </p>
     <div class="fd-actions">
+      <a href="/assessment">Dashboard biểu đồ (khuyến nghị) →</a>
       <a href="/docs/services/policy-government">Dịch vụ chính sách 2 tỉnh</a>
       <a href="/docs/services/legal-consulting">Dịch vụ pháp lý</a>
-      <a href="/docs/data/fdi-legal/legal-library">Thư viện pháp luật</a>
     </div>
   </div>
   <aside class="fd-verdict">
     <p class="fd-card-label">Kết luận nhanh</p>
     <div class="fd-verdict-row">
-      <span>Nên đi tiếp?</span>
-      <strong>Có</strong>
-      <small>Nhưng bắt đầu hẹp: 2 tỉnh + 3 gói bán được.</small>
+      <span>Scorecard</span>
+      <strong>38/50</strong>
+      <small>Go + Adjust — xem biểu đồ tại /assessment</small>
     </div>
     <div class="fd-verdict-row">
       <span>Gói bán đầu</span>
-      <strong>A1 + H2</strong>
-      <small>Khảo sát chính sách 2 tỉnh + legal screening FDI.</small>
+      <strong>A1 + B1</strong>
+      <small>Khảo sát 2 tỉnh + hải quan starter.</small>
     </div>
     <div class="fd-verdict-row">
-      <span>Điều kiện thắng</span>
-      <strong>RACI rõ</strong>
-      <small>LONGTV PM core, phần pháp lý/CPA/môi trường qua đối tác.</small>
+      <span>Số liệu</span>
+      <strong>NSO 2025</strong>
+      <small>TQ 3,64 tỷ USD vốn mới (#2, 21%).</small>
     </div>
   </aside>
 </section>
 
 ## Dashboard trình cổ đông
+
+> **Phiên bản đầy đủ có biểu đồ:** [/assessment](/assessment) — FDI theo quốc gia · theo tỉnh · scorecard 10 tiêu chí · kết luận có nguồn.
 
 <div class="fd-score-grid">
   <div class="fd-score-card fd-red">

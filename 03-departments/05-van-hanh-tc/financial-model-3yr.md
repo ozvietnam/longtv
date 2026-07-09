@@ -28,8 +28,13 @@ author: "Cursor · Tư vấn nội bộ"
 | Bundle Khởi đầu TN | **$3.200** | |
 | Bundle Full Setup | **$16.000** | |
 | Retainer C1 | **$1.500/tháng** | Từ khách tháng 6+ sau B1 |
-| Gross margin dịch vụ | **58%** | COGS: đi lại, white-label luật, freelancer |
+| Gross margin dịch vụ | **58%** consulting · **18–28%** logistics giao dịch | Tách margin — xem [logistics-pricing-benchmark](/docs/04-research/2026-07/logistics-pricing-benchmark) |
+| GP blended (năm 1) | **~35–42%** | Mix consulting + logistics tăng dần |
 | Pilot discount | **30%** cho 3 khách đầu | Case study |
+| **Logistics — cont/tháng (tháng 6)** | Bear 25 · Base **200** · Bull 300+ | Ramp Oz 50 cont/tháng từ T8 → 200 T12 |
+| **GP/cont logistics (desk)** | **~820k VND** (~15,3%) | HQ + trucking blended + C/O (nhập +30% vs xuất) |
+| **Giá khai báo xuất (desk)** | 750k VND/cont bán | Cost đối tác ~500k |
+| **Trucking HP→TN 20DC** | 5,9M bán / 5,35M cost | Markup ~10% |
 
 ---
 
@@ -67,21 +72,34 @@ author: "Cursor · Tư vấn nội bộ"
 
 ### 3.1. Sau 6 tháng (T7–T12/2026)
 
-| Chỉ số | Bear | Base | Bull |
-|--------|------|------|------|
-| **Khách trả phí (tích lũy)** | 1 | 3–4 | 5–6 |
+> **Cập nhật 2026-07-09:** Bổ sung doanh thu **logistics giao dịch** (hải quan + trucking + C/O) — có thể phát sinh **độc lập** gói A1. Benchmark: [logistics-pricing-benchmark](/docs/04-research/2026-07/logistics-pricing-benchmark).
+
+| Chỉ số | Bear | Base | Bull (Stretch logistics) |
+|--------|------|------|--------------------------|
+| **Khách trả phí consulting (tích lũy)** | 1 | 3–4 | 5–6 |
 | A1 / bundle | 1 | 2–3 | 3–4 |
-| B1 / B2 | 0 | 1 (B1) | 1–2 |
-| **Doanh thu USD** | 2.3k* | 12–18k | 22–30k |
-| **Doanh thu VND** | ~58M | 300–450M | 550–750M |
-| **OPEX 6T tích lũy** | ~400M | ~480M | ~550M |
-| **Gross profit (58%)** | ~34M | 174–261M | 319–435M |
-| **Net (GP − OPEX)** | **−366M** | **−219 đến −306M** | **−115 đến −231M** |
+| B1 setup / B3 retainer | 0 | 1 (B1) + 0–1 B3 | 1–2 |
+| **Cont xử lý (tích lũy 6T)** | 100–120 | **651** (ramp 25→200) | 900+ |
+| Khách logistics-only | 0–1 | 1–2 (Oz + 1–2 NM) | 3–5 |
+| **Doanh thu consulting USD** | 2.3k* | 12–18k | 22–30k |
+| **Doanh thu logistics VND** | 150–200M | **~3,5 tỷ** | 5–6 tỷ |
+| **Tổng doanh thu VND** | ~200–250M | **~3,9–4,2 tỷ** | 5,5–6,5 tỷ |
+| **OPEX 6T tích lũy** | ~400M | ~550–650M | ~700–800M |
+| **Gross profit blended** | ~40–60M | **~650–750M** | 900M+ |
+| **Net (GP − OPEX)** | **−340M** | **~0 đến +100M** | **+100–200M** |
 | Pipeline qualified | 3 | 8–10 | 15+ |
 
-*\*Bear: 1 A1 pilot giảm 30% ($3.25k × 0.7)*
+*\*Bear consulting: 1 A1 pilot giảm 30% ($3.25k × 0.7)*
 
-**Nhận xét 6 tháng:** Chưa kỳ vọng hòa vốn. Mục tiêu là **≥1 Won** (Bear chấp nhận được) và **pipeline ≥5 qualified** để chứng minh GTM.
+**Cách đọc mục tiêu 200 cont/tháng:**
+
+| Mức | Ý nghĩa | Khả thi tháng 6? |
+|-----|---------|------------------|
+| **200 cont/tháng** | ~1,08 tỷ DT logistics/tháng · Oz 50 + 1–2 NM mới | ✅ **Base** — ramp từ T8 |
+| **50 cont/tháng** | Nguồn Oz khởi điểm tháng 2 | ✅ Có sẵn từ cổ đông |
+| **25 cont/tháng** | Pilot tháng 1 | ✅ MOU GPLS + pilot |
+
+**Nhận xét 6 tháng:** Với ramp Oz, logistics Base mang **~534M GP** trong 6T (nhập +30% vs xuất) — có thể **hòa vốn hoặc lãi nhẹ** sau OPEX. Margin cont **~15%**, không phải 58% consulting. Consulting vẫn quan trọng cho retainer và margin cao.
 
 ---
 
@@ -101,12 +119,15 @@ author: "Cursor · Tư vấn nội bộ"
 
 **Mix doanh thu Base (năm 1):**
 
-| Nguồn | % doanh thu | USD |
-|-------|-------------|-----|
-| A1 / A2 | 45% | 25–36k |
-| B1 / B2 | 40% | 22–32k |
-| Bundle | 10% | 5–8k |
-| Retainer C1 | 5% | 3–4k |
+| Nguồn | % doanh thu | USD / VND |
+|-------|-------------|-----------|
+| A1 / A2 | 35% | 20–28k |
+| B1 setup / B3 retainer | 25% | 14–20k |
+| **Logistics transactional** (HQ+trucking+C/O) | **55–65%** | **~2,5–3,5 tỷ VND** |
+| Bundle | 5% | 3–5k |
+| Retainer C1 (hub) | 5% | 3–4k |
+
+> Năm 1 Base: logistics ~**1.500–2.000 cont** tích lũy (150–200 cont/tháng cuối năm) — ramp Oz từ 50 cont/tháng T8.
 
 ---
 
@@ -126,7 +147,7 @@ author: "Cursor · Tư vấn nội bộ"
 
 - Upsell 40% khách A1 → B1 hoặc bundle
 - 2 MOU KCN (giới thiệu lead) → +3–5 lead/năm
-- Logistics mảng B: 25% doanh thu từ B1/B3
+- Logistics mảng B: **30%** doanh thu năm 1 (tăng từ 25%) — cont + retainer B3
 
 ---
 

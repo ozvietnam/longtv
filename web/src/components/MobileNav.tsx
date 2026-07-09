@@ -7,7 +7,7 @@ const LINKS = [
   { href: "/", label: "Trang chủ" },
   { href: "/kim", label: "Thư ký Kim" },
   { href: "/cam-nang", label: "Cẩm nang tri thức" },
-  { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng (00-1)" },
+  { href: "/assessment", label: "Dashboard 00-1" },
   { href: "/co-dong", label: "Cổ đông" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan" },

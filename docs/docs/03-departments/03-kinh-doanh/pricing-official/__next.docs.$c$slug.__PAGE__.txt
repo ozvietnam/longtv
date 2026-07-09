@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[97367,["/longtv/_next/static/chunks/3f2zjpj3rp4-d.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[97367,["/longtv/_next/static/chunks/1ofqupkjos_v6.js","/longtv/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-3:Tad0,<h1>KD-GĐ2 — Bảng giá chính thức v1</h1>
+3:T1662,<h1>KD-GĐ2 — Bảng giá chính thức v1</h1>
 <blockquote>
 <p><strong>Hiệu lực:</strong> 2026-07-09 · <strong>Trạng thái:</strong> Chờ Leader duyệt<br>
 <strong>Draft gốc:</strong> <a href="/docs/04-research/2026-07/pricing-draft">pricing-draft</a></p>
@@ -93,7 +93,157 @@
 </table>
 <p>Chi tiết: <a href="/docs/03-departments/04-san-pham/product-bundles">product-bundles</a></p>
 <hr>
-<h2>Add-on</h2>
+<h2>Dịch vụ logistics giao dịch (VND)</h2>
+<blockquote>
+<p>Desk benchmark: <a href="/docs/04-research/2026-07/logistics-pricing-benchmark">logistics-pricing-benchmark</a> · Chờ MOU GPLS <a href="/kim">KIM-076</a><br>
+Mục tiêu 6 tháng: <strong>200 cont/tháng</strong> tổng (xuất + nhập) · Oz <strong>50 cont/tháng</strong> từ tháng 2</p>
+</blockquote>
+<h3>Bảng giá bán</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Dịch vụ</th>
+<th>Giá bán (VND)</th>
+<th>Ghi chú</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L-HQ-01</td>
+<td>Khai báo xuất FCL (luồng xanh)</td>
+<td>750.000/cont</td>
+<td>Qua đại lý GPLS</td>
+</tr>
+<tr>
+<td>L-HQ-02</td>
+<td>Khai báo nhập FCL (cont đầu)</td>
+<td>1.000.000/cont</td>
+<td></td>
+</tr>
+<tr>
+<td>L-HQ-03</td>
+<td>Cont tiếp (cùng DN, cùng ngày)</td>
+<td>450.000/cont</td>
+<td></td>
+</tr>
+<tr>
+<td>L-TR-01</td>
+<td>Trucking cảng HP → TN (20DC)</td>
+<td>5.900.000/cont</td>
+<td>Điều phối, không sở hữu xe</td>
+</tr>
+<tr>
+<td>L-TR-02</td>
+<td>Trucking HP → TN (40DC)</td>
+<td>6.200.000/cont</td>
+<td></td>
+</tr>
+<tr>
+<td>L-TR-03</td>
+<td>Trucking nội HP (Đình Vũ / Tràng Duệ)</td>
+<td>1.750.000/cont</td>
+<td>40% tuyến blended</td>
+</tr>
+<tr>
+<td>L-CO-01</td>
+<td>Xin C/O Form E (xuất khẩu)</td>
+<td>1.600.000/lần</td>
+<td>~32% lô xuất cần C/O</td>
+</tr>
+<tr>
+<td><strong>B3</strong></td>
+<td>Retainer XNK (≥10 tờ khai/tháng)</td>
+<td><strong>40–80 triệu VND/tháng</strong></td>
+<td>PM + đối soát BOM</td>
+</tr>
+</tbody>
+</table>
+<h3>Biên lợi nhuận theo dòng (desk)</h3>
+<table>
+<thead>
+<tr>
+<th>Mã</th>
+<th>Cost đối tác</th>
+<th>GP</th>
+<th>Biên</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L-HQ-01</td>
+<td>500.000</td>
+<td>250.000</td>
+<td>33%</td>
+</tr>
+<tr>
+<td>L-HQ-02</td>
+<td>650.000</td>
+<td>350.000</td>
+<td>35%</td>
+</tr>
+<tr>
+<td>L-HQ-03</td>
+<td>300.000</td>
+<td>150.000</td>
+<td>33%</td>
+</tr>
+<tr>
+<td>L-TR-01</td>
+<td>5.350.000</td>
+<td>550.000</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>L-TR-03</td>
+<td>1.500.000</td>
+<td>250.000</td>
+<td>14%</td>
+</tr>
+<tr>
+<td>L-CO-01</td>
+<td>1.000.000</td>
+<td>600.000</td>
+<td>38%</td>
+</tr>
+</tbody>
+</table>
+<h3>GP blended / cont (nhập nhiều hơn xuất 30%)</h3>
+<blockquote>
+<p>Tại 200 cont/tháng: <strong>87 xuất + 113 nhập = 200 cont tổng</strong></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Loại cont</th>
+<th>DT / cont</th>
+<th>GP / cont</th>
+<th>Biên</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Xuất khẩu</td>
+<td>~5,50 triệu</td>
+<td>~0,87 triệu</td>
+<td>~16%</td>
+</tr>
+<tr>
+<td>Nhập khẩu</td>
+<td>~5,24 triệu</td>
+<td>~0,78 triệu</td>
+<td>~15%</td>
+</tr>
+<tr>
+<td><strong>Blended</strong></td>
+<td><strong>~5,35 triệu</strong></td>
+<td><strong>~0,82 triệu</strong></td>
+<td><strong>~15,3%</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Gói nhanh giai đoạn đầu:</strong> Logistics Quick Start — không bắt buộc mua A1 trước (NM đã có IRC).</p>
+<hr>
 <table>
 <thead>
 <tr>
@@ -142,7 +292,7 @@
 </tr>
 </tbody>
 </table>
-0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"pricing-official"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"pricing-official"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T2s-nJdfA-3oTQQlH0BXH"}
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-5xl mx-auto px-6 py-12","children":[["$","nav",null,{"className":"text-sm text-[var(--muted)] mb-6","children":[["$","$L2",null,{"href":"/","className":"hover:text-[var(--accent)]","children":"Trang chủ"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/docs","className":"hover:text-[var(--accent)]","children":"Tài liệu"}],[["$","span","0",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-departments"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"03-kinh-doanh"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"font-mono","children":"pricing-official"}]]}]]]}],false,["$","header",null,{"className":"mb-10 pb-6 border-b border-[var(--border)]","children":["$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight leading-[1.1] mb-4","children":"pricing-official"}],"$undefined"]}],["$","div",null,{"className":"prose-longtv max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DEolcHRT4PbwnGu8XrwhE"}
 4:["$","nav",null,{"className":"mt-16 pt-8 border-t border-[var(--border)] flex justify-between gap-4","children":[["$","$L2",null,{"href":"/docs/04-research/2026-07/pricing-draft","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)]","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"← Trước"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"pricing-draft"}]]}],["$","$L2",null,{"href":"/docs/03-departments/04-san-pham/product-bundles","className":"group flex-1 p-4 rounded-lg border border-[var(--border)] bg-white hover:border-[var(--accent)] text-right","children":[["$","div",null,{"className":"text-xs text-[var(--muted)] mb-1","children":"Tiếp →"}],["$","div",null,{"className":"font-semibold group-hover:text-[var(--accent)]","children":"product-bundles"}]]}]]}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { Phase001Banner, RelatedPagesGrid } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 import {
   JOB_CATEGORIES,
   OWNER_GROUPS,
@@ -126,7 +128,7 @@ export function KimQueueContent({
             href="/docs/05-clarifications/what-is-kim"
             className="inline-flex items-center px-4 h-10 rounded-full bg-[var(--accent)] text-white text-sm font-semibold hover:opacity-90"
           >
-            Kim là gì? (cho cả team) →
+            Kim là gì? →
           </Link>
           <Link
             href="/hermes"
@@ -135,31 +137,15 @@ export function KimQueueContent({
             Hermes đã làm gì? →
           </Link>
           <Link
-            href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07"
-            className="inline-flex items-center px-4 h-10 rounded-full border border-violet-200 bg-violet-50 text-sm font-medium text-violet-900 hover:bg-violet-100"
-          >
-            Gói việc Wave 2 →
-          </Link>
-          <Link
-            href="/docs/03-departments/01-chien-luoc/hermes-directive-log"
-            className="inline-flex items-center px-4 h-10 rounded-full border border-violet-200 bg-violet-50 text-sm font-medium text-violet-900 hover:bg-violet-100"
-          >
-            Chỉ đạo Hermes →
-          </Link>
-          <Link
-            href="/docs/05-clarifications/kim-secretary-queue"
-            className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] text-sm font-medium hover:bg-white"
-          >
-            Sửa danh sách (markdown) →
-          </Link>
-          <Link
             href="/operations"
             className="inline-flex items-center px-4 h-10 rounded-full border border-[var(--border)] text-sm font-medium hover:bg-white"
           >
-            Bảng vận hành 5 phòng →
+            Bảng vận hành →
           </Link>
         </div>
       </header>
+
+      <Phase001Banner />
 
       {/* Stats */}
       <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
@@ -241,6 +227,8 @@ export function KimQueueContent({
           <li>Sau đó báo kết quả — Cursor cập nhật file nghiên cứu (việc desk không nằm trong Kim)</li>
         </ol>
       </section>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/kim"]} />
     </>
   );
 }

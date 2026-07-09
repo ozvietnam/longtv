@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { getAllDocs } from "@/lib/docs";
+import { Phase001Banner, RelatedPagesGrid } from "@/components/page/PageChrome";
+import { PAGE_RELATED } from "@/lib/site-pages";
 
 export const metadata = { title: "Lộ trình tháng · LongTV" };
 
@@ -23,6 +25,8 @@ export default function RoadmapIndex() {
           Xem <Link href="/docs/00-WORKING_PRINCIPLES" className="text-[var(--accent)] hover:underline">Nguyên tắc làm việc</Link>.
         </p>
       </header>
+
+      <Phase001Banner compact />
 
       {current && (
         <section className="mb-12 p-6 rounded-lg border-2 border-[var(--accent)] bg-white">
@@ -62,6 +66,8 @@ export default function RoadmapIndex() {
           ))}
         </ol>
       </section>
+
+      <RelatedPagesGrid links={PAGE_RELATED["/roadmap"]} />
     </div>
   );
 }

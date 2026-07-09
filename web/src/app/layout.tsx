@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 const NAV_LINKS: { href: string; label: string; highlight?: boolean }[] = [
   { href: "/kim", label: "Thư ký Kim", highlight: true },
   { href: "/cam-nang", label: "Cẩm nang", highlight: true },
-  { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng" },
+  { href: "/assessment", label: "Đánh giá 00-1", highlight: true },
   { href: "/co-dong", label: "Cổ đông" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan", highlight: true },
@@ -98,7 +98,9 @@ function Footer() {
                 Hậu cần & hải quan
               </Link>
               <Link href="/operations" className="hover:text-[var(--accent)]">Bảng vận hành</Link>
-              <Link href="/docs/06-phases/00-1-feasibility-plan" className="hover:text-[var(--accent)]">Giai đoạn 00-1</Link>
+              <Link href="/assessment" className="hover:text-[var(--accent)] font-medium">
+                Dashboard 00-1
+              </Link>
             </div>
           </div>
           <div>

@@ -11,7 +11,25 @@ export const LOGISTICS_HERO = {
   subtitle:
     "LONGTV đồng hành nhà máy Trung Quốc tại miền Bắc — từ khai báo hải quan, kiểm soát rủi ro xuất xứ trong chiến lược China+1, nhập dây chuyền, điều phối đại lý vận tải (forwarder), đến dịch vụ thuê ngoài theo tháng (retainer) cho chuỗi nhập–sản xuất–xuất khẩu.",
   provinces: "Thái Nguyên · Hải Phòng · cảng Lạch Huyện · trung tâm logistics (ICD)",
+  oneLiner:
+    "LONGTV điều phối hải quan + vận chuyển qua đối tác GPLS — không sở hữu xe hay kho. Gói setup (USD) + phí theo cont (VND).",
 };
+
+/** Mục lục trang /logistics — thứ tự đọc từ trên xuống */
+export const LOGISTICS_PAGE_SECTIONS = [
+  { id: "tong-quan", label: "Tổng quan" },
+  { id: "goi-dich-vu", label: "Gói dịch vụ" },
+  { id: "bang-gia", label: "Bảng giá" },
+  { id: "muc-tieu", label: "Mục tiêu 6T" },
+  { id: "them", label: "Tuyến & FAQ" },
+] as const;
+
+/** Nhóm dịch vụ giao dịch — dùng cho bảng giá gộp */
+export const LOGISTICS_PRICING_GROUPS = [
+  { key: "hq", label: "Hải quan", codes: ["L-HQ-01", "L-HQ-02", "L-HQ-03"] },
+  { key: "truck", label: "Trucking", codes: ["L-TR-01", "L-TR-03"] },
+  { key: "co", label: "C/O xuất khẩu", codes: ["L-CO-01"] },
+] as const;
 
 export const LOGISTICS_WORKFLOW = [
   {
@@ -115,6 +133,19 @@ export const LOGISTICS_ROUTES = [
   },
 ];
 
+export {
+  LOGISTICS_6M_TARGET,
+  LOGISTICS_6M_TOTALS,
+  LOGISTICS_RAMP_MONTHS,
+  LOGISTICS_SERVICE_LINES,
+  LOGISTICS_TRANSACTIONAL_PRICING,
+  LOGISTICS_VOLUME_TARGETS,
+  monthLogisticsPnl,
+  PER_CONT_BLENDED,
+  PER_EXPORT_CONT,
+  PER_IMPORT_CONT,
+} from "./logistics-pricing";
+
 export const LOGISTICS_FAQ = [
   {
     q: "LONGTV có phải công ty giao nhận vận tải không?",
@@ -126,6 +157,10 @@ export const LOGISTICS_FAQ = [
   },
   {
     q: "Giá tính thế nào?",
-    a: "Gói thiết lập (B1, B1-ext) theo USD; vận chuyển theo từng lô hàng; dịch vụ thuê ngoài (B3) theo tháng. Xem bảng giá chính thức.",
+    a: "Gói thiết lập (B1, B1-ext) theo USD; phí giao dịch theo cont (VND); dịch vụ thuê ngoài (B3) theo tháng.",
+  },
+  {
+    q: "200 cont/tháng nghĩa là gì?",
+    a: "Tổng container xuất + nhập LONGTV điều phối trong tháng — mục tiêu Base sau 6 tháng, khởi điểm 50 cont/tháng từ nguồn Oz.",
   },
 ];

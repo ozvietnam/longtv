@@ -2,9 +2,11 @@ import Link from "next/link";
 import { DEPARTMENTS } from "@/lib/departments";
 import { getAllDocs } from "@/lib/docs";
 import { getAllDepartmentTasks } from "@/lib/tasks";
+import { HOME_HUB_GROUPS } from "@/lib/site-pages";
 
 const HUB_LINKS = [
   {
+    id: "kim",
     href: "/kim",
     title: "Thư ký Kim",
     subtitle: "Chỉ việc người thật làm",
@@ -13,6 +15,7 @@ const HUB_LINKS = [
     icon: "★",
   },
   {
+    id: "cam-nang",
     href: "/cam-nang",
     title: "Cẩm nang tri thức",
     subtitle: "Thư viện đầu tư nước ngoài (FDI)",
@@ -21,14 +24,16 @@ const HUB_LINKS = [
     icon: "📚",
   },
   {
-    href: "/docs/06-phases/00-1-feasibility-plan",
+    id: "assessment",
+    href: "/assessment",
     title: "Giai đoạn đánh giá tiềm năng",
-    subtitle: "Bước khởi đầu (00-1)",
-    desc: "Thị trường · danh mục dịch vụ · quyết định tiếp tục",
+    subtitle: "Dashboard 00-1 · Biểu đồ",
+    desc: "Scorecard 38/50 · FDI xác minh · kết luận Go — trình cổ đông",
     accent: true,
     icon: "01",
   },
   {
+    id: "co-dong",
     href: "/co-dong",
     title: "Cổ đông",
     subtitle: "Oz là trụ cột giai đoạn đầu",
@@ -37,6 +42,7 @@ const HUB_LINKS = [
     icon: "OZ",
   },
   {
+    id: "services",
     href: "/services",
     title: "Dịch vụ công ty",
     subtitle: "9 giai đoạn vòng đời",
@@ -44,6 +50,7 @@ const HUB_LINKS = [
     icon: "02",
   },
   {
+    id: "logistics",
     href: "/logistics",
     title: "Hậu cần & hải quan",
     subtitle: "Mảng logistics miền Bắc",
@@ -52,6 +59,7 @@ const HUB_LINKS = [
     icon: "🚢",
   },
   {
+    id: "operations",
     href: "/operations",
     title: "Bảng vận hành",
     subtitle: "5 phòng ban",
@@ -59,6 +67,7 @@ const HUB_LINKS = [
     icon: "03",
   },
   {
+    id: "hermes",
     href: "/hermes",
     title: "Hermes đã làm gì?",
     subtitle: "Wave 1 xong · Wave 2 đang chờ",
@@ -67,13 +76,16 @@ const HUB_LINKS = [
     icon: "🔬",
   },
   {
+    id: "research",
     href: "/docs/04-research/2026-07/00-index",
     title: "Nghiên cứu",
     subtitle: "Tháng 7/2026",
     desc: "Đối thủ · FDI · Thái Nguyên · vốn",
     icon: "04",
   },
-];
+] as const;
+
+const HUB_BY_ID = Object.fromEntries(HUB_LINKS.map((h) => [h.id, h]));
 
 const INSIGHTS = [
   { label: "Đầu tư nước ngoài mới (6T/2026)", value: "34,65 tỷ USD", note: "Toàn quốc, +61% so với cùng kỳ" },
@@ -119,10 +131,10 @@ export default function Home() {
                 Giao Thư ký Kim →
               </Link>
               <Link
-                href="/docs/06-phases/00-1-feasibility-plan"
+                href="/assessment"
                 className="inline-flex items-center justify-center px-5 h-11 rounded-full border border-white/40 font-medium text-sm hover:bg-white/10"
               >
-                Kế hoạch đánh giá tiềm năng
+                Dashboard 00-1
               </Link>
               <Link
                 href="/operations"
@@ -169,23 +181,42 @@ export default function Home() {
         {/* Hub navigation */}
         <section>
           <h2 className="text-xl font-bold mb-6">Truy cập nhanh</h2>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {HUB_LINKS.map((card) => (
-              <Link
-                key={card.href}
-                href={card.href}
-                className={`group block p-6 rounded-2xl border transition hover:shadow-md ${
-                  card.accent
-                    ? "border-[var(--accent)] bg-[var(--accent-soft)] hover:bg-white"
-                    : "border-[var(--border)] bg-white hover:border-[var(--accent)]"
-                }`}
-              >
-                <div className="text-xs font-mono text-[var(--muted)] mb-3">{card.icon}</div>
-                <h3 className="font-bold text-lg mb-0.5 group-hover:text-[var(--accent)]">{card.title}</h3>
-                <div className="text-xs font-semibold text-[var(--accent)] mb-2">{card.subtitle}</div>
-                <p className="text-sm text-[var(--muted)] leading-relaxed">{card.desc}</p>
-              </Link>
+          <div className="space-y-8">
+            {HOME_HUB_GROUPS.map((group) => (
+              <div key={group.label}>
+                <h3 className="text-sm font-semibold uppercase tracking-wider text-[var(--muted)] mb-3">{group.label}</h3>
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {group.ids.map((id) => {
+                    const card = HUB_BY_ID[id];
+                    if (!card) return null;
+                    return (
+                      <Link
+                        key={card.href}
+                        href={card.href}
+                        className={`group block p-6 rounded-2xl border transition hover:shadow-md ${
+                          "accent" in card && card.accent
+                            ? "border-[var(--accent)] bg-[var(--accent-soft)] hover:bg-white"
+                            : "border-[var(--border)] bg-white hover:border-[var(--accent)]"
+                        }`}
+                      >
+                        <div className="text-xs font-mono text-[var(--muted)] mb-3">{card.icon}</div>
+                        <h4 className="font-bold text-lg mb-0.5 group-hover:text-[var(--accent)]">{card.title}</h4>
+                        <div className="text-xs font-semibold text-[var(--accent)] mb-2">{card.subtitle}</div>
+                        <p className="text-sm text-[var(--muted)] leading-relaxed">{card.desc}</p>
+                      </Link>
+                    );
+                  })}
+                </div>
+              </div>
             ))}
+          </div>
+          <div className="mt-6 flex flex-wrap gap-3 text-sm">
+            <Link href="/phases" className="text-[var(--accent)] font-medium hover:underline">
+              Lộ trình các pha →
+            </Link>
+            <Link href="/roadmap" className="text-[var(--accent)] font-medium hover:underline">
+              Lộ trình tháng 7 →
+            </Link>
           </div>
         </section>
 
