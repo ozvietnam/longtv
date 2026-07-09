@@ -51,6 +51,14 @@ const HUB_LINKS = [
     icon: "03",
   },
   {
+    href: "/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07",
+    title: "Gói việc Hermes",
+    subtitle: "Wave 2 · Đã duyệt",
+    desc: "Field Sở/KCN · thu thập tài liệu · logistics desk — Cursor điều phối",
+    accent: true,
+    icon: "🔬",
+  },
+  {
     href: "/docs/04-research/2026-07/00-index",
     title: "Nghiên cứu",
     subtitle: "Tháng 7/2026",

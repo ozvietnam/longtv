@@ -64,6 +64,8 @@ author: "Cursor"
 | P1 | KIM-086 | **Infographic 1 trang** "Vì sao TN + HP" | Hermes | todo | 2026-07-25 | /docs/04-research/2026-07/why-tn-hp |
 | P2 | KIM-087 | **Subscribe** báo cáo quý Cục Đầu tư nước ngoài | Hermes | todo | 2026-07-15 | /docs/04-research/2026-07/fdi-data |
 | P2 | KIM-088 | **Draft địa phương** Cẩm nang FDI-HB-013 & 014 | Hermes | todo | 2026-07-31 | /docs/data/fdi-legal/article-backlog |
+| P1 | KIM-089 | **Desk đối tác** forwarder + đại lý hải quan GPLS miền Bắc | Hermes | todo | 2026-07-28 | /logistics |
+| P1 | KIM-090 | **Bảng giá desk** 2–3 tuyến TQ → Hải Phòng → Thái Nguyên | Hermes | todo | 2026-07-25 | /logistics |
 
 ---
 
@@ -80,7 +82,7 @@ author: "Cursor"
 | Hạ tầng web | KIM-030, 060 |
 | Đầu tư & pitch | KIM-070 – 075, 072 |
 | All-in-one / UNIDO | KIM-076 – 079 |
-| **Hermes research** | KIM-080 – 088 |
+| **Hermes research** | KIM-080 – 090 |
 
 ---
 

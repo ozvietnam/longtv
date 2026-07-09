@@ -122,7 +122,7 @@ Khai vấn tháng (Tổng GD)
 |------|--------|---------|
 | 1. Định hướng | Tổng GD | `02-monthly-roadmap/YYYY-MM.md` |
 | 2. Chia việc | Tổng GD + Cursor | `03-departments/*/TODO.md` |
-| 3. Nghiên cứu sâu | Hermes (issue GitHub) | `04-research/` |
+| 3. Nghiên cứu sâu & field | **Hermes** (R) · **Cursor** điều phối (A) | `04-research/` · [hermes-directive-log](/docs/03-departments/01-chien-luoc/hermes-directive-log) |
 | 4. Thực thi | Trưởng phòng + nhân sự | Cột Assignee trong TODO |
 | 5. Giám sát | Tổng GD | [Bảng vận hành](/operations) |
 
