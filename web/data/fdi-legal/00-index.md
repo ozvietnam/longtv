@@ -1,16 +1,20 @@
 ---
-title: "Data — Cẩm nang pháp lý FDI Việt Nam"
-description: "Khung thu thập dữ liệu nguồn để xây cẩm nang FDI: 100% vốn nước ngoài, góp vốn/mua cổ phần, IRC/ERC, môi trường và giấy phép sản xuất."
+title: "Kế hoạch xây dựng cẩm nang pháp lý FDI"
+description: "Khung nghiên cứu để xây cẩm nang FDI: 100% vốn nước ngoài, góp vốn/mua cổ phần, IRC/ERC, môi trường và giấy phép sản xuất."
 date: 2026-07-09
 category: "data"
-order: 40
+order: 45
 tags: ["data", "FDI", "legal", "research", "V2"]
 author: "Cursor"
 ---
 
-# Data — Cẩm nang pháp lý FDI Việt Nam
+# Kế hoạch xây dựng cẩm nang pháp lý FDI
 
 > Mục tiêu: xây một kho dữ liệu pháp lý có kiểm chứng để LONGTV phát triển phần cẩm nang hướng dẫn trên trang chủ cho nhà đầu tư nước ngoài, đặc biệt nhóm nhà máy Trung Quốc dịch chuyển sản xuất về Việt Nam.
+
+## Điểm vào chính
+
+Để đọc theo dạng thư viện đã chia nhóm, dùng trang: [Thư viện pháp luật FDI Việt Nam](legal-library).
 
 ## 1. Rà soát yêu cầu
 
@@ -36,9 +40,15 @@ author: "Cursor"
 
 ```text
 web/data/fdi-legal/
+├── legal-library.md         # Mục lục thư viện pháp luật chia nhóm
+├── library/
+│   ├── 01-investment-enterprise.md      # Đầu tư & doanh nghiệp
+│   ├── 02-foreign-capital-forms.md      # 100% vốn nước ngoài, góp vốn/mua cổ phần
+│   ├── 03-environment-manufacturing.md  # Môi trường & sản xuất
+│   └── 04-industrial-zones-local.md     # KCN, đất đai & địa phương
 ├── 00-index.md              # Kế hoạch nghiên cứu và quy trình vận hành
-├── source-registry.json     # Registry nguồn pháp luật để team tiếp tục bổ sung
-└── article-backlog.md       # Hạng mục bài viết cẩm nang cần sản xuất
+├── article-backlog.md       # Hạng mục bài viết cẩm nang cần sản xuất
+└── source-registry.json     # Registry nguồn pháp luật để team tiếp tục bổ sung
 ```
 
 ## 4. Ma trận nghiên cứu chính

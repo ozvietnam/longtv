@@ -12,6 +12,8 @@ author: "Cursor"
 
 > Mỗi bài chỉ được chuyển sang trạng thái `ready-to-publish` khi đã có nguồn pháp luật trong `source-registry.json`, có điều khoản trọng tâm, và được review pháp lý.
 
+Nguồn luật đã được chia nhóm tại: [Thư viện pháp luật FDI Việt Nam](legal-library).
+
 ## 1. Chuỗi bài nền tảng
 
 | P | ID | Bài viết | Câu hỏi trả lời cho khách hàng | Nguồn chính | Status |
