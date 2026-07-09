@@ -8,6 +8,8 @@ import {
   LOGISTICS_SCENARIOS,
   LOGISTICS_SCOPE,
   LOGISTICS_SERVICE_IDS,
+  LOGISTICS_TRANSACTIONAL_PRICING,
+  LOGISTICS_VOLUME_TARGETS,
   LOGISTICS_WORKFLOW,
 } from "@/lib/logistics";
 import { getServiceById, TIER_STYLES, type ServiceItem } from "@/lib/services";
@@ -115,6 +117,57 @@ export function LogisticsPageContent() {
           <span className="font-mono text-amber-800">
             Khởi động hải quan → Nhập máy → Vận chuyển → Thuê ngoài theo tháng
           </span>
+        </p>
+      </section>
+
+      {/* Transactional pricing */}
+      <section className="mb-14 p-6 md:p-8 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 to-white">
+        <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-6">
+          <div>
+            <h2 className="text-2xl font-bold mb-1">Bảng giá giao dịch (desk · 07/2026)</h2>
+            <p className="text-sm text-[var(--muted)]">
+              Hải quan · trucking · C/O — biên gộp ~14–22% trên cont. Chi tiết:{" "}
+              <Link href={LOGISTICS_VOLUME_TARGETS.benchmarkDoc} className="text-amber-800 font-medium hover:underline">
+                khảo sát giá →
+              </Link>
+            </p>
+          </div>
+          <div className="text-sm rounded-xl border border-amber-200 bg-white px-4 py-3">
+            <div className="text-xs text-[var(--muted)] uppercase tracking-wide font-semibold mb-1">Mục tiêu tháng 6</div>
+            <div>
+              Base <strong>{LOGISTICS_VOLUME_TARGETS.month6.base}</strong> · Stretch{" "}
+              <strong>{LOGISTICS_VOLUME_TARGETS.month6.stretch}</strong>
+            </div>
+          </div>
+        </div>
+        <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-4">
+          <table className="w-full text-sm min-w-[520px]">
+            <thead>
+              <tr className="bg-amber-50/80 text-left text-xs uppercase tracking-wide text-[var(--muted)]">
+                <th className="px-4 py-3 font-semibold">Mã</th>
+                <th className="px-4 py-3 font-semibold">Dịch vụ</th>
+                <th className="px-4 py-3 font-semibold">Giá (VND)</th>
+                <th className="px-4 py-3 font-semibold">Ghi chú</th>
+              </tr>
+            </thead>
+            <tbody>
+              {LOGISTICS_TRANSACTIONAL_PRICING.map((row) => (
+                <tr key={row.code} className="border-t border-amber-50">
+                  <td className="px-4 py-3 font-mono font-bold text-amber-900">{row.code}</td>
+                  <td className="px-4 py-3">{row.name}</td>
+                  <td className="px-4 py-3 font-mono font-semibold whitespace-nowrap">
+                    {row.priceVnd}
+                    <span className="text-[var(--muted)] font-normal"> /{row.unit}</span>
+                  </td>
+                  <td className="px-4 py-3 text-[var(--muted)] text-xs">{row.note}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p className="text-xs text-[var(--muted)] leading-relaxed">
+          GP ước tính {LOGISTICS_VOLUME_TARGETS.gpPerCont} mỗi cont (khai báo + trucking + C/O blended). Mục tiêu{" "}
+          <strong>500 cont/tháng</strong> là đỉnh Stretch — Base tháng 6 khoảng 50–80 cont/tháng với 2–3 NM xuất khẩu.
         </p>
       </section>
 

@@ -37,7 +37,7 @@ author: "Hermes + Cursor"
 | CL-011 | Desk note EPE Thái Nguyên | 📋 Todo |
 | CL-012 | Verify nguồn P0 Cẩm nang | 📋 Todo |
 | CL-013 | Desk đối tác logistics (KIM-089) | 📋 Todo |
-| CL-014 | Bảng giá tuyến desk (KIM-090) | 📋 Todo |
+| CL-014 | [logistics-pricing-benchmark](logistics-pricing-benchmark) | ✅ Desk | KIM-090 |
 
 ## Giai đoạn 00-1 — Kết quả & đào sâu
 
