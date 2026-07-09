@@ -33,7 +33,7 @@ function Header() {
           <Link href="/docs/00-WORKING_PRINCIPLES" className="hover:text-[var(--accent)]">Nguyên tắc</Link>
           <Link href="/roadmap" className="hover:text-[var(--accent)]">Lộ trình</Link>
           <Link href="/departments" className="hover:text-[var(--accent)]">Phòng ban</Link>
-          <Link href="/assessment" className="hover:text-[var(--accent)]">Đánh giá</Link>
+          <Link href="/docs/06-phases/00-1-feasibility-plan" className="hover:text-[var(--accent)]">Đánh giá</Link>
           <Link href="/docs/services/00-index" className="hover:text-[var(--accent)]">Dịch vụ</Link>
           <Link href="/docs/services/policy-government" className="hover:text-[var(--accent)] hidden md:inline">Chính sách</Link>
           <Link href="/docs" className="hover:text-[var(--accent)]">Tài liệu</Link>

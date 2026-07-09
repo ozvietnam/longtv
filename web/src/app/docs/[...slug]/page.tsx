@@ -51,7 +51,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
 
       {showAssessmentBack && (
         <Link
-          href="/assessment"
+          href="/docs/06-phases/00-1-feasibility-plan"
           className="mb-8 inline-flex h-10 items-center rounded-full border border-[var(--border)] bg-white px-4 text-sm font-semibold hover:border-[var(--accent)] hover:text-[var(--accent)]"
         >
           ← Quay lại trang đánh giá tiềm năng & khả thi

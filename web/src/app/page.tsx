@@ -40,7 +40,7 @@ export default function Home() {
               Dịch vụ
             </Link>
             <Link
-              href="/assessment"
+              href="/docs/06-phases/00-1-feasibility-plan"
               className="inline-flex items-center px-5 h-11 rounded-full border border-[var(--border)] font-medium hover:bg-white"
             >
               Đánh giá tiềm năng

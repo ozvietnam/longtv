@@ -3,6 +3,13 @@ import Link from "next/link";
 export const metadata = { title: "Các pha triển khai · LongTV" };
 
 const PHASES = [
+  {
+    id: "phase-00-1",
+    title: "00-1 · Đánh giá tiềm năng & khả thi",
+    status: "active",
+    desc: "Dashboard trình cổ đông: scorecard, sơ đồ mô hình, ma trận ưu tiên và liên kết bằng chứng.",
+    href: "/docs/06-phases/00-1-feasibility-plan",
+  },
   { id: "phase-1", title: "P1 · Xây dựng dự án", status: "active", desc: "Vấn đề lớn → chẻ nhỏ → cấu trúc cây vấn đề." },
   { id: "phase-2", title: "P2 · Khai vấn đa phương án", status: "pending", desc: "Đưa ra nhiều phương án cho từng bài toán con." },
   { id: "phase-3", title: "P3 · Nghiên cứu & khảo sát thị trường", status: "pending", desc: "Số liệu FDI, đối thủ, ưu đãi 2 tỉnh." },
@@ -39,6 +46,14 @@ export default function PhasesIndex() {
                   )}
                 </div>
                 <p className="text-sm text-[var(--muted)]">{p.desc}</p>
+                {"href" in p && p.href && (
+                  <Link
+                    href={p.href}
+                    className="mt-4 inline-flex h-9 items-center rounded-full bg-[var(--accent)] px-4 text-sm font-semibold text-white hover:opacity-90"
+                  >
+                    Mở trang đánh giá →
+                  </Link>
+                )}
               </div>
             </div>
           </li>
