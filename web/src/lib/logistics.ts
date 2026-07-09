@@ -9,7 +9,7 @@ export const LOGISTICS_HERO = {
   title: "Hải quan, vận chuyển & chuỗi xuất nhập khẩu cho nhà máy đầu tư nước ngoài (FDI)",
   titleZh: "海关物流与进出口运营",
   subtitle:
-    "LONGTV đồng hành nhà máy Trung Quốc tại miền Bắc — từ khai báo hải quan, nhập dây chuyền, điều phối đại lý vận tải (forwarder), đến dịch vụ thuê ngoài theo tháng (retainer) cho chuỗi nhập–sản xuất–xuất khẩu.",
+    "LONGTV đồng hành nhà máy Trung Quốc tại miền Bắc — từ khai báo hải quan, kiểm soát rủi ro xuất xứ trong chiến lược China+1, nhập dây chuyền, điều phối đại lý vận tải (forwarder), đến dịch vụ thuê ngoài theo tháng (retainer) cho chuỗi nhập–sản xuất–xuất khẩu.",
   provinces: "Thái Nguyên · Hải Phòng · cảng Lạch Huyện · trung tâm logistics (ICD)",
 };
 

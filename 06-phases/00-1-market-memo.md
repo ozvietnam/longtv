@@ -22,7 +22,7 @@ author: "Cursor · Sếp Thắng"
 | Phân khúc nên nhắm | NM TQ **Tier 2–3** (50–300 CN), supply chain điện tử/linh kiện, dịch chuyển miền Bắc VN |
 | 2 tỉnh trọng tâm | **Thái Nguyên** (#1 FDI mới 6T/2026) + **Hải Phòng** (#3, cảng biển) — hợp lý |
 | Gói bán đầu | **A1 Khảo sát** + **B1 Hải quan** — chưa scale A3/B3 |
-| Rủi ro lớn nhất | Chưa verify trực tiếp Sở/KCN; cạnh tranh đối tác “ruột” tỉnh |
+| Rủi ro lớn nhất | Chưa verify trực tiếp Sở/KCN; cạnh tranh đối tác “ruột” tỉnh; rủi ro xuất xứ/transshipment khi khách TQ xuất sang Mỹ/EU |
 | Điều kiện Go | Leader chốt % cổ đông TQ; 1 cuộc gọi Sở TN trong 30 ngày |
 
 **Đề xuất:** **Go + Adjust** — triển khai lean, thu hẹp phạm vi 6 tháng đầu (không bán thiết lập NM full).
@@ -41,6 +41,20 @@ author: "Cursor · Sếp Thắng"
 | SX chế biến — tỷ trọng | ~56–83% vốn FDI | NSO |
 
 → Dòng vốn TQ sang VN **lớn và đang tăng tốc**; manufacturing là trọng tâm.
+
+### 2.1. Động lực China+1 — vì sao họ dịch chuyển
+
+Từ góc nhìn LONGTV, nhà máy Trung Quốc sang Việt Nam không chỉ vì “giá rẻ”, mà vì một cụm động lực:
+
+| Động lực | Ý nghĩa dịch vụ |
+|---|---|
+| Trade war / thuế quan Mỹ-Trung | Cần B1 hải quan + kiểm tra rules of origin, tránh transshipment |
+| China+1 | Cần A1 khảo sát tỉnh và A2 làm việc chính quyền/KCN |
+| Gần Trung Quốc | Cần B2 logistics pack cho tuyến TQ → Hải Phòng → KCN miền Bắc |
+| FTA/RCEP/CPTPP | Cần H2 legal screening + checklist xuất xứ/BOM/quy trình sản xuất |
+| KCN/ready-built factory | Cần shortlist site, giá đất/xưởng, timeline setup |
+
+Chi tiết: [CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam](/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift).
 
 ### SAM — miền Bắc, 2 tỉnh LONGTV
 
@@ -119,6 +133,7 @@ Từ [competitors](/docs/04-research/2026-07/competitors):
 | Sở có đối tác ruột | Trung | Positioning bổ sung, không thay thế |
 | FDI lớn không phải TQ trực tiếp | Trung | Nhắm supply chain Tier 2–3 |
 | Leader chưa chốt % cổ đông TQ | Cao | [Làm rõ](/docs/05-clarifications/00-team-input-requirements) |
+| Khách muốn “né thuế” nhưng không đủ xuất xứ VN | Cao | Bắt buộc thêm checklist rules of origin, substantial transformation, chứng từ BOM/quy trình |
 
 ---
 

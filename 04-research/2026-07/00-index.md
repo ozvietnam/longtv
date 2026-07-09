@@ -38,6 +38,7 @@ author: "Hermes + Cursor"
 | CL-012 | Verify nguồn P0 Cẩm nang | 📋 Todo |
 | CL-013 | Desk đối tác logistics (KIM-089) | 📋 Todo |
 | CL-014 | Bảng giá tuyến desk (KIM-090) | 📋 Todo |
+| **CL-015** | [china-to-vietnam-manufacturing-shift](china-to-vietnam-manufacturing-shift) | ✅ Desk |
 
 ## Giai đoạn 00-1 — Kết quả & đào sâu
 
@@ -46,6 +47,7 @@ author: "Hermes + Cursor"
 - [Vòng đời 9 giai đoạn](/docs/03-departments/04-san-pham/fdi-lifecycle-full-map)
 - [Catalog v1](/docs/03-departments/04-san-pham/service-catalog-v1)
 - [Memo tiềm năng](/docs/06-phases/00-1-market-memo)
+- [Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam](china-to-vietnam-manufacturing-shift)
 - [Scorecard 38/50](/docs/06-phases/00-1-scorecard)
 - [QĐ #005 Go Giai đoạn 2](/docs/decisions/005-phase-00-1-go) — chờ Leader ký
 - [Tiến độ Hermes Wave 2](/hermes) · [Gói việc Hermes](/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07)

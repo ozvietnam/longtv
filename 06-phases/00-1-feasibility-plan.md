@@ -21,7 +21,7 @@ author: "Cursor · Sếp Thắng"
     <p class="fd-lead">
       LONGTV có cửa đi rõ nếu tập trung vào nhà máy Trung Quốc dịch chuyển sản xuất về
       <strong>Thái Nguyên</strong> và <strong>Hải Phòng</strong>, bán trước các gói chính sách,
-      pháp lý điều phối và logistics miền Bắc.
+      pháp lý điều phối, kiểm soát rủi ro xuất xứ và logistics miền Bắc.
     </p>
     <div class="fd-actions">
       <a href="/docs/services/policy-government">Dịch vụ chính sách 2 tỉnh</a>
@@ -55,7 +55,7 @@ author: "Cursor · Sếp Thắng"
   <div class="fd-score-card fd-red">
     <span>Tiềm năng thị trường</span>
     <strong>8.5/10</strong>
-    <p>Dòng dịch chuyển sản xuất TQ → VN vẫn cần thông tin địa phương, chính sách, KCN và logistics.</p>
+    <p>China+1, thuế quan và FTA tạo nhu cầu chọn tỉnh, kiểm tra xuất xứ, KCN và logistics.</p>
   </div>
   <div class="fd-score-card fd-amber">
     <span>Tính khả thi giai đoạn đầu</span>
@@ -96,7 +96,7 @@ author: "Cursor · Sếp Thắng"
   <a class="fd-flow-node" href="/services">
     <span>B</span>
     <strong>Logistics & hải quan</strong>
-    <p>HS code/Oz core, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
+    <p>HS code/Oz core, rules of origin, forwarder, SOP xuất-nhập-sản xuất miền Bắc.</p>
   </a>
   <div class="fd-flow-arrow">→</div>
   <div class="fd-flow-node fd-outcome">
@@ -162,7 +162,25 @@ author: "Cursor · Sếp Thắng"
     <strong>Cổ đông — Oz Việt Nam</strong>
     <span>Đánh giá nguồn lực GitHub, vai trò giai đoạn đầu và lõi hậu cần.</span>
   </a>
+  <a href="/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift">
+    <strong>Vì sao nhà máy TQ sang Việt Nam</strong>
+    <span>8 động lực China+1, trade war, FTA, logistics và rules of origin.</span>
+  </a>
 </div>
+
+## Góc nhìn bổ sung — China+1 không chỉ là “dịch chuyển nhà máy”
+
+| Động lực thị trường | Tác động tới khách TQ | Dịch vụ LONGTV nên gắn |
+|---|---|---|
+| Thuế quan Mỹ-Trung | Cần sản xuất ngoài Trung Quốc nhưng không được transshipment trá hình | B1 hải quan starter + rules of origin checklist |
+| China+1 | Không rời Trung Quốc hoàn toàn, mà thêm điểm sản xuất ASEAN | A1 khảo sát 2 tỉnh + A2 làm việc chính quyền/KCN |
+| Gần Trung Quốc | Linh kiện/máy móc vẫn đi từ Trung Quốc sang Việt Nam | B2 logistics pack, tuyến TQ → Hải Phòng → KCN |
+| FTA/RCEP/CPTPP | Muốn hưởng ưu đãi thuế, nhưng phải chứng minh xuất xứ | H2 legal screening + C/O + BOM/process checklist |
+| Hạ tầng/KCN/RBF | Muốn vào nhanh, giảm thời gian setup | A1 site shortlist + A3 setup PM |
+
+**Thông điệp bán hàng mới:** *China+1 vào Việt Nam không chỉ là lập công ty — phải chọn tỉnh đúng, tránh rủi ro xuất xứ và thiết lập hải quan từ ngày đầu.*
+
+Nguồn chi tiết: [CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam](/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift).
 
 ## Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu
 
@@ -209,6 +227,7 @@ Trang chi tiết: [Cổ đông — Oz Việt Nam](/co-dong).
 | CL-003 | KCN Yên Bình + Nam Đình Vũ (desk) | [/docs/04-research/2026-07/kcn-desk-research](/docs/04-research/2026-07/kcn-desk-research) |
 | CL-004b | FDI deep-dive | [/docs/04-research/2026-07/fdi-data-deep-dive](/docs/04-research/2026-07/fdi-data-deep-dive) |
 | CL-005/006 | Vì sao TN+HP · Plan B | [why-tn-hp](/docs/04-research/2026-07/why-tn-hp) · [plan-b](/docs/04-research/2026-07/plan-b-no-revenue) |
+| CL-015 | Vì sao NM TQ sang Việt Nam | [china-to-vietnam-manufacturing-shift](/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift) |
 
 ### Wave 2 — Field & thu thập (Hermes, chưa done)
 
