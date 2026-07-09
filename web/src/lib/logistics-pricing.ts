@@ -1,9 +1,15 @@
 /**
  * Mục tiêu logistics 6 tháng — Oz khởi điểm 50 cont/tháng (T8) → 200 cont/tháng (T12).
- * Tổng xuất + nhập. Nguồn: logistics-pricing-benchmark.md
+ * Tổng xuất + nhập. Nhập thường nhiều hơn xuất ~30% (NM FDI nhập máy/NVL).
  */
 
-export const EXPORT_IMPORT_MIX = { export: 0.55, import: 0.45 } as const;
+/** Nhập = xuất × 1,3 → tỷ lệ trên tổng cont */
+export const IMPORT_VS_EXPORT_RATIO = 1.3;
+
+export const EXPORT_IMPORT_MIX = {
+  export: 1 / (1 + IMPORT_VS_EXPORT_RATIO),
+  import: IMPORT_VS_EXPORT_RATIO / (1 + IMPORT_VS_EXPORT_RATIO),
+} as const;
 
 /** Báo giá bán · cost đối tác · GP · biên % (trên doanh thu dòng) */
 export const LOGISTICS_SERVICE_LINES = [
@@ -115,7 +121,7 @@ export const PER_IMPORT_CONT = {
   },
 };
 
-/** Blended 55% xuất / 45% nhập */
+/** Blended — nhập nhiều hơn xuất 30% (~43% xuất / ~57% nhập) */
 export const PER_CONT_BLENDED = (() => {
   const e = PER_EXPORT_CONT.total;
   const i = PER_IMPORT_CONT.total;
@@ -152,7 +158,8 @@ export const LOGISTICS_6M_TARGET = {
   contCumulative: LOGISTICS_RAMP_MONTHS.reduce((s, m) => s + m.cont, 0),
   ozStartMonth: 2,
   ozStartCont: 50,
-  exportImportNote: "55% xuất / 45% nhập (tổng cont)",
+  exportImportNote: "~43% xuất / ~57% nhập (nhập nhiều hơn xuất 30%)",
+  splitAt200: { export: 87, import: 113, total: 200 },
 };
 
 export function monthLogisticsPnl(cont: number) {

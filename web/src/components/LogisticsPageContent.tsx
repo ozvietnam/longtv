@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import {
+  LOGISTICS_6M_TARGET,
   LOGISTICS_6M_TOTALS,
   LOGISTICS_FAQ,
   LOGISTICS_HERO,
@@ -19,12 +20,12 @@ import {
   PER_EXPORT_CONT,
   PER_IMPORT_CONT,
 } from "@/lib/logistics";
+import { getServiceById, TIER_STYLES, type ServiceItem } from "@/lib/services";
 
 function formatMillion(vnd: number) {
   if (vnd >= 1_000_000_000) return `${(vnd / 1_000_000_000).toFixed(1)} tỷ`;
   return `${Math.round(vnd / 1_000_000)} tr`;
 }
-import { getServiceById, TIER_STYLES, type ServiceItem } from "@/lib/services";
 
 function LogisticsServiceCard({ service }: { service: ServiceItem }) {
   const tier = TIER_STYLES[service.tier];
@@ -138,8 +139,8 @@ export function LogisticsPageContent() {
           <div>
             <h2 className="text-2xl font-bold mb-1">Bảng giá giao dịch (desk · 07/2026)</h2>
             <p className="text-sm text-[var(--muted)]">
-              Hải quan · trucking · C/O — biên gộp ~{PER_CONT_BLENDED.marginPct}% trên cont blended (55% xuất / 45%
-              nhập). Chi tiết:{" "}
+              Hải quan · trucking · C/O — biên gộp ~{PER_CONT_BLENDED.marginPct}% trên cont blended (
+              {LOGISTICS_6M_TARGET.exportImportNote}). Chi tiết:{" "}
               <Link href={LOGISTICS_VOLUME_TARGETS.benchmarkDoc} className="text-amber-800 font-medium hover:underline">
                 khảo sát giá →
               </Link>
@@ -154,6 +155,10 @@ export function LogisticsPageContent() {
               )}
             </div>
             <div className="text-xs text-amber-900 mt-1">{LOGISTICS_VOLUME_TARGETS.ozStart}</div>
+            <div className="text-xs text-[var(--muted)] mt-1">
+              Tháng 6: {LOGISTICS_6M_TARGET.splitAt200.export} xuất + {LOGISTICS_6M_TARGET.splitAt200.import} nhập ={" "}
+              {LOGISTICS_6M_TARGET.splitAt200.total} cont
+            </div>
           </div>
         </div>
         <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-4">
@@ -238,7 +243,7 @@ export function LogisticsPageContent() {
             </div>
           </div>
           <div className="p-4 rounded-xl border border-amber-200 bg-amber-50/50">
-            <div className="text-xs text-[var(--muted)] uppercase font-semibold mb-1">Blended 55/45</div>
+            <div className="text-xs text-[var(--muted)] uppercase font-semibold mb-1">Blended (nhập +30% vs xuất)</div>
             <div className="font-mono font-bold text-amber-900">
               {(PER_CONT_BLENDED.sellVnd / 1_000_000).toFixed(2)}M / cont
             </div>
@@ -249,12 +254,17 @@ export function LogisticsPageContent() {
         </div>
 
         <h3 className="text-lg font-bold mb-3">Lộ trình 6 tháng — Oz 50 cont/tháng (T8) → 200 cont/tháng (T12)</h3>
+        <p className="text-sm text-[var(--muted)] mb-3">
+          Tổng xuất + nhập. Phân bổ mỗi tháng: nhập nhiều hơn xuất ~30% (vd. tháng 6: 87 xuất · 113 nhập).
+        </p>
         <div className="overflow-x-auto rounded-xl border border-amber-100 bg-white mb-4">
-          <table className="w-full text-sm min-w-[640px]">
+          <table className="w-full text-sm min-w-[720px]">
             <thead>
               <tr className="bg-amber-50/80 text-left text-xs uppercase tracking-wide text-[var(--muted)]">
                 <th className="px-4 py-3 font-semibold">Tháng</th>
-                <th className="px-4 py-3 font-semibold">Cont</th>
+                <th className="px-4 py-3 font-semibold">Tổng</th>
+                <th className="px-4 py-3 font-semibold">Xuất</th>
+                <th className="px-4 py-3 font-semibold">Nhập</th>
                 <th className="px-4 py-3 font-semibold">Doanh thu</th>
                 <th className="px-4 py-3 font-semibold">GP</th>
                 <th className="px-4 py-3 font-semibold">Ghi chú</th>
@@ -267,6 +277,8 @@ export function LogisticsPageContent() {
                   <tr key={m.month} className="border-t border-amber-50">
                     <td className="px-4 py-3 font-medium">{m.label}</td>
                     <td className="px-4 py-3 font-mono font-bold text-amber-900">{m.cont}</td>
+                    <td className="px-4 py-3 font-mono text-[var(--muted)]">{pnl.exportCont}</td>
+                    <td className="px-4 py-3 font-mono text-[var(--muted)]">{pnl.importCont}</td>
                     <td className="px-4 py-3 font-mono">{formatMillion(pnl.revenueVnd)}</td>
                     <td className="px-4 py-3 font-mono text-emerald-800">{formatMillion(pnl.gpVnd)}</td>
                     <td className="px-4 py-3 text-xs text-[var(--muted)]">{m.note}</td>

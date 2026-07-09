@@ -150,13 +150,15 @@ C/O thường tính **theo lô / theo tờ khai**, không phải mỗi cont — 
 | Trucking blended | 4.240.000 | 3.810.000 | 430.000 | 10% |
 | **Tổng / cont nhập** | **~5,24 triệu** | **~4,46 triệu** | **~0,78 triệu (~15%)** | |
 
-### 6.1c. Blended 55% xuất / 45% nhập
+### 6.1c. Blended — nhập nhiều hơn xuất 30% (~43% xuất / ~57% nhập)
+
+> NM FDI thường nhập máy/NVL nhiều hơn xuất thành phẩm giai đoạn đầu. Tại **200 cont/tháng**: **87 xuất + 113 nhập**.
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Doanh thu / cont | **~5,38 triệu VND** |
-| GP / cont | **~0,83 triệu VND** |
-| Biên gộp | **~15,4%** |
+| Doanh thu / cont | **~5,35 triệu VND** |
+| GP / cont | **~0,82 triệu VND** |
+| Biên gộp | **~15,3%** |
 
 ### 6.2. Mục tiêu 200 cont/tháng — ramp 6 tháng (Oz anchor)
 
@@ -171,8 +173,9 @@ C/O thường tính **theo lô / theo tờ khai**, không phải mỗi cont — 
 
 | Chỉ số | Tháng 6 (200 cont) | Tích lũy 6T (651 cont) |
 |--------|-------------------|------------------------|
-| Doanh thu logistics | **~1,08 tỷ VND/tháng** | **~3,5 tỷ VND** |
-| Gross profit (~15%) | **~166 triệu VND/tháng** | **~541 triệu VND** |
+| Phân bổ xuất / nhập | **87 / 113** | ~283 xuất · ~368 nhập |
+| Doanh thu logistics | **~1,07 tỷ VND/tháng** | **~3,5 tỷ VND** |
+| Gross profit (~15%) | **~164 triệu VND/tháng** | **~534 triệu VND** |
 | Số tờ khai HQ/tháng | 200+ | Cần ≥2 đại lý GPLS + 4–6 ops |
 | Số chuyến xe/tháng | 200 | Hợp đồng ≥2 hãng vận tải |
 
@@ -181,7 +184,7 @@ C/O thường tính **theo lô / theo tờ khai**, không phải mỗi cont — 
 | Kịch bản | Cont/tháng (tháng 6) | Cont tích lũy 6T | GP logistics 6T |
 |----------|----------------------|------------------|-----------------|
 | **Bear** | 25 | 100–120 | 80–100 triệu |
-| **Base (mục tiêu)** | **200** | **651** | **~541 triệu** |
+| **Base (mục tiêu)** | **200** (87 xuất + 113 nhập) | **651** | **~534 triệu** |
 | **Bull** | 300+ | 900+ | 750M+ |
 
 ---

@@ -32,7 +32,7 @@ author: "Cursor · Tư vấn nội bộ"
 | GP blended (năm 1) | **~35–42%** | Mix consulting + logistics tăng dần |
 | Pilot discount | **30%** cho 3 khách đầu | Case study |
 | **Logistics — cont/tháng (tháng 6)** | Bear 25 · Base **200** · Bull 300+ | Ramp Oz 50 cont/tháng từ T8 → 200 T12 |
-| **GP/cont logistics (desk)** | **~831k VND** (~15,4%) | HQ + trucking blended + C/O (55% xuất / 45% nhập) |
+| **GP/cont logistics (desk)** | **~820k VND** (~15,3%) | HQ + trucking blended + C/O (nhập +30% vs xuất) |
 | **Giá khai báo xuất (desk)** | 750k VND/cont bán | Cost đối tác ~500k |
 | **Trucking HP→TN 20DC** | 5,9M bán / 5,35M cost | Markup ~10% |
 
@@ -99,7 +99,7 @@ author: "Cursor · Tư vấn nội bộ"
 | **50 cont/tháng** | Nguồn Oz khởi điểm tháng 2 | ✅ Có sẵn từ cổ đông |
 | **25 cont/tháng** | Pilot tháng 1 | ✅ MOU GPLS + pilot |
 
-**Nhận xét 6 tháng:** Với ramp Oz, logistics Base mang **~541M GP** trong 6T — có thể **hòa vốn hoặc lãi nhẹ** sau OPEX. Margin cont **~15%**, không phải 58% consulting. Consulting vẫn quan trọng cho retainer và margin cao.
+**Nhận xét 6 tháng:** Với ramp Oz, logistics Base mang **~534M GP** trong 6T (nhập +30% vs xuất) — có thể **hòa vốn hoặc lãi nhẹ** sau OPEX. Margin cont **~15%**, không phải 58% consulting. Consulting vẫn quan trọng cho retainer và margin cao.
 
 ---
 

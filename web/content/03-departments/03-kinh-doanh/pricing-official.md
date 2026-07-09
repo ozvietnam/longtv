@@ -65,13 +65,15 @@ Chi tiết: [product-bundles](/docs/03-departments/04-san-pham/product-bundles)
 | L-TR-03 | 1.500.000 | 250.000 | 14% |
 | L-CO-01 | 1.000.000 | 600.000 | 38% |
 
-### GP blended / cont (55% xuất · 45% nhập)
+### GP blended / cont (nhập nhiều hơn xuất 30%)
+
+> Tại 200 cont/tháng: **87 xuất + 113 nhập = 200 cont tổng**
 
 | Loại cont | DT / cont | GP / cont | Biên |
 |-----------|-----------|-----------|------|
 | Xuất khẩu | ~5,50 triệu | ~0,87 triệu | ~16% |
 | Nhập khẩu | ~5,24 triệu | ~0,78 triệu | ~15% |
-| **Blended** | **~5,38 triệu** | **~0,83 triệu** | **~15,4%** |
+| **Blended** | **~5,35 triệu** | **~0,82 triệu** | **~15,3%** |
 
 **Gói nhanh giai đoạn đầu:** Logistics Quick Start — không bắt buộc mua A1 trước (NM đã có IRC).
 
