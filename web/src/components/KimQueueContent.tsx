@@ -76,8 +76,14 @@ function JobCard({ job }: { job: KimJob }) {
 
 type Filter = "all" | "open" | "leader" | "hermes" | "p0";
 
-export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
-  const [filter, setFilter] = useState<Filter>("open");
+export function KimQueueContent({
+  jobs,
+  initialFilter = "open",
+}: {
+  jobs: KimJob[];
+  initialFilter?: Filter;
+}) {
+  const [filter, setFilter] = useState<Filter>(initialFilter);
 
   const filtered = useMemo(() => {
     return jobs.filter((j) => {
@@ -123,10 +129,16 @@ export function KimQueueContent({ jobs }: { jobs: KimJob[] }) {
             Kim là gì? (cho cả team) →
           </Link>
           <Link
-            href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07"
+            href="/hermes"
             className="inline-flex items-center px-4 h-10 rounded-full bg-violet-600 text-white text-sm font-semibold hover:bg-violet-700"
           >
-            Gói việc Hermes (đã duyệt) →
+            Hermes đã làm gì? →
+          </Link>
+          <Link
+            href="/docs/03-departments/01-chien-luoc/hermes-work-pack-2026-07"
+            className="inline-flex items-center px-4 h-10 rounded-full border border-violet-200 bg-violet-50 text-sm font-medium text-violet-900 hover:bg-violet-100"
+          >
+            Gói việc Wave 2 →
           </Link>
           <Link
             href="/docs/03-departments/01-chien-luoc/hermes-directive-log"

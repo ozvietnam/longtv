@@ -10,6 +10,7 @@ const LINKS = [
   { href: "/docs/06-phases/00-1-feasibility-plan", label: "Đánh giá tiềm năng (00-1)" },
   { href: "/services", label: "Dịch vụ" },
   { href: "/logistics", label: "Hậu cần & hải quan" },
+  { href: "/hermes", label: "Tiến độ Hermes" },
   { href: "/operations", label: "Bảng vận hành" },
   { href: "/roadmap", label: "Lộ trình" },
   { href: "/departments", label: "Phòng ban" },
