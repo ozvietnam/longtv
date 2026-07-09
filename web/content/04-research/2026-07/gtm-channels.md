@@ -10,6 +10,8 @@
 |---------|------|---------|---------------------|-------|
 | **P0** | Giới thiệu từ cổ đông TQ / đối tác | Thấp | 1–3 tháng | TGĐ + Sales |
 | **P0** | WeChat / WeCom B2B | Thấp | 2–4 tháng | Sales + VT |
+| **P0** | Baidu / Zhihu / 36Kr 出海 content seeding | Thấp–TB | 2–5 tháng | KD + Content |
+| **P0** | Hiệp hội TQ tại VN / WeChat groups ngành | Thấp | 1–4 tháng | TGĐ + Sales |
 | **P1** | Hội thảo song phương (TQ–VN) | Trung bình | 3–6 tháng | KD + TGĐ |
 | **P1** | Đối tác luật / kế toán VN | Fee share | 2–4 tháng | PL + KD |
 | **P2** | LinkedIn / website SEO | Thấp–TB | 6+ tháng | VT |
@@ -35,6 +37,21 @@
 
 **KPI tháng 1–3:** 50 kết nối mới, 10 cuộc hội thoại qualified, 2 proposal
 
+### 2.3. Hệ sinh thái thông tin Trung Quốc
+
+| Kênh | Vai trò | Cách LONGTV dùng |
+|---|---|---|
+| Baidu | Search tổng quát khi Lý Tổng mới nghe về Việt Nam | Tối ưu bài tiếng Trung: “越南建厂 原产地 海关 工业园” |
+| Zhihu | Hỏi đáp trải nghiệm người đi trước | Seed bài phân tích rủi ro thật, không chỉ quảng bá cơ hội |
+| 36Kr 出海 / media出海 | Cộng đồng China outbound, event, case | Dùng insight để chọn chủ đề content và hội thảo |
+| WeChat Official Account | Kênh nuôi dưỡng định kỳ | Bản tin 2 tỉnh + checklist xuất xứ/hải quan |
+| WeChat Groups | Lead nóng, hỏi nhanh, referral | Sales phản hồi nhanh, đưa vào A0/A1, tránh tư vấn miệng quá sâu |
+| 越南中国总商会 / hiệp hội | Trust & cộng đồng người đã vào VN | Dùng làm kênh field verify và đối tác sự kiện |
+
+**Nguyên tắc nội dung:** đánh vào bẫy thông tin mà khách TQ đang gặp: “Việt Nam không còn chỉ là giá rẻ”, “không thể chỉ né thuế bằng dán nhãn”, “môi giới đất không thay được pháp lý/hải quan/vận hành”.
+
+Nguồn persona/kênh: [CL-016 — Chinese factory owner decision journey](chinese-factory-owner-decision-journey).
+
 ---
 
 ## 3. P1 — Hội thảo & đối tác
@@ -58,7 +75,7 @@
 ## 4. P2 — Digital dài hạn
 
 - **Website:** longtv (GitHub Pages / Vercel) — landing + form lead
-- **SEO:** "投资 越南 太原", "海防 工业园", "越南 FDI 咨询"
+- **SEO:** "投资 越南 太原", "海防 工业园", "越南 FDI 咨询", "越南建厂 原产地", "越南 海关 HS code"
 - **Ads:** Chỉ bật khi có **1 case study** + landing tiếng Trung
 
 ---

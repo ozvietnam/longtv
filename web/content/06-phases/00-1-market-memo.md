@@ -78,12 +78,12 @@ Chi tiết: [fdi-data](/docs/04-research/2026-07/fdi-data), [thai-nguyen-fdi-pol
 
 | Phân khúc | Quy mô | Pain | LONGTV fit |
 |-----------|--------|------|------------|
-| **A — NM TQ Tier 2–3** | 50–300 CN | Chọn tỉnh, chính sách, hải quan | **Cao** — A1, B1 |
+| **A — NM TQ Tier 2–3** | 50–300 CN | Chọn tỉnh, chính sách, hải quan, sợ môi giới/thiếu nguồn tin thật | **Cao** — A1, B1 |
 | B — FDI lớn (Samsung tier) | >500 CN | Đã có Big4/luật lớn | Thấp — không đua |
 | C — NM TQ đã vào VN | Đang chạy | Retainer XNK, kế toán | Trung — B3, H3 (sau) |
 | D — Supply chain cho Hàn/Đài | Linh kiện | Giới thiệu từ anchor NM | Trung — qua KCN |
 
-Persona chi tiết: [persona-v1](/docs/03-departments/03-kinh-doanh/persona-v1).
+Persona chi tiết: [persona-v1](/docs/03-departments/03-kinh-doanh/persona-v1). Góc nhìn buyer psychology/kênh thông tin Trung Quốc: [CL-016](/docs/04-research/2026-07/chinese-factory-owner-decision-journey).
 
 ---
 

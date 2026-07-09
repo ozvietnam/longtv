@@ -170,6 +170,10 @@ author: "Cursor · Sếp Thắng"
     <strong>Vì sao nhà máy TQ sang Việt Nam</strong>
     <span>8 động lực China+1, trade war, FTA, logistics và rules of origin.</span>
   </a>
+  <a href="/docs/04-research/2026-07/chinese-factory-owner-decision-journey">
+    <strong>Góc nhìn ông chủ xưởng TQ</strong>
+    <span>Tâm lý sinh tồn, kênh Baidu/WeChat/Zhihu/36Kr và bẫy thông tin.</span>
+  </a>
 </div>
 
 ## Góc nhìn bổ sung — China+1 không chỉ là “dịch chuyển nhà máy”
@@ -185,6 +189,18 @@ author: "Cursor · Sếp Thắng"
 **Thông điệp bán hàng mới:** *China+1 vào Việt Nam không chỉ là lập công ty — phải chọn tỉnh đúng, tránh rủi ro xuất xứ và thiết lập hải quan từ ngày đầu.*
 
 Nguồn chi tiết: [CL-015 — Vì sao nhà máy Trung Quốc dịch chuyển sang Việt Nam](/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift).
+
+## Góc nhìn người mua — Lý Tổng không thiếu thông tin, mà thiếu bộ lọc đáng tin
+
+| Tâm lý của chủ xưởng TQ | Hệ quả khi tìm thông tin | LONGTV cần làm |
+|---|---|---|
+| “Không ra đi thì mất đơn hàng” | Quyết định vội, dễ nghe môi giới nói dễ | A0/A1 phải giúp dừng lại và kiểm tra đúng thứ tự |
+| Không dùng Google/tiếng Việt | Phụ thuộc Baidu, WeChat, Zhihu, 36Kr, hội nhóm | Content tiếng Trung + nguồn Việt Nam đã lọc |
+| Sợ bị lừa đất/xưởng | Cần người đứng về phía nhà đầu tư | LONGTV định vị PM độc lập, không chỉ bán đất |
+| Không hiểu rules of origin | Nghĩ “sang VN là né thuế” | B1 + Oz HS/XNK core + checklist C/O/BOM/quy trình |
+| Lo sau vận hành | Sợ lỗ ban đầu, lao động/văn hóa/thuế/hải quan | B3 retainer + kế toán/CPA + SOP vận hành |
+
+Nguồn chi tiết: [CL-016 — Ông chủ xưởng Trung Quốc ra quyết định sang Việt Nam như thế nào](/docs/04-research/2026-07/chinese-factory-owner-decision-journey).
 
 ## Bổ sung giai đoạn 1 — Oz là lực lượng trụ cột ban đầu
 
@@ -232,6 +248,7 @@ Trang chi tiết: [Cổ đông — Oz Việt Nam](/co-dong).
 | CL-004b | FDI deep-dive | [/docs/04-research/2026-07/fdi-data-deep-dive](/docs/04-research/2026-07/fdi-data-deep-dive) |
 | CL-005/006 | Vì sao TN+HP · Plan B | [why-tn-hp](/docs/04-research/2026-07/why-tn-hp) · [plan-b](/docs/04-research/2026-07/plan-b-no-revenue) |
 | CL-015 | Vì sao NM TQ sang Việt Nam | [china-to-vietnam-manufacturing-shift](/docs/04-research/2026-07/china-to-vietnam-manufacturing-shift) |
+| CL-016 | Persona sâu Lý Tổng + kênh thông tin TQ | [chinese-factory-owner-decision-journey](/docs/04-research/2026-07/chinese-factory-owner-decision-journey) |
 
 ### Wave 2 — Field & thu thập (Hermes, chưa done)
 
