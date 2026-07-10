@@ -2,26 +2,27 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { SITE_MOBILE_NAV, SITE_NAV_SECTIONS, type SiteNavLink } from "@/lib/site-pages";
 
-const LINKS = [
-  { href: "/", label: "Trang chủ" },
-  { href: "/kim", label: "Thư ký Kim" },
-  { href: "/cam-nang", label: "Cẩm nang tri thức" },
-  { href: "/assessment", label: "Dashboard 00-1" },
-  { href: "/co-dong", label: "Cổ đông" },
-  { href: "/services", label: "Dịch vụ" },
-  { href: "/logistics", label: "Hậu cần & hải quan" },
-  { href: "/hermes", label: "Tiến độ Hermes" },
-  { href: "/operations", label: "Bảng vận hành" },
-  { href: "/roadmap", label: "Lộ trình" },
-  { href: "/departments", label: "Phòng ban" },
-  { href: "/docs", label: "Tài liệu" },
-  { href: "/phases", label: "Các pha" },
-  { href: "/decisions", label: "Quyết định" },
-];
+function MobileNavItem({ link, onNavigate }: { link: SiteNavLink; onNavigate: () => void }) {
+  return (
+    <Link
+      href={link.href}
+      onClick={onNavigate}
+      className={`py-2.5 text-sm border-b border-[var(--border)] last:border-0 ${
+        link.highlight ? "font-semibold text-[var(--accent)]" : "font-medium hover:text-[var(--accent)]"
+      }`}
+    >
+      {link.label}
+    </Link>
+  );
+}
 
 export function MobileNav() {
   const [open, setOpen] = useState(false);
+  const close = () => setOpen(false);
+
+  let lastSection: SiteNavLink["section"] | undefined;
 
   return (
     <div className="md:hidden">
@@ -40,17 +41,22 @@ export function MobileNav() {
         </svg>
       </button>
       {open && (
-        <nav className="absolute top-16 left-0 right-0 bg-white border-b border-[var(--border)] shadow-lg z-50 px-6 py-4 flex flex-col gap-1">
-          {LINKS.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              onClick={() => setOpen(false)}
-              className="py-2.5 text-sm font-medium hover:text-[var(--accent)] border-b border-[var(--border)] last:border-0"
-            >
-              {link.label}
-            </Link>
-          ))}
+        <nav className="absolute top-16 left-0 right-0 bg-white border-b border-[var(--border)] shadow-lg z-50 px-6 py-4 flex flex-col gap-1 max-h-[calc(100vh-4rem)] overflow-y-auto">
+          {SITE_MOBILE_NAV.map((link) => {
+            const showSection = link.section && link.section !== lastSection;
+            if (link.section) lastSection = link.section;
+
+            return (
+              <div key={link.href}>
+                {showSection && link.section && (
+                  <div className="text-[10px] font-semibold uppercase tracking-wider text-[var(--muted)] pt-3 pb-1 first:pt-0">
+                    {SITE_NAV_SECTIONS[link.section]}
+                  </div>
+                )}
+                <MobileNavItem link={link} onNavigate={close} />
+              </div>
+            );
+          })}
         </nav>
       )}
     </div>

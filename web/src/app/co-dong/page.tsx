@@ -88,7 +88,7 @@ export default function ShareholdersPage() {
         </p>
       </header>
 
-      <Phase001Banner />
+      <Phase001Banner compact />
       <StickyPageNav sections={CO_DONG_SECTIONS} />
 
       <section id="oz" className="scroll-mt-32 grid lg:grid-cols-[1.1fr_0.9fr] gap-6 mb-12">

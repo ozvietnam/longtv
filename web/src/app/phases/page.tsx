@@ -58,7 +58,7 @@ export default function PhasesIndex() {
         </p>
       </header>
 
-      <Phase001Banner />
+      <Phase001Banner compact />
       <StickyPageNav sections={PHASE_SECTIONS} />
 
       <section id="hien-tai" className="scroll-mt-32 mb-12">

@@ -71,12 +71,14 @@ export function KpiCard({
 export function Phase001Banner({ compact }: { compact?: boolean }) {
   if (compact) {
     return (
-      <Link
-        href={SITE_PHASE_001.href}
-        className="inline-flex items-center gap-2 text-sm font-medium text-[var(--accent)] hover:underline"
-      >
-        {SITE_PHASE_001.eyebrow} — {SITE_PHASE_001.title} →
-      </Link>
+      <div className="mb-6">
+        <Link
+          href={SITE_PHASE_001.href}
+          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--accent)] hover:underline"
+        >
+          {SITE_PHASE_001.eyebrow} — {SITE_PHASE_001.title} →
+        </Link>
+      </div>
     );
   }
 
